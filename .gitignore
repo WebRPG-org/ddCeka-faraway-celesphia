@@ -1,0 +1,29 @@
+# Ignore binary executables and heavy engine dumps
+*.exe
+*.dll
+*.pak
+*.bin
+*.asar
+*.asar.bak
+*.log
+*.tmp
+*.zip
+*.dat
+*.html
+*.png
+*.txt
+
+# Ignore node_modules
+node_modules/
+
+# Track translation patch files & scripts ONLY
+!.gitignore
+!README.md
+!GameUpdate*
+!gameupdate/
+!gameupdate/*
+!resources/
+!resources/app/
+!resources/app/**
+!resources/App/
+!resources/App/**

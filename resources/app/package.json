@@ -1,0 +1,16 @@
+{
+  "name": "electron-for-mz",
+  "version": "1.2.0",
+  "description": "Electron for RPG Maker MZ",
+  "main": "src/main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/triacontane/ElectronForMz.git"
+  },
+  "author": "Triacontane",
+  "copyright": "Copyright © 2023 ${author} All rights reserved.",
+  "bugs": {
+    "url": "https://github.com/triacontane/ElectronForMz/issues"
+  },
+  "homepage": "https://github.com/triacontane/ElectronForMz/blob/main/README.md"
+}

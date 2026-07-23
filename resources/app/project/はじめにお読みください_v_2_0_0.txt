@@ -1,0 +1,291 @@
+===============================================
+【遥かなるセレスフィア】
+ver2.0.0
+
+Copyright (C) ヨルナギ 2026
+===============================================
+
+この度は「遥かなるセレスフィア」を
+ご購入いただき、誠にありがとうございます。
+
+以下お手数ですが、お読み頂ければ幸いです。
+
+■このゲームについて
+本作は、中世ファンタジーの世界を舞台にした冒険RPGです。
+
+不治の病に倒れた母を救うため、伝説の霊草「セレスフィア」を求めて旅に出た少女ルーナ。
+彼女と共に旅する騎士リリアン、
+そして、道中で出会う放浪の回復術士カイル。
+
+三人で力を合わせ、数々の困難を乗り越えていきます。
+その旅路を、プレイヤー自身の手で歩んでください。
+
+物語はプレイヤーの選択によって分岐し、複数のエンディングが存在します。
+誰を選び、何を大切にするか――その答えは、あなただけのものです。
+
+■起動方法
+「Game.exe」を実行してください。
+
+■必須スペック
+※本ゲームはRPGツクールMZで制作されております。
+RPGツクールMZの実行スペックに準拠します。
+
+OS：Windows 10 (64bit)以降 または macOS 10.13以降
+CPU：Intel Core i3-4340相当以上(2013年　第四世代)
+メモリー：8GB以上
+HDD：空き容量8GB以上
+グラフィックカード：OpenGLに対応したもの VRAM 1 GB以上
+ディスプレイ：解像度1280×768以上
+
+■あらすじ
+「救いたいのは、世界じゃない。たった一人の、大切な人。」
+
+闇の瘴禍（しょうか）――それは、罹った者が確実に命を落とすと
+恐れられる、謎に包まれた奇病。
+
+エルフの国エルヘイムに暮らす少女、ルーナ＝アルセリアの母も
+また、その病に倒れた。残された時間は、半年。
+
+唯一の希望は、万病を癒すと伝わる霊草「セレスフィア」。
+しかしその花が咲くのは、遥か海を越えた先、険しい山岳地帯にそびえる霊峰グリムリッジのみ。
+
+「必ず、お母様を救ってみせる」
+
+ルーナは騎士の少女リリアン＝ベルミュールと
+ともに、命懸けの旅へと踏み出す。
+
+旅の道中、二人は一人の青年と出会う。
+
+放浪の回復術士、カイル＝ローヴァン。軽口を叩き、飄々としているが、
+困っている人間をどうしても見捨てられない男。
+やがて、ただの「雇い雇われ」だった関係は、確かな絆へと変わっていく。
+
+これは、世界を救う物語ではない。
+ただ一人の母を救いたいという、小さな冒険譚。
+
+「さぁ、旅に出よう。」
+
+■登場人物
+○カイル＝ローヴァン
+本作の主人公。
+特定のギルドやパーティに属さない、フリーの回復術士。
+神の加護と呼ばれる希少な力を生まれながらに宿しており、傷を癒し、毒を払うことができる。
+自由気ままな旅を愛する根無し草。
+
+○ルーナ＝アルセリア
+エルヘイムの国に暮らすエルフの少女。
+氷と雷、二つの属性を持つ稀有な魔術師。母親と共に魔道具展を営んでいる。
+真面目で一途な性格で、病に倒れた母を救うため、慣れない旅へと踏み出した。
+
+○リリアン＝ベルミュール
+ルーナの従妹にして、自他共に認める守護者で、騎士。
+大剣を背負った長身の姿は頼もしいの一言だが、美味しいものの前では少し素直になる。
+ルーナの旅立ちを知るや否や、有無を言わさず同行した。
+
+■操作説明
+
+** ゲームパッド **
+移動：十字キー
+決定：A
+キャンセル：B
+メニュー：Y
+ダッシュ：X
+
+** キーボード **
+移動：方向キー、テンキー
+決定：Z、Enter、スペースキー
+キャンセル：X、Esc、テンキー0
+メニュー：X、Esc、テンキー0
+ダッシュ：Shift
+
+** マウス **
+移動：目的地をクリック※
+決定：対象をクリック
+キャンセル：右クリック
+メニュー：メニューボタン
+
+※マップ移動中に画面内をクリックし続けるかもしくはロングタップすると、クリック（ロングタップ）している方向に移動し続けます。
+※また、CTRLキーだけではなく右クリックでメッセージウィンドウを消す事も出来ます。
+
+**その他**
+
+- 回想モードは、トゥルーエンディング後に開放されます。
+- メニュー内上部に次の目的が表示されます。
+- CTRLキー、または右クリック押下すると会話ウィンドウを非表示にすることができます。
+- セーブデータはC:\Users\{ユーザー}\AppData\Roaming\electron-for-mz\IndexedDBにございます。
+- ver2.0で追加されたコンテンツは回想モードよりプレイすることが出来ます。同梱されております『ver2.0追加コンテンツ場所.png』をご確認ください
+
+■謝辞
+この作品の制作には、下記のソフトウェア及び素材を使用させていただきました。
+
+○ソフトウェア
+RPGツクールMZ
+https://rpgmakerofficial.com/product/mz/
+
+CLIP STUDIO
+https://www.clipstudio.net/ja/
+
+RUBY
+https://www.ruby-lang.org/ja/
+
+○BGM・効果音素材
+PeriTune
+https://peritune.com/
+
+OtoLogic
+https://otologic.jp/free/license.html
+
+ノタの森
+http://notanomori.net/
+
+ON-JIN
+https://on-jin.com/sound/index.php
+
+Pincree
+https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG65563.html
+
+
+○スクリプト・プラグイン
+まっつＵＰ
+https://x.com/mattuup
+
+フトコロ
+https://newrpg.seesaa.net/article/477489099.html
+
+tomoaky
+https://twitter.com/tomoaky
+
+蔦森くいな
+https://kuina.games/profile/
+
+HimeWorks
+http://himeworks.com
+
+神無月サスケ
+http://www.moonwhistle.org/
+
+drowsepost (改変 munokura)
+https://plugin-mz.fungamemake.com/archives/2623
+
+
+Takeshi Sunagawa
+http://newrpg.seesaa.net/
+
+DarkPlasma
+https://elleonard.github.io/DarkPlasma-MZ-Plugins/index.html
+
+mattuup
+https://github.com/mattuup/RPGMakerMZ
+
+あわやまたな
+https://awaya3ji.seesaa.net/article/498870606.html
+
+かめお
+https://x.com/y_tomy
+
+うなぎおおとろ
+https://github.com/unagiootoro/RPGMZ
+
+ヱビ
+http://www.zf.em-net.ne.jp/~ebi-games/
+
+Ruたん
+https://torigoya-plugin.rutan.dev
+ 
+Munokura
+https://github.com/munokura/MNKR-MZ-plugins
+
+panda
+https://www.werepanda.jp/blog/20250730203955.html
+
+なぴぃ
+https://napiiey.github.io/plugins/
+
+○画像素材
+空想曲線
+https://kopacurve.blog.fc2.com/
+
+tokkuri
+http://tokkuritomattari.blog.fc2.com/blog-entry-139.html
+
+
+エタナラ
+https://etanara.fungamemake.com/archives/4355
+
+
+建設中の茶柱
+https://web.archive.org/web/20230914134917/http://green.zero.jp/greentea/cips.html
+
+スウィートラズベリー
+https://ci-en.dlsite.com/creator/312/article/695709
+
+mlogans
+https://forums.rpgmakerweb.com/index.php?threads/mlogans-mz-edits-and-things.126679/#post-1114409
+
+CrazyCrab
+https://forums.rpgmakerweb.com/index.php?threads/crazy-crabs-mv-apocalypse.52628/
+
+Fantasy of Zero
+https://ci-en.dlsite.com/creator/6706/article/365720
+
+どらお
+https://x.com/yura2dot
+
+どらぴか
+https://www.pikasgames.com/material
+
+(C) REFMAP
+https://refmap-l.blog.jp/
+
+akira
+https://graphic.fungamemake.com/archives/5803
+
+※その他、RPGツクールMZの基本素材を使用させていただいております。
+
+■制作者
+ヨルナギ@同人サークル
+https://x.com/yorunag1
+
+Ci-en
+https://ci-en.dlsite.com/creator/27092
+
+※製品に関する質問やお問い合わせなど、こちらにご連絡頂くとスムーズです
+
+■注意事項など
+この物語はフィクションです。
+登場する人物・団体・名前・地名等は架空であり
+実在のものとは一切関係ありません。
+
+・本作が原因で何らかの損害や障害等が発生したとしても、
+　制作者は一切責任を負わないものとします。
+
+・本作の無断転載・無断商用利用は禁止です。
+
+・プレイ動画のアップロードや2次創作物の公開等は
+　良識の範囲内でご自由に行っていただいて構いません。
+
+Do not upload without my permission.
+
+■免責事項
+当ゲームを使用することによって発生した
+いかなる損害について、責任を負いません。
+
+ご使用されているパソコンの性能やＯＳの環境によっては
+ゲームが正常に動作しない場合があります。
+
+外部から入手したセーブデータや改造データを
+当ゲームにご使用しないようにお願いたします。
+（この場合サポートはいたしません）
+
+上記のほう、誠に恐れ入りますが
+ご了承頂けますよう、お願いいたします。
+
+■更新履歴
+2026/05/11 v1.0.0 FIX
+2026/05/13 v1.0.1 H回数が数値に反映されない不具合修正 , 誤字脱字修正
+2026/05/15 v1.0.2 特定手順でギルドの報酬が二度受け取れてしまう不具合を修正
+2026/05/16 v1.0.3 フルスクリーンが出来なくなっていたのを修正、特定手順で再度酒場に入れる不具合を修正
+2026/05/16 v1.0.4 特定のバトルスキルがメニュー画面から実行出来るようになっていたのを修正
+2026/05/17 v1.0.5 特定の装備が装備出来ない、二周目プレイ用のヒントをさらに追記
+2026/05/18 v1.0.6 かばうコマンドでアイテムまでかばってしまったのを修正。エンディング閲覧条件の緩和、特定の条件で進行が難しくなる箇所のイベント修正
+2026/07/12 v2.0.0 2つの新たなエピソードを追加。自動戦闘を追加。

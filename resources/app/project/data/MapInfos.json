@@ -1,0 +1,3128 @@
+[
+    null,
+    {
+        "id": 1,
+        "expanded": false,
+        "name": "1. World Map",
+        "order": 7,
+        "parentId": 0,
+        "scrollX": 2528,
+        "scrollY": 2720,
+        "_original": {
+            "name": "1.ワールドマップ"
+        }
+    },
+    {
+        "id": 2,
+        "expanded": false,
+        "name": "2. Minimap",
+        "order": 8,
+        "parentId": 1,
+        "scrollX": 1305.818181818182,
+        "scrollY": 769.0909090909091,
+        "quick": false,
+        "_original": {
+            "name": "2.ミニマップ"
+        }
+    },
+    {
+        "id": 3,
+        "expanded": false,
+        "name": "3. Opening",
+        "order": 9,
+        "parentId": 0,
+        "scrollX": 793.3333333333334,
+        "scrollY": 510.6666666666667,
+        "quick": false,
+        "_original": {
+            "name": "3.オープニング"
+        }
+    },
+    {
+        "id": 4,
+        "expanded": false,
+        "name": "4. Inn Room",
+        "order": 10,
+        "parentId": 3,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 670.2857142857142,
+        "quick": false,
+        "_original": {
+            "name": "4.宿屋の部屋"
+        }
+    },
+    {
+        "id": 5,
+        "expanded": false,
+        "name": "5. Departure Village",
+        "order": 11,
+        "parentId": 3,
+        "scrollX": 814.6666666666666,
+        "scrollY": 640,
+        "quick": false,
+        "_original": {
+            "name": "5.出発の村"
+        }
+    },
+    {
+        "id": 6,
+        "expanded": false,
+        "name": "6. Inside the Carriage",
+        "order": 12,
+        "parentId": 3,
+        "scrollX": 563.4,
+        "scrollY": 454.2,
+        "quick": false,
+        "_original": {
+            "name": "6.馬車の中"
+        }
+    },
+    {
+        "id": 7,
+        "expanded": false,
+        "name": "7. Royal Capital",
+        "order": 13,
+        "parentId": 0,
+        "scrollX": 931.5,
+        "scrollY": 757.5,
+        "quick": false,
+        "_original": {
+            "name": "7.王都"
+        }
+    },
+    {
+        "id": 8,
+        "expanded": true,
+        "name": "8. Inn",
+        "order": 15,
+        "parentId": 7,
+        "scrollX": 1305.818181818182,
+        "scrollY": 786.5454545454546,
+        "quick": false,
+        "_original": {
+            "name": "8.宿屋"
+        }
+    },
+    {
+        "id": 9,
+        "expanded": false,
+        "name": "9. Carriage Drop-off",
+        "order": 14,
+        "parentId": 7,
+        "scrollX": 804,
+        "scrollY": 557.3333333333334,
+        "quick": false,
+        "_original": {
+            "name": "9.馬車降"
+        }
+    },
+    {
+        "id": 10,
+        "expanded": false,
+        "name": "10. Inn 2F",
+        "order": 16,
+        "parentId": 8,
+        "scrollX": 804,
+        "scrollY": 540.6666666666666,
+        "quick": false,
+        "_original": {
+            "name": "10.宿屋2F"
+        }
+    },
+    {
+        "id": 11,
+        "expanded": false,
+        "name": "11. Guild",
+        "order": 17,
+        "parentId": 7,
+        "scrollX": 649.0909090909091,
+        "scrollY": 426.54545454545456,
+        "quick": false,
+        "_original": {
+            "name": "11.ギルド"
+        }
+    },
+    {
+        "id": 12,
+        "expanded": false,
+        "name": "12. Seratus Region",
+        "order": 18,
+        "parentId": 0,
+        "scrollX": 891.75,
+        "scrollY": 586.5,
+        "quick": false,
+        "_original": {
+            "name": "12.セラトゥス地方"
+        }
+    },
+    {
+        "id": 13,
+        "expanded": false,
+        "name": "13. Grasslands",
+        "order": 19,
+        "parentId": 12,
+        "scrollX": 891.75,
+        "scrollY": 1147.5,
+        "quick": false,
+        "_original": {
+            "name": "13.草原"
+        }
+    },
+    {
+        "id": 14,
+        "expanded": false,
+        "name": "14. Grasslands Dialogue",
+        "order": 20,
+        "parentId": 12,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 656.5714285714286,
+        "quick": false,
+        "_original": {
+            "name": "14.草原会話"
+        }
+    },
+    {
+        "id": 15,
+        "expanded": false,
+        "name": "15. Forest Entrance",
+        "order": 21,
+        "parentId": 12,
+        "scrollX": 1298.1818181818182,
+        "scrollY": 724.3636363636364,
+        "quick": false,
+        "_original": {
+            "name": "15.森の入口"
+        }
+    },
+    {
+        "id": 16,
+        "expanded": false,
+        "name": "16. Lewin Forest",
+        "order": 22,
+        "parentId": 0,
+        "scrollX": 1298.1818181818182,
+        "scrollY": 724.3636363636364,
+        "quick": false,
+        "_original": {
+            "name": "16.ルウィンの森"
+        }
+    },
+    {
+        "id": 17,
+        "expanded": true,
+        "name": "17. Lewin Forest 1",
+        "order": 23,
+        "parentId": 16,
+        "scrollX": 1351.8,
+        "scrollY": 1743.6,
+        "quick": false,
+        "_original": {
+            "name": "17.ルウィンの森1"
+        }
+    },
+    {
+        "id": 18,
+        "expanded": true,
+        "name": "18. Lewin Forest 2",
+        "order": 24,
+        "parentId": 16,
+        "scrollX": 1366.2857142857142,
+        "scrollY": 1157.142857142857,
+        "quick": false,
+        "_original": {
+            "name": "18.ルウィンの森2"
+        }
+    },
+    {
+        "id": 19,
+        "expanded": true,
+        "name": "19. Lewin Forest Rest Area",
+        "order": 25,
+        "parentId": 16,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 670.2857142857142,
+        "quick": false,
+        "_original": {
+            "name": "19.ルウィンの森の休憩"
+        }
+    },
+    {
+        "id": 20,
+        "expanded": true,
+        "name": "20. Lewin Forest 3",
+        "order": 26,
+        "parentId": 16,
+        "scrollX": 1686.6,
+        "scrollY": 1941.6,
+        "quick": false,
+        "_original": {
+            "name": "20.ルウィンの森3"
+        }
+    },
+    {
+        "id": 21,
+        "expanded": false,
+        "name": "21. Lewin Forest Exit",
+        "order": 27,
+        "parentId": 16,
+        "scrollX": 713.4,
+        "scrollY": 656.4,
+        "quick": false,
+        "_original": {
+            "name": "21.ルウィンの森出口"
+        }
+    },
+    {
+        "id": 22,
+        "expanded": false,
+        "name": "22. Greenvale Village",
+        "order": 28,
+        "parentId": 0,
+        "scrollX": 713.4,
+        "scrollY": 458.4,
+        "quick": false,
+        "_original": {
+            "name": "22.グリーンベイルの村"
+        }
+    },
+    {
+        "id": 23,
+        "expanded": false,
+        "name": "23. Village Overview",
+        "order": 29,
+        "parentId": 22,
+        "scrollX": 713.4,
+        "scrollY": 538.8,
+        "quick": false,
+        "_original": {
+            "name": "23.村全体"
+        }
+    },
+    {
+        "id": 24,
+        "expanded": false,
+        "name": "24. Tavern Street",
+        "order": 30,
+        "parentId": 22,
+        "scrollX": 1305.818181818182,
+        "scrollY": 894.5454545454546,
+        "quick": false,
+        "_original": {
+            "name": "24.酒場通り"
+        }
+    },
+    {
+        "id": 25,
+        "expanded": false,
+        "name": "25. Tavern",
+        "order": 31,
+        "parentId": 22,
+        "scrollX": 892.5,
+        "scrollY": 613.5,
+        "quick": false,
+        "_original": {
+            "name": "25.酒場"
+        }
+    },
+    {
+        "id": 26,
+        "expanded": true,
+        "name": "26. Inn 1F",
+        "order": 32,
+        "parentId": 22,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 670.2857142857142,
+        "quick": false,
+        "_original": {
+            "name": "26.宿屋1F"
+        }
+    },
+    {
+        "id": 27,
+        "expanded": true,
+        "name": "27. Inn 2F",
+        "order": 33,
+        "parentId": 22,
+        "scrollX": 1033.7142857142856,
+        "scrollY": 656.5714285714286,
+        "quick": false,
+        "_original": {
+            "name": "27.宿屋2F"
+        }
+    },
+    {
+        "id": 28,
+        "expanded": false,
+        "name": "28. Caldoon Coal Mine",
+        "order": 38,
+        "parentId": 0,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 670.2857142857142,
+        "quick": false,
+        "_original": {
+            "name": "28.カルドーン炭鉱"
+        }
+    },
+    {
+        "id": 29,
+        "expanded": false,
+        "name": "29. Abandoned Mine 1F",
+        "order": 40,
+        "parentId": 28,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 670.2857142857142,
+        "note": "",
+        "params": [],
+        "damage": {
+            "critical": "",
+            "elementId": "",
+            "formula": "",
+            "type": "",
+            "variance": ""
+        },
+        "_original": {
+            "name": "29.廃坑　1F"
+        }
+    },
+    {
+        "id": 30,
+        "expanded": false,
+        "name": "30. Abandoned Mine B1",
+        "order": 41,
+        "parentId": 28,
+        "scrollX": 1297.7142857142856,
+        "scrollY": 1686.8571428571427,
+        "note": "",
+        "params": [],
+        "damage": {
+            "critical": "",
+            "elementId": "",
+            "formula": "",
+            "type": "",
+            "variance": ""
+        },
+        "_original": {
+            "name": "30.廃坑　B1"
+        }
+    },
+    {
+        "id": 31,
+        "expanded": true,
+        "name": "31. Abandoned Mine B2",
+        "order": 42,
+        "parentId": 28,
+        "scrollX": 1297.7142857142856,
+        "scrollY": 656.5714285714286,
+        "note": "",
+        "params": [],
+        "damage": {
+            "critical": "",
+            "elementId": "",
+            "formula": "",
+            "type": "",
+            "variance": ""
+        },
+        "_original": {
+            "name": "31.廃坑　B2"
+        }
+    },
+    {
+        "id": 32,
+        "expanded": true,
+        "name": "32. Abandoned Mine B2 (Thieves' Hideout)",
+        "order": 43,
+        "parentId": 28,
+        "scrollX": 1136.5714285714284,
+        "scrollY": 670.2857142857142,
+        "note": "",
+        "params": [],
+        "damage": {
+            "critical": "",
+            "elementId": "",
+            "formula": "",
+            "type": "",
+            "variance": ""
+        },
+        "_original": {
+            "name": "32.廃坑　B2(盗賊のアジト)"
+        }
+    },
+    {
+        "id": 33,
+        "expanded": true,
+        "name": "33. Abandoned Mine B4",
+        "order": 46,
+        "parentId": 28,
+        "scrollX": 1033.7142857142856,
+        "scrollY": 905.1428571428571,
+        "note": "",
+        "params": [],
+        "damage": {
+            "critical": "",
+            "elementId": "",
+            "formula": "",
+            "type": "",
+            "variance": ""
+        },
+        "_original": {
+            "name": "33.廃坑　B4"
+        }
+    },
+    {
+        "id": 34,
+        "expanded": true,
+        "name": "34. Abandoned Mine B3 (Velgan Side)",
+        "order": 47,
+        "parentId": 28,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 670.2857142857142,
+        "quick": false,
+        "_original": {
+            "name": "34.廃坑　B3(ヴェルガン側)"
+        }
+    },
+    {
+        "id": 35,
+        "expanded": false,
+        "name": "35. Abandoned Mine 1F (Velgan Side)",
+        "order": 49,
+        "parentId": 28,
+        "scrollX": 828,
+        "scrollY": 717.3333333333334,
+        "note": "",
+        "params": [],
+        "damage": {
+            "critical": "",
+            "elementId": "",
+            "formula": "",
+            "type": "",
+            "variance": ""
+        },
+        "_original": {
+            "name": "35.廃坑　1F(ヴェルガン側)"
+        }
+    },
+    {
+        "id": 36,
+        "expanded": false,
+        "name": "36. Elven Spring",
+        "order": 51,
+        "parentId": 0,
+        "scrollX": 816,
+        "scrollY": 624,
+        "quick": false,
+        "_original": {
+            "name": "36.エルフの泉"
+        }
+    },
+    {
+        "id": 37,
+        "expanded": false,
+        "name": "37. Spring Entrance",
+        "order": 52,
+        "parentId": 36,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 670.2857142857142,
+        "quick": false,
+        "_original": {
+            "name": "37.泉の入り口"
+        }
+    },
+    {
+        "id": 38,
+        "expanded": true,
+        "name": "38. Spring",
+        "order": 53,
+        "parentId": 36,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 670.2857142857142,
+        "_original": {
+            "name": "38.泉"
+        }
+    },
+    {
+        "id": 39,
+        "expanded": false,
+        "name": "39. Inside Tent",
+        "order": 54,
+        "parentId": 36,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 670.2857142857142,
+        "_original": {
+            "name": "39.テント内"
+        }
+    },
+    {
+        "id": 40,
+        "expanded": false,
+        "name": "40. Arseleon Town",
+        "order": 63,
+        "parentId": 0,
+        "scrollX": 713.4,
+        "scrollY": 458.4,
+        "quick": false,
+        "_original": {
+            "name": "40.アーセレオンの街"
+        }
+    },
+    {
+        "id": 41,
+        "expanded": true,
+        "name": "41. Town",
+        "order": 64,
+        "parentId": 40,
+        "scrollX": 1181.142857142857,
+        "scrollY": 1729.7142857142856,
+        "_original": {
+            "name": "41.街"
+        }
+    },
+    {
+        "id": 42,
+        "expanded": true,
+        "name": "42. Plaza",
+        "order": 65,
+        "parentId": 40,
+        "scrollX": 1033.7142857142856,
+        "scrollY": 769.7142857142857,
+        "_original": {
+            "name": "42.広場"
+        }
+    },
+    {
+        "id": 43,
+        "expanded": false,
+        "name": "43. Weapon & Armor Shop",
+        "order": 66,
+        "parentId": 40,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 656.5714285714286,
+        "quick": false,
+        "_original": {
+            "name": "43.武器防具屋"
+        }
+    },
+    {
+        "id": 44,
+        "expanded": false,
+        "name": "44. Item Shop",
+        "order": 67,
+        "parentId": 40,
+        "scrollX": 1305.818181818182,
+        "scrollY": 769.0909090909091,
+        "quick": false,
+        "_original": {
+            "name": "44.道具屋"
+        }
+    },
+    {
+        "id": 45,
+        "expanded": true,
+        "name": "45. Cafe",
+        "order": 68,
+        "parentId": 40,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 670.2857142857142,
+        "quick": false,
+        "_original": {
+            "name": "45.カフェ"
+        }
+    },
+    {
+        "id": 46,
+        "expanded": false,
+        "name": "46. Guild",
+        "order": 70,
+        "parentId": 40,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 656.5714285714286,
+        "params": [],
+        "damage": {
+            "critical": "",
+            "elementId": "",
+            "formula": "",
+            "type": "",
+            "variance": ""
+        },
+        "note": "",
+        "_original": {
+            "name": "46.ギルド"
+        }
+    },
+    {
+        "id": 47,
+        "expanded": false,
+        "name": "47. Magic Item Shop",
+        "order": 71,
+        "parentId": 40,
+        "scrollX": 714,
+        "scrollY": 492,
+        "quick": false,
+        "_original": {
+            "name": "47.魔法道具屋"
+        }
+    },
+    {
+        "id": 48,
+        "expanded": true,
+        "name": "48. Inn 1F",
+        "order": 72,
+        "parentId": 40,
+        "scrollX": 812,
+        "scrollY": 940,
+        "_original": {
+            "name": "48.宿屋１Ｆ"
+        }
+    },
+    {
+        "id": 49,
+        "expanded": false,
+        "name": "49. Inn 2F",
+        "order": 73,
+        "parentId": 40,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 670.2857142857142,
+        "_original": {
+            "name": "49.宿屋２Ｆ"
+        }
+    },
+    {
+        "id": 50,
+        "expanded": false,
+        "name": "50. Kawill Ruins",
+        "order": 78,
+        "parentId": 0,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 670.2857142857142,
+        "quick": false,
+        "_original": {
+            "name": "50.カウィル遺跡"
+        }
+    },
+    {
+        "id": 51,
+        "expanded": true,
+        "name": "51. Ruins Exterior",
+        "order": 79,
+        "parentId": 50,
+        "scrollX": 816,
+        "scrollY": 640,
+        "params": [],
+        "damage": {
+            "critical": "",
+            "elementId": "",
+            "formula": "",
+            "type": "",
+            "variance": ""
+        },
+        "note": "",
+        "_original": {
+            "name": "51.遺跡　外観"
+        }
+    },
+    {
+        "id": 52,
+        "expanded": true,
+        "name": "52. Ruins 1F",
+        "order": 80,
+        "parentId": 50,
+        "scrollX": 723,
+        "scrollY": 530.4,
+        "params": [],
+        "damage": {
+            "critical": "",
+            "elementId": "",
+            "formula": "",
+            "type": "",
+            "variance": ""
+        },
+        "note": "",
+        "_original": {
+            "name": "52.遺跡　1F"
+        }
+    },
+    {
+        "id": 53,
+        "expanded": false,
+        "name": "53. Ruins B1F",
+        "order": 81,
+        "parentId": 50,
+        "scrollX": 713.4,
+        "scrollY": 468,
+        "params": [],
+        "damage": {
+            "critical": "",
+            "elementId": "",
+            "formula": "",
+            "type": "",
+            "variance": ""
+        },
+        "note": "",
+        "_original": {
+            "name": "53.遺跡　B1F"
+        }
+    },
+    {
+        "id": 54,
+        "expanded": false,
+        "name": "54. Ruins B2F",
+        "order": 82,
+        "parentId": 50,
+        "scrollX": 1033.7142857142856,
+        "scrollY": 670.2857142857142,
+        "params": [],
+        "damage": {
+            "critical": "",
+            "elementId": "",
+            "formula": "",
+            "type": "",
+            "variance": ""
+        },
+        "note": "",
+        "_original": {
+            "name": "54.遺跡　B2F"
+        }
+    },
+    {
+        "id": 55,
+        "expanded": false,
+        "name": "55. Ruins Deepest Part",
+        "order": 91,
+        "parentId": 50,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 781.7142857142857,
+        "params": [],
+        "damage": {
+            "critical": "",
+            "elementId": "",
+            "formula": "",
+            "type": "",
+            "variance": ""
+        },
+        "note": "",
+        "_original": {
+            "name": "55.遺跡　最深部"
+        }
+    },
+    {
+        "id": 56,
+        "expanded": false,
+        "name": "56. Small Room 1",
+        "order": 83,
+        "parentId": 54,
+        "scrollX": 812,
+        "scrollY": 940,
+        "quick": false,
+        "_original": {
+            "name": "56. 小部屋1"
+        }
+    },
+    {
+        "id": 57,
+        "expanded": false,
+        "name": "57. Small Room 2",
+        "order": 84,
+        "parentId": 54,
+        "scrollX": 812,
+        "scrollY": 940,
+        "quick": false,
+        "_original": {
+            "name": "57. 小部屋2"
+        }
+    },
+    {
+        "id": 58,
+        "expanded": false,
+        "name": "58. Small Room 3",
+        "order": 85,
+        "parentId": 54,
+        "scrollX": 812,
+        "scrollY": 940,
+        "quick": false,
+        "_original": {
+            "name": "58. 小部屋3"
+        }
+    },
+    {
+        "id": 59,
+        "expanded": false,
+        "name": "59. Ruins Deepest Part Back",
+        "order": 92,
+        "parentId": 55,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 670.2857142857142,
+        "quick": false,
+        "_original": {
+            "name": "59.遺跡　最深部奥"
+        }
+    },
+    {
+        "id": 60,
+        "expanded": false,
+        "name": "60. Great Bridge",
+        "order": 93,
+        "parentId": 0,
+        "scrollX": 1596,
+        "scrollY": 940,
+        "quick": false,
+        "_original": {
+            "name": "60. 大橋"
+        }
+    },
+    {
+        "id": 61,
+        "expanded": false,
+        "name": "61. Bridge",
+        "order": 94,
+        "parentId": 60,
+        "scrollX": 1366.2857142857142,
+        "scrollY": 656.5714285714286,
+        "quick": false,
+        "_original": {
+            "name": "61.橋の上"
+        }
+    },
+    {
+        "id": 62,
+        "expanded": false,
+        "name": "62. Gate (Arseleon Side)",
+        "order": 95,
+        "parentId": 60,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 656.5714285714286,
+        "quick": false,
+        "_original": {
+            "name": "62.門（アーセレオン側)"
+        }
+    },
+    {
+        "id": 63,
+        "expanded": false,
+        "name": "63. Gate (Eldenia Side)",
+        "order": 96,
+        "parentId": 60,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 695.1428571428571,
+        "quick": false,
+        "_original": {
+            "name": "63.門（エルデニア側)"
+        }
+    },
+    {
+        "id": 64,
+        "expanded": false,
+        "name": "64. Eldenia Town",
+        "order": 98,
+        "parentId": 0,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 708.8571428571428,
+        "quick": false,
+        "_original": {
+            "name": "64.エルデニアの街"
+        }
+    },
+    {
+        "id": 65,
+        "expanded": true,
+        "name": "65. Left Side of Town",
+        "order": 99,
+        "parentId": 64,
+        "scrollX": 1011.2727272727274,
+        "scrollY": 661.0909090909091,
+        "_original": {
+            "name": "65.街左"
+        }
+    },
+    {
+        "id": 66,
+        "expanded": false,
+        "name": "66. Inn 1F",
+        "order": 101,
+        "parentId": 64,
+        "scrollX": 804,
+        "scrollY": 520,
+        "_original": {
+            "name": "66.宿屋1F"
+        }
+    },
+    {
+        "id": 67,
+        "expanded": false,
+        "name": "67. Weapon Shop",
+        "order": 103,
+        "parentId": 64,
+        "scrollX": 804,
+        "scrollY": 546.6666666666666,
+        "_original": {
+            "name": "67.武器屋"
+        }
+    },
+    {
+        "id": 68,
+        "expanded": false,
+        "name": "68. Armor Shop",
+        "order": 104,
+        "parentId": 64,
+        "scrollX": 1033.7142857142856,
+        "scrollY": 716.5714285714286,
+        "_original": {
+            "name": "68.防具屋"
+        }
+    },
+    {
+        "id": 69,
+        "expanded": false,
+        "name": "69. Item Shop",
+        "order": 105,
+        "parentId": 64,
+        "scrollX": 793.3333333333334,
+        "scrollY": 520,
+        "_original": {
+            "name": "69.道具屋"
+        }
+    },
+    {
+        "id": 70,
+        "expanded": false,
+        "name": "70. Tavern",
+        "order": 106,
+        "parentId": 64,
+        "scrollX": 816,
+        "scrollY": 624,
+        "_original": {
+            "name": "70.酒場"
+        }
+    },
+    {
+        "id": 71,
+        "expanded": false,
+        "name": "71. Private House",
+        "order": 109,
+        "parentId": 64,
+        "scrollX": 793.3333333333334,
+        "scrollY": 530.6666666666666,
+        "_original": {
+            "name": "71.民家"
+        }
+    },
+    {
+        "id": 72,
+        "expanded": false,
+        "name": "72. Mayor's House",
+        "order": 112,
+        "parentId": 64,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 656.5714285714286,
+        "_original": {
+            "name": "72.町長の家"
+        }
+    },
+    {
+        "id": 73,
+        "expanded": false,
+        "name": "73. Inn 2F",
+        "order": 102,
+        "parentId": 66,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 670.2857142857142,
+        "_original": {
+            "name": "73.宿屋2F"
+        }
+    },
+    {
+        "id": 74,
+        "expanded": true,
+        "name": "74. Tavern 2F",
+        "order": 107,
+        "parentId": 70,
+        "scrollX": 793.3333333333334,
+        "scrollY": 559.3333333333334,
+        "_original": {
+            "name": "74.酒場2F"
+        }
+    },
+    {
+        "id": 75,
+        "expanded": true,
+        "name": "75. Celeslast",
+        "order": 144,
+        "parentId": 166,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 670.2857142857142,
+        "_original": {
+            "name": "75.セレスラスト"
+        }
+    },
+    {
+        "id": 76,
+        "expanded": false,
+        "name": "76. Guild",
+        "order": 113,
+        "parentId": 64,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 656.5714285714286,
+        "_original": {
+            "name": "76.ギルド"
+        }
+    },
+    {
+        "id": 77,
+        "expanded": true,
+        "name": "77. Guild 2F",
+        "order": 114,
+        "parentId": 76,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 708.8571428571428,
+        "_original": {
+            "name": "77.ギルド2F"
+        }
+    },
+    {
+        "id": 78,
+        "expanded": false,
+        "name": "78. Mt. Grimridge",
+        "order": 116,
+        "parentId": 0,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 670.2857142857142,
+        "quick": false,
+        "_original": {
+            "name": "78.霊峰グリムリッジ"
+        }
+    },
+    {
+        "id": 79,
+        "expanded": true,
+        "name": "79. Volcano 2",
+        "order": 123,
+        "parentId": 78,
+        "scrollX": 1859.9999999999998,
+        "scrollY": 2002.2857142857142,
+        "_original": {
+            "name": "79.火山2"
+        }
+    },
+    {
+        "id": 80,
+        "expanded": false,
+        "name": "80. Cave 3",
+        "order": 124,
+        "parentId": 78,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 656.5714285714286,
+        "_original": {
+            "name": "80.洞窟3"
+        }
+    },
+    {
+        "id": 81,
+        "expanded": false,
+        "name": "Village Chief's House",
+        "order": 35,
+        "parentId": 22,
+        "scrollX": 1305.818181818182,
+        "scrollY": 786.5454545454546,
+        "quick": false,
+        "_original": {
+            "name": "村長の家"
+        }
+    },
+    {
+        "id": 82,
+        "expanded": false,
+        "name": "82. Cave 4",
+        "order": 125,
+        "parentId": 78,
+        "scrollX": 1712.5714285714284,
+        "scrollY": 708,
+        "_original": {
+            "name": "82.洞窟4"
+        }
+    },
+    {
+        "id": 83,
+        "expanded": false,
+        "name": "83. Flashback Tavern",
+        "order": 133,
+        "parentId": 84,
+        "scrollX": 804,
+        "scrollY": 546.6666666666666,
+        "_original": {
+            "name": "83.回想酒場"
+        }
+    },
+    {
+        "id": 84,
+        "expanded": false,
+        "name": "84. Final Battle 1",
+        "order": 129,
+        "parentId": 78,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 695.1428571428571,
+        "quick": false,
+        "_original": {
+            "name": "84.最終バトル1"
+        }
+    },
+    {
+        "id": 85,
+        "expanded": true,
+        "name": "85. Final Battle 2",
+        "order": 130,
+        "parentId": 84,
+        "scrollX": 793.3333333333334,
+        "scrollY": 551.3333333333334,
+        "quick": false,
+        "_original": {
+            "name": "85.最終バトル2"
+        }
+    },
+    {
+        "id": 86,
+        "expanded": false,
+        "name": "86. Mid-slope",
+        "order": 121,
+        "parentId": 78,
+        "scrollX": 1232,
+        "scrollY": 640,
+        "note": "",
+        "params": [],
+        "damage": {
+            "critical": "",
+            "elementId": "",
+            "formula": "",
+            "type": "",
+            "variance": ""
+        },
+        "_original": {
+            "name": "86.中腹"
+        }
+    },
+    {
+        "id": 87,
+        "expanded": false,
+        "name": "87. Elfheim",
+        "order": 136,
+        "parentId": 0,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 670.2857142857142,
+        "quick": false,
+        "_original": {
+            "name": "87.エルヘイム"
+        }
+    },
+    {
+        "id": 88,
+        "expanded": true,
+        "name": "88. Exterior (Before Renovation)",
+        "order": 227,
+        "parentId": 179,
+        "scrollX": 594.5,
+        "scrollY": 427,
+        "_original": {
+            "name": "88.外観(改築前)"
+        }
+    },
+    {
+        "id": 89,
+        "expanded": false,
+        "name": "Luna's House 1F",
+        "order": 137,
+        "parentId": 87,
+        "scrollX": 793.3333333333334,
+        "scrollY": 540.6666666666666,
+        "_original": {
+            "name": "ルーナの家1F"
+        }
+    },
+    {
+        "id": 90,
+        "expanded": false,
+        "name": "Item Shop",
+        "order": 139,
+        "parentId": 87,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 656.5714285714286,
+        "_original": {
+            "name": "道具屋"
+        }
+    },
+    {
+        "id": 91,
+        "expanded": true,
+        "name": "91. Volcano 1",
+        "order": 122,
+        "parentId": 78,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 708.8571428571428,
+        "quick": false,
+        "_original": {
+            "name": "91.火山1"
+        }
+    },
+    {
+        "id": 92,
+        "expanded": false,
+        "name": "92. Trailhead",
+        "order": 117,
+        "parentId": 78,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 731.1428571428571,
+        "quick": false,
+        "_original": {
+            "name": "92.登山口"
+        }
+    },
+    {
+        "id": 93,
+        "expanded": true,
+        "name": "93. Cave Entrance",
+        "order": 118,
+        "parentId": 78,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 708.8571428571428,
+        "note": "",
+        "params": [],
+        "damage": {
+            "critical": "",
+            "elementId": "",
+            "formula": "",
+            "type": "",
+            "variance": ""
+        },
+        "_original": {
+            "name": "93.洞窟入口"
+        }
+    },
+    {
+        "id": 94,
+        "expanded": true,
+        "name": "94. Cave 1",
+        "order": 119,
+        "parentId": 78,
+        "scrollX": 1033.7142857142856,
+        "scrollY": 875.1428571428571,
+        "note": "",
+        "params": [],
+        "damage": {
+            "critical": "",
+            "elementId": "",
+            "formula": "",
+            "type": "",
+            "variance": ""
+        },
+        "_original": {
+            "name": "94.洞窟1"
+        }
+    },
+    {
+        "id": 95,
+        "expanded": false,
+        "name": "95. Cave 2",
+        "order": 120,
+        "parentId": 78,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 708.8571428571428,
+        "note": "",
+        "params": [],
+        "damage": {
+            "critical": "",
+            "elementId": "",
+            "formula": "",
+            "type": "",
+            "variance": ""
+        },
+        "_original": {
+            "name": "95.洞窟2"
+        }
+    },
+    {
+        "id": 96,
+        "expanded": false,
+        "name": "96. Selesphia",
+        "order": 134,
+        "parentId": 78,
+        "scrollX": 804,
+        "scrollY": 551.3333333333334,
+        "quick": false,
+        "_original": {
+            "name": "96.セレスフィア"
+        }
+    },
+    {
+        "id": 97,
+        "expanded": false,
+        "name": "97. Summit",
+        "order": 126,
+        "parentId": 78,
+        "scrollX": 1033.7142857142856,
+        "scrollY": 696,
+        "params": [],
+        "damage": {
+            "critical": "",
+            "elementId": "",
+            "formula": "",
+            "type": "",
+            "variance": ""
+        },
+        "note": "",
+        "_original": {
+            "name": "97.山頂"
+        }
+    },
+    {
+        "id": 98,
+        "expanded": false,
+        "name": "98. Selesphia (Collapsed)",
+        "order": 135,
+        "parentId": 96,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 670.2857142857142,
+        "quick": false,
+        "_original": {
+            "name": "98.セレスフィア(崩壊)"
+        }
+    },
+    {
+        "id": 99,
+        "expanded": true,
+        "name": "86. Final Battle 3",
+        "order": 131,
+        "parentId": 85,
+        "scrollX": 793.3333333333334,
+        "scrollY": 551.3333333333334,
+        "quick": false,
+        "_original": {
+            "name": "86.最終バトル3"
+        }
+    },
+    {
+        "id": 100,
+        "expanded": true,
+        "name": "86. Final Battle 4",
+        "order": 132,
+        "parentId": 99,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 656.5714285714286,
+        "quick": false,
+        "_original": {
+            "name": "86.最終バトル4"
+        }
+    },
+    {
+        "id": 101,
+        "expanded": false,
+        "name": "Luna's House 2F",
+        "order": 138,
+        "parentId": 87,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 695.1428571428571,
+        "_original": {
+            "name": "ルーナの家2F"
+        }
+    },
+    {
+        "id": 102,
+        "expanded": false,
+        "name": "102. Ruins B3F",
+        "order": 86,
+        "parentId": 50,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 670.2857142857142,
+        "params": [],
+        "damage": {
+            "critical": "",
+            "elementId": "",
+            "formula": "",
+            "type": "",
+            "variance": ""
+        },
+        "note": "",
+        "_original": {
+            "name": "102.遺跡　B3F"
+        }
+    },
+    {
+        "id": 103,
+        "expanded": false,
+        "name": "103. Dark Space",
+        "order": 1,
+        "parentId": 0,
+        "scrollX": 649.0909090909091,
+        "scrollY": 436.3636363636364,
+        "quick": false,
+        "_original": {
+            "name": "103.暗黒空間"
+        }
+    },
+    {
+        "id": 104,
+        "expanded": false,
+        "name": "104. Convenient Storage",
+        "order": 2,
+        "parentId": 0,
+        "scrollX": 713.4,
+        "scrollY": 458.4,
+        "quick": false,
+        "_original": {
+            "name": "104.便利おきば"
+        }
+    },
+    {
+        "id": 105,
+        "expanded": false,
+        "name": "Castle Town D-1 Sample",
+        "order": 3,
+        "parentId": 0,
+        "scrollX": 2296.2,
+        "scrollY": 2562,
+        "_original": {
+            "name": "城下町D-1 サンプル"
+        }
+    },
+    {
+        "id": 106,
+        "expanded": false,
+        "name": "106. Kyle's Past - Bullying",
+        "order": 4,
+        "parentId": 105,
+        "scrollX": 793.3333333333334,
+        "scrollY": 534.6666666666666,
+        "quick": false,
+        "_original": {
+            "name": "106.カイル過去いじめ"
+        }
+    },
+    {
+        "id": 107,
+        "expanded": false,
+        "name": "107. Kyle's Past - Guild",
+        "order": 5,
+        "parentId": 105,
+        "scrollX": 595,
+        "scrollY": 510,
+        "_original": {
+            "name": "107.カイル過去ギルド"
+        }
+    },
+    {
+        "id": 108,
+        "expanded": false,
+        "name": "108. Kyle's Past - Room",
+        "order": 6,
+        "parentId": 105,
+        "scrollX": 595,
+        "scrollY": 410,
+        "quick": false,
+        "_original": {
+            "name": "108.カイル過去部屋"
+        }
+    },
+    {
+        "id": 109,
+        "expanded": false,
+        "name": "Item Shop",
+        "order": 34,
+        "parentId": 22,
+        "scrollX": 1298.1818181818182,
+        "scrollY": 905.4545454545455,
+        "quick": false,
+        "_original": {
+            "name": "道具屋"
+        }
+    },
+    {
+        "id": 110,
+        "expanded": false,
+        "name": "110. Caldoon Coal Mine Entrance",
+        "order": 39,
+        "parentId": 28,
+        "scrollX": 1033.7142857142856,
+        "scrollY": 961.7142857142857,
+        "_original": {
+            "name": "110.カルドーン炭鉱入口"
+        }
+    },
+    {
+        "id": 111,
+        "expanded": true,
+        "name": "Starting Map",
+        "order": 150,
+        "parentId": 0,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 695.1428571428571,
+        "quick": false,
+        "_original": {
+            "name": "開始マップ"
+        }
+    },
+    {
+        "id": 112,
+        "expanded": false,
+        "name": "112. Abandoned Mine B3 (Rest)",
+        "order": 45,
+        "parentId": 28,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 769.7142857142857,
+        "quick": false,
+        "_original": {
+            "name": "112.廃坑 B3(休憩)"
+        }
+    },
+    {
+        "id": 113,
+        "expanded": false,
+        "name": "35. Abandoned Mine B3",
+        "order": 44,
+        "parentId": 28,
+        "scrollX": 838.6666666666666,
+        "scrollY": 728,
+        "note": "",
+        "params": [],
+        "damage": {
+            "critical": "",
+            "elementId": "",
+            "formula": "",
+            "type": "",
+            "variance": ""
+        },
+        "_original": {
+            "name": "35.廃坑　B3"
+        }
+    },
+    {
+        "id": 114,
+        "expanded": false,
+        "name": "34. Abandoned Mine B2 (Velgan Side)",
+        "order": 48,
+        "parentId": 28,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 670.2857142857142,
+        "quick": false,
+        "_original": {
+            "name": "34.廃坑　B2(ヴェルガン側)"
+        }
+    },
+    {
+        "id": 115,
+        "expanded": false,
+        "name": "115. Caldoon Exit",
+        "order": 50,
+        "parentId": 28,
+        "scrollX": 816,
+        "scrollY": 640,
+        "quick": false,
+        "_original": {
+            "name": "115.カルドーン出口"
+        }
+    },
+    {
+        "id": 116,
+        "expanded": false,
+        "name": "116. Spring (With Tent)",
+        "order": 55,
+        "parentId": 36,
+        "scrollX": 812,
+        "scrollY": 940,
+        "_original": {
+            "name": "116.泉(テントあり)"
+        }
+    },
+    {
+        "id": 117,
+        "expanded": false,
+        "name": "117. Rose's Recollection",
+        "order": 57,
+        "parentId": 0,
+        "scrollX": 713.4,
+        "scrollY": 468,
+        "quick": false,
+        "_original": {
+            "name": "117.ロゼの回想"
+        }
+    },
+    {
+        "id": 118,
+        "expanded": false,
+        "name": "118. Zain Battle",
+        "order": 58,
+        "parentId": 117,
+        "scrollX": 1323.2727272727273,
+        "scrollY": 836.7272727272727,
+        "_original": {
+            "name": "118.ザイン戦い"
+        }
+    },
+    {
+        "id": 119,
+        "expanded": false,
+        "name": "119. Mozley Dungeon",
+        "order": 59,
+        "parentId": 117,
+        "scrollX": 1305.818181818182,
+        "scrollY": 786.5454545454546,
+        "quick": false,
+        "_original": {
+            "name": "119.モズリーダンジョン"
+        }
+    },
+    {
+        "id": 120,
+        "expanded": false,
+        "name": "120. Delgado Stall",
+        "order": 60,
+        "parentId": 117,
+        "scrollX": 1305.818181818182,
+        "scrollY": 786.5454545454546,
+        "quick": false,
+        "_original": {
+            "name": "120.デルガド屋台"
+        }
+    },
+    {
+        "id": 121,
+        "expanded": false,
+        "name": "121. Kyle Forest",
+        "order": 61,
+        "parentId": 117,
+        "scrollX": 1305.818181818182,
+        "scrollY": 786.5454545454546,
+        "quick": false,
+        "_original": {
+            "name": "121.カイル森"
+        }
+    },
+    {
+        "id": 122,
+        "expanded": false,
+        "name": "122. Inn Room",
+        "order": 62,
+        "parentId": 117,
+        "scrollX": 723,
+        "scrollY": 492,
+        "quick": false,
+        "_original": {
+            "name": "122.宿屋の部屋"
+        }
+    },
+    {
+        "id": 123,
+        "expanded": false,
+        "name": "Luna's House 2F (Dream)",
+        "order": 56,
+        "parentId": 36,
+        "scrollX": 1305.818181818182,
+        "scrollY": 786.5454545454546,
+        "_original": {
+            "name": "ルーナの家2F(夢)"
+        }
+    },
+    {
+        "id": 124,
+        "expanded": true,
+        "name": "124. Trading Company 1F",
+        "order": 74,
+        "parentId": 40,
+        "scrollX": 904,
+        "scrollY": 640,
+        "_original": {
+            "name": "124.商会1F"
+        }
+    },
+    {
+        "id": 125,
+        "expanded": true,
+        "name": "125. Trading Company 2F",
+        "order": 75,
+        "parentId": 40,
+        "scrollX": 1065,
+        "scrollY": 630,
+        "_original": {
+            "name": "125.商会2F"
+        }
+    },
+    {
+        "id": 126,
+        "expanded": false,
+        "name": "126. Trading Company Negotiation",
+        "order": 76,
+        "parentId": 40,
+        "scrollX": 832,
+        "scrollY": 624,
+        "_original": {
+            "name": "126.商会商談"
+        }
+    },
+    {
+        "id": 127,
+        "expanded": false,
+        "name": "127. Training Grounds",
+        "order": 77,
+        "parentId": 40,
+        "scrollX": 816,
+        "scrollY": 640,
+        "quick": false,
+        "_original": {
+            "name": "127.練習場所"
+        }
+    },
+    {
+        "id": 128,
+        "expanded": false,
+        "name": "128. Night Cafe",
+        "order": 69,
+        "parentId": 45,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 656.5714285714286,
+        "quick": false,
+        "_original": {
+            "name": "128.夜カフェ"
+        }
+    },
+    {
+        "id": 129,
+        "expanded": false,
+        "name": "129. Desert",
+        "order": 97,
+        "parentId": 60,
+        "scrollX": 3779.9999999999995,
+        "scrollY": 656.5714285714286,
+        "note": "",
+        "params": [],
+        "damage": {
+            "critical": "",
+            "elementId": "",
+            "formula": "",
+            "type": "",
+            "variance": ""
+        },
+        "_original": {
+            "name": "129.砂漠"
+        }
+    },
+    {
+        "id": 130,
+        "expanded": false,
+        "name": "Kyle's Past",
+        "order": 152,
+        "parentId": 0,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 670.2857142857142,
+        "quick": false,
+        "_original": {
+            "name": "カイルの過去"
+        }
+    },
+    {
+        "id": 131,
+        "expanded": false,
+        "name": "131. Town Right",
+        "order": 100,
+        "parentId": 65,
+        "scrollX": 674.1818181818182,
+        "scrollY": 417.8181818181818,
+        "_original": {
+            "name": "131.街右"
+        }
+    },
+    {
+        "id": 132,
+        "expanded": false,
+        "name": "Dark Forest Entrance",
+        "order": 153,
+        "parentId": 130,
+        "scrollX": 804,
+        "scrollY": 656,
+        "_original": {
+            "name": "暗き森入り口"
+        }
+    },
+    {
+        "id": 133,
+        "expanded": false,
+        "name": "Dark Forest 2",
+        "order": 154,
+        "parentId": 130,
+        "scrollX": 1033.7142857142856,
+        "scrollY": 714.8571428571428,
+        "_original": {
+            "name": "暗き森2"
+        }
+    },
+    {
+        "id": 134,
+        "expanded": false,
+        "name": "Dark Forest Cliff Top",
+        "order": 155,
+        "parentId": 130,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 817.7142857142857,
+        "_original": {
+            "name": "暗き森崖の上"
+        }
+    },
+    {
+        "id": 135,
+        "expanded": false,
+        "name": "Dark Forest (Cliff Bottom 2)",
+        "order": 158,
+        "parentId": 130,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 670.2857142857142,
+        "_original": {
+            "name": "暗き森(崖下2)"
+        }
+    },
+    {
+        "id": 136,
+        "expanded": false,
+        "name": "Dark Forest Fork",
+        "order": 157,
+        "parentId": 130,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 670.2857142857142,
+        "_original": {
+            "name": "暗き森分岐"
+        }
+    },
+    {
+        "id": 137,
+        "expanded": false,
+        "name": "Dark Forest Exit",
+        "order": 165,
+        "parentId": 130,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 670.2857142857142,
+        "_original": {
+            "name": "暗き森 出口"
+        }
+    },
+    {
+        "id": 138,
+        "expanded": false,
+        "name": "Dark Forest (Cliff Bottom 1)",
+        "order": 156,
+        "parentId": 130,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 692.5714285714286,
+        "_original": {
+            "name": "暗き森(崖下1)"
+        }
+    },
+    {
+        "id": 139,
+        "expanded": true,
+        "name": "Dark Forest Cave Entrance",
+        "order": 160,
+        "parentId": 130,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 670.2857142857142,
+        "_original": {
+            "name": "暗き森洞窟入口"
+        }
+    },
+    {
+        "id": 140,
+        "expanded": false,
+        "name": "Forest Leading to Dark Forest Cave",
+        "order": 159,
+        "parentId": 130,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 670.2857142857142,
+        "_original": {
+            "name": "暗き森洞窟へ至る森"
+        }
+    },
+    {
+        "id": 141,
+        "expanded": true,
+        "name": "Just Before Dark Forest Exit",
+        "order": 164,
+        "parentId": 130,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 670.2857142857142,
+        "_original": {
+            "name": "暗き森　出口手前"
+        }
+    },
+    {
+        "id": 142,
+        "expanded": false,
+        "name": "Inside Dark Forest Cave 3",
+        "order": 163,
+        "parentId": 130,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 764.5714285714286,
+        "_original": {
+            "name": "暗き森洞窟内3"
+        }
+    },
+    {
+        "id": 143,
+        "expanded": false,
+        "name": "Inside Dark Forest Cave 2",
+        "order": 162,
+        "parentId": 130,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 1042.2857142857142,
+        "_original": {
+            "name": "暗き森洞窟内2"
+        }
+    },
+    {
+        "id": 144,
+        "expanded": false,
+        "name": "Inside Dark Forest Cave 1",
+        "order": 161,
+        "parentId": 130,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 709.7142857142857,
+        "_original": {
+            "name": "暗き森洞窟内1"
+        }
+    },
+    {
+        "id": 145,
+        "expanded": false,
+        "name": "145. Village Inn",
+        "order": 166,
+        "parentId": 130,
+        "scrollX": 816,
+        "scrollY": 800,
+        "quick": false,
+        "_original": {
+            "name": "145.村の宿屋"
+        }
+    },
+    {
+        "id": 146,
+        "expanded": false,
+        "name": "146. Church",
+        "order": 115,
+        "parentId": 64,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 670.2857142857142,
+        "quick": false,
+        "_original": {
+            "name": "146.教会"
+        }
+    },
+    {
+        "id": 147,
+        "expanded": false,
+        "name": "Summit",
+        "order": 140,
+        "parentId": 87,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 670.2857142857142,
+        "_original": {
+            "name": "山頂"
+        }
+    },
+    {
+        "id": 148,
+        "expanded": true,
+        "name": "Shop Exterior",
+        "order": 141,
+        "parentId": 87,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 656.5714285714286,
+        "_original": {
+            "name": "店外観"
+        }
+    },
+    {
+        "id": 149,
+        "expanded": false,
+        "name": "Forest Walkway",
+        "order": 142,
+        "parentId": 87,
+        "scrollX": 1270.2857142857142,
+        "scrollY": 709.7142857142857,
+        "_original": {
+            "name": "森の遊歩道"
+        }
+    },
+    {
+        "id": 150,
+        "expanded": true,
+        "name": "97. Summit (Collapsed)",
+        "order": 127,
+        "parentId": 97,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 732,
+        "params": [],
+        "damage": {
+            "critical": "",
+            "elementId": "",
+            "formula": "",
+            "type": "",
+            "variance": ""
+        },
+        "note": "",
+        "_original": {
+            "name": "97.山頂（崩れ)"
+        }
+    },
+    {
+        "id": 151,
+        "expanded": false,
+        "name": "Private House",
+        "order": 36,
+        "parentId": 22,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 670.2857142857142,
+        "quick": false,
+        "_original": {
+            "name": "民家"
+        }
+    },
+    {
+        "id": 152,
+        "expanded": true,
+        "name": "152. Guild",
+        "order": 37,
+        "parentId": 22,
+        "scrollX": 804,
+        "scrollY": 573.3333333333334,
+        "_original": {
+            "name": "152.ギルド"
+        }
+    },
+    {
+        "id": 153,
+        "expanded": false,
+        "name": "153. Tower",
+        "order": 145,
+        "parentId": 0,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 670.2857142857142,
+        "quick": false,
+        "_original": {
+            "name": "153.塔"
+        }
+    },
+    {
+        "id": 154,
+        "expanded": true,
+        "name": "Tower",
+        "order": 146,
+        "parentId": 153,
+        "scrollX": 832,
+        "scrollY": 896,
+        "quick": false,
+        "_original": {
+            "name": "塔"
+        }
+    },
+    {
+        "id": 155,
+        "expanded": false,
+        "name": "Blue Sky",
+        "order": 151,
+        "parentId": 0,
+        "scrollX": 804,
+        "scrollY": 557.3333333333334,
+        "quick": false,
+        "_original": {
+            "name": "青空"
+        }
+    },
+    {
+        "id": 156,
+        "expanded": true,
+        "name": "Tower 1F",
+        "order": 147,
+        "parentId": 154,
+        "scrollX": 1305.818181818182,
+        "scrollY": 786.5454545454546,
+        "quick": false,
+        "_original": {
+            "name": "塔1F"
+        }
+    },
+    {
+        "id": 157,
+        "expanded": true,
+        "name": "Tower 2F",
+        "order": 148,
+        "parentId": 156,
+        "scrollX": 804,
+        "scrollY": 557.3333333333334,
+        "quick": false,
+        "_original": {
+            "name": "塔2F"
+        }
+    },
+    {
+        "id": 158,
+        "expanded": false,
+        "name": "Tower 3F",
+        "order": 149,
+        "parentId": 157,
+        "scrollX": 1305.818181818182,
+        "scrollY": 786.5454545454546,
+        "quick": false,
+        "_original": {
+            "name": "塔3F"
+        }
+    },
+    {
+        "id": 159,
+        "expanded": false,
+        "name": "159. Ruins B3F Back 1",
+        "order": 87,
+        "parentId": 102,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 769.7142857142857,
+        "quick": false,
+        "_original": {
+            "name": "159.遺跡 B3F 奥1"
+        }
+    },
+    {
+        "id": 160,
+        "expanded": false,
+        "name": "160. Ruins B3F Back 2",
+        "order": 88,
+        "parentId": 102,
+        "scrollX": 832,
+        "scrollY": 800,
+        "quick": false,
+        "_original": {
+            "name": "160.遺跡 B3F 奥2"
+        }
+    },
+    {
+        "id": 161,
+        "expanded": false,
+        "name": "161. Ruins B3F Inner Chamber 3",
+        "order": 89,
+        "parentId": 102,
+        "scrollX": 832,
+        "scrollY": 800,
+        "quick": false,
+        "_original": {
+            "name": "161.遺跡 B3F 奥3"
+        }
+    },
+    {
+        "id": 162,
+        "expanded": false,
+        "name": "162. Ruins B3F Inner Chamber 4",
+        "order": 90,
+        "parentId": 102,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 670.2857142857142,
+        "quick": false,
+        "_original": {
+            "name": "162.遺跡 B3F 奥4"
+        }
+    },
+    {
+        "id": 163,
+        "expanded": true,
+        "name": "163. Guard Station",
+        "order": 110,
+        "parentId": 71,
+        "scrollX": 804,
+        "scrollY": 546.6666666666666,
+        "_original": {
+            "name": "163.兵士詰所"
+        }
+    },
+    {
+        "id": 164,
+        "expanded": false,
+        "name": "164. Hidden Shop",
+        "order": 111,
+        "parentId": 163,
+        "scrollX": 482.4,
+        "scrollY": 334.4,
+        "quick": false,
+        "_original": {
+            "name": "164.隠し店"
+        }
+    },
+    {
+        "id": 165,
+        "expanded": true,
+        "name": "165. Summit (View Only)",
+        "order": 128,
+        "parentId": 97,
+        "scrollX": 816,
+        "scrollY": 708,
+        "params": [],
+        "damage": {
+            "critical": "",
+            "elementId": "",
+            "formula": "",
+            "type": "",
+            "variance": ""
+        },
+        "note": "",
+        "_original": {
+            "name": "165.山頂(見るだけ用)"
+        }
+    },
+    {
+        "id": 166,
+        "expanded": true,
+        "name": "166. Lillian Last",
+        "order": 143,
+        "parentId": 87,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 769.7142857142857,
+        "quick": false,
+        "_original": {
+            "name": "166.リリアンラスト"
+        }
+    },
+    {
+        "id": 167,
+        "expanded": false,
+        "name": "167. Brothel",
+        "order": 108,
+        "parentId": 74,
+        "scrollX": 1019.9999999999999,
+        "scrollY": 708.8571428571428,
+        "_original": {
+            "name": "167.娼館"
+        }
+    },
+    {
+        "id": 168,
+        "expanded": true,
+        "name": "Recollection Mode",
+        "order": 167,
+        "parentId": 0,
+        "scrollX": 713.4,
+        "scrollY": 468,
+        "quick": false,
+        "_original": {
+            "name": "回想モード"
+        }
+    },
+    {
+        "id": 169,
+        "expanded": true,
+        "name": "169. Mansion 1F",
+        "order": 168,
+        "parentId": 168,
+        "scrollX": 713.4,
+        "scrollY": 468,
+        "_original": {
+            "name": "169.屋敷 1F"
+        }
+    },
+    {
+        "id": 170,
+        "expanded": false,
+        "name": "Mansion 2F",
+        "order": 169,
+        "parentId": 169,
+        "scrollX": 713.4,
+        "scrollY": 543.6,
+        "_original": {
+            "name": "屋敷 2F"
+        }
+    },
+    {
+        "id": 171,
+        "expanded": true,
+        "name": "ver2.0",
+        "order": 170,
+        "parentId": 0,
+        "scrollX": 713.4,
+        "scrollY": 458.4,
+        "quick": false
+    },
+    {
+        "id": 172,
+        "expanded": true,
+        "name": "Rose",
+        "order": 171,
+        "parentId": 171,
+        "scrollX": 713.4,
+        "scrollY": 468,
+        "quick": false,
+        "_original": {
+            "name": "ロゼ"
+        }
+    },
+    {
+        "id": 173,
+        "expanded": false,
+        "name": "173. Beginning Guild",
+        "order": 172,
+        "parentId": 172,
+        "scrollX": 713.4,
+        "scrollY": 468,
+        "_original": {
+            "name": "173.始まりのギルド"
+        }
+    },
+    {
+        "id": 174,
+        "expanded": true,
+        "name": "174. Leaf Fall Village",
+        "order": 175,
+        "parentId": 172,
+        "scrollX": 805.8,
+        "scrollY": 590.4,
+        "_original": {
+            "name": "174.リーフフォールの村"
+        }
+    },
+    {
+        "id": 175,
+        "expanded": true,
+        "name": "175. Rose's Mansion (Exterior)",
+        "order": 185,
+        "parentId": 172,
+        "scrollX": 723,
+        "scrollY": 580.8,
+        "_original": {
+            "name": "175.ロゼの屋敷(外観)"
+        }
+    },
+    {
+        "id": 176,
+        "expanded": true,
+        "name": "176. Church Main Hall",
+        "order": 176,
+        "parentId": 174,
+        "scrollX": 713.4,
+        "scrollY": 469.2,
+        "_original": {
+            "name": "176.教会 メインホール"
+        }
+    },
+    {
+        "id": 177,
+        "expanded": true,
+        "name": "177. Church 1F-2",
+        "order": 178,
+        "parentId": 176,
+        "scrollX": 713.4,
+        "scrollY": 468,
+        "_original": {
+            "name": "177.教会 1F-2"
+        }
+    },
+    {
+        "id": 178,
+        "expanded": false,
+        "name": "178. Church 2F",
+        "order": 179,
+        "parentId": 176,
+        "scrollX": 713.4,
+        "scrollY": 469.2,
+        "_original": {
+            "name": "178.教会 2F"
+        }
+    },
+    {
+        "id": 179,
+        "expanded": false,
+        "name": "Noel",
+        "order": 226,
+        "parentId": 171,
+        "scrollX": 713.4,
+        "scrollY": 468,
+        "quick": false,
+        "_original": {
+            "name": "ノエル"
+        }
+    },
+    {
+        "id": 180,
+        "expanded": true,
+        "name": "190. Luna's House 1F (Before Renovation)",
+        "order": 228,
+        "parentId": 88,
+        "scrollX": 649.0909090909091,
+        "scrollY": 417.8181818181818,
+        "_original": {
+            "name": "190.ルーナの家1F(改築前)"
+        }
+    },
+    {
+        "id": 181,
+        "expanded": false,
+        "name": "191. Luna's House 2F (Before Renovation)",
+        "order": 229,
+        "parentId": 88,
+        "scrollX": 649.0909090909091,
+        "scrollY": 426.54545454545456,
+        "_original": {
+            "name": "191.ルーナの家2F(改築前)"
+        }
+    },
+    {
+        "id": 182,
+        "expanded": true,
+        "name": "182. Exterior (After Renovation)",
+        "order": 230,
+        "parentId": 179,
+        "scrollX": 713.4,
+        "scrollY": 469.2,
+        "_original": {
+            "name": "182.外観(改築後)"
+        }
+    },
+    {
+        "id": 183,
+        "expanded": true,
+        "name": "Luna's House 1F Day (After Renovation)",
+        "order": 231,
+        "parentId": 182,
+        "scrollX": 713.4,
+        "scrollY": 459.59999999999997,
+        "_original": {
+            "name": "ルーナの家1F昼 (改築後)"
+        }
+    },
+    {
+        "id": 184,
+        "expanded": true,
+        "name": "Luna's House 2F Night (After Renovation)",
+        "order": 234,
+        "parentId": 182,
+        "scrollX": 726.6,
+        "scrollY": 469.2,
+        "_original": {
+            "name": "ルーナの家2F夜 (改築後)"
+        }
+    },
+    {
+        "id": 185,
+        "expanded": true,
+        "name": "Luna's House Bath",
+        "order": 235,
+        "parentId": 182,
+        "scrollX": 713.4,
+        "scrollY": 468,
+        "_original": {
+            "name": "ルーナの家お風呂"
+        }
+    },
+    {
+        "id": 186,
+        "expanded": true,
+        "name": "Luna's House 1F Night (After Renovation)",
+        "order": 232,
+        "parentId": 182,
+        "scrollX": 649.0909090909091,
+        "scrollY": 417.8181818181818,
+        "_original": {
+            "name": "ルーナの家1F夜 (改築後)"
+        }
+    },
+    {
+        "id": 187,
+        "expanded": true,
+        "name": "Luna's House 2F Day (After Renovation)",
+        "order": 233,
+        "parentId": 182,
+        "scrollX": 713.4,
+        "scrollY": 459.59999999999997,
+        "_original": {
+            "name": "ルーナの家2F昼 (改築後)"
+        }
+    },
+    {
+        "id": 188,
+        "expanded": false,
+        "name": "188. Drawing Room",
+        "order": 186,
+        "parentId": 175,
+        "scrollX": 713.4,
+        "scrollY": 468,
+        "_original": {
+            "name": "188.応接間"
+        }
+    },
+    {
+        "id": 189,
+        "expanded": false,
+        "name": "178. Church 1F Parlor",
+        "order": 177,
+        "parentId": 176,
+        "scrollX": 713.4,
+        "scrollY": 468,
+        "_original": {
+            "name": "178.教会 1F客間"
+        }
+    },
+    {
+        "id": 190,
+        "expanded": true,
+        "name": "190. Sanctuary Forest",
+        "order": 192,
+        "parentId": 172,
+        "scrollX": 713.4,
+        "scrollY": 458.4,
+        "quick": false,
+        "_original": {
+            "name": "190.聖域への森"
+        }
+    },
+    {
+        "id": 191,
+        "expanded": true,
+        "name": "191. Forest Entrance",
+        "order": 193,
+        "parentId": 190,
+        "scrollX": 713.4,
+        "scrollY": 468,
+        "_original": {
+            "name": "191.森の入口"
+        }
+    },
+    {
+        "id": 192,
+        "expanded": true,
+        "name": "192. Forest of Lost 2",
+        "order": 194,
+        "parentId": 190,
+        "scrollX": 713.4,
+        "scrollY": 468,
+        "_original": {
+            "name": "192.迷いの森 2"
+        }
+    },
+    {
+        "id": 193,
+        "expanded": false,
+        "name": "193. Forest of Lost 3",
+        "order": 195,
+        "parentId": 192,
+        "scrollX": 713.4,
+        "scrollY": 468,
+        "_original": {
+            "name": "193.迷いの森 3"
+        }
+    },
+    {
+        "id": 194,
+        "expanded": true,
+        "name": "194. Forest of Lost 4",
+        "order": 196,
+        "parentId": 190,
+        "scrollX": 713.4,
+        "scrollY": 924,
+        "_original": {
+            "name": "194.迷いの森 4"
+        }
+    },
+    {
+        "id": 195,
+        "expanded": false,
+        "name": "195. Forest of Lost 5",
+        "order": 204,
+        "parentId": 190,
+        "scrollX": 713.4,
+        "scrollY": 927.5999999999999,
+        "_original": {
+            "name": "195.迷いの森 5"
+        }
+    },
+    {
+        "id": 196,
+        "expanded": false,
+        "name": "196. Forest of Lost 6",
+        "order": 199,
+        "parentId": 190,
+        "scrollX": 713.4,
+        "scrollY": 721.1999999999999,
+        "_original": {
+            "name": "196.迷いの森 6"
+        }
+    },
+    {
+        "id": 197,
+        "expanded": false,
+        "name": "197. Forest Spring",
+        "order": 200,
+        "parentId": 190,
+        "scrollX": 832.1999999999999,
+        "scrollY": 781.1999999999999,
+        "_original": {
+            "name": "197.森の泉"
+        }
+    },
+    {
+        "id": 198,
+        "expanded": false,
+        "name": "198. Forest of Lost Left",
+        "order": 197,
+        "parentId": 194,
+        "scrollX": 713.4,
+        "scrollY": 762,
+        "_original": {
+            "name": "198.迷いの森 左"
+        }
+    },
+    {
+        "id": 199,
+        "expanded": true,
+        "name": "199. Place with a Tent",
+        "order": 206,
+        "parentId": 209,
+        "scrollX": 713.4,
+        "scrollY": 468,
+        "_original": {
+            "name": "199.テントのある場所"
+        }
+    },
+    {
+        "id": 200,
+        "expanded": true,
+        "name": "200. Decayed Sanctuary",
+        "order": 210,
+        "parentId": 172,
+        "scrollX": 713.4,
+        "scrollY": 468,
+        "quick": false,
+        "_original": {
+            "name": "200.朽ちた聖域"
+        }
+    },
+    {
+        "id": 201,
+        "expanded": true,
+        "name": "201. Forgotten Ruins",
+        "order": 211,
+        "parentId": 200,
+        "scrollX": 862.1999999999999,
+        "scrollY": 1156.8,
+        "_original": {
+            "name": "201.忘れられた遺跡"
+        }
+    },
+    {
+        "id": 202,
+        "expanded": false,
+        "name": "202. Wetlands",
+        "order": 209,
+        "parentId": 190,
+        "scrollX": 912.5999999999999,
+        "scrollY": 825.5999999999999,
+        "_original": {
+            "name": "202.湿地帯"
+        }
+    },
+    {
+        "id": 203,
+        "expanded": true,
+        "name": "203. Place Exiting from the Spring",
+        "order": 201,
+        "parentId": 197,
+        "scrollX": 713.4,
+        "scrollY": 468,
+        "_original": {
+            "name": "203.泉から抜けた場所"
+        }
+    },
+    {
+        "id": 204,
+        "expanded": true,
+        "name": "204. Ruins B2",
+        "order": 213,
+        "parentId": 201,
+        "scrollX": 713.4,
+        "scrollY": 579.6,
+        "_original": {
+            "name": "204.遺跡 B2"
+        }
+    },
+    {
+        "id": 205,
+        "expanded": false,
+        "name": "205. Ruins B1",
+        "order": 212,
+        "parentId": 201,
+        "scrollX": 713.4,
+        "scrollY": 868.8,
+        "_original": {
+            "name": "205.遺跡 B1"
+        }
+    },
+    {
+        "id": 206,
+        "expanded": false,
+        "name": "206. Tent",
+        "order": 207,
+        "parentId": 199,
+        "scrollX": 713.4,
+        "scrollY": 468,
+        "_original": {
+            "name": "206.テント"
+        }
+    },
+    {
+        "id": 207,
+        "expanded": false,
+        "name": "198. Forest of Lost Right",
+        "order": 198,
+        "parentId": 194,
+        "scrollX": 713.4,
+        "scrollY": 700.8,
+        "_original": {
+            "name": "198.迷いの森 右"
+        }
+    },
+    {
+        "id": 208,
+        "expanded": false,
+        "name": "208. Forest of Lost Deep Left and Right",
+        "order": 208,
+        "parentId": 195,
+        "scrollX": 713.4,
+        "scrollY": 540,
+        "_original": {
+            "name": "208.迷いの森 奥左右"
+        }
+    },
+    {
+        "id": 209,
+        "expanded": false,
+        "name": "209. Mushroom Path",
+        "order": 205,
+        "parentId": 195,
+        "scrollX": 723,
+        "scrollY": 540,
+        "_original": {
+            "name": "209.キノコの道"
+        }
+    },
+    {
+        "id": 210,
+        "expanded": true,
+        "name": "210. Deepest Area",
+        "order": 214,
+        "parentId": 201,
+        "scrollX": 723,
+        "scrollY": 674.4,
+        "_original": {
+            "name": "210.最深部"
+        }
+    },
+    {
+        "id": 211,
+        "expanded": false,
+        "name": "211. House 1",
+        "order": 180,
+        "parentId": 174,
+        "scrollX": 891.75,
+        "scrollY": 586.5,
+        "quick": false,
+        "_original": {
+            "name": "211.民家1"
+        }
+    },
+    {
+        "id": 212,
+        "expanded": false,
+        "name": "212. House 2",
+        "order": 181,
+        "parentId": 174,
+        "scrollX": 649.0909090909091,
+        "scrollY": 417.8181818181818,
+        "quick": false,
+        "_original": {
+            "name": "212.民家2"
+        }
+    },
+    {
+        "id": 213,
+        "expanded": false,
+        "name": "213. Inn",
+        "order": 182,
+        "parentId": 174,
+        "scrollX": 713.4,
+        "scrollY": 468,
+        "quick": false,
+        "_original": {
+            "name": "213.宿屋"
+        }
+    },
+    {
+        "id": 214,
+        "expanded": false,
+        "name": "214. House 3",
+        "order": 183,
+        "parentId": 174,
+        "scrollX": 713.4,
+        "scrollY": 458.4,
+        "quick": false,
+        "_original": {
+            "name": "214.民家3"
+        }
+    },
+    {
+        "id": 215,
+        "expanded": false,
+        "name": "215. Bottom of the Well",
+        "order": 184,
+        "parentId": 174,
+        "scrollX": 713.4,
+        "scrollY": 458.4,
+        "quick": false,
+        "_original": {
+            "name": "215.井戸の底"
+        }
+    },
+    {
+        "id": 216,
+        "expanded": true,
+        "name": "261. Church Main Hall (Raid)",
+        "order": 174,
+        "parentId": 217,
+        "scrollX": 713.4,
+        "scrollY": 468,
+        "_original": {
+            "name": "261.教会 メインホール(襲撃)"
+        }
+    },
+    {
+        "id": 217,
+        "expanded": true,
+        "name": "217. Leaf Fall Village (Raid)",
+        "order": 173,
+        "parentId": 172,
+        "scrollX": 713.4,
+        "scrollY": 458.4,
+        "_original": {
+            "name": "217.リーフフォールの村(襲撃)"
+        }
+    },
+    {
+        "id": 218,
+        "expanded": true,
+        "name": "Rose's Flashback",
+        "order": 187,
+        "parentId": 172,
+        "scrollX": 713.4,
+        "scrollY": 458.4,
+        "quick": false,
+        "_original": {
+            "name": "ロゼ回想"
+        }
+    },
+    {
+        "id": 219,
+        "expanded": true,
+        "name": "Restaurant",
+        "order": 188,
+        "parentId": 218,
+        "scrollX": 713.4,
+        "scrollY": 468,
+        "_original": {
+            "name": "レストラン"
+        }
+    },
+    {
+        "id": 220,
+        "expanded": false,
+        "name": "Meeting with the Master",
+        "order": 189,
+        "parentId": 218,
+        "scrollX": 892.5,
+        "scrollY": 574.5,
+        "quick": false,
+        "_original": {
+            "name": "師との出会い"
+        }
+    },
+    {
+        "id": 221,
+        "expanded": false,
+        "name": "Mansion 1F-4",
+        "order": 191,
+        "parentId": 218,
+        "scrollX": 713.4,
+        "scrollY": 458.4,
+        "_original": {
+            "name": "屋敷 1F-4"
+        }
+    },
+    {
+        "id": 222,
+        "expanded": false,
+        "name": "Gilberto Raid",
+        "order": 190,
+        "parentId": 218,
+        "scrollX": 745.8,
+        "scrollY": 458.4,
+        "_original": {
+            "name": "ジルベルト襲撃"
+        }
+    },
+    {
+        "id": 223,
+        "expanded": false,
+        "name": "Gilberto's Bedroom",
+        "order": 203,
+        "parentId": 203,
+        "scrollX": 713.4,
+        "scrollY": 468,
+        "_original": {
+            "name": "ジルベルト寝室"
+        }
+    },
+    {
+        "id": 224,
+        "expanded": false,
+        "name": "224. Ancient Ruins",
+        "order": 202,
+        "parentId": 203,
+        "scrollX": 713.4,
+        "scrollY": 458.4,
+        "quick": false,
+        "_original": {
+            "name": "224.古い遺跡"
+        }
+    },
+    {
+        "id": 225,
+        "expanded": false,
+        "name": "225. Izolda's Flashback",
+        "order": 215,
+        "parentId": 172,
+        "scrollX": 713.4,
+        "scrollY": 468,
+        "quick": false,
+        "_original": {
+            "name": "225.イゾルダ回想"
+        }
+    },
+    {
+        "id": 226,
+        "expanded": false,
+        "name": "226. Dark Space 1",
+        "order": 216,
+        "parentId": 225,
+        "scrollX": 713.4,
+        "scrollY": 459.59999999999997,
+        "quick": false,
+        "_original": {
+            "name": "226.暗黒空間1"
+        }
+    },
+    {
+        "id": 227,
+        "expanded": false,
+        "name": "227. Izolda 1",
+        "order": 217,
+        "parentId": 225,
+        "scrollX": 1189,
+        "scrollY": 782,
+        "quick": false,
+        "_original": {
+            "name": "227.イゾルダ1"
+        }
+    },
+    {
+        "id": 228,
+        "expanded": false,
+        "name": "Room",
+        "order": 218,
+        "parentId": 225,
+        "scrollX": 1189,
+        "scrollY": 782,
+        "quick": false,
+        "_original": {
+            "name": "228.部屋"
+        }
+    },
+    {
+        "id": 229,
+        "expanded": true,
+        "name": "Courtyard",
+        "order": 219,
+        "parentId": 225,
+        "scrollX": 1189,
+        "scrollY": 766,
+        "quick": false,
+        "_original": {
+            "name": "229.中庭"
+        }
+    },
+    {
+        "id": 230,
+        "expanded": false,
+        "name": "Murder Scene",
+        "order": 220,
+        "parentId": 225,
+        "scrollX": 819,
+        "scrollY": 461,
+        "_original": {
+            "name": "230.殺害現場"
+        }
+    },
+    {
+        "id": 231,
+        "expanded": false,
+        "name": "231. Dark Space 2",
+        "order": 221,
+        "parentId": 225,
+        "scrollX": 713.4,
+        "scrollY": 459.59999999999997,
+        "quick": false,
+        "_original": {
+            "name": "231.暗黒空間2"
+        }
+    },
+    {
+        "id": 232,
+        "expanded": true,
+        "name": "Ending",
+        "order": 222,
+        "parentId": 172,
+        "scrollX": 713.4,
+        "scrollY": 468,
+        "quick": false,
+        "_original": {
+            "name": "232.エンディング"
+        }
+    },
+    {
+        "id": 233,
+        "expanded": true,
+        "name": "Alva Highway",
+        "order": 223,
+        "parentId": 232,
+        "scrollX": 713.4,
+        "scrollY": 458.4,
+        "_original": {
+            "name": "233.アルヴァ街道"
+        }
+    },
+    {
+        "id": 234,
+        "expanded": true,
+        "name": "Wedding",
+        "order": 224,
+        "parentId": 232,
+        "scrollX": 995.4,
+        "scrollY": 469.2,
+        "_original": {
+            "name": "234.結婚式"
+        }
+    },
+    {
+        "id": 235,
+        "expanded": false,
+        "name": "Courtyard",
+        "order": 225,
+        "parentId": 232,
+        "scrollX": 713.4,
+        "scrollY": 468,
+        "quick": false,
+        "_original": {
+            "name": "235.中庭"
+        }
+    }
+]
