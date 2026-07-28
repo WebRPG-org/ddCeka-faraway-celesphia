@@ -1,4 +1,10 @@
-# Ignore binary executables and heavy engine dumps
+# ============================================================
+# Faraway Selesphia - Translation Patch .gitignore
+# Clean DazedMTLTool patch rules: track patch files only.
+# Heavy stock assets (audio, stock images, movies) are excluded.
+# ============================================================
+
+# Ignore binary executables and engine runtimes
 *.exe
 *.dll
 *.pak
@@ -10,20 +16,36 @@
 *.zip
 *.dat
 *.html
-*.png
-*.txt
+
+# Ignore heavy media asset folders inside resources/app
+resources/app/audio/
+resources/app/movies/
+resources/app/fonts/
+resources/app/project/audio/
+resources/app/project/movies/
+resources/app/project/fonts/
+resources/app/project/img/
 
 # Ignore node_modules
 node_modules/
 
-# Track translation patch files & scripts ONLY
+# Track translation patch files & updater scripts ONLY
 !.gitignore
 !README.md
 !GameUpdate*
 !gameupdate/
-!gameupdate/*
+!gameupdate/**
+
 !resources/
 !resources/app/
-!resources/app/**
-!resources/App/
-!resources/App/**
+!resources/app/README.md
+!resources/app/project/
+!resources/app/project/data/
+!resources/app/project/data/*.json
+!resources/app/project/js/
+!resources/app/project/js/**
+
+# Include specific modified game assets
+!resources/app/project/img/
+!resources/app/project/img/characters/
+!resources/app/project/img/characters/flower_chip_Celesphia.png
