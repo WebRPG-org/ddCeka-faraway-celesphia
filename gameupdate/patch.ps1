@@ -850,39 +850,12 @@ function Invoke-PatchDownloadExtract {
             }
             $stagedRoot = $dirs[0].FullName
 
-            # Stage UberWolfCli into the game root before unpack so first-time
-            # players can convert Data.wolf -> Data/ before English files land.
-            foreach ($cliName in @('UberWolfCli.exe', 'UberWolfCli.LICENSE.txt')) {
-                $stagedCli = Join-Path $stagedRoot $cliName
-                $destCli = Join-Path $Root $cliName
-                if ((Test-Path -LiteralPath $stagedCli -PathType Leaf) -and
-                    -not (Test-Path -LiteralPath $destCli -PathType Leaf)) {
-                    Copy-Item -LiteralPath $stagedCli -Destination $destCli -Force
-                }
-            }
-            Invoke-WolfPreSetup -Root $Root
-
-            # Electron Target Auto-Detection
-            # This game stores all translated files under resources\app\project
-            $TargetDir = Join-Path $GameRoot 'resources\app\project'
+            # Electron game: the git repo mirrors the game root structure.
+            # resources/app/ from the repo maps directly to resources/app/ in the game folder.
+            # App.asar handling is done manually by the user per the README before running this updater.
+            $TargetDir = $GameRoot
             if (-not (Test-Path -LiteralPath $TargetDir -PathType Container)) {
                 New-Item -ItemType Directory -Force -Path $TargetDir | Out-Null
-                Write-Host "[Electron Setup] Created target folder: $TargetDir"
-            }
-
-            # If App.asar exists and App.asar.bak does not, rename App.asar so loose resources/app takes priority
-            foreach ($asarName in @('App.asar', 'app.asar')) {
-                $appAsar = Join-Path $GameRoot "resources\$asarName"
-                if (Test-Path -LiteralPath $appAsar) {
-                    $appAsarBak = "$appAsar.bak"
-                    if (-not (Test-Path -LiteralPath $appAsarBak)) {
-                        Write-Host "[Electron Setup] Backing up $asarName -> $asarName.bak so loose patch takes priority..."
-                        Rename-Item -LiteralPath $appAsar -NewName ([IO.Path]::GetFileName($appAsarBak)) -Force -ErrorAction SilentlyContinue
-                    } else {
-                        Write-Host "[Electron Setup] $asarName.bak already exists; skipping rename."
-                    }
-                    break
-                }
             }
 
             Copy-Item -Path (Join-Path $stagedRoot '*') -Destination $TargetDir -Recurse -Force
