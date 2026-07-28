@@ -862,30 +862,28 @@ function Invoke-PatchDownloadExtract {
             }
             Invoke-WolfPreSetup -Root $Root
 
-            
-    # Electron Target Auto-Detection
-    $TargetDir = $GameRoot
-    if (Test-Path -LiteralPath (Join-Path $GameRoot 'resourcespp')) {
-        $TargetDir = Join-Path $GameRoot 'resourcespp'
-    } elseif (Test-Path -LiteralPath (Join-Path $GameRoot 'resources\App\project')) {
-        $TargetDir = Join-Path $GameRoot 'resources\App\project'
-    } elseif (Test-Path -LiteralPath (Join-Path $GameRoot 'resources')) {
-        $TargetDir = Join-Path $GameRoot 'resourcespp'
-        New-Item -ItemType Directory -Force -Path $TargetDir | Out-Null
-    }
-    
-    # If App.asar exists and App.asar.bak does not, rename App.asar so loose resources/app takes priority
-    $appAsar = Join-Path $GameRoot 'resources\App.asar'
-    if (-not (Test-Path -LiteralPath $appAsar)) {
-        $appAsar = Join-Path $GameRoot 'resourcespp.asar'
-    }
-    if (Test-Path -LiteralPath $appAsar) {
-        $appAsarBak = "$appAsar.bak"
-        if (-not (Test-Path -LiteralPath $appAsarBak)) {
-            Write-Host "[Electron Setup] Backing up App.asar -> App.asar.bak..."
-            Rename-Item -LiteralPath $appAsar -NewName ([IO.Path]::GetFileName($appAsarBak)) -Force -ErrorAction SilentlyContinue
-        }
-    }
+            # Electron Target Auto-Detection
+            # This game stores all translated files under resources\app\project
+            $TargetDir = Join-Path $GameRoot 'resources\app\project'
+            if (-not (Test-Path -LiteralPath $TargetDir -PathType Container)) {
+                New-Item -ItemType Directory -Force -Path $TargetDir | Out-Null
+                Write-Host "[Electron Setup] Created target folder: $TargetDir"
+            }
+
+            # If App.asar exists and App.asar.bak does not, rename App.asar so loose resources/app takes priority
+            foreach ($asarName in @('App.asar', 'app.asar')) {
+                $appAsar = Join-Path $GameRoot "resources\$asarName"
+                if (Test-Path -LiteralPath $appAsar) {
+                    $appAsarBak = "$appAsar.bak"
+                    if (-not (Test-Path -LiteralPath $appAsarBak)) {
+                        Write-Host "[Electron Setup] Backing up $asarName -> $asarName.bak so loose patch takes priority..."
+                        Rename-Item -LiteralPath $appAsar -NewName ([IO.Path]::GetFileName($appAsarBak)) -Force -ErrorAction SilentlyContinue
+                    } else {
+                        Write-Host "[Electron Setup] $asarName.bak already exists; skipping rename."
+                    }
+                    break
+                }
+            }
 
             Copy-Item -Path (Join-Path $stagedRoot '*') -Destination $TargetDir -Recurse -Force
         }
