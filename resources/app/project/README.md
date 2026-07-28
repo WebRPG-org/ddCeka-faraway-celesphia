@@ -1,4 +1,4 @@
-# Faraway Selesphia v2.0 — English Translation Patch
+# Faraway Celesphia v2.0 — English Translation Patch
 
 [![Support on Ko-Fi](https://img.shields.io/badge/Support%20on-Ko--Fi-ff5e5b?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/linandino)
 
@@ -9,7 +9,7 @@
 
 ## 🌟 About This Translation Patch
 
-This is the complete English translation patch for **Faraway Selesphia v2.0.0** (*遥かなるセレスフィア v2.0*).
+This is the complete English translation patch for **Faraway Celesphia v2.0.0** (*遥かなるセレスフィア v2.0*).
 
 ### ✨ Features Added in Patch:
 1. **Full English Localization**: All dialogues, quest logs, menus, item descriptions, and bestiary entries translated into English.
