@@ -2627,7 +2627,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "industries,"
+                "industries,\""
               ]
             },
             {
@@ -2949,7 +2949,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ah, right. If you ever run into Valgrind of Grimridge,"
+                "\"Ah, right. If you ever run into Valgrind of"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Grimridge,\""
               ]
             },
             {
@@ -3668,7 +3675,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"A legendary flower that only grows in Grimridge,"
+                "\"A legendary flower that only grows in Grimridge,\""
               ]
             },
             {

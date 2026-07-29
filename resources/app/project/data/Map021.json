@@ -6309,7 +6309,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"...I see. You are a mother."
+                "\\SE[5]\"...I see. You are a mother.\""
               ]
             },
             {
@@ -6421,7 +6421,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"We have no intention of harming your child."
+                "\\SE[5]\"We have no intention of harming your"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "child.\""
               ]
             },
             {
@@ -8006,7 +8013,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "materials."
+                "materials.\""
               ]
             },
             {
@@ -8031,7 +8038,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Our goal is to harvest the Celesphia."
+                "\\SE[5]\"Our goal is to harvest the Celesphia.\""
               ]
             },
             {

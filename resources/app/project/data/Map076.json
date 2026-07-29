@@ -3401,7 +3401,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Some reports even mention a massive one,"
+                "\"Some reports even mention a massive one,\""
               ]
             },
             {
@@ -4117,7 +4117,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Welcome to Eldenia Guild."
+                "\"Welcome to Eldenia Guild.\""
               ]
             },
             {
@@ -4328,7 +4328,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "it."
+                "it.\""
               ]
             },
             {
@@ -4516,7 +4516,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"We were a fixed party of three. Me, the female mage,"
+                "\"We were a fixed party of three. Me, the female mage,\""
               ]
             },
             {
@@ -4541,7 +4541,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"We traveled together like that for a long time,"
+                "\"We traveled together like that for a long time,\""
               ]
             },
             {
@@ -4598,7 +4598,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "against them a few times,"
+                "against them a few times,\""
               ]
             },
             {
@@ -4748,7 +4748,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Speaking of which, where the hell did that ranger go…?"
+                "\"Speaking of which, where the hell did that ranger"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "go…?\""
               ]
             },
             {
@@ -7169,7 +7176,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\"―Huh?! Wait, could it be...?"
+                "\\SE[0]\"―Huh?! Wait, could it be...?\""
               ]
             },
             {
@@ -7194,7 +7201,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Yeah... Well, let's at least talk about it."
+                "\\SE[3]\"Yeah... Well, let's at least talk about"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "it.\""
               ]
             },
             {
@@ -7219,7 +7233,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"So, about that Noble Mirage..."
+                "\\SE[3]\"So, about that Noble Mirage...\""
               ]
             },
             {
@@ -7299,7 +7313,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "height will increase,"
+                "height will increase,\""
               ]
             },
             {
@@ -7345,7 +7359,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "known as..."
+                "known as...\""
               ]
             },
             {
@@ -7413,7 +7427,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "potion is, or..."
+                "potion is, or...\""
               ]
             },
             {
@@ -7445,7 +7459,32 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "gather\\C[0] is where it's rumored to be hiding..."
+                "gather\\C[0] is where it's rumored to be"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/elis_face1",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Passel"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "hiding...\""
               ]
             },
             {
@@ -7477,7 +7516,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "luck so far..."
+                "luck so far...\""
               ]
             },
             {
@@ -7541,7 +7580,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "handsomely, and I'll definitely..."
+                "handsomely, and I'll definitely...\""
               ]
             },
             {
@@ -7611,7 +7650,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"U-um, just out of curiosity,"
+                "\\SE[5]\"U-um, just out of curiosity,\""
               ]
             },
             {
@@ -7643,7 +7682,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "shop..."
+                "shop...\""
               ]
             },
             {
@@ -7684,7 +7723,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "up getting a wife out of it!"
+                "up getting a wife out of it!\""
               ]
             },
             {
@@ -7850,7 +7889,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I don't know if it even exists, but..."
+                "\\SE[3]\"I don't know if it even exists, but...\""
               ]
             },
             {
@@ -8260,7 +8299,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "extravagant,"
+                "extravagant,\""
               ]
             },
             {
@@ -8284,7 +8323,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"we could hit every stall in"
+                "\\SE[5]\"we could hit every stall in\""
               ]
             },
             {
@@ -8382,7 +8421,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "wanted to. You're true adventurers, all"
+                "wanted to. You're true adventurers, all\""
               ]
             },
             {
@@ -8844,7 +8883,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "into"
+                "into\""
               ]
             },
             {
@@ -8885,7 +8924,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "feelings."
+                "feelings.\""
               ]
             },
             {
