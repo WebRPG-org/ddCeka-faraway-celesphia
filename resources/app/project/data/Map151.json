@@ -4400,14 +4400,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Darim \"I love this village. The adventurers"
+                "\\SE[0]Darim"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "who come here"
+                "\"I love this village. The adventurers who"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "come here"
               ]
             },
             {
@@ -4425,14 +4432,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Darim \"aren't too bad, and the monsters"
+                "\\SE[0]Darim"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "around here aren't all that vicious either."
+                "\"aren't too bad, and the monsters around"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "here aren't all that vicious either."
               ]
             },
             {
@@ -4552,7 +4566,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Darim \"………\""
+                "\\SE[0]Darim"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"………\""
               ]
             },
             {
@@ -4665,14 +4686,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ollie \"Sigh... so boring. This village is"
+                "\\SE[0]Ollie"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "really dull...\""
+                "\"Sigh... so boring. This village is really"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "dull...\""
               ]
             },
             {
@@ -4690,14 +4718,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ollie \"Adventurers sure have it good... so"
+                "\\SE[0]Ollie"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "free... I wish I could be one.\""
+                "\"Adventurers sure have it good... so free..."
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I wish I could be one.\""
               ]
             },
             {
@@ -6700,14 +6735,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Darim \"Ah, so you've accepted my request,"
+                "\\SE[0]Darim"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Luna?\""
+                "\"Ah, so you've accepted my request, Luna?\""
               ]
             },
             {
@@ -6725,7 +6760,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna \\SE[5]\"Yes, we've received it.\""
+                "\\SE[0]Luna"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5]\"Yes, we've received it.\""
               ]
             },
             {
@@ -6743,14 +6785,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Darim \"Thank you. What is it you're looking"
+                "\\SE[0]Darim"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "for?\""
+                "\"Thank you. What is it you're looking for?\""
               ]
             },
             {
@@ -6768,7 +6810,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"Do you have any idea where it might be"
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Do you have any idea where it might be"
               ]
             },
             {
@@ -6793,14 +6842,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Darim \"Well, it used to be mined in the"
+                "\\SE[0]Darim"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\C[1]Caldoon Coal Mine\\C[0].\""
+                "\"Well, it used to be mined in the \\C[1]Caldoon"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Coal Mine\\C[0].\""
               ]
             },
             {
@@ -6818,7 +6874,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"The northern abandoned shaft, then?\""
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"The northern abandoned shaft, then?\""
               ]
             },
             {
@@ -6836,14 +6899,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Darim \"Yes. But it's overrun with monsters,"
+                "\\SE[0]Darim"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "so I couldn't go alone.\""
+                "\"Yes. But it's overrun with monsters, so I"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "couldn't go alone.\""
               ]
             },
             {
@@ -6861,7 +6931,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian \\SE[4]\"Leave it to us.\""
+                "\\SE[0]Lilian"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4]\"Leave it to us.\""
               ]
             },
             {
@@ -6879,14 +6956,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna \\SE[5]\"By the way, what do you need this ore"
+                "\\SE[0]Luna"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "for?\""
+                "\\SE[5]\"By the way, what do you need this ore for?\""
               ]
             },
             {
@@ -6904,7 +6981,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Darim \"Actually… I'm planning to confess to"
+                "\\SE[0]Darim"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Actually… I'm planning to confess to"
               ]
             },
             {
@@ -6929,14 +7013,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Darim \"She's my childhood friend―someone"
+                "\\SE[0]Darim"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I've known forever… and I've always…\""
+                "\"She's my childhood friend―someone I've"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "known forever… and I've always…\""
               ]
             },
             {
@@ -6963,7 +7054,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna \\SE[5]\"Oh my… that's a wonderful story.\""
+                "\\SE[0]Luna"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5]\"Oh my… that's a wonderful story.\""
               ]
             },
             {
@@ -6981,14 +7079,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Darim \"It's actually Ori, the girl who lives"
+                "\\SE[0]Darim"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "next door.\""
+                "\"It's actually Ori, the girl who lives next"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "door.\""
               ]
             },
             {
@@ -7442,7 +7547,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ollie \"………\""
+                "\\SE[0]Ollie"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"………\""
               ]
             },
             {
@@ -7828,7 +7940,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna \\SE[5]\"Thank you for waiting, Darim-san."
+                "\\SE[0]Luna"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5]\"Thank you for waiting, Darim-san."
               ]
             },
             {
@@ -7985,14 +8104,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Darim \"Ooooh! So this is the Scarred!"
+                "\\SE[0]Darim"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Really..."
+                "\"Ooooh! So this is the Scarred! Really..."
               ]
             },
             {
@@ -8010,7 +8129,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna \\SE[5]\"I'm glad it was found safe and sound.\""
+                "\\SE[0]Luna"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5]\"I'm glad it was found safe and sound.\""
               ]
             },
             {
@@ -8028,14 +8154,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Darim \"I'll have it processed right away and"
+                "\\SE[0]Darim"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "pass it to Orie.\""
+                "\"I'll have it processed right away and pass"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "it to Orie.\""
               ]
             },
             {
@@ -8053,7 +8186,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna \\SE[5]\"I hope for a wonderful result.\""
+                "\\SE[0]Luna"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5]\"I hope for a wonderful result.\""
               ]
             },
             {
@@ -9055,7 +9195,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ori \\SE[1]\"You're really taking me to the royal"
+                "\\SE[0]Ori"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"You're really taking me to the royal"
               ]
             },
             {
@@ -9089,14 +9236,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Of course we are! We're"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "taking you, taking you~♪\""
+                "\"Of course we are! We're taking you, taking"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "you~♪\""
               ]
             },
             {
@@ -9123,14 +9277,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"We're strong, so don't"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "worry about a thing.\""
+                "\"We're strong, so don't worry about a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "thing.\""
               ]
             },
             {
@@ -9258,7 +9419,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"So, you get it... right?\""
+                "\\SE[0]Male Adventurer 1"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"So, you get it... right?\""
               ]
             },
             {
@@ -9276,7 +9444,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ollie \"………\""
+                "\\SE[0]Ollie"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"………\""
               ]
             },
             {
@@ -9294,7 +9469,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ori \\SE[1]\"...Yes.\""
+                "\\SE[0]Ori"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"...Yes.\""
               ]
             },
             {
@@ -9674,14 +9856,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Alrighty, then..."
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ori-chan♡\""
+                "\"Alrighty, then... Ori-chan♡\""
               ]
             },
             {
@@ -9699,14 +9881,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Ori-chan, let's get you"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "undressed~♡\""
+                "\"Ori-chan, let's get you undressed~♡\""
               ]
             },
             {
@@ -9839,14 +10021,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Oho~ so cute~! Girls"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "really are..."
+                "\"Oho~ so cute~! Girls really are..."
               ]
             },
             {
@@ -9864,14 +10046,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Wait, Ori-chan, have you"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "ever had sex before?\""
+                "\"Wait, Ori-chan, have you ever had sex"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "before?\""
               ]
             },
             {
@@ -9889,7 +10078,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ori \\SE[1]\"...No, I haven't.\""
+                "\\SE[0]Ori"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"...No, I haven't.\""
               ]
             },
             {
@@ -9907,14 +10103,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Ooooh~♡ A virgin, huh?"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Nice~♡\""
+                "\"Ooooh~♡ A virgin, huh? Nice~♡\""
               ]
             },
             {
@@ -9932,14 +10128,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"We should stop by the"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "countryside too!\""
+                "\"We should stop by the countryside too!\""
               ]
             },
             {
@@ -9957,14 +10153,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Just looking at Ori-chan"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "naked got me all hard.\""
+                "\"Just looking at Ori-chan naked got me all"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "hard.\""
               ]
             },
             {
@@ -10041,7 +10244,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Hey\""
+                "\\SE[0]Male Adventurer 1"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Hey\""
               ]
             },
             {
@@ -10059,7 +10269,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Yeah. Let's settle this.\""
+                "\\SE[0]Adventurer Man 2"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Yeah. Let's settle this.\""
               ]
             },
             {
@@ -10138,7 +10355,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Hehe, this is fun!\""
+                "\\SE[0]Male Adventurer 1"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Hehe, this is fun!\""
               ]
             },
             {
@@ -10156,7 +10380,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Damn it, I lost again...\""
+                "\\SE[0]Adventurer Man 2"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Damn it, I lost again...\""
               ]
             },
             {
@@ -10174,14 +10405,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"You just ate last time,"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "didn't you?\""
+                "\"You just ate last time, didn't you?\""
               ]
             },
             {
@@ -10647,14 +10878,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Alright, time to show"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ori-chan some fun~♡\""
+                "\"Alright, time to show Ori-chan some fun~♡\""
               ]
             },
             {
@@ -10672,14 +10903,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Come on, put your hands on"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the ground and get on your knees.\""
+                "\"Come on, put your hands on the ground and"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "get on your knees.\""
               ]
             },
             {
@@ -10744,14 +10982,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"A virgin's really pretty,"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "huh? I like that she hasn't played around~♡\""
+                "\"A virgin's really pretty, huh? I like that"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "she hasn't played around~♡\""
               ]
             },
             {
@@ -10774,14 +11019,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"So true, so true."
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ori-chan's pussy is so pretty, isn't it?\""
+                "\"So true, so true. Ori-chan's pussy is so"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "pretty, isn't it?\""
               ]
             },
             {
@@ -10799,14 +11051,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Ori-chan, you didn't shave"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "or anything?\""
+                "\"Ori-chan, you didn't shave or anything?\""
               ]
             },
             {
@@ -10824,14 +11076,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ori \\SE[1]\"...D-did you want me to do something"
+                "\\SE[0]Ori"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "about it?\""
+                "\\SE[1]\"...D-did you want me to do something about"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "it?\""
               ]
             },
             {
@@ -10849,14 +11108,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Girls from the city"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "usually shave, you know.\""
+                "\"Girls from the city usually shave, you"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "know.\""
               ]
             },
             {
@@ -10874,7 +11140,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ori \\SE[1]\"...I-I see...\""
+                "\\SE[0]Ori"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"...I-I see...\""
               ]
             },
             {
@@ -10892,14 +11165,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Nah, nah, it's fine like"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "this.\""
+                "\"Nah, nah, it's fine like this.\""
               ]
             },
             {
@@ -10917,14 +11190,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Alright, let's take a"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "little peek inside~♡\""
+                "\"Alright, let's take a little peek inside~♡\""
               ]
             },
             {
@@ -11015,14 +11288,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Ooooh~♡ Such a pretty"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "pink~♡\""
+                "\"Ooooh~♡ Such a pretty pink~♡\""
               ]
             },
             {
@@ -11045,14 +11318,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"No way, show me too, show"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "me!\""
+                "\"No way, show me too, show me!\""
               ]
             },
             {
@@ -11070,14 +11343,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ollie \"U-urgh... It's so embarrassing..."
+                "\\SE[0]Ollie"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Don't look at me...///\""
+                "\"U-urgh... It's so embarrassing... Don't"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "look at me...///\""
               ]
             },
             {
@@ -11095,7 +11375,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Ooooh~♡ That's the stuff~♡"
+                "\\SE[0]Adventurer Man 2"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Ooooh~♡ That's the stuff~♡"
               ]
             },
             {
@@ -11113,7 +11400,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ollie \"Ugh...h-how embarrassing...\""
+                "\\SE[0]Ollie"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Ugh...h-how embarrassing...\""
               ]
             },
             {
@@ -11131,7 +11425,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Ooooh~\""
+                "\\SE[0]Male Adventurer 1"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Ooooh~\""
               ]
             },
             {
@@ -11174,14 +11475,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Looks like Ori-chan is"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "all ready too, huh?♡\""
+                "\"Looks like Ori-chan is all ready too,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "huh?♡\""
               ]
             },
             {
@@ -11199,7 +11507,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ollie \"N-no...that's not...aah...\""
+                "\\SE[0]Ollie"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"N-no...that's not...aah...\""
               ]
             },
             {
@@ -11243,14 +11558,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Aah, I can't hold back"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "anymore!\""
+                "\"Aah, I can't hold back anymore!\""
               ]
             },
             {
@@ -11333,14 +11648,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Alright, Ori-chan, your"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "first time with a dick―"
+                "\"Alright, Ori-chan, your first time with a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "dick―"
               ]
             },
             {
@@ -11358,7 +11680,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0] \\SE[1]\"W-wait...please...! Really, to the"
+                "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"W-wait...please...! Really, to the"
               ]
             },
             {
@@ -11383,14 +11712,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Mochimochi♡ We're pretty"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "strong, so relax!\""
+                "\"Mochimochi♡ We're pretty strong, so relax!\""
               ]
             },
             {
@@ -11408,7 +11737,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0] \\SE[1]\"U-um...at least use protection...put on a"
+                "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"U-um...at least use protection...put on a"
               ]
             },
             {
@@ -11433,21 +11769,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"No way! If we use a"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "condom, it won't feel like a real first"
+                "\"No way! If we use a condom, it won't feel"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "time!\""
+                "like a real first time!\""
               ]
             },
             {
@@ -11465,14 +11801,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Yeah, yeah! City girls all"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "do their first time raw, you know?\""
+                "\"Yeah, yeah! City girls all do their first"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "time raw, you know?\""
               ]
             },
             {
@@ -11490,7 +11833,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ollie \"I-I see...\""
+                "\\SE[0]Ollie"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"I-I see...\""
               ]
             },
             {
@@ -11579,7 +11929,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Darim \"S-stop...stop...!\""
+                "\\SE[0]Darim"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"S-stop...stop...!\""
               ]
             },
             {
@@ -11668,7 +12025,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Alright, here we go~♡\""
+                "\\SE[0]Male Adventurer 1"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Alright, here we go~♡\""
               ]
             },
             {
@@ -11704,7 +12068,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ollie \"Nn-ah...aah...\""
+                "\\SE[0]Ollie"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Nn-ah...aah...\""
               ]
             },
             {
@@ -11722,14 +12093,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Oho~♡ Feels like I'm"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "stretching her tight little meat~\""
+                "\"Oho~♡ Feels like I'm stretching her tight"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "little meat~\""
               ]
             },
             {
@@ -11805,7 +12183,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0] \\SE[1]\"I-it...hurts...!\""
+                "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"I-it...hurts...!\""
               ]
             },
             {
@@ -11823,7 +12208,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"We're in, Ori-chan♡\""
+                "\\SE[0]Male Adventurer 1"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"We're in, Ori-chan♡\""
               ]
             },
             {
@@ -11841,14 +12233,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Whoa~...no way. Ori-chan's"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "my girl now.\""
+                "\"Whoa~...no way. Ori-chan's my girl now.\""
               ]
             },
             {
@@ -11866,14 +12258,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Gyahaha! When did you two"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "start dating?\""
+                "\"Gyahaha! When did you two start dating?\""
               ]
             },
             {
@@ -11891,14 +12283,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Alright, Ori-chan, I'm"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "gonna move now♡\""
+                "\"Alright, Ori-chan, I'm gonna move now♡\""
               ]
             },
             {
@@ -12271,7 +12663,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0] \\SE[1]\"Nn...n-ah...aah...aah...!\""
+                "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Nn...n-ah...aah...aah...!\""
               ]
             },
             {
@@ -12289,14 +12688,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Ooooh...aah...so"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "good...♡\""
+                "\"Ooooh...aah...so good...♡\""
               ]
             },
             {
@@ -12314,7 +12713,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ollie \"Nnah...aah aah♡\""
+                "\\SE[0]Ollie"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Nnah...aah aah♡\""
               ]
             },
             {
@@ -12379,14 +12785,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Aah...this girl's"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "amazing♡ Feels so good♡\""
+                "\"Aah...this girl's amazing♡ Feels so good♡\""
               ]
             },
             {
@@ -12404,14 +12810,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"No way...hurry up and"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "change already!\""
+                "\"No way...hurry up and change already!\""
               ]
             },
             {
@@ -12429,14 +12835,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Seriously♡ She's still"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "tight and unripe―"
+                "\"Seriously♡ She's still tight and unripe―"
               ]
             },
             {
@@ -12454,7 +12860,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0] \\SE[1]\"Ah...aah...aah...uuh...n...!\""
+                "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Ah...aah...aah...uuh...n...!\""
               ]
             },
             {
@@ -12768,14 +13181,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"How is it, Ori-chan? Your"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "first dick, huh?"
+                "\"How is it, Ori-chan? Your first dick, huh?"
               ]
             },
             {
@@ -12793,14 +13206,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0] \\SE[1]\"Nn...ah, it hurts...hurry up and"
+                "\\SE[0]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "finish...\""
+                "\\SE[1]\"Nn...ah, it hurts...hurry up and finish...\""
               ]
             },
             {
@@ -12818,14 +13231,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Come on, open your"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "mouth...! Nn...\""
+                "\"Come on, open your mouth...! Nn...\""
               ]
             },
             {
@@ -12895,7 +13308,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0] \\SE[1]\"Nn...mmm...lick...lick...ooh...\""
+                "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Nn...mmm...lick...lick...ooh...\""
               ]
             },
             {
@@ -12939,14 +13359,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"What, is kissing your"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "first time too?\""
+                "\"What, is kissing your first time too?\""
               ]
             },
             {
@@ -12964,7 +13384,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0] \\SE[1]\"Ah...nnh...it's my first time...ahh,"
+                "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Ah...nnh...it's my first time...ahh,"
               ]
             },
             {
@@ -13018,14 +13445,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Still, Ori-chan is so"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "cute..."
+                "\"Still, Ori-chan is so cute..."
               ]
             },
             {
@@ -13043,14 +13470,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Oh, I thought the same"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "thing.\""
+                "\"Oh, I thought the same thing.\""
               ]
             },
             {
@@ -13068,14 +13495,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Hehe, sorry~♡ Future"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "boyfriend-kun♡\""
+                "\"Hehe, sorry~♡ Future boyfriend-kun♡\""
               ]
             },
             {
@@ -13140,14 +13567,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Ahh♡ I can feel my cum"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "rising...♡\""
+                "\"Ahh♡ I can feel my cum rising...♡\""
               ]
             },
             {
@@ -13165,7 +13592,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0] \\SE[1]\"No...don't...not inside me...let it out"
+                "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"No...don't...not inside me...let it out"
               ]
             },
             {
@@ -13190,14 +13624,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Eeh, no way! First time"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "sex has to be inside the pussy.\""
+                "\"Eeh, no way! First time sex has to be"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "inside the pussy.\""
               ]
             },
             {
@@ -13215,14 +13656,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Yeah, you gotta taste his"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "cum at least once for practice.\""
+                "\"Yeah, you gotta taste his cum at least once"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "for practice.\""
               ]
             },
             {
@@ -13240,7 +13688,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0] \\SE[1]\"I-I see...ahh, nnh...\""
+                "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"I-I see...ahh, nnh...\""
               ]
             },
             {
@@ -13258,14 +13713,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"You can cum inside her"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "pussy, right?\""
+                "\"You can cum inside her pussy, right?\""
               ]
             },
             {
@@ -13283,7 +13738,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0] \\SE[1]\"... \\! Yes.\""
+                "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"... \\! Yes.\""
               ]
             },
             {
@@ -13301,21 +13763,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"'Yes' doesn't tell me"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "anything. Where and what are you letting me"
+                "\"'Yes' doesn't tell me anything. Where and"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "cum inside?\""
+                "what are you letting me cum inside?\""
               ]
             },
             {
@@ -13333,7 +13795,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0] \\SE[1]\"I-I mean...inside...ah, that thing...\""
+                "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"I-I mean...inside...ah, that thing...\""
               ]
             },
             {
@@ -13356,14 +13825,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"I don't get it. Answer"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "properly.\""
+                "\"I don't get it. Answer properly.\""
               ]
             },
             {
@@ -13381,7 +13850,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0] \\SE[1]\"...My pussy...inside my pussy...cum..."
+                "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"...My pussy...inside my pussy...cum..."
               ]
             },
             {
@@ -13399,7 +13875,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Good girl♡\""
+                "\\SE[0]Male Adventurer 1"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Good girl♡\""
               ]
             },
             {
@@ -13742,14 +14225,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Ahh, I'm gonna cum...I'm"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "gonna cum,"
+                "\"Ahh, I'm gonna cum...I'm gonna cum,"
               ]
             },
             {
@@ -13933,7 +14416,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0] \\SE[1]\"...!\""
+                "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"...!\""
               ]
             },
             {
@@ -13951,14 +14441,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Ooh♡ Ooh♡ Ohohh♡ It's"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "coming out!\""
+                "\"Ooh♡ Ooh♡ Ohohh♡ It's coming out!\""
               ]
             },
             {
@@ -13976,14 +14466,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Whoa, you really are a"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "sadist, huh?\""
+                "\"Whoa, you really are a sadist, huh?\""
               ]
             },
             {
@@ -14032,7 +14522,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ollie \"Hah...hah...u, uuuh...sniff...\""
+                "\\SE[0]Ollie"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Hah...hah...u, uuuh...sniff...\""
               ]
             },
             {
@@ -14050,14 +14547,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Ahh♡ It's out♡ Feels so"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "good♡\""
+                "\"Ahh♡ It's out♡ Feels so good♡\""
               ]
             },
             {
@@ -14349,14 +14846,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Uwah, you came way too"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "much. I'm gonna"
+                "\"Uwah, you came way too much. I'm gonna"
               ]
             },
             {
@@ -14374,14 +14871,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Don't say stuff like"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "that. Mine's clean, you know?♡\""
+                "\"Don't say stuff like that. Mine's clean,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "you know?♡\""
               ]
             },
             {
@@ -14399,14 +14903,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Ugh... Come on, Ori-chan,"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "turn around.\""
+                "\"Ugh... Come on, Ori-chan, turn around.\""
               ]
             },
             {
@@ -14563,14 +15067,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Ooh♡ Ooh♡ Yeah, it really"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "is pretty good, huh?♡\""
+                "\"Ooh♡ Ooh♡ Yeah, it really is pretty good,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "huh?♡\""
               ]
             },
             {
@@ -14588,14 +15099,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Right? How about we make"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "her ours to share?\""
+                "\"Right? How about we make her ours to"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "share?\""
               ]
             },
             {
@@ -14613,14 +15131,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Make her ours? More like a"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "fucktoy, am I right? Gyahaha!\""
+                "\"Make her ours? More like a fucktoy, am I"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "right? Gyahaha!\""
               ]
             },
             {
@@ -14638,14 +15163,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Hey, suck on mine"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "already.\""
+                "\"Hey, suck on mine already.\""
               ]
             },
             {
@@ -14692,7 +15217,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Ori] \\SE[1]\"Mmmh... Nghh... Ngh...\""
+                "\\SE[0][Ori]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Mmmh... Nghh... Ngh...\""
               ]
             },
             {
@@ -14728,14 +15260,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"How is it? Ori-chan,"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "you're gonna feel good soon―"
+                "\"How is it? Ori-chan, you're gonna feel good"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "soon―"
               ]
             },
             {
@@ -14753,7 +15292,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ollie \"I-I don't know...! Ngh... Ngh...\""
+                "\\SE[0]Ollie"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"I-I don't know...! Ngh... Ngh...\""
               ]
             },
             {
@@ -14818,14 +15364,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Ohhh... My load's coming,"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "coming!♡\""
+                "\"Ohhh... My load's coming, coming!♡\""
               ]
             },
             {
@@ -14843,7 +15389,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ollie \"Ngh... Ngh...! Nnngh...!\""
+                "\\SE[0]Ollie"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Ngh... Ngh...! Nnngh...!\""
               ]
             },
             {
@@ -14861,14 +15414,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"I'm gonna cum inside you"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "too, babe? Daddy's gonna―\""
+                "\"I'm gonna cum inside you too, babe? Daddy's"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "gonna―\""
               ]
             },
             {
@@ -14886,14 +15446,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Gyahaha, which one of us"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "is the real monster here?\""
+                "\"Gyahaha, which one of us is the real"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "monster here?\""
               ]
             },
             {
@@ -14911,14 +15478,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Alright, I'm gonna cum,"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ori-chan!\""
+                "\"Alright, I'm gonna cum, Ori-chan!\""
               ]
             },
             {
@@ -14936,7 +15503,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ollie \"………！！！\""
+                "\\SE[0]Ollie"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"………！！！\""
               ]
             },
             {
@@ -15094,14 +15668,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Oooh... Oooh... Aah, it's"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "coming, it's coming...\""
+                "\"Oooh... Oooh... Aah, it's coming, it's"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "coming...\""
               ]
             },
             {
@@ -15119,7 +15700,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ollie \"Ugh... Ugh... Uuuuh...\""
+                "\\SE[0]Ollie"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Ugh... Ugh... Uuuuh...\""
               ]
             },
             {
@@ -15189,14 +15777,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Whoa, you really unloaded"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "a lot there.\""
+                "\"Whoa, you really unloaded a lot there.\""
               ]
             },
             {
@@ -15214,14 +15802,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Nah, it was great. Thanks"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "for letting us use your pussy.\""
+                "\"Nah, it was great. Thanks for letting us"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "use your pussy.\""
               ]
             },
             {
@@ -15239,14 +15834,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Ori] \\SE[1]\"Uuuh... So you'll take me to the"
+                "\\SE[0][Ori]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "royal capital...\""
+                "\\SE[1]\"Uuuh... So you'll take me to the royal"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "capital...\""
               ]
             },
             {
@@ -15264,14 +15866,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Yeah, come to the inn in"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "front of it tomorrow morning.\""
+                "\"Yeah, come to the inn in front of it"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "tomorrow morning.\""
               ]
             },
             {
@@ -15289,21 +15898,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"I'll guide you there, and"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "we can get to know each other better along"
+                "\"I'll guide you there, and we can get to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the way.\""
+                "know each other better along the way.\""
               ]
             },
             {
@@ -15321,14 +15930,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Sounds good~! See you"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "tomorrow, then.\""
+                "\"Sounds good~! See you tomorrow, then.\""
               ]
             },
             {
@@ -15346,7 +15955,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Ori] \\SE[1]\"...Y-yes...\""
+                "\\SE[0][Ori]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"...Y-yes...\""
               ]
             },
             {
@@ -15969,7 +16585,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Darim \"Ory, who are they...?\""
+                "\\SE[0]Darim"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Ory, who are they...?\""
               ]
             },
             {
@@ -15987,7 +16610,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ory \\SE[1]\"I met them. At the tavern.\""
+                "\\SE[0]Ory"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"I met them. At the tavern.\""
               ]
             },
             {
@@ -16005,7 +16635,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Darim \"When?\""
+                "\\SE[0]Darim"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"When?\""
               ]
             },
             {
@@ -16023,7 +16660,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ory \\SE[1]\"Today.\""
+                "\\SE[0]Ory"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Today.\""
               ]
             },
             {
@@ -16041,7 +16685,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Darim \"Why...?\""
+                "\\SE[0]Darim"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Why...?\""
               ]
             },
             {
@@ -16059,7 +16710,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ory \\SE[1]\"They said they'd take me to the royal"
+                "\\SE[0]Ory"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"They said they'd take me to the royal"
               ]
             },
             {
@@ -16084,7 +16742,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Darim \"Huh? To the royal capital...? Why?\""
+                "\\SE[0]Darim"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Huh? To the royal capital...? Why?\""
               ]
             },
             {
@@ -16102,7 +16767,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ory \\SE[1]\"I hate this village.\""
+                "\\SE[0]Ory"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"I hate this village.\""
               ]
             },
             {
@@ -16120,14 +16792,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Darim \"Huh? It's peaceful here. Every day we"
+                "\\SE[0]Darim"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "eat delicious food...\""
+                "\"Huh? It's peaceful here. Every day we eat"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "delicious food...\""
               ]
             },
             {
@@ -16161,7 +16840,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ory \\SE[1]\"I'm sick of it! Every day plowing the"
+                "\\SE[0]Ory"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"I'm sick of it! Every day plowing the"
               ]
             },
             {
@@ -16169,6 +16855,24 @@
               "indent": 0,
               "parameters": [
                 "fields, taking care of the cows and"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "roze_party",
+                5,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Ory"
               ]
             },
             {
@@ -16193,14 +16897,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ory \\SE[1]\"I'm going to the royal capital to wear"
+                "\\SE[0]Ory"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "all kinds of clothes,\""
+                "\\SE[1]\"I'm going to the royal capital to wear all"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "kinds of clothes,\""
               ]
             },
             {
@@ -16218,14 +16929,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ory \\SE[1]\"You wouldn't understand how I feel,"
+                "\\SE[0]Ory"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Darim.\""
+                "\\SE[1]\"You wouldn't understand how I feel, Darim.\""
               ]
             },
             {
@@ -16243,7 +16954,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Darim \"T-that's not...\""
+                "\\SE[0]Darim"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"T-that's not...\""
               ]
             },
             {
@@ -16261,7 +16979,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ory \\SE[1]\"I'm leaving this village. Right now.\""
+                "\\SE[0]Ory"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"I'm leaving this village. Right now.\""
               ]
             },
             {
@@ -16288,14 +17013,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Darim \"W-wait! I... I've always... loved"
+                "\\SE[0]Darim"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "you, Ory!\""
+                "\"W-wait! I... I've always... loved you,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Ory!\""
               ]
             },
             {
@@ -16313,7 +17045,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ory \\SE[1]\"I'll be honest.\""
+                "\\SE[0]Ory"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"I'll be honest.\""
               ]
             },
             {
@@ -16331,7 +17070,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ory \\SE[1]\"I've always... struggled to accept your"
+                "\\SE[0]Ory"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"I've always... struggled to accept your"
               ]
             },
             {
@@ -16356,14 +17102,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ory \\SE[1]\"So I never wanted to date you, or hold"
+                "\\SE[0]Ory"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "your hand...\""
+                "\\SE[1]\"So I never wanted to date you, or hold your"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "hand...\""
               ]
             },
             {
@@ -16381,14 +17134,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Darim \"B-but what about all our memories"
+                "\\SE[0]Darim"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "from when we were kids?\""
+                "\"B-but what about all our memories from when"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "we were kids?\""
               ]
             },
             {
@@ -16406,7 +17166,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ory \\SE[1]\"'Memories'? Don't be so dramatic.\""
+                "\\SE[0]Ory"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"'Memories'? Don't be so dramatic.\""
               ]
             },
             {
@@ -16424,7 +17191,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Darim \"U-ugh... Ory...\""
+                "\\SE[0]Darim"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"U-ugh... Ory...\""
               ]
             },
             {
@@ -16451,7 +17225,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ory \\SE[1]\"Then leave. I need to prepare for"
+                "\\SE[0]Ory"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Then leave. I need to prepare for"
               ]
             },
             {
@@ -16485,14 +17266,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Darim \"N-no! I won't! I... I've always..."
+                "\\SE[0]Darim"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "loved you, Ory!\""
+                "\"N-no! I won't! I... I've always... loved"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "you, Ory!\""
               ]
             },
             {
@@ -16545,14 +17333,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Darim \"So... please! Just... just once"
+                "\\SE[0]Darim"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "more...\""
+                "\"So... please! Just... just once more...\""
               ]
             },
             {
@@ -16614,7 +17402,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ory \\SE[1]\"Huh? Like hell I will.\""
+                "\\SE[0]Ory"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Huh? Like hell I will.\""
               ]
             },
             {
@@ -16632,14 +17427,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Darim \"Why do guys like those jerks hit on"
+                "\\SE[0]Darim"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "you"
+                "\"Why do guys like those jerks hit on you"
               ]
             },
             {
@@ -16666,7 +17461,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ory \\SE[1]\"That's just how it is. Disgusting...\""
+                "\\SE[0]Ory"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"That's just how it is. Disgusting...\""
               ]
             },
             {
@@ -16684,7 +17486,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Darim \"Please... just this once... just this"
+                "\\SE[0]Darim"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Please... just this once... just this"
               ]
             },
             {
@@ -16718,7 +17527,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ory \\SE[1]\"Hmph... fine. Then let's do this.\""
+                "\\SE[0]Ory"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Hmph... fine. Then let's do this.\""
               ]
             },
             {
@@ -17023,14 +17839,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ory \\SE[1]\"I'll lend it to you like this. You can"
+                "\\SE[0]Ory"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "use it.\""
+                "\\SE[1]\"I'll lend it to you like this. You can use"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "it.\""
               ]
             },
             {
@@ -17048,7 +17871,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Darim \"W-what?!\""
+                "\\SE[0]Darim"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"W-what?!\""
               ]
             },
             {
@@ -17066,7 +17896,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ory \\SE[1]\"I'm just making a ring with my hand."
+                "\\SE[0]Ory"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"I'm just making a ring with my hand."
               ]
             },
             {
@@ -17084,14 +17921,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ory \\SE[1]\"If you don't like it, then it's over."
+                "\\SE[0]Ory"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'll scream and call for help.\""
+                "\\SE[1]\"If you don't like it, then it's over. I'll"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "scream and call for help.\""
               ]
             },
             {
@@ -17282,7 +18126,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Darim \"Hah... hah... Ory... Ory...!\""
+                "\\SE[0]Darim"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Hah... hah... Ory... Ory...!\""
               ]
             },
             {
@@ -17300,7 +18151,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ory \\SE[1]\"Ugh, your hips are shaking so much,"
+                "\\SE[0]Ory"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Ugh, your hips are shaking so much,"
               ]
             },
             {
@@ -17318,7 +18176,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Darim \"Hah... hah... feels good, it feels so"
+                "\\SE[0]Darim"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Hah... hah... feels good, it feels so"
               ]
             },
             {
@@ -17378,14 +18243,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ory \\SE[1]\"I'm just making a ring with my hand,"
+                "\\SE[0]Ory"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "you know.\""
+                "\\SE[1]\"I'm just making a ring with my hand, you"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "know.\""
               ]
             },
             {
@@ -17403,7 +18275,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Darim \"Hahh♡ Hahh♡ Hahh♡ It's so smooth...\""
+                "\\SE[0]Darim"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Hahh♡ Hahh♡ Hahh♡ It's so smooth...\""
               ]
             },
             {
@@ -17421,7 +18300,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ory \\SE[1]\"My hand's getting tired now, though,"
+                "\\SE[0]Ory"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"My hand's getting tired now, though,"
               ]
             },
             {
@@ -17439,7 +18325,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Darim \"Hahh♡ Hahh♡ Hahh♡\""
+                "\\SE[0]Darim"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Hahh♡ Hahh♡ Hahh♡\""
               ]
             },
             {
@@ -17457,14 +18350,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ory \\SE[1]\"And don't make a mess...? At least aim"
+                "\\SE[0]Ory"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "for your own side...\""
+                "\\SE[1]\"And don't make a mess...? At least aim for"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "your own side...\""
               ]
             },
             {
@@ -17512,14 +18412,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ory \\SE[1]\"Ugh, you're hopeless... Here, let me"
+                "\\SE[0]Ory"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "just―\""
+                "\\SE[1]\"Ugh, you're hopeless... Here, let me just―\""
               ]
             },
             {
@@ -17562,7 +18462,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Darim \"Gh―!!\""
+                "\\SE[0]Darim"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Gh―!!\""
               ]
             },
             {
@@ -17763,14 +18670,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ory \\SE[1]\"Gyaa! That's gross! It got on my"
+                "\\SE[0]Ory"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "hand... feels nasty...\""
+                "\\SE[1]\"Gyaa! That's gross! It got on my hand..."
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "feels nasty...\""
               ]
             },
             {
@@ -17823,7 +18737,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ory \\SE[1]\"Don't you dare mess up the floor, you"
+                "\\SE[0]Ory"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Don't you dare mess up the floor, you"
               ]
             },
             {
@@ -17904,7 +18825,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Darim \"Uh... uu... Ory... Ory...\""
+                "\\SE[0]Darim"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Uh... uu... Ory... Ory...\""
               ]
             },
             {
@@ -17922,14 +18850,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ory. \\SE[1]\"All done. I'm heading back after"
+                "\\SE[0]Ory."
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "cleaning up.\""
+                "\\SE[1]\"All done. I'm heading back after cleaning"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "up.\""
               ]
             },
             {
@@ -18082,7 +19017,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Darim \"I-I'll be waiting here in this"
+                "\\SE[0]Darim"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"I-I'll be waiting here in this"
               ]
             },
             {
@@ -18107,7 +19049,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ory. \\SE[1]\"You don't have to wait. Bye.\""
+                "\\SE[0]Ory."
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"You don't have to wait. Bye.\""
               ]
             },
             {
@@ -18984,7 +19933,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ori \\SE[1]\"You're really taking me to the royal"
+                "\\SE[0]Ori"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"You're really taking me to the royal"
               ]
             },
             {
@@ -19018,14 +19974,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Of course we are! We're"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "taking you, taking you~♪\""
+                "\"Of course we are! We're taking you, taking"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "you~♪\""
               ]
             },
             {
@@ -19052,14 +20015,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"We're strong, so don't"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "worry about a thing.\""
+                "\"We're strong, so don't worry about a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "thing.\""
               ]
             },
             {
@@ -19187,7 +20157,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"So, you get it... right?\""
+                "\\SE[0]Male Adventurer 1"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"So, you get it... right?\""
               ]
             },
             {
@@ -19205,7 +20182,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ollie \"………\""
+                "\\SE[0]Ollie"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"………\""
               ]
             },
             {
@@ -19223,7 +20207,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ori \\SE[1]\"...Yes.\""
+                "\\SE[0]Ori"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"...Yes.\""
               ]
             },
             {
@@ -19603,14 +20594,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Alrighty, then..."
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ori-chan♡\""
+                "\"Alrighty, then... Ori-chan♡\""
               ]
             },
             {
@@ -19628,14 +20619,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Ori-chan, let's get you"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "undressed~♡\""
+                "\"Ori-chan, let's get you undressed~♡\""
               ]
             },
             {
@@ -19768,14 +20759,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Oho~ so cute~! Girls"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "really are..."
+                "\"Oho~ so cute~! Girls really are..."
               ]
             },
             {
@@ -19793,14 +20784,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Wait, Ori-chan, have you"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "ever had sex before?\""
+                "\"Wait, Ori-chan, have you ever had sex"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "before?\""
               ]
             },
             {
@@ -19818,7 +20816,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ori \\SE[1]\"...No, I haven't.\""
+                "\\SE[0]Ori"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"...No, I haven't.\""
               ]
             },
             {
@@ -19836,14 +20841,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Ooooh~♡ A virgin, huh?"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Nice~♡\""
+                "\"Ooooh~♡ A virgin, huh? Nice~♡\""
               ]
             },
             {
@@ -19861,14 +20866,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"We should stop by the"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "countryside too!\""
+                "\"We should stop by the countryside too!\""
               ]
             },
             {
@@ -19886,14 +20891,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Just looking at Ori-chan"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "naked got me all hard.\""
+                "\"Just looking at Ori-chan naked got me all"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "hard.\""
               ]
             },
             {
@@ -19970,7 +20982,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Hey\""
+                "\\SE[0]Male Adventurer 1"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Hey\""
               ]
             },
             {
@@ -19988,7 +21007,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Yeah. Let's settle this.\""
+                "\\SE[0]Adventurer Man 2"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Yeah. Let's settle this.\""
               ]
             },
             {
@@ -20067,7 +21093,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Hehe, this is fun!\""
+                "\\SE[0]Male Adventurer 1"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Hehe, this is fun!\""
               ]
             },
             {
@@ -20085,7 +21118,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Damn it, I lost again...\""
+                "\\SE[0]Adventurer Man 2"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Damn it, I lost again...\""
               ]
             },
             {
@@ -20103,14 +21143,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"You just ate last time,"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "didn't you?\""
+                "\"You just ate last time, didn't you?\""
               ]
             },
             {
@@ -20576,14 +21616,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Alright, time to show"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ori-chan some fun~♡\""
+                "\"Alright, time to show Ori-chan some fun~♡\""
               ]
             },
             {
@@ -20601,14 +21641,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Come on, put your hands on"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the ground and get on your knees.\""
+                "\"Come on, put your hands on the ground and"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "get on your knees.\""
               ]
             },
             {
@@ -20673,14 +21720,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"A virgin's really pretty,"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "huh? I like that she hasn't played around~♡\""
+                "\"A virgin's really pretty, huh? I like that"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "she hasn't played around~♡\""
               ]
             },
             {
@@ -20703,14 +21757,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"So true, so true."
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ori-chan's pussy is so pretty, isn't it?\""
+                "\"So true, so true. Ori-chan's pussy is so"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "pretty, isn't it?\""
               ]
             },
             {
@@ -20728,14 +21789,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Ori-chan, you didn't shave"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "or anything?\""
+                "\"Ori-chan, you didn't shave or anything?\""
               ]
             },
             {
@@ -20753,14 +21814,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ori \\SE[1]\"...D-did you want me to do something"
+                "\\SE[0]Ori"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "about it?\""
+                "\\SE[1]\"...D-did you want me to do something about"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "it?\""
               ]
             },
             {
@@ -20778,14 +21846,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Girls from the city"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "usually shave, you know.\""
+                "\"Girls from the city usually shave, you"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "know.\""
               ]
             },
             {
@@ -20803,7 +21878,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ori \\SE[1]\"...I-I see...\""
+                "\\SE[0]Ori"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"...I-I see...\""
               ]
             },
             {
@@ -20821,14 +21903,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Nah, nah, it's fine like"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "this.\""
+                "\"Nah, nah, it's fine like this.\""
               ]
             },
             {
@@ -20846,14 +21928,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Alright, let's take a"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "little peek inside~♡\""
+                "\"Alright, let's take a little peek inside~♡\""
               ]
             },
             {
@@ -20944,14 +22026,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Ooooh~♡ Such a pretty"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "pink~♡\""
+                "\"Ooooh~♡ Such a pretty pink~♡\""
               ]
             },
             {
@@ -20974,14 +22056,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"No way, show me too, show"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "me!\""
+                "\"No way, show me too, show me!\""
               ]
             },
             {
@@ -20999,14 +22081,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ollie \"U-urgh... It's so embarrassing..."
+                "\\SE[0]Ollie"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Don't look at me...///\""
+                "\"U-urgh... It's so embarrassing... Don't"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "look at me...///\""
               ]
             },
             {
@@ -21024,7 +22113,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Ooooh~♡ That's the stuff~♡"
+                "\\SE[0]Adventurer Man 2"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Ooooh~♡ That's the stuff~♡"
               ]
             },
             {
@@ -21042,7 +22138,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ollie \"Ugh...h-how embarrassing...\""
+                "\\SE[0]Ollie"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Ugh...h-how embarrassing...\""
               ]
             },
             {
@@ -21060,7 +22163,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Ooooh~\""
+                "\\SE[0]Male Adventurer 1"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Ooooh~\""
               ]
             },
             {
@@ -21103,14 +22213,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Looks like Ori-chan is"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "all ready too, huh?♡\""
+                "\"Looks like Ori-chan is all ready too,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "huh?♡\""
               ]
             },
             {
@@ -21128,7 +22245,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ollie \"N-no...that's not...aah...\""
+                "\\SE[0]Ollie"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"N-no...that's not...aah...\""
               ]
             },
             {
@@ -21172,14 +22296,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Aah, I can't hold back"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "anymore!\""
+                "\"Aah, I can't hold back anymore!\""
               ]
             },
             {
@@ -21262,14 +22386,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Alright, Ori-chan, your"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "first time with a dick―"
+                "\"Alright, Ori-chan, your first time with a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "dick―"
               ]
             },
             {
@@ -21287,7 +22418,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0] \\SE[1]\"W-wait...please...! Really, to the"
+                "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"W-wait...please...! Really, to the"
               ]
             },
             {
@@ -21312,14 +22450,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Mochimochi♡ We're pretty"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "strong, so relax!\""
+                "\"Mochimochi♡ We're pretty strong, so relax!\""
               ]
             },
             {
@@ -21337,7 +22475,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0] \\SE[1]\"U-um...at least use protection...put on a"
+                "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"U-um...at least use protection...put on a"
               ]
             },
             {
@@ -21362,21 +22507,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"No way! If we use a"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "condom, it won't feel like a real first"
+                "\"No way! If we use a condom, it won't feel"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "time!\""
+                "like a real first time!\""
               ]
             },
             {
@@ -21394,14 +22539,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Yeah, yeah! City girls all"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "do their first time raw, you know?\""
+                "\"Yeah, yeah! City girls all do their first"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "time raw, you know?\""
               ]
             },
             {
@@ -21419,7 +22571,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ollie \"I-I see...\""
+                "\\SE[0]Ollie"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"I-I see...\""
               ]
             },
             {
@@ -21508,7 +22667,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Darim \"S-stop...stop...!\""
+                "\\SE[0]Darim"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"S-stop...stop...!\""
               ]
             },
             {
@@ -21597,7 +22763,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Alright, here we go~♡\""
+                "\\SE[0]Male Adventurer 1"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Alright, here we go~♡\""
               ]
             },
             {
@@ -21633,7 +22806,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ollie \"Nn-ah...aah...\""
+                "\\SE[0]Ollie"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Nn-ah...aah...\""
               ]
             },
             {
@@ -21651,14 +22831,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Oho~♡ Feels like I'm"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "stretching her tight little meat~\""
+                "\"Oho~♡ Feels like I'm stretching her tight"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "little meat~\""
               ]
             },
             {
@@ -21734,7 +22921,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0] \\SE[1]\"I-it...hurts...!\""
+                "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"I-it...hurts...!\""
               ]
             },
             {
@@ -21752,7 +22946,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"We're in, Ori-chan♡\""
+                "\\SE[0]Male Adventurer 1"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"We're in, Ori-chan♡\""
               ]
             },
             {
@@ -21770,14 +22971,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Whoa~...no way. Ori-chan's"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "my girl now.\""
+                "\"Whoa~...no way. Ori-chan's my girl now.\""
               ]
             },
             {
@@ -21795,14 +22996,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Gyahaha! When did you two"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "start dating?\""
+                "\"Gyahaha! When did you two start dating?\""
               ]
             },
             {
@@ -21820,14 +23021,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Alright, Ori-chan, I'm"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "gonna move now♡\""
+                "\"Alright, Ori-chan, I'm gonna move now♡\""
               ]
             },
             {
@@ -22200,7 +23401,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0] \\SE[1]\"Nn...n-ah...aah...aah...!\""
+                "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Nn...n-ah...aah...aah...!\""
               ]
             },
             {
@@ -22218,14 +23426,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Ooooh...aah...so"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "good...♡\""
+                "\"Ooooh...aah...so good...♡\""
               ]
             },
             {
@@ -22243,7 +23451,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ollie \"Nnah...aah aah♡\""
+                "\\SE[0]Ollie"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Nnah...aah aah♡\""
               ]
             },
             {
@@ -22308,14 +23523,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Aah...this girl's"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "amazing♡ Feels so good♡\""
+                "\"Aah...this girl's amazing♡ Feels so good♡\""
               ]
             },
             {
@@ -22333,14 +23548,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"No way...hurry up and"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "change already!\""
+                "\"No way...hurry up and change already!\""
               ]
             },
             {
@@ -22358,14 +23573,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Seriously♡ She's still"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "tight and unripe―"
+                "\"Seriously♡ She's still tight and unripe―"
               ]
             },
             {
@@ -22383,7 +23598,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0] \\SE[1]\"Ah...aah...aah...uuh...n...!\""
+                "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Ah...aah...aah...uuh...n...!\""
               ]
             },
             {
@@ -22697,14 +23919,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"How is it, Ori-chan? Your"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "first dick, huh?"
+                "\"How is it, Ori-chan? Your first dick, huh?"
               ]
             },
             {
@@ -22722,14 +23944,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0] \\SE[1]\"Nn...ah, it hurts...hurry up and"
+                "\\SE[0]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "finish...\""
+                "\\SE[1]\"Nn...ah, it hurts...hurry up and finish...\""
               ]
             },
             {
@@ -22747,14 +23969,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Come on, open your"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "mouth...! Nn...\""
+                "\"Come on, open your mouth...! Nn...\""
               ]
             },
             {
@@ -22824,7 +24046,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0] \\SE[1]\"Nn...mmm...lick...lick...ooh...\""
+                "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Nn...mmm...lick...lick...ooh...\""
               ]
             },
             {
@@ -22868,14 +24097,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"What, is kissing your"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "first time too?\""
+                "\"What, is kissing your first time too?\""
               ]
             },
             {
@@ -22893,7 +24122,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0] \\SE[1]\"Ah...nnh...it's my first time...ahh,"
+                "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Ah...nnh...it's my first time...ahh,"
               ]
             },
             {
@@ -22947,14 +24183,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Still, Ori-chan is so"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "cute..."
+                "\"Still, Ori-chan is so cute..."
               ]
             },
             {
@@ -22972,14 +24208,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Oh, I thought the same"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "thing.\""
+                "\"Oh, I thought the same thing.\""
               ]
             },
             {
@@ -22997,14 +24233,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Hehe, sorry~♡ Future"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "boyfriend-kun♡\""
+                "\"Hehe, sorry~♡ Future boyfriend-kun♡\""
               ]
             },
             {
@@ -23069,14 +24305,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Ahh♡ I can feel my cum"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "rising...♡\""
+                "\"Ahh♡ I can feel my cum rising...♡\""
               ]
             },
             {
@@ -23094,7 +24330,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0] \\SE[1]\"No...don't...not inside me...let it out"
+                "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"No...don't...not inside me...let it out"
               ]
             },
             {
@@ -23119,14 +24362,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Eeh, no way! First time"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "sex has to be inside the pussy.\""
+                "\"Eeh, no way! First time sex has to be"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "inside the pussy.\""
               ]
             },
             {
@@ -23144,14 +24394,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Yeah, you gotta taste his"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "cum at least once for practice.\""
+                "\"Yeah, you gotta taste his cum at least once"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "for practice.\""
               ]
             },
             {
@@ -23169,7 +24426,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0] \\SE[1]\"I-I see...ahh, nnh...\""
+                "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"I-I see...ahh, nnh...\""
               ]
             },
             {
@@ -23187,14 +24451,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"You can cum inside her"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "pussy, right?\""
+                "\"You can cum inside her pussy, right?\""
               ]
             },
             {
@@ -23212,7 +24476,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0] \\SE[1]\"... \\! Yes.\""
+                "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"... \\! Yes.\""
               ]
             },
             {
@@ -23230,21 +24501,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"'Yes' doesn't tell me"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "anything. Where and what are you letting me"
+                "\"'Yes' doesn't tell me anything. Where and"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "cum inside?\""
+                "what are you letting me cum inside?\""
               ]
             },
             {
@@ -23262,7 +24533,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0] \\SE[1]\"I-I mean...inside...ah, that thing...\""
+                "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"I-I mean...inside...ah, that thing...\""
               ]
             },
             {
@@ -23285,14 +24563,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"I don't get it. Answer"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "properly.\""
+                "\"I don't get it. Answer properly.\""
               ]
             },
             {
@@ -23310,7 +24588,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0] \\SE[1]\"...My pussy...inside my pussy...cum..."
+                "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"...My pussy...inside my pussy...cum..."
               ]
             },
             {
@@ -23328,7 +24613,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Good girl♡\""
+                "\\SE[0]Male Adventurer 1"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Good girl♡\""
               ]
             },
             {
@@ -23671,14 +24963,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Ahh, I'm gonna cum...I'm"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "gonna cum,"
+                "\"Ahh, I'm gonna cum...I'm gonna cum,"
               ]
             },
             {
@@ -23862,7 +25154,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0] \\SE[1]\"...!\""
+                "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"...!\""
               ]
             },
             {
@@ -23880,14 +25179,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Ooh♡ Ooh♡ Ohohh♡ It's"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "coming out!\""
+                "\"Ooh♡ Ooh♡ Ohohh♡ It's coming out!\""
               ]
             },
             {
@@ -23905,14 +25204,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Whoa, you really are a"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "sadist, huh?\""
+                "\"Whoa, you really are a sadist, huh?\""
               ]
             },
             {
@@ -23961,7 +25260,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ollie \"Hah...hah...u, uuuh...sniff...\""
+                "\\SE[0]Ollie"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Hah...hah...u, uuuh...sniff...\""
               ]
             },
             {
@@ -23979,14 +25285,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Ahh♡ It's out♡ Feels so"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "good♡\""
+                "\"Ahh♡ It's out♡ Feels so good♡\""
               ]
             },
             {
@@ -24278,14 +25584,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Uwah, you came way too"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "much. I'm gonna"
+                "\"Uwah, you came way too much. I'm gonna"
               ]
             },
             {
@@ -24303,14 +25609,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Don't say stuff like"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "that. Mine's clean, you know?♡\""
+                "\"Don't say stuff like that. Mine's clean,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "you know?♡\""
               ]
             },
             {
@@ -24328,14 +25641,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Ugh... Come on, Ori-chan,"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "turn around.\""
+                "\"Ugh... Come on, Ori-chan, turn around.\""
               ]
             },
             {
@@ -24492,14 +25805,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Ooh♡ Ooh♡ Yeah, it really"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "is pretty good, huh?♡\""
+                "\"Ooh♡ Ooh♡ Yeah, it really is pretty good,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "huh?♡\""
               ]
             },
             {
@@ -24517,14 +25837,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Right? How about we make"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "her ours to share?\""
+                "\"Right? How about we make her ours to"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "share?\""
               ]
             },
             {
@@ -24542,14 +25869,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Make her ours? More like a"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "fucktoy, am I right? Gyahaha!\""
+                "\"Make her ours? More like a fucktoy, am I"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "right? Gyahaha!\""
               ]
             },
             {
@@ -24567,14 +25901,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Hey, suck on mine"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "already.\""
+                "\"Hey, suck on mine already.\""
               ]
             },
             {
@@ -24621,7 +25955,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Ori] \\SE[1]\"Mmmh... Nghh... Ngh...\""
+                "\\SE[0][Ori]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Mmmh... Nghh... Ngh...\""
               ]
             },
             {
@@ -24657,14 +25998,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"How is it? Ori-chan,"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "you're gonna feel good soon―"
+                "\"How is it? Ori-chan, you're gonna feel good"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "soon―"
               ]
             },
             {
@@ -24682,7 +26030,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ollie \"I-I don't know...! Ngh... Ngh...\""
+                "\\SE[0]Ollie"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"I-I don't know...! Ngh... Ngh...\""
               ]
             },
             {
@@ -24747,14 +26102,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Ohhh... My load's coming,"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "coming!♡\""
+                "\"Ohhh... My load's coming, coming!♡\""
               ]
             },
             {
@@ -24772,7 +26127,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ollie \"Ngh... Ngh...! Nnngh...!\""
+                "\\SE[0]Ollie"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Ngh... Ngh...! Nnngh...!\""
               ]
             },
             {
@@ -24790,14 +26152,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"I'm gonna cum inside you"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "too, babe? Daddy's gonna―\""
+                "\"I'm gonna cum inside you too, babe? Daddy's"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "gonna―\""
               ]
             },
             {
@@ -24815,14 +26184,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Gyahaha, which one of us"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "is the real monster here?\""
+                "\"Gyahaha, which one of us is the real"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "monster here?\""
               ]
             },
             {
@@ -24840,14 +26216,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Alright, I'm gonna cum,"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ori-chan!\""
+                "\"Alright, I'm gonna cum, Ori-chan!\""
               ]
             },
             {
@@ -24865,7 +26241,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ollie \"………！！！\""
+                "\\SE[0]Ollie"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"………！！！\""
               ]
             },
             {
@@ -25023,14 +26406,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Oooh... Oooh... Aah, it's"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "coming, it's coming...\""
+                "\"Oooh... Oooh... Aah, it's coming, it's"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "coming...\""
               ]
             },
             {
@@ -25048,7 +26438,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ollie \"Ugh... Ugh... Uuuuh...\""
+                "\\SE[0]Ollie"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Ugh... Ugh... Uuuuh...\""
               ]
             },
             {
@@ -25118,14 +26515,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Whoa, you really unloaded"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "a lot there.\""
+                "\"Whoa, you really unloaded a lot there.\""
               ]
             },
             {
@@ -25143,14 +26540,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"Nah, it was great. Thanks"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "for letting us use your pussy.\""
+                "\"Nah, it was great. Thanks for letting us"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "use your pussy.\""
               ]
             },
             {
@@ -25168,14 +26572,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Ori] \\SE[1]\"Uuuh... So you'll take me to the"
+                "\\SE[0][Ori]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "royal capital...\""
+                "\\SE[1]\"Uuuh... So you'll take me to the royal"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "capital...\""
               ]
             },
             {
@@ -25193,14 +26604,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Yeah, come to the inn in"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "front of it tomorrow morning.\""
+                "\"Yeah, come to the inn in front of it"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "tomorrow morning.\""
               ]
             },
             {
@@ -25218,21 +26636,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Man 2 \"I'll guide you there, and"
+                "\\SE[0]Adventurer Man 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "we can get to know each other better along"
+                "\"I'll guide you there, and we can get to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the way.\""
+                "know each other better along the way.\""
               ]
             },
             {
@@ -25250,14 +26668,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer 1 \"Sounds good~! See you"
+                "\\SE[0]Male Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "tomorrow, then.\""
+                "\"Sounds good~! See you tomorrow, then.\""
               ]
             },
             {
@@ -25275,7 +26693,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Ori] \\SE[1]\"...Y-yes...\""
+                "\\SE[0][Ori]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"...Y-yes...\""
               ]
             },
             {

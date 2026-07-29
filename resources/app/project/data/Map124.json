@@ -6348,14 +6348,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist \"Welcome. This is the Arseleon"
+                "\\SE[0]Guild Receptionist"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Merchant House reception desk.\""
+                "\"Welcome. This is the Arseleon Merchant House reception"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "desk.\""
               ]
             },
             {
@@ -6373,14 +6380,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna \\SE[5]\"Uh, we'd like to cross the bridge and"
+                "\\SE[0]Luna"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "need a pass.\""
+                "\\SE[5]\"Uh, we'd like to cross the bridge and need"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "a pass.\""
               ]
             },
             {
@@ -6398,14 +6412,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist \"Understood. Then that will be \\C[1]3000G\\C[0]"
+                "\\SE[0]Guild Receptionist"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "and...\""
+                "\"Understood. Then that will be \\C[1]3000G\\C[0] and...\""
               ]
             },
             {
@@ -6432,14 +6446,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian \\SE[5]\"\\C[2]Guild Quest Completion"
+                "\\SE[0]Lilian"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Certificate\\C[0]...?\""
+                "\\SE[5]\"\\C[2]Guild Quest Completion Certificate\\C[0]...?\""
               ]
             },
             {
@@ -6457,14 +6471,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist \"It's a system aimed at developing"
+                "\\SE[0]Guild Receptionist"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the city of Arseleon.\""
+                "\"It's a system aimed at developing the city of"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Arseleon.\""
               ]
             },
             {
@@ -6482,14 +6503,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist \"By completing the assigned tasks,"
+                "\\SE[0]Guild Receptionist"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "you'll receive one.\""
+                "\"By completing the assigned tasks, you'll receive one.\""
               ]
             },
             {
@@ -6516,7 +6537,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3](What a hassle...)"
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3](What a hassle...)"
               ]
             },
             {
@@ -6534,7 +6562,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"Got it. Where do we pick up the job?\""
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Got it. Where do we pick up the job?\""
               ]
             },
             {
@@ -6552,14 +6587,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist \"All task assignments are handled at"
+                "\\SE[0]Guild Receptionist"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the guild in this city.\""
+                "\"All task assignments are handled at the guild in this"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "city.\""
               ]
             },
             {
@@ -6577,14 +6619,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist \"If you complete the quests"
+                "\\SE[0]Guild Receptionist"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "presented by the guild,\""
+                "\"If you complete the quests presented by the guild,\""
               ]
             },
             {
@@ -6602,14 +6644,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist \"bring that certificate with you and"
+                "\\SE[0]Guild Receptionist"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "prepare \\C[1]3000G\\C[0],\""
+                "\"bring that certificate with you and prepare \\C[1]3000G\\C[0],\""
               ]
             },
             {
@@ -6627,7 +6669,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna \\SE[5]\"Understood. We'll head to the guild.\""
+                "\\SE[0]Luna"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5]\"Understood. We'll head to the guild.\""
               ]
             },
             {
@@ -6777,14 +6826,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist \"To issue the Bridge Crossing"
+                "\\SE[0]Guild Receptionist"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Permit, it costs \\C[1]3000G\\C[0] and"
+                "\"To issue the Bridge Crossing Permit, it costs \\C[1]3000G\\C[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "and"
               ]
             },
             {
@@ -6802,14 +6858,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist \"\\C[2]a Guild Quest Completion"
+                "\\SE[0]Guild Receptionist"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Certificate\\C[0] must be obtained from the guild.\""
+                "\"\\C[2]a Guild Quest Completion Certificate\\C[0] must be obtained"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "from the guild.\""
               ]
             },
             {
@@ -6888,14 +6951,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist \"Welcome. This is the Arseleon"
+                "\\SE[0]Guild Receptionist"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Merchant House reception desk.\""
+                "\"Welcome. This is the Arseleon Merchant House reception"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "desk.\""
               ]
             },
             {
@@ -6913,14 +6983,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna \\SE[5]\"I've brought the \\C[2]Guild Quest"
+                "\\SE[0]Luna"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Completion Certificate\\C[0].\""
+                "\\SE[5]\"I've brought the \\C[2]Guild Quest Completion"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Certificate\\C[0].\""
               ]
             },
             {
@@ -6938,21 +7015,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist \"We are deeply grateful for the"
+                "\\SE[0]Guild Receptionist"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "efforts of all who contribute to the future of our"
+                "\"We are deeply grateful for the efforts of all who"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "city.\""
+                "contribute to the future of our city.\""
               ]
             },
             {
@@ -6988,14 +7065,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist \"For the processing of the travel"
+                "\\SE[0]Guild Receptionist"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "permit, an additional fee of \\C[1]3,000G\\C[0] is required.\""
+                "\"For the processing of the travel permit, an additional"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "fee of \\C[1]3,000G\\C[0] is required.\""
               ]
             },
             {
@@ -7107,14 +7191,14 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]Guild Receptionist \"We have received the \\C[1]3,000G\\C[0] in"
+                "\\SE[0]Guild Receptionist"
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "full.\""
+                "\"We have received the \\C[1]3,000G\\C[0] in full.\""
               ]
             },
             {
@@ -7162,7 +7246,14 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"So, it's finally Valdeen.\""
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "\\SE[3]\"So, it's finally Valdeen.\""
               ]
             },
             {
@@ -7180,7 +7271,14 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]Luna \\SE[5]\"Yes! Let's go!\""
+                "\\SE[0]Luna"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "\\SE[5]\"Yes! Let's go!\""
               ]
             },
             {
@@ -7220,14 +7318,21 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]Guild Receptionist \"We apologize, but it seems you do"
+                "\\SE[0]Guild Receptionist"
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "not have the full 3,000G.\""
+                "\"We apologize, but it seems you do not have the full"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "3,000G.\""
               ]
             },
             {
@@ -7268,14 +7373,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Guild Receptionist \"We sincerely look forward to your"
+                "\\SE[0]Guild Receptionist"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "next visit.\""
+                "\"We sincerely look forward to your next visit.\""
               ]
             },
             {
@@ -7354,14 +7459,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist \"To reach the Arseleon Great Bridge,"
+                "\\SE[0]Guild Receptionist"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "exit the city and present your pass to the gatekeeper.\""
+                "\"To reach the Arseleon Great Bridge, exit the city and"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "present your pass to the gatekeeper.\""
               ]
             },
             {
@@ -7379,14 +7491,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist \"Re-issuance costs 3,000G, so please"
+                "\\SE[0]Guild Receptionist"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "take care not to lose it.\""
+                "\"Re-issuance costs 3,000G, so please take care not to"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "lose it.\""
               ]
             },
             {
@@ -7404,14 +7523,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist \"Adventurers, may the blessings of"
+                "\\SE[0]Guild Receptionist"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Goddess Fortuna be with you...\""
+                "\"Adventurers, may the blessings of Goddess Fortuna be"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "with you...\""
               ]
             },
             {
@@ -7429,7 +7555,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist \"...\""
+                "\\SE[0]Guild Receptionist"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"...\""
               ]
             },
             {
@@ -7586,7 +7719,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Bar Clerk \"This is a lounge used for meetings and such."
+                "\\SE[0]Bar Clerk"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"This is a lounge used for meetings and such."
               ]
             },
             {
@@ -7664,7 +7804,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male \"U-um… could you do something about that…? Just a"
+                "\\SE[0]Male"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"U-um… could you do something about that…? Just a"
               ]
             },
             {
@@ -7749,14 +7896,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Arseleon Staff \"I've appraised it. This ore has already"
+                "\\SE[0]Arseleon Staff"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "dropped in value."
+                "\"I've appraised it. This ore has already dropped in"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "value."
               ]
             },
             {
@@ -7834,14 +7988,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Merchant \"Phew, I was just taking a breather after"
+                "\\SE[0]Merchant"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "finishing up some business talks.\""
+                "\"Phew, I was just taking a breather after finishing up"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "some business talks.\""
               ]
             },
             {
@@ -7859,14 +8020,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Merchant \"I'm really glad it ended up being a better"
+                "\\SE[0]Merchant"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "deal than I expected.\""
+                "\"I'm really glad it ended up being a better deal than I"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "expected.\""
               ]
             },
             {
@@ -7944,14 +8112,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer \"I came to sell the gem I got from a"
+                "\\SE[0]Female Adventurer"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "quest. Like at an item shop or something.\""
+                "\"I came to sell the gem I got from a quest. Like at an"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "item shop or something.\""
               ]
             },
             {
@@ -7969,14 +8144,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer \"If I can sell this for a high price,"
+                "\\SE[0]Female Adventurer"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I wonder where I'll go play...?!\""
+                "\"If I can sell this for a high price, I wonder where"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I'll go play...?!\""
               ]
             },
             {
@@ -8054,7 +8236,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Merchant \"Hey, you're an adventurer, right?\""
+                "\\SE[0]Merchant"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Hey, you're an adventurer, right?\""
               ]
             },
             {
@@ -8098,7 +8287,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Merchant \"Any place you've traveled to before―\""
+                "\\SE[0]Merchant"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\"Any place you've traveled to before―\""
               ]
             },
             {
@@ -8116,14 +8312,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Merchant \"even just info about the 'Goddess Crystal'"
+                "\\SE[0]Merchant"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "would be great. Anything at all, really.\""
+                "\"even just info about the 'Goddess Crystal' would be"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "great. Anything at all, really.\""
               ]
             },
             {
@@ -8141,14 +8344,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Merchant \"I'll pay well for it! Please, I'm counting on"
+                "\\SE[0]Merchant"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "you!\""
+                "\"I'll pay well for it! Please, I'm counting on you!\""
               ]
             },
             {
@@ -8179,7 +8382,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Merchant \"Ah, I see. Sorry to have taken up your time.\""
+                "\\SE[0]Merchant"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\"Ah, I see. Sorry to have taken up your time.\""
               ]
             },
             {
@@ -8267,14 +8477,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Arseleon Private Guard \"This is the Arseleon Merchant"
+                "\\SE[0]Arseleon Private Guard"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "House.\""
+                "\"This is the Arseleon Merchant House.\""
               ]
             },
             {
@@ -8352,14 +8562,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Arseleon Private Guard \"This is the Arseleon Merchant"
+                "\\SE[0]Arseleon Private Guard"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "House.\""
+                "\"This is the Arseleon Merchant House.\""
               ]
             },
             {
@@ -8497,14 +8707,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Arseleon Private Guard \"When the time for negotiations"
+                "\\SE[0]Arseleon Private Guard"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "approaches, please wait upstairs.\""
+                "\"When the time for negotiations approaches, please wait"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "upstairs.\""
               ]
             },
             {
@@ -8582,14 +8799,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Maid \"Welcome. This is where customers who come for"
+                "\\SE[0]Maid"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "business negotiations"
+                "\"Welcome. This is where customers who come for business"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "negotiations"
               ]
             },
             {
@@ -8992,14 +9216,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist \"Welcome. This is the Arseleon"
+                "\\SE[0]Guild Receptionist"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Merchant House reception desk.\""
+                "\"Welcome. This is the Arseleon Merchant House reception"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "desk.\""
               ]
             },
             {
@@ -9017,7 +9248,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0] \\SE[6]\"U-um... I'd like to discuss a loan...\""
+                "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[6]\"U-um... I'd like to discuss a loan...\""
               ]
             },
             {
@@ -9056,14 +9294,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist \"Understood. Please fill out this"
+                "\\SE[0]Guild Receptionist"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "form.\""
+                "\"Understood. Please fill out this form.\""
               ]
             },
             {
@@ -9175,14 +9413,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist (Hmm... Not bad at all. Every now"
+                "\\SE[0]Guild Receptionist"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "and then, a ripe fruit..."
+                "(Hmm... Not bad at all. Every now and then, a ripe"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "fruit..."
               ]
             },
             {
@@ -9255,7 +9500,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0] \\SE[6]\"I've finished. Is this all right?\""
+                "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[6]\"I've finished. Is this all right?\""
               ]
             },
             {
@@ -9273,14 +9525,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist \"Thank you for filling it out. I'll"
+                "\\SE[0]Guild Receptionist"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "check it for you.\""
+                "\"Thank you for filling it out. I'll check it for you.\""
               ]
             },
             {
@@ -9457,7 +9709,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist (Hey.)"
+                "\\SE[0]Guild Receptionist"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "(Hey.)"
               ]
             },
             {
@@ -9524,14 +9783,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist (Switch places with me for a bit."
+                "\\SE[0]Guild Receptionist"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I've got a plaything coming in.)"
+                "(Switch places with me for a bit. I've got a plaything"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "coming in.)"
               ]
             },
             {
@@ -9567,7 +9833,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist (Heh, I owe you one.)"
+                "\\SE[0]Guild Receptionist"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "(Heh, I owe you one.)"
               ]
             },
             {
@@ -9708,14 +9981,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist \"This form is fine. Since everything"
+                "\\SE[0]Guild Receptionist"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "checks out,\""
+                "\"This form is fine. Since everything checks out,\""
               ]
             },
             {
@@ -9733,14 +10006,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist \"I, your humble servant, will be"
+                "\\SE[0]Guild Receptionist"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "handling your case.\""
+                "\"I, your humble servant, will be handling your case.\""
               ]
             },
             {
@@ -9758,7 +10031,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0] \\SE[6]\"Y-yes, please take care of me.\""
+                "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[6]\"Y-yes, please take care of me.\""
               ]
             },
             {
@@ -9776,14 +10056,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist \"Then, starting at xx o'clock, I'll"
+                "\\SE[0]Guild Receptionist"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "arrange a meeting for the loan consultation.\""
+                "\"Then, starting at xx o'clock, I'll arrange a meeting"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "for the loan consultation.\""
               ]
             },
             {
@@ -9818,14 +10105,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist \"When the time comes, please come to"
+                "\\SE[0]Guild Receptionist"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the \\C[1]room at the very end of the 2F hallway\\C[0]."
+                "\"When the time comes, please come to the \\C[1]room at the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "very end of the 2F hallway\\C[0]."
               ]
             },
             {

@@ -1508,7 +1508,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier \"Hm? What do you want?\""
+                "\\SE[0]Soldier"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Hm? What do you want?\""
               ]
             },
             {
@@ -1651,14 +1658,21 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]Soldier \"I didn't see anything. So you should just"
+                "\\SE[0]Soldier"
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "pretend the same.\""
+                "\"I didn't see anything. So you should just pretend the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "same.\""
               ]
             },
             {
@@ -1695,14 +1709,14 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]Soldier \"This area is off-limits to anyone not"
+                "\\SE[0]Soldier"
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "involved.\""
+                "\"This area is off-limits to anyone not involved.\""
               ]
             },
             {
@@ -1813,7 +1827,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier \"Get the hell out of here, and fast.\""
+                "\\SE[0]Soldier"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Get the hell out of here, and fast.\""
               ]
             },
             {
@@ -1977,14 +1998,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier \"This place used to be a warehouse, but it's"
+                "\\SE[0]Soldier"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "been repurposed as a soldier's quarters."
+                "\"This place used to be a warehouse, but it's been"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "repurposed as a soldier's quarters."
               ]
             },
             {

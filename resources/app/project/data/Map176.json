@@ -4103,14 +4103,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"Hello, Kyle-sama. If you'd like to rest"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "your body, please feel free to use the guest room.\""
+                "\\SE[8]\"Hello, Kyle-sama. If you'd like to rest your body,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "please feel free to use the guest room.\""
               ]
             },
             {
@@ -4179,14 +4186,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"Hello, Kyle-san. If you'd like to rest"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "your body, please feel free to use the guest rooms.\""
+                "\\SE[8]\"Hello, Kyle-san. If you'd like to rest your body,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "please feel free to use the guest rooms.\""
               ]
             },
             {
@@ -4204,14 +4218,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma (If it's about the reward, please come to"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\C[3]my room\\C[0].)"
+                "(If it's about the reward, please come to \\C[3]my room\\C[0].)"
               ]
             },
             {
@@ -4473,14 +4487,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"Hmm... This is a very dire"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "situation...\""
+                "\\SE[8]\"Hmm... This is a very dire situation...\""
               ]
             },
             {
@@ -4529,21 +4543,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"The curse's description is"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "extremely solid, and the purification"
+                "\\SE[8]\"The curse's description is extremely solid,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "spell's overwrite is being rejected.\""
+                "and the purification spell's overwrite is"
               ]
             },
             {
@@ -4561,21 +4575,71 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"It must have been born from\\C[1]"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "long years\\C[0], or\\C[1] intense resentment\\C[0], or even\\C[1]"
+                "being rejected.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_alma1",
+                1,
+                0,
+                2,
+                ""
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "life itself\\C[0] as a price.\""
+                "\\SE[0]Sister Alma"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[8]\"It must have been born from\\C[1] long years\\C[0], or\\C[1]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "intense resentment\\C[0], or even\\C[1] life itself\\C[0] as a"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_alma1",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Sister Alma"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "price.\""
               ]
             },
             {
@@ -4650,7 +4714,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"There's nothing we can do?\""
+                "\\SE[0][Rose]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"There's nothing we can do?\""
               ]
             },
             {
@@ -4668,7 +4739,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"There is a way.\""
+                "\\SE[0]Sister Alma"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[8]\"There is a way.\""
               ]
             },
             {
@@ -4732,14 +4810,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"There's a deep forest south of"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "here, at the foot of the mountains.\""
+                "\\SE[8]\"There's a deep forest south of here, at the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "foot of the mountains.\""
               ]
             },
             {
@@ -4776,14 +4861,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"Deep within it lies a ruined"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "temple.\""
+                "\\SE[8]\"Deep within it lies a ruined temple.\""
               ]
             },
             {
@@ -4820,14 +4905,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"Beyond that is a land called"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the \\C[3]Sanctuary\\C[0], a pure and sacred place.\""
+                "\\SE[8]\"Beyond that is a land called the \\C[3]Sanctuary\\C[0],"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "a pure and sacred place.\""
               ]
             },
             {
@@ -4845,21 +4937,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"The Sanctuary is where holy"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "power, prayer, and faith stabilize the very"
+                "\\SE[8]\"The Sanctuary is a place where, through"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "laws of the world.\""
+                "years of prayer, faith, or the accumulation"
               ]
             },
             {
@@ -4877,21 +4969,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"There, \\C[1]false facts\\C[0] are"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "overridden by \\C[3]the true facts that should"
+                "of holy power, the very laws of the world"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "be\\C[0].\""
+                "stabilize.\""
               ]
             },
             {
@@ -4909,14 +5001,53 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"If we go there, even the"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "strongest curses can be \\C[5]purified\\C[0].\""
+                "\\SE[8]\"There, \\C[1]false facts\\C[0] are overridden by \\C[3]the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "true facts that should be\\C[0].\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_alma1",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Sister Alma"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[8]\"If we go there, even the strongest curses"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "can be \\C[5]purified\\C[0].\""
               ]
             },
             {
@@ -5068,14 +5199,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"Looks like we have no choice but to"
+                "\\SE[0][Kyle]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "go.\""
+                "\\SE[3]\"Looks like we have no choice but to go.\""
               ]
             },
             {
@@ -5123,7 +5254,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"You'll help us?\""
+                "\\SE[0][Rose]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"You'll help us?\""
               ]
             },
             {
@@ -5141,14 +5279,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"Yeah. We're already in this―might as"
+                "\\SE[0][Kyle]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "well see it through. I'll go with you.\""
+                "\\SE[3]\"Yeah. We're already in this―might as well"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "see it through. I'll go with you.\""
               ]
             },
             {
@@ -5175,14 +5320,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"Please stay the night here."
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'll guide you tomorrow.\""
+                "\\SE[8]\"Please stay the night here. I'll guide you"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "tomorrow.\""
               ]
             },
             {
@@ -5320,14 +5472,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"I wonder where Rose went... Maybe I"
+                "\\SE[0][Kyle]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "should look for her.\""
+                "\\SE[3]\"I wonder where Rose went... Maybe I should"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "look for her.\""
               ]
             },
             {
@@ -5702,14 +5861,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Villager \"They say 'Even a sardine's head has its"
+                "\\SE[0]Villager"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "devout side'... Do you know what it means?\""
+                "\"They say 'Even a sardine's head has its devout"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "side'... Do you know what it means?\""
               ]
             },
             {
@@ -5727,21 +5893,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Villager \"No matter how trivial or worthless something"
+                "\\SE[0]Villager"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "may seem, if you truly believe in it, it becomes"
+                "\"No matter how trivial or worthless something may seem,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "precious.\""
+                "if you truly believe in it, it becomes precious.\""
               ]
             },
             {
@@ -5759,14 +5925,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Villager \"That's what it means, apparently. What a"
+                "\\SE[0]Villager"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "wonderful saying.\""
+                "\"That's what it means, apparently. What a wonderful"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "saying.\""
               ]
             },
             {
@@ -5895,14 +6068,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Villager \"I come here to pray to Lady Fortuna before"
+                "\\SE[0]Villager"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "starting my day.\""
+                "\"I come here to pray to Lady Fortuna before starting my"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "day.\""
               ]
             },
             {
@@ -6031,14 +6211,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Child \"I always play the piano here. A sister teaches"
+                "\\SE[0]Child"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "me.\""
+                "\"I always play the piano here. A sister teaches me.\""
               ]
             },
             {

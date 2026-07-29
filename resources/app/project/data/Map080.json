@@ -5858,7 +5858,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"Hah... hah... damn it..."
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Hah... hah... damn it..."
               ]
             },
             {
@@ -5876,7 +5883,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian \\SE[4]\"Lady Luna, are you alright?\""
+                "\\SE[0]Lilian"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4]\"Lady Luna, are you alright?\""
               ]
             },
             {
@@ -5894,14 +5908,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna \\SE[4]\"Yes, I'm fine. All the way to"
+                "\\SE[0]Luna"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Celesphia\""
+                "\\SE[4]\"Yes, I'm fine. All the way to Celesphia\""
               ]
             },
             {

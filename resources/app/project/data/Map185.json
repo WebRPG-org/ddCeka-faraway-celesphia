@@ -6194,7 +6194,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"Ahh... I feel refreshed...\""
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Ahh... I feel refreshed...\""
               ]
             },
             {
@@ -6757,7 +6764,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"W-What?! Mother?!\""
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"W-What?! Mother?!\""
               ]
             },
             {
@@ -6889,14 +6903,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel] \\SE[2]\"You've worked hard today,"
+                "\\SE[0][Noel]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Kyle-sama.\""
+                "\\SE[2]\"You've worked hard today, Kyle-sama.\""
               ]
             },
             {
@@ -6939,7 +6953,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"W-Why are you... in the bath?\""
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"W-Why are you... in the bath?\""
               ]
             },
             {
@@ -6957,21 +6978,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel] \\SE[2]\"Heehee... I thought I'd give"
+                "\\SE[0][Noel]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Kyle-sama a nice back rub. Did I startle"
+                "\\SE[2]\"Heehee... I thought I'd give Kyle-sama a"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "you?\""
+                "nice back rub. Did I startle you?\""
               ]
             },
             {
@@ -6989,7 +7010,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"N-No... I mean, yeah...\""
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"N-No... I mean, yeah...\""
               ]
             },
             {
@@ -7403,7 +7431,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel] \\SE[2]\"How's the pressure, Kyle-sama?\""
+                "\\SE[0][Noel]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[2]\"How's the pressure, Kyle-sama?\""
               ]
             },
             {
@@ -7421,7 +7456,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"Y-Yeah... it's perfect...\""
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Y-Yeah... it's perfect...\""
               ]
             },
             {
@@ -7439,14 +7481,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel] \\SE[2]\"Heehee... I'm glad to hear that."
+                "\\SE[0][Noel]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "How's work been lately?\""
+                "\\SE[2]\"Heehee... I'm glad to hear that. How's work"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "been lately?\""
               ]
             },
             {
@@ -7464,14 +7513,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"I've gotten used to it quite a bit."
+                "\\SE[0][Kyle]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I even picked up something new today.\""
+                "\\SE[3]\"I've gotten used to it quite a bit. I even"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "picked up something new today.\""
               ]
             },
             {
@@ -7489,7 +7545,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel] \\SE[2]\"Oh my, how exciting. But...\""
+                "\\SE[0][Noel]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[2]\"Oh my, how exciting. But...\""
               ]
             },
             {
@@ -7507,21 +7570,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"Luna has to dismantle everything new"
+                "\\SE[0][Kyle]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "she sees... She just can't help but figure"
+                "\\SE[3]\"Luna just has to take everything apart the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "out how it works.\""
+                "second she sees something new... It's like"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/カイル顔裸",
+                5,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "she can't help but figure out how it works.\""
               ]
             },
             {
@@ -7539,21 +7627,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel] \\SE[2]\"Heehee. She's always been like that."
+                "\\SE[0][Noel]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Always breaking things apart. Some things"
+                "\\SE[2]\"Heehee. She's always been like that. Always"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "never change.\""
+                "breaking things apart. Some things never"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_noel1",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0][Noel]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "change.\""
               ]
             },
             {
@@ -7621,7 +7734,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"Are Tiol and Celes causing you any"
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Are Tiol and Celes causing you any"
               ]
             },
             {
@@ -7646,14 +7766,39 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel] \\SE[2]\"Oh, not at all. They're so lively."
+                "\\SE[0][Noel]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The other day, they even caught a hundred"
+                "\\SE[2]\"Oh, not at all. They're so lively. The"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "other day, they even caught a hundred"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_noel1",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0][Noel]"
               ]
             },
             {
@@ -7729,7 +7874,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel] \\SE[2]\"Now, let me wash your back...\""
+                "\\SE[0][Noel]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[2]\"Now, let me wash your back...\""
               ]
             },
             {
@@ -7888,7 +8040,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"H-Hey...! M-Mom...?!\""
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"H-Hey...! M-Mom...?!\""
               ]
             },
             {
@@ -7906,14 +8065,39 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel \\SE[2]\"You mustn't move, Kyle-sama. Think of"
+                "\\SE[0]Noel"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "this as Elven traditional gratitude... or"
+                "\\SE[2]\"You mustn't move, Kyle-sama. Think of this"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "as Elven traditional gratitude... or"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_noel1",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Noel"
               ]
             },
             {
@@ -8026,7 +8210,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"G-Gratitude...?!\""
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"G-Gratitude...?!\""
               ]
             },
             {
@@ -8044,14 +8235,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel \\SE[2]\"I still haven't properly thanked you"
+                "\\SE[0]Noel"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "for saving me, Kyle-sama.\""
+                "\\SE[2]\"I still haven't properly thanked you for"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "saving me, Kyle-sama.\""
               ]
             },
             {
@@ -8069,7 +8267,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel \\SE[2]\"Please, let me serve you like this...\""
+                "\\SE[0]Noel"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[2]\"Please, let me serve you like this...\""
               ]
             },
             {
@@ -8144,7 +8349,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"Uah... Ahh...\""
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Uah... Ahh...\""
               ]
             },
             {
@@ -8162,7 +8374,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel \\SE[2]\"Does it feel good, Kyle-sama?\""
+                "\\SE[0]Noel"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[2]\"Does it feel good, Kyle-sama?\""
               ]
             },
             {
@@ -8223,7 +8442,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel \\SE[2]\"Mm... Kyle-sama's back is so big and"
+                "\\SE[0]Noel"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[2]\"Mm... Kyle-sama's back is so big and"
               ]
             },
             {
@@ -8330,7 +8556,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel \\SE[2]\"Fufu... I'll make you even cleaner.\""
+                "\\SE[0]Noel"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[2]\"Fufu... I'll make you even cleaner.\""
               ]
             },
             {
@@ -8483,7 +8716,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel \\SE[2]\"My... it's grown so big...♡\""
+                "\\SE[0]Noel"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[2]\"My... it's grown so big...♡\""
               ]
             },
             {
@@ -8501,7 +8741,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"！\""
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"！\""
               ]
             },
             {
@@ -8910,7 +9157,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel \\SE[2]\"Could it be... Kyle-sama hasn't been"
+                "\\SE[0]Noel"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[2]\"Could it be... Kyle-sama hasn't been"
               ]
             },
             {
@@ -8935,7 +9189,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"Ah... Uh, well...\""
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Ah... Uh, well...\""
               ]
             },
             {
@@ -9053,21 +9314,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel \\SE[2]\"Fufu... You've been so busy, you"
+                "\\SE[0]Noel"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "haven't even had time to take care of"
+                "\\SE[2]\"Fufu... You've been so busy, you haven't"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "yourself, have you?\""
+                "even had time to take care of yourself, have"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_noel1",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Noel"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "you?\""
               ]
             },
             {
@@ -9359,7 +9645,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel \\SE[2]\"Now, Kyle-sama,\""
+                "\\SE[0]Noel"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[2]\"Now, Kyle-sama,\""
               ]
             },
             {
@@ -9469,14 +9762,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel \\SE[2]\"if it pleases you... would you like to"
+                "\\SE[0]Noel"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "find some relief with me?\""
+                "\\SE[2]\"if it pleases you... would you like to find"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "some relief with me?\""
               ]
             },
             {
@@ -9494,14 +9794,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel \\SE[2]\"Let me serve you more deeply... as"
+                "\\SE[0]Noel"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "thanks for saving my life...♡\""
+                "\\SE[2]\"Let me serve you more deeply... as thanks"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "for saving my life...♡\""
               ]
             },
             {
@@ -9923,7 +10230,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel \\SE[2]\"Come... Kyle-sama...!\""
+                "\\SE[0]Noel"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[2]\"Come... Kyle-sama...!\""
               ]
             },
             {
@@ -10195,7 +10509,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel \\SE[2]\"Nn... Kyle-sama... please...♡\""
+                "\\SE[0]Noel"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[2]\"Nn... Kyle-sama... please...♡\""
               ]
             },
             {
@@ -10213,7 +10534,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"Ah...! Mother...-san...!\""
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Ah...! Mother...-san...!\""
               ]
             },
             {
@@ -10231,7 +10559,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel \\SE[2]\"Aah... now... call me by my name...♡\""
+                "\\SE[0]Noel"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[2]\"Aah... now... call me by my name...♡\""
               ]
             },
             {
@@ -10323,7 +10658,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel \\SE[2]\"Aah... hah...♡\""
+                "\\SE[0]Noel"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[2]\"Aah... hah...♡\""
               ]
             },
             {
@@ -10818,14 +11160,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"Hah... hah...! Noel...-san..."
+                "\\SE[0]Kyle"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "u-ah...!\""
+                "\\SE[3]\"Hah... hah...! Noel...-san... u-ah...!\""
               ]
             },
             {
@@ -10900,7 +11242,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel \\SE[2]\"A, aah...! Kyle-sama... it's... too"
+                "\\SE[0]Noel"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[2]\"A, aah...! Kyle-sama... it's... too"
               ]
             },
             {
@@ -11472,14 +11821,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"Guh... Noel-san... I can't... hold"
+                "\\SE[0]Kyle"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "back... I'm gonna cum...!\""
+                "\\SE[3]\"Guh... Noel-san... I can't... hold back..."
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I'm gonna cum...!\""
               ]
             },
             {
@@ -11497,14 +11853,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel \\SE[2]\"It's fine...ah! Just release"
+                "\\SE[0]Noel"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "everything inside me...please...!\""
+                "\\SE[2]\"It's fine...ah! Just release everything"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "inside me...please...!\""
               ]
             },
             {
@@ -11522,14 +11885,39 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel \\SE[2]\"An Elf's fertile period is so short..."
+                "\\SE[0]Noel"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm already past the age where I can easily"
+                "\\SE[2]\"An Elf's fertile period is so short... I'm"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "already past the age where I can easily"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_noel1",
+                4,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Noel"
               ]
             },
             {
@@ -11800,7 +12188,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"Ah... aaaah...!\""
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Ah... aaaah...!\""
               ]
             },
             {
@@ -11843,7 +12238,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel \\SE[2]\"♡♡♡\""
+                "\\SE[0]Noel"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[2]\"♡♡♡\""
               ]
             },
             {
@@ -11986,7 +12388,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel \\SE[2]\"♡♡♡\""
+                "\\SE[0]Noel"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[2]\"♡♡♡\""
               ]
             },
             {
@@ -12089,14 +12498,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel \\SE[2]\"Fufu... Of course, I'll be your"
+                "\\SE[0]Noel"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "partner as many times as you like♡\""
+                "\\SE[2]\"Fufu... Of course, I'll be your partner as"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "many times as you like♡\""
               ]
             },
             {
@@ -12233,14 +12649,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel \\SE[2]\"Come now, Kyle-sama... This time,"
+                "\\SE[0]Noel"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "please thrust deep inside me...♡\""
+                "\\SE[2]\"Come now, Kyle-sama... This time, please"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "thrust deep inside me...♡\""
               ]
             },
             {
@@ -12715,14 +13138,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel \\SE[2]\"Nn...! Ah, the deepest... part...!"
+                "\\SE[0]Noel"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's hitting...!\""
+                "\\SE[2]\"Nn...! Ah, the deepest... part...! It's"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "hitting...!\""
               ]
             },
             {
@@ -13100,7 +13530,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel \\SE[2]\"Ah, a-ah...! I'm... I'm cumming...!"
+                "\\SE[0]Noel"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[2]\"Ah, a-ah...! I'm... I'm cumming...!"
               ]
             },
             {
@@ -13229,7 +13666,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"Noel...san! Second round... I'm gonna"
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Noel...san! Second round... I'm gonna"
               ]
             },
             {
@@ -13713,7 +14157,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"Haa... haa...\""
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Haa... haa...\""
               ]
             },
             {
@@ -13787,7 +14238,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel] \\SE[2]\"Kyle-sama... nnh♡\""
+                "\\SE[0][Noel]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[2]\"Kyle-sama... nnh♡\""
               ]
             },
             {
@@ -13988,7 +14446,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"N-Noel-san...?!\""
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"N-Noel-san...?!\""
               ]
             },
             {
@@ -14006,14 +14471,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel] \\SE[2]\"Hehe, Kyle-sama... it's still so hot"
+                "\\SE[0][Noel]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "and... full of energy here...♡\""
+                "\\SE[2]\"Hehe, Kyle-sama... it's still so hot and..."
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "full of energy here...♡\""
               ]
             },
             {
@@ -14211,14 +14683,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel] \\SE[2]\"Ahh♡ Ahnn♡ Kyle-sama...! It feels..."
+                "\\SE[0][Noel]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "so good... too good...! Nn, nn\""
+                "\\SE[2]\"Ahh♡ Ahnn♡ Kyle-sama...! It feels... so"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "good... too good...! Nn, nn\""
               ]
             },
             {
@@ -14547,7 +15026,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"Noel...! Again... I'm gonna...!\""
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Noel...! Again... I'm gonna...!\""
               ]
             },
             {
@@ -14565,14 +15051,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel] \\SE[2]\"It's okay...! Fill me up, all of"
+                "\\SE[0][Noel]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "it... everything... please...♡\""
+                "\\SE[2]\"It's okay...! Fill me up, all of it..."
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "everything... please...♡\""
               ]
             },
             {
@@ -15040,14 +15533,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel] \\SE[2]\"A, a, aahh...! I'm gonna... I'm"
+                "\\SE[0][Noel]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "gonna cum...! Kyle-sama...!!\""
+                "\\SE[2]\"A, a, aahh...! I'm gonna... I'm gonna"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "cum...! Kyle-sama...!!\""
               ]
             },
             {
@@ -15690,7 +16190,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"Noel...san, um... thank you.\""
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Noel...san, um... thank you.\""
               ]
             },
             {
@@ -15708,7 +16215,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel] \\SE[2]\"Hehe... It's I who should thank you,"
+                "\\SE[0][Noel]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[2]\"Hehe... It's I who should thank you,"
               ]
             },
             {
@@ -15716,6 +16230,24 @@
               "indent": 0,
               "parameters": [
                 "Kyle-sama. For indulging my selfishness..."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_noel1",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0][Noel]"
               ]
             },
             {
@@ -15740,7 +16272,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel] \\SE[2]\"Thanks to you, I'm filled to my very"
+                "\\SE[0][Noel]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[2]\"Thanks to you, I'm filled to my very"
               ]
             },
             {
@@ -15748,6 +16287,24 @@
               "indent": 0,
               "parameters": [
                 "core... Hehe, it seems I've taken much more"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_noel1",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0][Noel]"
               ]
             },
             {
@@ -15980,14 +16537,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel] \\SE[2]\"Well then, Kyle-sama, I'll take my"
+                "\\SE[0][Noel]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "leave now. Please rest well.\""
+                "\\SE[2]\"Well then, Kyle-sama, I'll take my leave"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "now. Please rest well.\""
               ]
             },
             {
@@ -17305,7 +17869,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]The bath, once just a tiny wash tub with a bucket, was"
+                "\\SE[3]And the bath, which had only been a small tub where"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "they could wash themselves with a little bucket, was"
               ]
             },
             {
@@ -17316,10 +17887,21 @@
               ]
             },
             {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "soak in."
+                "soak up to their shoulders."
               ]
             },
             {

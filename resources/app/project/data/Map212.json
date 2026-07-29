@@ -1492,14 +1492,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Villager \"I'm still recovering from the injuries I got"
+                "\\SE[0]Villager"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "when the monster attacked me.\""
+                "\"I'm still recovering from the injuries I got when the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "monster attacked me.\""
               ]
             },
             {

@@ -24280,14 +24280,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian] \\SE[4]\"It's so hot! Moving through this"
+                "\\SE[0][Lilian]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "must be difficult...!\""
+                "\\SE[4]\"It's so hot! Moving through this must be"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "difficult...!\""
               ]
             },
             {
@@ -24305,14 +24312,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"Let's use my \\C[2]Field Barrier\\C[0] to get"
+                "\\SE[0][Kyle]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "through.\""
+                "\\SE[3]\"Let's use my \\C[2]Field Barrier\\C[0] to get through.\""
               ]
             },
             {
@@ -24330,7 +24337,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna] \\SE[5]\"Be careful with your MP, Kyle-sama.\""
+                "\\SE[0][Luna]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5]\"Be careful with your MP, Kyle-sama.\""
               ]
             },
             {

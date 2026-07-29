@@ -10554,14 +10554,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer \"Uh... what should I do... 10,000,"
+                "\\SE[0]Adventurer"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "maybe...?\""
+                "\"Uh... what should I do... 10,000, maybe...?\""
               ]
             },
             {
@@ -10741,7 +10741,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer \"Hey, come on...! Just once... yeah?\""
+                "\\SE[0]Adventurer"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Hey, come on...! Just once... yeah?\""
               ]
             },
             {
@@ -10921,14 +10928,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Townsperson \"This place has its fair share of water."
+                "\\SE[0]Townsperson"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Without water, people can't"
+                "\"This place has its fair share of water. Without water,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "people can't"
               ]
             },
             {
@@ -10946,14 +10960,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Townsperson \"Grimridge used to be a land filled with"
+                "\\SE[0]Townsperson"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "water and overflowing with greenery.\""
+                "\"Grimridge used to be a land filled with water and"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "overflowing with greenery.\""
               ]
             },
             {
@@ -10971,14 +10992,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Townsperson \"But then, a volcanic eruption occurred,"
+                "\\SE[0]Townsperson"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "and miasma began to gather...\""
+                "\"But then, a volcanic eruption occurred, and miasma"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "began to gather...\""
               ]
             },
             {
@@ -10996,14 +11024,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Townsperson \"It's a place only the reckless would dare"
+                "\\SE[0]Townsperson"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "to go.\""
+                "\"It's a place only the reckless would dare to go.\""
               ]
             },
             {
@@ -11183,7 +11211,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier \"This is where my fallen comrades are buried.\""
+                "\\SE[0]Soldier"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"This is where my fallen comrades are buried.\""
               ]
             },
             {
@@ -11312,14 +11347,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Innkeeper \"Ugh, damn it! No matter how many sheets I"
+                "\\SE[0]Innkeeper"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "wash, it's never enough!"
+                "\"Ugh, damn it! No matter how many sheets I wash, it's"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "never enough!"
               ]
             },
             {
@@ -11397,14 +11439,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier \"There are monsters swarming outside. The ones"
+                "\\SE[0]Soldier"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "around here are vicious.\""
+                "\"There are monsters swarming outside. The ones around"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "here are vicious.\""
               ]
             },
             {
@@ -11422,14 +11471,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier (Still, I wanna grope her so bad... Ahh... Like"
+                "\\SE[0]Soldier"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "this with both hands...)"
+                "(Still, I wanna grope her so bad... Ahh... Like this"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "with both hands...)"
               ]
             },
             {
@@ -11507,14 +11563,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier \"You crossed that bridge on your way here,"
+                "\\SE[0]Soldier"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "right?"
+                "\"You crossed that bridge on your way here, right?"
               ]
             },
             {
@@ -11532,14 +11588,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier \"Apparently, a giant sandworm's been lurking"
+                "\\SE[0]Soldier"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "around."
+                "\"Apparently, a giant sandworm's been lurking around."
               ]
             },
             {
@@ -11557,7 +11613,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier \"It's been popping up southeast of the desert.\""
+                "\\SE[0]Soldier"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"It's been popping up southeast of the desert.\""
               ]
             },
             {
@@ -11635,14 +11698,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer \"This inn's a little out of the way,"
+                "\\SE[0]Female Adventurer"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "isn't it?\""
+                "\"This inn's a little out of the way, isn't it?\""
               ]
             },
             {
@@ -11660,14 +11723,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer \"So… everyone here's fucking like"
+                "\\SE[0]Female Adventurer"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "rabbits, you know?♡"
+                "\"So… everyone here's fucking like rabbits, you know?♡"
               ]
             },
             {
@@ -11847,14 +11910,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Townsperson \"You know the story about the desert"
+                "\\SE[0]Townsperson"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "treasure?\""
+                "\"You know the story about the desert treasure?\""
               ]
             },
             {
@@ -11872,14 +11935,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Townsperson \"Back in the day, there was a band of"
+                "\\SE[0]Townsperson"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "thieves who were attacked by monsters in the desert,"
+                "\"Back in the day, there was a band of thieves who were"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "attacked by monsters in the desert,"
               ]
             },
             {
@@ -11897,14 +11967,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Townsperson \"and they supposedly dropped all their gold"
+                "\\SE[0]Townsperson"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "and silver treasures in the sand...\""
+                "\"and they supposedly dropped all their gold and silver"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "treasures in the sand...\""
               ]
             },
             {
@@ -11922,14 +11999,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Townsperson \"I've never heard of anyone finding it,"
+                "\\SE[0]Townsperson"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "though.\""
+                "\"I've never heard of anyone finding it, though.\""
               ]
             },
             {
@@ -12058,7 +12135,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Townsperson \"I just moved here. I hate the rain.\""
+                "\\SE[0]Townsperson"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"I just moved here. I hate the rain.\""
               ]
             },
             {
@@ -12238,7 +12322,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Child \"They say Valgrind is the strongest dragon in the"
+                "\\SE[0]Child"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"They say Valgrind is the strongest dragon in the"
               ]
             },
             {
@@ -12425,14 +12516,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Child \"No way! There's no way something that big"
+                "\\SE[0]Child"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "exists!\""
+                "\"No way! There's no way something that big exists!\""
               ]
             },
             {
@@ -13090,14 +13181,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer \"I've scoured every corner of Eldenia"
+                "\\SE[0]Female Adventurer"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Town looking for a shady place...\""
+                "\"I've scoured every corner of Eldenia Town looking for"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "a shady place...\""
               ]
             },
             {
@@ -13115,14 +13213,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer \"My gut tells me the back of the"
+                "\\SE[0]Female Adventurer"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "soldiers' barracks is suspicious.\""
+                "\"My gut tells me the back of the soldiers' barracks is"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "suspicious.\""
               ]
             },
             {

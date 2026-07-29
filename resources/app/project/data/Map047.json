@@ -2160,7 +2160,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer \"Hey... The staff here are cute, huh?\""
+                "\\SE[0]Male Adventurer"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Hey... The staff here are cute, huh?\""
               ]
             },
             {
@@ -2178,14 +2185,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer \"I wonder if I could get close to"
+                "\\SE[0]Male Adventurer"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "them... But I can't use magic... Sigh.\""
+                "\"I wonder if I could get close to them... But I can't"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "use magic... Sigh.\""
               ]
             },
             {
@@ -2263,7 +2277,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shop Clerk \"No one really knows how monsters are born.\""
+                "\\SE[0]Shop Clerk"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"No one really knows how monsters are born.\""
               ]
             },
             {
@@ -2281,14 +2302,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shop Clerk \"One theory says they're born when a living"
+                "\\SE[0]Shop Clerk"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "creature's corpse mixes with miasma...\""
+                "\"One theory says they're born when a living creature's"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "corpse mixes with miasma...\""
               ]
             },
             {
@@ -2306,14 +2334,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shop Clerk \"The Academy's been researching this too."
+                "\\SE[0]Shop Clerk"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Maybe one day, monsters will be wiped out entirely.\""
+                "\"The Academy's been researching this too. Maybe one"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "day, monsters will be wiped out entirely.\""
               ]
             },
             {

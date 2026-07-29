@@ -4676,7 +4676,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rosie Event (5/12) Play \"Throb 4\"?"
+                "\\SE[0]Rosie Event (5/12)"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Play \"Throb 4\"?"
               ]
             },
             {
@@ -5025,14 +5032,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"Kyle...! Please... it's throbbing..."
+                "\\SE[0][Rose]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "it hurts...!\""
+                "\\SE[1]\"Kyle...! Please... it's throbbing... it"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "hurts...!\""
               ]
             },
             {
@@ -5050,7 +5064,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"！\""
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"！\""
               ]
             },
             {
@@ -5270,14 +5291,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"No... it's so frustrating... don't"
+                "\\SE[0][Rose]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "tease me...! More... please...!\""
+                "\\SE[1]\"No... it's so frustrating... don't tease"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "me...! More... please...!\""
               ]
             },
             {
@@ -5345,14 +5373,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"Ah! ...Aahh...! Nn...! Kyle... it"
+                "\\SE[0][Rose]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "feels so good...♡\""
+                "\\SE[1]\"Ah! ...Aahh...! Nn...! Kyle... it feels so"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "good...♡\""
               ]
             },
             {
@@ -5395,7 +5430,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"～～～～♡♡♡\""
+                "\\SE[0][Rose]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"～～～～♡♡♡\""
               ]
             },
             {
@@ -5523,7 +5565,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"Hah...! Hah... Hah...!\""
+                "\\SE[0][Rose]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Hah...! Hah... Hah...!\""
               ]
             },
             {
@@ -5610,14 +5659,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"Hah... hah... I can't take... this"
+                "\\SE[0][Rose]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "curse anymore...///\""
+                "\\SE[1]\"Hah... hah... I can't take... this curse"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "anymore...///\""
               ]
             },
             {

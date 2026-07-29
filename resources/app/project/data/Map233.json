@@ -17731,7 +17731,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"...Congratulations, Rose. Be happy,\""
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"...Congratulations, Rose. Be happy,\""
               ]
             },
             {
@@ -18143,14 +18150,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"Damn it... writing that without asking"
+                "\\SE[0]Kyle"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "me,\""
+                "\\SE[3]\"Damn it... writing that without asking me,\""
               ]
             },
             {

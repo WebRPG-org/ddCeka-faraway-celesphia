@@ -6759,7 +6759,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"Come on, let's go.\""
+                "\\SE[0][Rose]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Come on, let's go.\""
               ]
             },
             {
@@ -6808,14 +6815,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"So this is your new adventurer"
+                "\\SE[0][Kyle]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "style, huh?\""
+                "\\SE[3]\"So this is your new adventurer style, huh?\""
               ]
             },
             {
@@ -6833,14 +6840,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"Yes, that's right. Come on, let's"
+                "\\SE[0][Rose]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "get in the carriage.\""
+                "\\SE[1]\"Yes, that's right. Come on, let's get in"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "the carriage.\""
               ]
             },
             {
@@ -6858,7 +6872,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"Yeah, let's get going.\""
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Yeah, let's get going.\""
               ]
             },
             {
@@ -6951,7 +6972,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"………\""
+                "\\SE[0][Rose]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"………\""
               ]
             },
             {
@@ -6969,7 +6997,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"………\""
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"………\""
               ]
             },
             {

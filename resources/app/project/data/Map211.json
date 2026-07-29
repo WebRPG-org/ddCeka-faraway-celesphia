@@ -1492,14 +1492,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Villager \"The Sacred Grove? Oh, I go there sometimes."
+                "\\SE[0]Villager"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's easy to get lost, so be careful.\""
+                "\"The Sacred Grove? Oh, I go there sometimes. It's easy"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "to get lost, so be careful.\""
               ]
             },
             {

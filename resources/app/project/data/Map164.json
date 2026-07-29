@@ -1406,7 +1406,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shop Owner \"Welcome, honored guest.\""
+                "\\SE[0]Shop Owner"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Welcome, honored guest.\""
               ]
             },
             {
@@ -1424,14 +1431,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shop Owner \"Everything I show you from this"
+                "\\SE[0]Shop Owner"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "point on is unlicensed.\""
+                "\"Everything I show you from this point on is"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "unlicensed.\""
               ]
             },
             {
@@ -1449,7 +1463,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shop Owner \"Please keep that to yourself.\""
+                "\\SE[0]Shop Owner"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Please keep that to yourself.\""
               ]
             },
             {
@@ -1594,14 +1615,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Shop Owner \"A fine deal indeed. Do come"
+                "\\SE[0]Shop Owner"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "again."
+                "\"A fine deal indeed. Do come again."
               ]
             },
             {

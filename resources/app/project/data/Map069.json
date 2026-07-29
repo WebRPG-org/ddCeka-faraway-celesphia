@@ -1466,14 +1466,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Item Shop \"Welcome! We have a variety of items in"
+                "\\SE[0]Item Shop"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "stock.\""
+                "\"Welcome! We have a variety of items in stock.\""
               ]
             },
             {
@@ -1582,14 +1582,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Item Shop \"Please come again! Feel free to visit"
+                "\\SE[0]Item Shop"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "anytime.\""
+                "\"Please come again! Feel free to visit anytime.\""
               ]
             },
             {
@@ -1667,14 +1667,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer \"Grimridge is at a high elevation, so"
+                "\\SE[0]Female Adventurer"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "climbing it will be long and treacherous.\""
+                "\"Grimridge is at a high elevation, so climbing it will"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "be long and treacherous.\""
               ]
             },
             {
@@ -1692,14 +1699,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer \"Think about the long battle ahead"
+                "\\SE[0]Female Adventurer"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "and prepare thoroughly.\""
+                "\"Think about the long battle ahead and prepare"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "thoroughly.\""
               ]
             },
             {

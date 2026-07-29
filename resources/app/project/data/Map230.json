@@ -3117,7 +3117,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Isolde \\SE[2]\"Hey... Did you... ever love me... at all?\""
+                "\\SE[0]Isolde"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[2]\"Hey... Did you... ever love me... at all?\""
               ]
             },
             {
@@ -3381,7 +3388,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Isolde \\SE[2]\"……………\""
+                "\\SE[0]Isolde"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[2]\"……………\""
               ]
             },
             {

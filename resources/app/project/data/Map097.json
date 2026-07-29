@@ -6259,7 +6259,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian] \\SE[4]\"So this is... Celesphia...!\""
+                "\\SE[0][Lilian]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4]\"So this is... Celesphia...!\""
               ]
             },
             {
@@ -6277,7 +6284,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"How beautiful...\""
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"How beautiful...\""
               ]
             },
             {
@@ -6295,14 +6309,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna] \\SE[5]\"Let's pick it and head back"
+                "\\SE[0][Luna]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "down...!\""
+                "\\SE[5]\"Let's pick it and head back down...!\""
               ]
             },
             {
@@ -6414,7 +6428,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"The mountain... it's shaking?!\""
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"The mountain... it's shaking?!\""
               ]
             },
             {
@@ -6470,14 +6491,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian] \\SE[4]\"It's an eruption! Everyone, get"
+                "\\SE[0][Lilian]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "away―!\""
+                "\\SE[4]\"It's an eruption! Everyone, get away―!\""
               ]
             },
             {
@@ -7507,7 +7528,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna \\SE[5]「……！！！」"
+                "\\SE[0]Luna"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5]「……！！！」"
               ]
             },
             {

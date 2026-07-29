@@ -7046,14 +7046,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Horse Owner \"It's 100G to the royal capital. It's a"
+                "\\SE[0]Horse Owner"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "shared carriage, so...\""
+                "\"It's 100G to the royal capital. It's a shared"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "carriage, so...\""
               ]
             },
             {
@@ -7166,7 +7173,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Horse Owner \"Thanks! We'll be leaving soon.\""
+                "\\SE[0]Horse Owner"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Thanks! We'll be leaving soon.\""
               ]
             },
             {

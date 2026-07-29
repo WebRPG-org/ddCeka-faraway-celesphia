@@ -2588,7 +2588,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Mayor \"Hello, traveler. I am the mayor of Eldenia.\""
+                "\\SE[0]Mayor"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Hello, traveler. I am the mayor of Eldenia.\""
               ]
             },
             {
@@ -2606,7 +2613,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Mayor \"Eldenia thrives mainly on tourism and export"
+                "\\SE[0]Mayor"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Eldenia thrives mainly on tourism and export"
               ]
             },
             {
@@ -2631,14 +2645,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Mayor \"and we export a variety of goods. In particular,"
+                "\\SE[0]Mayor"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "our most popular exports are\""
+                "\"and we export a variety of goods. In particular, our"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "most popular exports are\""
               ]
             },
             {
@@ -2747,14 +2768,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Maid \"Hey, hey! It's dangerous in there, so don't go"
+                "\\SE[0]Maid"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "in!\""
+                "\"Hey, hey! It's dangerous in there, so don't go in!\""
               ]
             },
             {
@@ -2772,14 +2793,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Maid \"If you're the scholar teacher, they're sitting at"
+                "\\SE[0]Maid"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "that desk over there.\""
+                "\"If you're the scholar teacher, they're sitting at that"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "desk over there.\""
               ]
             },
             {
@@ -2857,14 +2885,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Merchant \"I came from across the sea. Quite a long"
+                "\\SE[0]Merchant"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "voyage.\""
+                "\"I came from across the sea. Quite a long voyage.\""
               ]
             },
             {
@@ -2882,14 +2910,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Merchant \"Once this deal is done, I'd love to have a"
+                "\\SE[0]Merchant"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "drink at the tavern.\""
+                "\"Once this deal is done, I'd love to have a drink at"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "the tavern.\""
               ]
             },
             {
@@ -2907,14 +2942,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Merchant \"Ah, right. If you ever run into Valgrind of"
+                "\\SE[0]Merchant"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Grimridge,"
+                "\"Ah, right. If you ever run into Valgrind of Grimridge,"
               ]
             },
             {
@@ -2932,14 +2967,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Merchant \"I'll pay top coin for it. Though I doubt it"
+                "\\SE[0]Merchant"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "even exists, really.\""
+                "\"I'll pay top coin for it. Though I doubt it even"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "exists, really.\""
               ]
             },
             {
@@ -3420,14 +3462,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Scholar \"Yes, I've been studying Grimridge for many"
+                "\\SE[0]Scholar"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "years.\""
+                "\"Yes, I've been studying Grimridge for many years.\""
               ]
             },
             {
@@ -3445,14 +3487,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Scholar \"It's true that Grimridge has what are called"
+                "\\SE[0]Scholar"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "spirit herbs...\""
+                "\"It's true that Grimridge has what are called spirit"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "herbs...\""
               ]
             },
             {
@@ -3470,14 +3519,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Scholar \"...but I've never actually seen one with my"
+                "\\SE[0]Scholar"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "own eyes.\""
+                "\"...but I've never actually seen one with my own eyes.\""
               ]
             },
             {
@@ -3495,21 +3544,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Scholar \"That alone should tell you how dangerous the"
+                "\\SE[0]Scholar"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "place is. Only the most skilled adventurers dare to go"
+                "\"That alone should tell you how dangerous the place is."
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "there.\""
+                "Only the most skilled adventurers dare to go there.\""
               ]
             },
             {
@@ -3587,14 +3636,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Researcher \"Celesphia? Of course I know it. It's a"
+                "\\SE[0]Researcher"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "spirit herb.\""
+                "\"Celesphia? Of course I know it. It's a spirit herb.\""
               ]
             },
             {
@@ -3612,14 +3661,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Researcher \"A legendary flower that only grows in"
+                "\\SE[0]Researcher"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Grimridge,"
+                "\"A legendary flower that only grows in Grimridge,"
               ]
             },
             {
@@ -3637,14 +3686,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Researcher \"and consuming it can heal any disease or"
+                "\\SE[0]Researcher"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "even fatal wounds―\""
+                "\"and consuming it can heal any disease or even fatal"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "wounds―\""
               ]
             },
             {
@@ -3662,14 +3718,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Researcher \"but it's so rare that I've never even laid"
+                "\\SE[0]Researcher"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "eyes on one.\""
+                "\"but it's so rare that I've never even laid eyes on"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "one.\""
               ]
             },
             {
@@ -3687,14 +3750,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Researcher \"If you ever get your hands on one, would"
+                "\\SE[0]Researcher"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "you be willing to let me have it?\""
+                "\"If you ever get your hands on one, would you be"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "willing to let me have it?\""
               ]
             },
             {

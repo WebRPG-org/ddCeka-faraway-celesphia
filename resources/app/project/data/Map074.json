@@ -3830,7 +3830,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shop Clerk \"Welcome to Al-Nadia.\""
+                "\\SE[0]Shop Clerk"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Welcome to Al-Nadia.\""
               ]
             },
             {
@@ -3848,14 +3855,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shop Clerk \"This establishment operates as a brothel."
+                "\\SE[0]Shop Clerk"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Excuse me,\""
+                "\"This establishment operates as a brothel. Excuse me,\""
               ]
             },
             {
@@ -3873,14 +3880,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shop Clerk \"but we kindly ask that you refrain from"
+                "\\SE[0]Shop Clerk"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "bringing any companions.\""
+                "\"but we kindly ask that you refrain from bringing any"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "companions.\""
               ]
             },
             {
@@ -4048,7 +4062,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Woman \"Hah...hah...♡ Ahh...aahn...listen...♡\""
+                "\\SE[0]Woman"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Hah...hah...♡ Ahh...aahn...listen...♡\""
               ]
             },
             {
@@ -4066,7 +4087,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Man \"Hehehe...I'm all ready over here too.\""
+                "\\SE[0]Man"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Hehehe...I'm all ready over here too.\""
               ]
             },
             {
@@ -4755,14 +4783,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Woman \"Oh? A customer? ...Not that it matters. You've"
+                "\\SE[0]Woman"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "got a girl with you.\""
+                "\"Oh? A customer? ...Not that it matters. You've got a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "girl with you.\""
               ]
             },
             {
@@ -4798,14 +4833,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Woman \"The little one doesn't need to know. Come back"
+                "\\SE[0]Woman"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "when you're all grown up.\""
+                "\"The little one doesn't need to know. Come back when"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "you're all grown up.\""
               ]
             },
             {
@@ -4884,7 +4926,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Woman \"Exactly. It's a shop for men.\""
+                "\\SE[0]Woman"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Exactly. It's a shop for men.\""
               ]
             },
             {
@@ -5041,14 +5090,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shop Clerk \"Excuse me, that room is restricted to"
+                "\\SE[0]Shop Clerk"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "registered users only.\""
+                "\"Excuse me, that room is restricted to registered users"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "only.\""
               ]
             },
             {
@@ -5270,7 +5326,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Passel \\SE[0](O-Okay... Let's go.)"
+                "\\SE[0]Passel"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0](O-Okay... Let's go.)"
               ]
             },
             {
@@ -5412,7 +5475,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shop Clerk \\SE[0]\"Welcome to \\C[1]Brothel Al-Nadia\\C[0].\""
+                "\\SE[0]Shop Clerk"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]\"Welcome to \\C[1]Brothel Al-Nadia\\C[0].\""
               ]
             },
             {
@@ -5430,7 +5500,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Passel \\SE[0]\"Y-Yes... Please.\""
+                "\\SE[0]Passel"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]\"Y-Yes... Please.\""
               ]
             },
             {
@@ -5447,7 +5524,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shop Clerk \\SE[0]\"Please wait a moment.\""
+                "\\SE[0]Shop Clerk"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]\"Please wait a moment.\""
               ]
             },
             {
@@ -5558,7 +5642,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Passel \\SE[0](Calm down... I have to..."
+                "\\SE[0]Passel"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0](Calm down... I have to..."
               ]
             },
             {
@@ -5576,7 +5667,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Passel \\SE[0](With this, I can seduce that slutty"
+                "\\SE[0]Passel"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0](With this, I can seduce that slutty"
               ]
             },
             {
@@ -5631,7 +5729,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shop Clerk \\SE[0]\"Thank you for waiting.\""
+                "\\SE[0]Shop Clerk"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]\"Thank you for waiting.\""
               ]
             },
             {
@@ -5649,7 +5754,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Passel \\SE[0]\"O-Okay... Let's go...!\""
+                "\\SE[0]Passel"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]\"O-Okay... Let's go...!\""
               ]
             },
             {

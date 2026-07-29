@@ -2831,7 +2831,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Horse Owner \"All aboard―choo choo!\""
+                "\\SE[0]Horse Owner"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"All aboard―choo choo!\""
               ]
             },
             {
@@ -2889,14 +2896,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle (Next stop's the royal capital… been"
+                "\\SE[0]Kyle"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "two years since I was last there.)"
+                "(Next stop's the royal capital… been two"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "years since I was last there.)"
               ]
             },
             {

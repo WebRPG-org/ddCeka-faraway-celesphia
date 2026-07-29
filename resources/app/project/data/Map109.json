@@ -3260,7 +3260,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shop Clerk \"Welcome. We deal in weapons here.\""
+                "\\SE[0]Shop Clerk"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Welcome. We deal in weapons here.\""
               ]
             },
             {
@@ -3339,7 +3346,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shop Clerk \"We look forward to your next visit.\""
+                "\\SE[0]Shop Clerk"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"We look forward to your next visit.\""
               ]
             },
             {
@@ -3417,7 +3431,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shop Owner \"Welcome!"
+                "\\SE[0]Shop Owner"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Welcome!"
               ]
             },
             {
@@ -3496,7 +3517,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shop Owner \"Please come again!\""
+                "\\SE[0]Shop Owner"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Please come again!\""
               ]
             },
             {
@@ -3653,7 +3681,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shop Clerk \"Welcome. We deal in armor here.\""
+                "\\SE[0]Shop Clerk"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Welcome. We deal in armor here.\""
               ]
             },
             {
@@ -3882,7 +3917,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shop Clerk \"We look forward to your next visit.\""
+                "\\SE[0]Shop Clerk"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"We look forward to your next visit.\""
               ]
             },
             {
@@ -3960,14 +4002,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer \"You won't get any benefits if you"
+                "\\SE[0]Female Adventurer"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "don't properly equip your weapons and armor.\""
+                "\"You won't get any benefits if you don't properly equip"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "your weapons and armor.\""
               ]
             },
             {
@@ -3985,14 +4034,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer \"If you're heading to the mines,"
+                "\\SE[0]Female Adventurer"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "watch out for poison and the damn darkness.\""
+                "\"If you're heading to the mines, watch out for poison"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "and the damn darkness.\""
               ]
             },
             {
@@ -4101,14 +4157,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer \"Back in the day, humans, elves, and"
+                "\\SE[0]Adventurer"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "beastkin used to fight each other, it seems."
+                "\"Back in the day, humans, elves, and beastkin used to"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "fight each other, it seems."
               ]
             },
             {
@@ -4126,14 +4189,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer \"The staff here are beastkin, but they live"
+                "\\SE[0]Adventurer"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "in this village alongside humans.\""
+                "\"The staff here are beastkin, but they live in this"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "village alongside humans.\""
               ]
             },
             {
@@ -4277,7 +4347,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer \"Condoms are essential gear for adventurers."
+                "\\SE[0]Adventurer"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Condoms are essential gear for adventurers."
               ]
             },
             {
@@ -4295,14 +4372,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer They're so thin yet stretch really well and"
+                "\\SE[0]Adventurer"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "rarely tear."
+                "They're so thin yet stretch really well and rarely"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "tear."
               ]
             },
             {
@@ -4320,14 +4404,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Elheim... they're apparently produced in the"
+                "\\SE[0]Adventurer"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "long-eared nation of Elheim.\""
+                "Elheim... they're apparently produced in the long-eared"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "nation of Elheim.\""
               ]
             },
             {

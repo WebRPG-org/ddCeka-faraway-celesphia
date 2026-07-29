@@ -9255,7 +9255,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Captain \"Hold the front line!\""
+                "\\SE[0]Captain"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Hold the front line!\""
               ]
             },
             {
@@ -9734,7 +9741,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Monster \"Gumomooo!!\""
+                "\\SE[0]Monster"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Gumomooo!!\""
               ]
             },
             {
@@ -11049,7 +11063,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \"Holy Light!\""
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Holy Light!\""
               ]
             },
             {

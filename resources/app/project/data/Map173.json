@@ -7187,7 +7187,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Staff \\SE[6]\"Yes, I've confirmed your receipt.\""
+                "\\SE[0]Guild Staff"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[6]\"Yes, I've confirmed your receipt.\""
               ]
             },
             {
@@ -7205,14 +7212,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Staff \\SE[6]\"Since you've cleared the quest, please"
+                "\\SE[0]Guild Staff"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "accept this reward.\""
+                "\\SE[6]\"Since you've cleared the quest, please accept this"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "reward.\""
               ]
             },
             {
@@ -7769,7 +7783,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Staff \\SE[6]\"Ah, Kyle-san!\""
+                "\\SE[0]Guild Staff"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[6]\"Ah, Kyle-san!\""
               ]
             },
             {
@@ -7881,7 +7902,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"？\""
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"？\""
               ]
             },
             {
@@ -7899,14 +7927,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Staff \\SE[6]\"Actually, I have a personal request for"
+                "\\SE[0]Guild Staff"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "you...!\""
+                "\\SE[6]\"Actually, I have a personal request for you...!\""
               ]
             },
             {
@@ -7924,7 +7952,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"A request?\""
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"A request?\""
               ]
             },
             {
@@ -7942,14 +7977,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Staff \\SE[6]\"About half a day's travel north from here,"
+                "\\SE[0]Guild Staff"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "there's a village called \\C[2]Leaf Fall\\C[0],\""
+                "\\SE[6]\"About half a day's travel north from here, there's a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "village called \\C[2]Leaf Fall\\C[0],\""
               ]
             },
             {
@@ -7967,89 +8009,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Staff \\SE[6]\"and it's been attacked by monsters...!\""
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/kyle_normal",
-                1,
-                0,
-                2,
-                ""
+                "\\SE[0]Guild Staff"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"So you want me to join the rescue"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "party?\""
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "",
-                0,
-                0,
-                2,
-                ""
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]Guild Staff \\SE[6]\"No! Apparently, adventurers already"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "present drove the monsters off, but\""
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "",
-                0,
-                0,
-                2,
-                ""
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]Guild Staff \\SE[6]\"many villagers and those adventurers are"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\C[2]injured\\C[0], and we're short on \\C[3]Healers\\C[0]. We've been asked"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "to lend a hand...\""
+                "\\SE[6]\"and it's been attacked by monsters...!\""
               ]
             },
             {
@@ -8067,7 +8034,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"Hmm... and the reward?\""
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"So you want me to join the rescue party?\""
               ]
             },
             {
@@ -8085,14 +8059,135 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Staff \\SE[6]\"There's \\C[3]no reward\\C[0], but... could you please"
+                "\\SE[0]Guild Staff"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "help us out? Of course, I won't force you...\""
+                "\\SE[6]\"No! Apparently, adventurers already present drove the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "monsters off, but\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Guild Staff"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[6]\"many villagers and those adventurers are \\C[2]injured\\C[0], and"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "we're short on \\C[3]Healers\\C[0]. We've been asked to lend a"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Guild Staff"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "hand...\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Hmm... and the reward?\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Guild Staff"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[6]\"There's \\C[3]no reward\\C[0], but... could you please help us"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "out? Of course, I won't force you...\""
               ]
             },
             {
@@ -8124,7 +8219,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3](No reward... Normally, I wouldn't take"
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3](No reward... Normally, I wouldn't take"
               ]
             },
             {
@@ -8149,21 +8251,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3](If I do the Guild a favor now, they"
+                "\\SE[0]Kyle"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "might send me better-paying quests later."
+                "\\SE[3](If I do the Guild a favor now, they might"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's best to curry favor now.)"
+                "send me better-paying quests later. It's"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "best to curry favor now.)"
               ]
             },
             {
@@ -8195,7 +8322,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"Understood. I'll go.\""
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Understood. I'll go.\""
               ]
             },
             {
@@ -8222,14 +8356,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Staff \\SE[6]\"Yay! You're a lifesaver! I'll have a"
+                "\\SE[0]Guild Staff"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "carriage prepared right away―please head over there!\""
+                "\\SE[6]\"Yay! You're a lifesaver! I'll have a carriage prepared"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "right away―please head over there!\""
               ]
             },
             {

@@ -11132,7 +11132,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"Rose.\""
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Rose.\""
               ]
             },
             {
@@ -11190,7 +11197,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose \\SE[1]\"Kyle...\""
+                "\\SE[0]Rose"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Kyle...\""
               ]
             },
             {
@@ -11319,7 +11333,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"Glad it worked out somehow.\""
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Glad it worked out somehow.\""
               ]
             },
             {
@@ -11337,7 +11358,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose \\SE[1]\"Yes... That's true.\""
+                "\\SE[0]Rose"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Yes... That's true.\""
               ]
             },
             {
@@ -11362,21 +11390,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose \\SE[1]\"I... I'm sorry about earlier. Jilbert"
+                "\\SE[0]Rose"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "loves and worries about me so much that he"
+                "\\SE[1]\"I... I'm sorry about earlier. Jilbert is so"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "ended up being too harsh with you.\""
+                "deeply in love with me and worries so much"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_roze3",
+                3,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Rose"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "that he ended up being too harsh with you.\""
               ]
             },
             {
@@ -11394,14 +11447,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"It's fine. I'm not holding it against"
+                "\\SE[0]Kyle"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "you.\""
+                "\\SE[3]\"It's fine. I'm not holding it against you.\""
               ]
             },
             {
@@ -11426,7 +11479,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"How did you two even meet in the first"
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"How did you two even meet in the first"
               ]
             },
             {
@@ -11434,6 +11494,24 @@
               "indent": 0,
               "parameters": [
                 "place? What have you been up to since then,"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Kyle"
               ]
             },
             {
@@ -11467,7 +11545,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose \\SE[1]\"………\""
+                "\\SE[0]Rose"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"………\""
               ]
             },
             {
@@ -11485,21 +11570,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose \\SE[1]\"...After that, I jumped into a"
+                "\\SE[0]Rose"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "carriage and headed to some southern town"
+                "\\SE[1]\"...After that, I jumped into a carriage and"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'd never heard of.\""
+                "headed to some southern town I'd never heard"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_roze1",
+                6,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Rose"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "of.\""
               ]
             },
             {
@@ -11524,14 +11634,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose \\SE[1]\"That's where I decided to start over"
+                "\\SE[0]Rose"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "from Zero again.\""
+                "\\SE[1]\"That's where I decided to start over from"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Zero again.\""
               ]
             },
             {
@@ -11941,7 +12058,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier \"Going out? Be careful on your way.\""
+                "\\SE[0]Soldier"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Going out? Be careful on your way.\""
               ]
             },
             {
@@ -12010,7 +12134,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier \"Leave the watch to us.\""
+                "\\SE[0]Soldier"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Leave the watch to us.\""
               ]
             },
             {
@@ -12088,7 +12219,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier \"Save often. You never know what might happen.\""
+                "\\SE[0]Soldier"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Save often. You never know what might happen.\""
               ]
             },
             {
@@ -12157,14 +12295,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier \"We'll drive those monsters off. You can rest"
+                "\\SE[0]Soldier"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "here.\""
+                "\"We'll drive those monsters off. You can rest here.\""
               ]
             },
             {
@@ -12242,14 +12380,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Villager \"That happened... I won't be able to sleep."
+                "\\SE[0]Villager"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Don't worry about it.\""
+                "\"That happened... I won't be able to sleep. Don't worry"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "about it.\""
               ]
             },
             {
@@ -12327,14 +12472,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Villager \"The stars are beautiful tonight. What a nice"
+                "\\SE[0]Villager"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "night.\""
+                "\"The stars are beautiful tonight. What a nice night.\""
               ]
             },
             {
@@ -12548,14 +12693,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"Didn't you already have a decent"
+                "\\SE[0][Kyle]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "amount of savings by then?\""
+                "\\SE[3]\"Didn't you already have a decent amount of"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "savings by then?\""
               ]
             },
             {
@@ -12573,21 +12725,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"Of course I did. But that was my"
+                "\\SE[0][Rose]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "last resort. I told you―I started from"
+                "\\SE[1]\"Of course I did. But that was my last"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "zero.\""
+                "resort. I told you―I started from zero.\""
               ]
             },
             {
@@ -12605,7 +12757,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"Did you form a party?\""
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Did you form a party?\""
               ]
             },
             {
@@ -12632,21 +12791,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"I tried to avoid all-male parties."
+                "\\SE[0][Rose]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You know, I'm cute... guys just flock to me"
+                "\\SE[1]\"I tried to avoid all-male parties. You"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "on their own.\""
+                "know, I'm cute... guys just flock to me on"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_roze2",
+                3,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0][Rose]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "their own.\""
               ]
             },
             {
@@ -12682,14 +12866,39 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"Well, anyway, I gave up on playing"
+                "\\SE[0][Rose]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "around with guys and just lived as a normal"
+                "\\SE[1]\"Well, anyway, I gave up on playing around"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "with guys and just lived as a normal"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_roze2",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0][Rose]"
               ]
             },
             {
@@ -12783,7 +12992,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"That's when I met my \\C[2]master\\C[0].\""
+                "\\SE[0][Rose]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"That's when I met my \\C[2]master\\C[0].\""
               ]
             },
             {
@@ -12801,21 +13017,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"I learned so much from them. How to"
+                "\\SE[0][Rose]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "fight, how to carry myself, how to live..."
+                "\\SE[1]\"I learned so much from them. How to fight,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It was a short time, but...\""
+                "how to carry myself, how to live... It was a"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_roze2",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0][Rose]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "short time, but...\""
               ]
             },
             {
@@ -12833,7 +13074,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"Master? What kind of master?\""
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Master? What kind of master?\""
               ]
             },
             {
@@ -12851,7 +13099,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"That's... I'll tell you later.\""
+                "\\SE[0][Rose]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"That's... I'll tell you later.\""
               ]
             },
             {
@@ -12888,21 +13143,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"After that, I polished the"
+                "\\SE[0][Rose]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "techniques I'd learned while traveling from"
+                "\\SE[1]\"After that, I polished the techniques I'd"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "town to town.\""
+                "learned while traveling from town to town.\""
               ]
             },
             {
@@ -12920,14 +13175,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"I loved watching my skills grow"
+                "\\SE[0][Rose]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "sharper and my body change.\""
+                "\\SE[1]\"I loved watching my skills grow sharper and"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "my body change.\""
               ]
             },
             {
@@ -13085,14 +13347,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose \\SE[1]\"But I didn't think it was bad. That"
+                "\\SE[0]Rose"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "was about three months ago.\""
+                "\\SE[1]\"But I didn't think it was bad. That was"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "about three months ago.\""
               ]
             },
             {
@@ -13119,14 +13388,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"So it led to marriage? That"
+                "\\SE[0]Kyle"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "'\\C[2]bedroom-eyed Rose\\C[0]' of yours…\""
+                "\\SE[3]\"So it led to marriage? That '\\C[2]bedroom-eyed"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Rose\\C[0]' of yours…\""
               ]
             },
             {
@@ -13184,14 +13460,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose \\SE[1]\"If you call me that in front of"
+                "\\SE[0]Rose"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Gilbert, I'll punch you in the face.\""
+                "\\SE[1]\"If you call me that in front of Gilbert,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I'll punch you in the face.\""
               ]
             },
             {
@@ -13249,7 +13532,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"Noted.\""
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Noted.\""
               ]
             },
             {
@@ -13329,21 +13619,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose \\SE[1]\"...These past five years, I've"
+                "\\SE[0]Rose"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "traveled everywhere. On my own two feet,"
+                "\\SE[1]\"...These past five years, I've traveled"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "with my own strength.\""
+                "everywhere. On my own two feet, with my own"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_roze2",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Rose"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "strength.\""
               ]
             },
             {
@@ -13361,7 +13676,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"…\""
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"…\""
               ]
             },
             {
@@ -13386,21 +13708,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose \\SE[1]\"I was often starving and broke, but"
+                "\\SE[0]Rose"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "meeting so many people and seeing new places"
+                "\\SE[1]\"There were times when I was starving with"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "was truly wonderful.\""
+                "no money, but I met so many people and saw"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_roze2",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Rose"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "so many places... It was truly wonderful.\""
               ]
             },
             {
@@ -13425,14 +13772,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose \\SE[1]\"But you know, as you get older, you"
+                "\\SE[0]Rose"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "start thinking about the future.\""
+                "\\SE[1]\"But you know, as you get older, you start"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "thinking about the future.\""
               ]
             },
             {
@@ -13450,7 +13804,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"And that's when this offer came up?\""
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"And that's when this offer came up?\""
               ]
             },
             {
@@ -13508,39 +13869,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose \\SE[1]\"Exactly! A poor country girl becoming"
+                "\\SE[0]Rose"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the lord's wife? That's the ultimate goal,"
+                "\\SE[1]\"Exactly! A poor country girl becoming the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "isn't it?\""
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/kyle_normal",
-                2,
-                0,
-                2,
-                ""
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"Couldn't have said it better myself.\""
+                "lord's wife? That's the ultimate goal, isn't"
               ]
             },
             {
@@ -13558,7 +13901,64 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose \\SE[1]\"Right?!\""
+                "\\SE[0]Rose"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "it?\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                2,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Couldn't have said it better myself.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_roze2",
+                2,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Rose"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Right?!\""
               ]
             },
             {
@@ -13607,14 +14007,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"Next time, treat me to a fancy"
+                "\\SE[0]Kyle"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "multi-course meal at the mansion.\""
+                "\\SE[3]\"Next time, treat me to a fancy multi-course"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "meal at the mansion.\""
               ]
             },
             {
@@ -13632,14 +14039,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose \\SE[1]\"I won't let a filthy creep like you"
+                "\\SE[0]Rose"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "in. At least get a haircut first.\""
+                "\\SE[1]\"I won't let a filthy creep like you in. At"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "least get a haircut first.\""
               ]
             },
             {
@@ -13851,7 +14265,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"Rose.\""
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Rose.\""
               ]
             },
             {
@@ -13876,7 +14297,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"Congratulations on your marriage.\""
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Congratulations on your marriage.\""
               ]
             },
             {
@@ -13910,14 +14338,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose \\SE[1]\"...I'm going to sleep. See you"
+                "\\SE[0]Rose"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "tomorrow.\""
+                "\\SE[1]\"...I'm going to sleep. See you tomorrow.\""
               ]
             },
             {
@@ -14119,7 +14547,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle (Guess I'll turn in too.)"
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "(Guess I'll turn in too.)"
               ]
             },
             {
@@ -14340,21 +14775,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Villager \"You're going to the Sacred Grove? Oh my,"
+                "\\SE[0]Villager"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "that's quite a challenge. I think there's an old man"
+                "\"You're going to the Sacred Grove? Oh my, that's quite"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "living near the church who knows all about it.\""
+                "a challenge. I think there's an old man living near the"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Villager"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "church who knows all about it.\""
               ]
             },
             {
@@ -14534,21 +14994,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Villager \"Death is always sad, no matter how old you"
+                "\\SE[0]Villager"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "get. When will we stop getting attacked by"
+                "\"Death is always sad, no matter how old you get. When"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "monsters...?\""
+                "will we stop getting attacked by monsters...?\""
               ]
             },
             {
@@ -14677,14 +15137,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Villager \"The laundry piles up so fast, you gotta do it"
+                "\\SE[0]Villager"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "every day.\""
+                "\"The laundry piles up so fast, you gotta do it every"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "day.\""
               ]
             },
             {
@@ -14813,14 +15280,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Villager \"This village is usually peaceful. Though"
+                "\\SE[0]Villager"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "there aren't many young folks around.\""
+                "\"This village is usually peaceful. Though there aren't"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "many young folks around.\""
               ]
             },
             {
@@ -15000,14 +15474,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Villager \"Farming is important. Can't eat without it,"
+                "\\SE[0]Villager"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "you know.\""
+                "\"Farming is important. Can't eat without it, you know.\""
               ]
             },
             {
@@ -15166,14 +15640,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Villager \"Watering the plants is my job. I do it every"
+                "\\SE[0]Villager"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "day.\""
+                "\"Watering the plants is my job. I do it every day.\""
               ]
             },
             {
@@ -15410,14 +15884,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Villager \"It's just a boring village, but at least the"
+                "\\SE[0]Villager"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "water supply is plentiful.\""
+                "\"It's just a boring village, but at least the water"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "supply is plentiful.\""
               ]
             },
             {
@@ -15546,7 +16027,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Villager \"The inn also sells general goods.\""
+                "\\SE[0]Villager"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"The inn also sells general goods.\""
               ]
             },
             {
@@ -16307,21 +16795,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose \\SE[1]\"Sister Alma, I'll make sure to tell"
+                "\\SE[0]Rose"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Gilbert about the village. I'm sure he'll"
+                "\\SE[1]\"Sister Alma, I'll make sure to tell Gilbert"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "handle it well.\""
+                "about the village. I'm sure he'll handle it"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_roze2",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Rose"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "well.\""
               ]
             },
             {
@@ -16339,7 +16852,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alma \\SE[8]\"I am truly grateful, Rose-san. May the"
+                "\\SE[0]Alma"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[8]\"I am truly grateful, Rose-san. May the"
               ]
             },
             {
@@ -16364,14 +16884,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose \\SE[1]\"What are you saying? I'm the one who"
+                "\\SE[0]Rose"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "owes you. I'm grateful!\""
+                "\\SE[1]\"What are you saying? I'm the one who owes"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "you. I'm grateful!\""
               ]
             },
             {
@@ -16450,7 +16977,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose \\SE[1]\"Kyle.\""
+                "\\SE[0]Rose"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Kyle.\""
               ]
             },
             {
@@ -16475,7 +17009,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose \\SE[1]\"If you ever come back around here...\""
+                "\\SE[0]Rose"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"If you ever come back around here...\""
               ]
             },
             {
@@ -16493,7 +17034,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"Mm.\""
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Mm.\""
               ]
             },
             {
@@ -16529,14 +17077,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose \\SE[1]\"You *better* contact me. You're my"
+                "\\SE[0]Rose"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\C[2]Swallow\\C[0], after all.\""
+                "\\SE[1]\"You *better* contact me. You're my \\C[2]Swallow\\C[0],"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "after all.\""
               ]
             },
             {
@@ -16554,7 +17109,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"Ugh...\""
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Ugh...\""
               ]
             },
             {
@@ -16572,14 +17134,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"Well, if I'm nearby. I'll contact"
+                "\\SE[0]Kyle"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "you.\""
+                "\\SE[3]\"Well, if I'm nearby. I'll contact you.\""
               ]
             },
             {
@@ -16597,7 +17159,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"But you're not treating me to a course"
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"But you're not treating me to a course"
               ]
             },
             {
@@ -16622,14 +17191,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose \\SE[1]\"Of course not. You're more than enough"
+                "\\SE[0]Rose"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "for some backwater tavern.\""
+                "\\SE[1]\"Of course not. You're more than enough for"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "some backwater tavern.\""
               ]
             },
             {
@@ -16794,7 +17370,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose \\SE[1]\"Take care, then!\""
+                "\\SE[0]Rose"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Take care, then!\""
               ]
             },
             {
@@ -17048,7 +17631,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose \\SE[1]\"Mwah♡\""
+                "\\SE[0]Rose"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Mwah♡\""
               ]
             },
             {
@@ -17605,7 +18195,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose \\SE[1]\"\\{Kyle――!!\\}\""
+                "\\SE[0]Rose"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"\\{Kyle――!!\\}\""
               ]
             },
             {
@@ -17665,14 +18262,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose \\SE[1]\"\\{Thank you so much――!! Take"
+                "\\SE[0]Rose"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "care――!!\\}\""
+                "\\SE[1]\"\\{Thank you so much――!! Take care――!!\\}\""
               ]
             },
             {
@@ -17880,14 +18477,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian \\SE[4]\"I never expected anyone to reach"
+                "\\SE[0]Lilian"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "this far...\""
+                "\\SE[4]\"I never expected anyone to reach this"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "far...\""
               ]
             },
             {
@@ -17905,7 +18509,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna \\SE[5]\"Yes, it truly is a joyous occasion.\""
+                "\\SE[0]Luna"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5]\"Yes, it truly is a joyous occasion.\""
               ]
             },
             {
@@ -17923,7 +18534,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna \\SE[5]\"Please, come inside.\""
+                "\\SE[0]Luna"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5]\"Please, come inside.\""
               ]
             },
             {
@@ -18103,14 +18721,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian \\SE[4]\"I never expected anyone to reach"
+                "\\SE[0]Lilian"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "this far...\""
+                "\\SE[4]\"I never expected anyone to reach this"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "far...\""
               ]
             },
             {
@@ -18128,7 +18753,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna \\SE[5]\"Yes, it truly is a joyous occasion.\""
+                "\\SE[0]Luna"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5]\"Yes, it truly is a joyous occasion.\""
               ]
             },
             {
@@ -18146,7 +18778,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna \\SE[5]\"Please, come inside.\""
+                "\\SE[0]Luna"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5]\"Please, come inside.\""
               ]
             },
             {

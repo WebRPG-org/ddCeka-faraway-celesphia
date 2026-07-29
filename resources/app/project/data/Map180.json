@@ -4851,14 +4851,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna] \\SE[5]\"Well, four people living together"
+                "\\SE[0][Luna]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "might be a bit cramped...\""
+                "\\SE[5]\"Well, four people living together might be"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "a bit cramped...\""
               ]
             },
             {
@@ -4885,14 +4892,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel] \\SE[2]\"Yeah... It was originally a house"
+                "\\SE[0][Noel]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Luna and I lived in together...\""
+                "\\SE[2]\"Yeah... It was originally a house Luna and"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I lived in together...\""
               ]
             },
             {

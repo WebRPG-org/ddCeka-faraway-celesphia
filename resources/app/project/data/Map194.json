@@ -4640,7 +4640,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rosie Event (3/12) Play \"Throb 2\"?"
+                "\\SE[0]Rosie Event (3/12)"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Play \"Throb 2\"?"
               ]
             },
             {
@@ -4886,7 +4893,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"…Hh!!\""
+                "\\SE[0][Rose]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"…Hh!!\""
               ]
             },
             {
@@ -5045,14 +5059,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"Kyle…! I'm sorry…! I can't… hold"
+                "\\SE[0][Rose]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "back…!\""
+                "\\SE[1]\"Kyle…! I'm sorry…! I can't… hold back…!\""
               ]
             },
             {
@@ -5155,7 +5169,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"！\""
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"！\""
               ]
             },
             {
@@ -5198,7 +5219,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"Nn…!\""
+                "\\SE[0][Rose]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Nn…!\""
               ]
             },
             {
@@ -5344,7 +5372,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"Nn…h…chu…chu…♡ Hah… Kyle… lero lero…"
+                "\\SE[0][Rose]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Nn…h…chu…chu…♡ Hah… Kyle… lero lero…"
               ]
             },
             {
@@ -5478,7 +5513,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"Hh…♡ Hh…♡ Hh…♡\""
+                "\\SE[0][Rose]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Hh…♡ Hh…♡ Hh…♡\""
               ]
             },
             {
@@ -5566,7 +5608,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"Haa…! Haa… Hah… Hah…!\""
+                "\\SE[0][Rose]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Haa…! Haa… Hah… Hah…!\""
               ]
             },
             {
@@ -5622,7 +5671,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"S-sorry… It's… stopped…\""
+                "\\SE[0][Rose]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"S-sorry… It's… stopped…\""
               ]
             },
             {

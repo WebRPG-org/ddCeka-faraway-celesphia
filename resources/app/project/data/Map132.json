@@ -6456,7 +6456,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Captain \"Hey! You're lagging behind! Hurry up!\""
+                "\\SE[0]Captain"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Hey! You're lagging behind! Hurry up!\""
               ]
             },
             {
@@ -7375,7 +7382,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Monster \"Ggyaggyaah!\""
+                "\\SE[0]Monster"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Ggyaggyaah!\""
               ]
             },
             {

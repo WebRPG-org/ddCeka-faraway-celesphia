@@ -1466,7 +1466,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Armor Shop \"Welcome to the armory! Take a look around!\""
+                "\\SE[0]Armor Shop"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Welcome to the armory! Take a look around!\""
               ]
             },
             {
@@ -1635,7 +1642,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Armor Shop \"Come again soon!\""
+                "\\SE[0]Armor Shop"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Come again soon!\""
               ]
             },
             {
@@ -1713,14 +1727,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer \"The equipment from Eldenia has great"
+                "\\SE[0]Adventurer"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "performance. Especially for Grimridge,"
+                "\"The equipment from Eldenia has great performance."
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Especially for Grimridge,"
               ]
             },
             {
@@ -1738,14 +1759,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer \"you should definitely prepare for"
+                "\\SE[0]Adventurer"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "fire-element attacks.\""
+                "\"you should definitely prepare for fire-element"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "attacks.\""
               ]
             },
             {

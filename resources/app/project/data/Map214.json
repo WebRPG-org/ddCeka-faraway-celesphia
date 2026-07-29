@@ -1492,14 +1492,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Villager \"They say the Sacred Forest has something that"
+                "\\SE[0]Villager"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "serves as a \\C[3]signpost\\C[0].\""
+                "\"They say the Sacred Forest has something that serves"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "as a \\C[3]signpost\\C[0].\""
               ]
             },
             {
@@ -1517,14 +1524,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Villager \"You should observe your surroundings"
+                "\\SE[0]Villager"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "carefully.\""
+                "\"You should observe your surroundings carefully.\""
               ]
             },
             {

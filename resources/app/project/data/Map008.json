@@ -2401,14 +2401,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shop Owner \"Oh! Kyle! Long time no see! How many years"
+                "\\SE[0]Shop Owner"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "has it been?\""
+                "\"Oh! Kyle! Long time no see! How many years has it"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "been?\""
               ]
             },
             {
@@ -2426,14 +2433,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"Hey, it's been two years since I was"
+                "\\SE[0]Kyle"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "last in the capital. Got a room free?\""
+                "\\SE[3]\"Hey, it's been two years since I was last"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "in the capital. Got a room free?\""
               ]
             },
             {
@@ -2451,14 +2465,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Shopkeeper \"Yeah, we do! The farthest room on the"
+                "\\SE[0]\\Se[0]Shopkeeper"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "second floor―feel free to use it.\""
+                "\"Yeah, we do! The farthest room on the second"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "floor―feel free to use it.\""
               ]
             },
             {
@@ -2476,7 +2497,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"Ah, thanks. I appreciate it.\""
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Ah, thanks. I appreciate it.\""
               ]
             },
             {

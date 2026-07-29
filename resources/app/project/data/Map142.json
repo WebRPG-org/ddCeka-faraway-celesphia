@@ -6397,7 +6397,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Milee] \\SE[9]\"Kyle! Get back!\""
+                "\\SE[0][Milee]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[9]\"Kyle! Get back!\""
               ]
             },
             {
@@ -6706,7 +6713,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[8]\"There's more from behind...!\""
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[8]\"There's more from behind...!\""
               ]
             },
             {
@@ -6724,14 +6738,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Milee] \\SE[9]\"Damn it, we have no choice but to"
+                "\\SE[0][Milee]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "fight!\""
+                "\\SE[9]\"Damn it, we have no choice but to fight!\""
               ]
             },
             {
@@ -6991,7 +7005,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Monster \"Gr...ga...gya...\""
+                "\\SE[0]Monster"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Gr...ga...gya...\""
               ]
             },
             {
@@ -7039,7 +7060,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[8]\"Hah...hah...hah...\""
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[8]\"Hah...hah...hah...\""
               ]
             },
             {
@@ -7057,14 +7085,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Milee] \\SE[9]\"Hah...hah... Well done, Kyle. Just"
+                "\\SE[0][Milee]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "a little more―hang in there...!\""
+                "\\SE[9]\"Hah...hah... Well done, Kyle. Just a little"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "more―hang in there...!\""
               ]
             },
             {

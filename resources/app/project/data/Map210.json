@@ -7197,7 +7197,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"So this is... the sacred ground.\""
+                "\\SE[0][Rose]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"So this is... the sacred ground.\""
               ]
             },
             {
@@ -7215,14 +7222,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"Yeah. No doubt. What a pristine"
+                "\\SE[0][Kyle]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "place.\""
+                "\\SE[3]\"Yeah. No doubt. What a pristine place.\""
               ]
             },
             {
@@ -7265,7 +7272,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"Let's get started right away.\""
+                "\\SE[0][Rose]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Let's get started right away.\""
               ]
             },
             {
@@ -7283,7 +7297,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"Right. Rose, stand in the center.\""
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Right. Rose, stand in the center.\""
               ]
             },
             {
@@ -7548,7 +7569,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"Here we go, Rose.\""
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Here we go, Rose.\""
               ]
             },
             {
@@ -7731,7 +7759,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"Ugh... nn...\""
+                "\\SE[0][Rose]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Ugh... nn...\""
               ]
             },
             {
@@ -7749,14 +7784,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"Hang in there, Rose... Just a little"
+                "\\SE[0][Kyle]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "more, endure it...!\""
+                "\\SE[3]\"Hang in there, Rose... Just a little more,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "endure it...!\""
               ]
             },
             {
@@ -7893,21 +7935,39 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "As the patterns reached the talisman's edges, the black"
+                "And as the black patterns spread to the edges of the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "mist spilling from Rose vanished. The curse was fully"
+                "talisman, the black mist spilling from Rose faded, then"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "transferred."
+                "vanished entirely. The curse had been fully transferred"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "to the talisman."
               ]
             },
             {
@@ -7939,7 +7999,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"It's done. Rose.\""
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"It's done. Rose.\""
               ]
             },
             {
@@ -8103,7 +8170,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"...It's... over?\""
+                "\\SE[0][Rose]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"...It's... over?\""
               ]
             },
             {
@@ -8121,14 +8195,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"Yeah. Now all that's left is to"
+                "\\SE[0][Kyle]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "incinerate this talisman...!\""
+                "\\SE[3]\"Yeah. Now all that's left is to incinerate"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "this talisman...!\""
               ]
             },
             {
@@ -8338,7 +8419,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"W-What?!\""
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"W-What?!\""
               ]
             },
             {
@@ -8356,7 +8444,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"……！！！\""
+                "\\SE[0][Rose]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"……！！！\""
               ]
             },
             {
@@ -8637,7 +8732,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"Izolda...?!\""
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Izolda...?!\""
               ]
             },
             {
@@ -8655,7 +8757,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"Yes... I saw it too...\""
+                "\\SE[0][Rose]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Yes... I saw it too...\""
               ]
             },
             {
@@ -8744,7 +8853,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"...I do pity you.\""
+                "\\SE[0][Rose]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"...I do pity you.\""
               ]
             },
             {
@@ -8769,21 +8885,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"But it has nothing to do with me."
+                "\\SE[0][Rose]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's just that you simply lacked the eyes to"
+                "\\SE[1]\"But it has nothing to do with me. It's just"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "see a real man.\""
+                "that you simply lacked the eyes to see a"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_roze1",
+                5,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0][Rose]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "real man.\""
               ]
             },
             {
@@ -8902,7 +9043,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"Here she comes!\""
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Here she comes!\""
               ]
             },
             {
@@ -8920,7 +9068,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"Yes, I'll send you straight to the"
+                "\\SE[0][Rose]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Yes, I'll send you straight to the"
               ]
             },
             {
@@ -9093,7 +9248,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"...! My body...!\""
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"...! My body...!\""
               ]
             },
             {
@@ -9161,7 +9323,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"...This...!\""
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"...This...!\""
               ]
             },
             {
@@ -9191,7 +9360,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"Kyle, step back.\""
+                "\\SE[0][Rose]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Kyle, step back.\""
               ]
             },
             {
@@ -9218,14 +9394,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"I'll handle the rest. Just watch,"
+                "\\SE[0][Rose]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Kyle.\""
+                "\\SE[1]\"I'll handle the rest. Just watch, Kyle.\""
               ]
             },
             {
@@ -9243,7 +9419,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"...Understood.\""
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"...Understood.\""
               ]
             },
             {
@@ -9370,14 +9553,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"Izolda... I'll make this quick for"
+                "\\SE[0][Rose]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "you.\""
+                "\\SE[1]\"Izolda... I'll make this quick for you.\""
               ]
             },
             {
@@ -9491,7 +9674,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"Eternal Flashing Fist Barrage!!\""
+                "\\SE[0][Rose]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Eternal Flashing Fist Barrage!!\""
               ]
             },
             {
@@ -9663,7 +9853,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"...Be happy in your next life.\""
+                "\\SE[0][Rose]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"...Be happy in your next life.\""
               ]
             },
             {
@@ -9845,7 +10042,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"Good work. Rose.\""
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Good work. Rose.\""
               ]
             },
             {
@@ -9863,14 +10067,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"Haa~... I'm exhausted... Finally"
+                "\\SE[0][Rose]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "done...\""
+                "\\SE[1]\"Haa~... I'm exhausted... Finally done...\""
               ]
             },
             {
@@ -9995,21 +10199,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"W-What the―?! My underwear just"
+                "\\SE[0][Rose]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "turned into a pile of sand all of a"
+                "\\SE[1]\"W-What the―?! My underwear just turned into"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "sudden...\""
+                "a pile of sand all of a sudden...\""
               ]
             },
             {
@@ -10058,21 +10262,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"A-And I'm not wearing any panties"
+                "\\SE[0][Rose]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "right now?! Are you saying we're walking"
+                "\\SE[1]\"A-And I'm not wearing any panties right"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "back to the village like this?!\""
+                "now?! Are you saying we're walking back to"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_roze5",
+                5,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0][Rose]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "the village like this?!\""
               ]
             },
             {
@@ -10228,7 +10457,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"Then let's head back.\""
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Then let's head back.\""
               ]
             },
             {
@@ -10246,7 +10482,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"Yeah! Let's go home!\""
+                "\\SE[0][Rose]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Yeah! Let's go home!\""
               ]
             },
             {
@@ -10269,14 +10512,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"Oh, but there's somewhere I want to"
+                "\\SE[0][Rose]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "stop by before we go back to the mansion.\""
+                "\\SE[1]\"Oh, but there's somewhere I want to stop by"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "before we go back to the mansion.\""
               ]
             },
             {
@@ -10294,14 +10544,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose] \\SE[1]\"Of course, you'll come with me,"
+                "\\SE[0][Rose]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "right?\""
+                "\\SE[1]\"Of course, you'll come with me, right?\""
               ]
             },
             {
@@ -10319,7 +10569,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"Huh? Where...?\""
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Huh? Where...?\""
               ]
             },
             {

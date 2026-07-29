@@ -2826,7 +2826,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Inn \"Welcome, traveler. You must be exhausted.\""
+                "\\SE[0]Inn"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Welcome, traveler. You must be exhausted.\""
               ]
             },
             {
@@ -2844,7 +2851,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Inn \"It's 300G for one night. Would you like to stay?\""
+                "\\SE[0]Inn"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"It's 300G for one night. Would you like to stay?\""
               ]
             },
             {
@@ -2918,7 +2932,14 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]Inn \"Please make yourself comfortable.\""
+                "\\SE[0]Inn"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "\"Please make yourself comfortable.\""
               ]
             },
             {
@@ -3004,7 +3025,14 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]Inn \"We look forward to your next visit.\""
+                "\\SE[0]Inn"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "\"We look forward to your next visit.\""
               ]
             },
             {
@@ -3032,14 +3060,14 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]Inn \"I'm sorry, it seems you don't have enough"
+                "\\SE[0]Inn"
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "money...\""
+                "\"I'm sorry, it seems you don't have enough money...\""
               ]
             },
             {
@@ -3080,7 +3108,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Inn \"We look forward to your next visit.\""
+                "\\SE[0]Inn"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\"We look forward to your next visit.\""
               ]
             },
             {
@@ -3159,7 +3194,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Inn \"Welcome, traveler. You must be exhausted.\""
+                "\\SE[0]Inn"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Welcome, traveler. You must be exhausted.\""
               ]
             },
             {
@@ -3177,7 +3219,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Inn \"It's 300G for one night. Would you like to stay?\""
+                "\\SE[0]Inn"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"It's 300G for one night. Would you like to stay?\""
               ]
             },
             {
@@ -3251,7 +3300,14 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]Inn \"Please make yourself at home.\""
+                "\\SE[0]Inn"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "\"Please make yourself at home.\""
               ]
             },
             {
@@ -3428,7 +3484,14 @@
               "code": 401,
               "indent": 3,
               "parameters": [
-                "\\SE[0]Inn \"We look forward to your next visit.\""
+                "\\SE[0]Inn"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": [
+                "\"We look forward to your next visit.\""
               ]
             },
             {
@@ -3466,14 +3529,14 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]Inn \"I'm sorry, it seems you don't have enough"
+                "\\SE[0]Inn"
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "money...\""
+                "\"I'm sorry, it seems you don't have enough money...\""
               ]
             },
             {
@@ -3514,7 +3577,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Inn \"We look forward to your next visit.\""
+                "\\SE[0]Inn"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\"We look forward to your next visit.\""
               ]
             },
             {
@@ -3602,7 +3672,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sleeping Man \"Guh...zzz\""
+                "\\SE[0]Sleeping Man"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Guh...zzz\""
               ]
             },
             {
@@ -3680,14 +3757,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer \"This room's dirt cheap. Just don't mind the"
+                "\\SE[0]Adventurer"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "loud snoring."
+                "\"This room's dirt cheap. Just don't mind the loud"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "snoring."
               ]
             },
             {
@@ -3765,14 +3849,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer \"Hey, if you eat this, can we go"
+                "\\SE[0]Female Adventurer"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "again...? Come on?\""
+                "\"Hey, if you eat this, can we go again...? Come on?\""
               ]
             },
             {
@@ -3850,14 +3934,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer \"Huh?! This is already the fourth"
+                "\\SE[0]Male Adventurer"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "time...?!"
+                "\"Huh?! This is already the fourth time...?!"
               ]
             },
             {

@@ -5514,14 +5514,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer \"It really is. Even from this far away,"
+                "\\SE[0]Male Adventurer"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the sunlight's reflecting off it and shining bright."
+                "\"It really is. Even from this far away, the sunlight's"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "reflecting off it and shining bright."
               ]
             },
             {
@@ -5599,14 +5606,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer \"Look, over that valley... Through"
+                "\\SE[0]Female Adventurer"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the mist, you can see the sea.\""
+                "\"Look, over that valley... Through the mist, you can"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "see the sea.\""
               ]
             },
             {
@@ -5684,7 +5698,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Horse Owner \"Okay, okay. Scared of the height now?"
+                "\\SE[0]Horse Owner"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Okay, okay. Scared of the height now?"
               ]
             },
             {
@@ -5762,7 +5783,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Horse \"Neigh...\""
+                "\\SE[0]Horse"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Neigh...\""
               ]
             },
             {
@@ -5960,14 +5988,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer \"Hey! Don't get too carried away!"
+                "\\SE[0]Female Adventurer"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "What if you fall...!"
+                "\"Hey! Don't get too carried away! What if you fall...!"
               ]
             },
             {
@@ -6045,14 +6073,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer \"Yay! It feels like I'm walking on"
+                "\\SE[0]Female Adventurer"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "air! This is the best!\""
+                "\"Yay! It feels like I'm walking on air! This is the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "best!\""
               ]
             },
             {
@@ -6130,14 +6165,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer \"Yay! I wish I could leave this view behind"
+                "\\SE[0]Adventurer"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "forever!\""
+                "\"Yay! I wish I could leave this view behind forever!\""
               ]
             },
             {
@@ -6215,21 +6250,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer \"3000G... It hurts to spend this much,"
+                "\\SE[0]Male Adventurer"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "but I don't have a choice. It's dangerous to go around"
+                "\"3000G... It hurts to spend this much, but I don't have"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "here."
+                "a choice. It's dangerous to go around here."
               ]
             },
             {
@@ -6338,7 +6373,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Child \"Wow! That's so high!\""
+                "\\SE[0]Child"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Wow! That's so high!\""
               ]
             },
             {
@@ -6416,7 +6458,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Child \"Looking down makes me scared!\""
+                "\\SE[0]Child"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Looking down makes me scared!\""
               ]
             },
             {
@@ -6494,7 +6543,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier \"This is the Eldenia side.\""
+                "\\SE[0]Soldier"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"This is the Eldenia side.\""
               ]
             },
             {
@@ -6572,14 +6628,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier \"If monsters attack this bridge, it'll be a"
+                "\\SE[0]Soldier"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "disaster.\""
+                "\"If monsters attack this bridge, it'll be a disaster.\""
               ]
             },
             {
@@ -6657,14 +6713,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier \"All clear. It'd be dangerous if you fell, so"
+                "\\SE[0]Soldier"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "stay on the bridge.\""
+                "\"All clear. It'd be dangerous if you fell, so stay on"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "the bridge.\""
               ]
             },
             {
@@ -6742,14 +6805,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer \"I came from Eldenia. It's where I"
+                "\\SE[0]Female Adventurer"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "belong.\""
+                "\"I came from Eldenia. It's where I belong.\""
               ]
             },
             {
@@ -9102,7 +9165,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna] \\SE[5]\"Hurry up, both of you! Hurry up!\""
+                "\\SE[0][Luna]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5]\"Hurry up, both of you! Hurry up!\""
               ]
             },
             {
@@ -9120,14 +9190,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian] \\SE[4]\"Lady Luna, you're getting too"
+                "\\SE[0][Lilian]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "carried away!\""
+                "\\SE[4]\"Lady Luna, you're getting too carried"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "away!\""
               ]
             },
             {
@@ -9276,7 +9353,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"Luna, come over here for a second.\""
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Luna, come over here for a second.\""
               ]
             },
             {
@@ -9612,7 +9696,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"Well, shall we go?\""
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Well, shall we go?\""
               ]
             },
             {
@@ -9679,7 +9770,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0][Luna] \\SE[5]\"Kyle-sama...um...\""
+                "\\SE[0][Luna]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\\SE[5]\"Kyle-sama...um...\""
               ]
             },
             {
@@ -9697,7 +9795,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"？\""
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\\SE[3]\"？\""
               ]
             },
             {
@@ -9715,7 +9820,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0][Luna] \\SE[5]\"N-No, it's nothing...\""
+                "\\SE[0][Luna]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\\SE[5]\"N-No, it's nothing...\""
               ]
             },
             {
@@ -9783,7 +9895,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0][Lilian] \\SE[4]\"Kyle...\""
+                "\\SE[0][Lilian]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\\SE[4]\"Kyle...\""
               ]
             },
             {
@@ -9801,7 +9920,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"？\""
+                "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\\SE[3]\"？\""
               ]
             },
             {
@@ -9819,7 +9945,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0][Lilian] \\SE[4]\"Nah, it's nothing.\""
+                "\\SE[0][Lilian]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\\SE[4]\"Nah, it's nothing.\""
               ]
             },
             {
@@ -10020,7 +10153,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Father \"The air in the Vergan region is gentle."
+                "\\SE[0]Father"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"The air in the Vergan region is gentle."
               ]
             },
             {
@@ -10098,14 +10238,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Mother \"Yes, it feels so good... Traveling is such a"
+                "\\SE[0]Mother"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "thing, isn't it.\""
+                "\"Yes, it feels so good... Traveling is such a thing,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "isn't it.\""
               ]
             },
             {

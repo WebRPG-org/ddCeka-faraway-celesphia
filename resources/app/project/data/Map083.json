@@ -2177,14 +2177,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Tavern Drunk 1 \"You know the biggest dragon in the"
+                "\\SE[0]Tavern Drunk 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "world?\""
+                "\"You know the biggest dragon in the world?\""
               ]
             },
             {
@@ -2202,14 +2202,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Tavern Drunk 1 \"They say it lives on Mt. Grimridge at"
+                "\\SE[0]Tavern Drunk 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the edge of the east―Valgrind, the dragon!\""
+                "\"They say it lives on Mt. Grimridge at the edge of the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "east―Valgrind, the dragon!\""
               ]
             },
             {
@@ -2227,7 +2234,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Tavern Drunk 1 \"Apparently it's as big as a church!\""
+                "\\SE[0]Tavern Drunk 1"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Apparently it's as big as a church!\""
               ]
             },
             {
@@ -2245,14 +2259,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Bar Drunkard 2 \"You're full of shit! There's no way"
+                "\\SE[0]Bar Drunkard 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "something that big exists! You drunk or what? Hahaha!\""
+                "\"You're full of shit! There's no way something that big"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "exists! You drunk or what? Hahaha!\""
               ]
             },
             {
@@ -2270,7 +2291,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Tavern Drunkard 3 \"No shit, hahaha!\""
+                "\\SE[0]Tavern Drunkard 3"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"No shit, hahaha!\""
               ]
             },
             {

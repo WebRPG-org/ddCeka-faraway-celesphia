@@ -1610,7 +1610,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Weapon Shop Clerk \"Welcome! Here, we sell weapons."
+                "\\SE[0]Weapon Shop Clerk"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Welcome! Here, we sell weapons."
               ]
             },
             {
@@ -1689,7 +1696,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Weapon Shop Clerk \"We look forward to your next visit.\""
+                "\\SE[0]Weapon Shop Clerk"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"We look forward to your next visit.\""
               ]
             },
             {
@@ -1767,14 +1781,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Armor Shop \"Welcome! We've got top-notch armor straight"
+                "\\SE[0]Armor Shop"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "from Arseleon!\""
+                "\"Welcome! We've got top-notch armor straight from"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Arseleon!\""
               ]
             },
             {
@@ -1973,7 +1994,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Armor Shop Clerk \"Please come again!\""
+                "\\SE[0]Armor Shop Clerk"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Please come again!\""
               ]
             },
             {
@@ -2250,14 +2278,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer \"If you go further south, there's an"
+                "\\SE[0]Female Adventurer"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "ancient ruin that was abandoned long ago.\""
+                "\"If you go further south, there's an ancient ruin that"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "was abandoned long ago.\""
               ]
             },
             {
@@ -2275,14 +2310,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer \"I once went there with a party to"
+                "\\SE[0]Female Adventurer"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "look for treasure, but it went haywire.\""
+                "\"I once went there with a party to look for treasure,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "but it went haywire.\""
               ]
             },
             {
@@ -2300,14 +2342,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer \"I recommend going after you've"
+                "\\SE[0]Female Adventurer"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "prepared properly.\""
+                "\"I recommend going after you've prepared properly.\""
               ]
             },
             {
@@ -2325,14 +2367,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer \"Oh, and there's nothing left"
+                "\\SE[0]Female Adventurer"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "anyway...? It's been picked clean by looters.\""
+                "\"Oh, and there's nothing left anyway...? It's been"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "picked clean by looters.\""
               ]
             },
             {
@@ -2410,7 +2459,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer \"I heard there's a hidden gem at the stall."
+                "\\SE[0]Adventurer"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"I heard there's a hidden gem at the stall."
               ]
             },
             {

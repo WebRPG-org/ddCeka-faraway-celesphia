@@ -3429,7 +3429,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Mozley \"For a genius like me, this trap is"
+                "\\SE[0]Mozley"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"For a genius like me, this trap is"
               ]
             },
             {
@@ -3677,14 +3684,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Mosley \"Heh, of course... It suits a"
+                "\\SE[0]\\Se[0]Mosley"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "delicate girl like you.\""
+                "\"Heh, of course... It suits a delicate girl"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "like you.\""
               ]
             },
             {

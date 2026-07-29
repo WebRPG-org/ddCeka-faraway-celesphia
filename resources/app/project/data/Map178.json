@@ -3346,7 +3346,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"Please, come in.\""
+                "\\SE[0]Sister Alma"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[8]\"Please, come in.\""
               ]
             },
             {
@@ -3668,7 +3675,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"Good evening, Sister Alma.\""
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Good evening, Sister Alma.\""
               ]
             },
             {
@@ -3686,14 +3700,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"Ah... Kyle-sama, you actually"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "came...\""
+                "\\SE[8]\"Ah... Kyle-sama, you actually came...\""
               ]
             },
             {
@@ -3720,21 +3734,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"I've been waiting for you. No"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "one else is coming tonight. Let's enjoy"
+                "\\SE[8]\"I've been waiting for you. No one else is"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "ourselves to the fullest...!\""
+                "coming tonight. Let's enjoy ourselves to the"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_alma1",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Sister Alma"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "fullest...!\""
               ]
             },
             {
@@ -3808,14 +3847,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"...Sister Alma. Is this what you meant"
+                "\\SE[0]Kyle"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "by a 'thank you'?\""
+                "\\SE[3]\"...Sister Alma. Is this what you meant by a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "'thank you'?\""
               ]
             },
             {
@@ -3833,14 +3879,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"Kyle-sama... What else did you"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "expect from me?\""
+                "\\SE[8]\"Kyle-sama... What else did you expect from"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "me?\""
               ]
             },
             {
@@ -3858,14 +3911,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"I thought a person of the cloth"
+                "\\SE[0]Kyle"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "wouldn't do something so... indecent.\""
+                "\\SE[3]\"I thought a person of the cloth wouldn't do"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "something so... indecent.\""
               ]
             },
             {
@@ -3892,14 +3952,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"Oh, stop teasing me. Before I'm"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "a sister, I'm a woman.\""
+                "\\SE[8]\"Oh, stop teasing me. Before I'm a sister,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I'm a woman.\""
               ]
             },
             {
@@ -3917,14 +3984,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"Who was the first man you shared a"
+                "\\SE[0]Kyle"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "night with?\""
+                "\\SE[3]\"Who was the first man you shared a night"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "with?\""
               ]
             },
             {
@@ -4003,14 +4077,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"My first partner... was a"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "certain adventurer.\""
+                "\\SE[8]\"My first partner... was a certain"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "adventurer.\""
               ]
             },
             {
@@ -4028,14 +4109,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"It happened when I was first"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "assigned to a small village.\""
+                "\\SE[8]\"It happened when I was first assigned to a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "small village.\""
               ]
             },
             {
@@ -4053,21 +4141,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"After I'd settled into my work,"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "a wounded adventurer was found collapsed in"
+                "\\SE[8]\"After I'd settled into my work, a wounded"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the nearby grass by the villagers.\""
+                "adventurer was found collapsed in the nearby"
               ]
             },
             {
@@ -4085,14 +4173,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"I took him into the church,"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "healed his wounds, and gave him food.\""
+                "grass by the villagers.\""
               ]
             },
             {
@@ -4110,14 +4198,53 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"He wept tears of gratitude,"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "thanking the villagers―and me.\""
+                "\\SE[8]\"I took him into the church, healed his"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "wounds, and gave him food.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_alma1",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Sister Alma"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[8]\"He wept tears of gratitude, thanking the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "villagers―and me.\""
               ]
             },
             {
@@ -4149,7 +4276,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"That night...\""
+                "\\SE[0]Sister Alma"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[8]\"That night...\""
               ]
             },
             {
@@ -4167,21 +4301,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"As I slept in my room, the door"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "suddenly opened, and that adventurer"
+                "\\SE[8]\"As I slept in my room, the door suddenly"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "entered.\""
+                "opened, and that adventurer entered.\""
               ]
             },
             {
@@ -4218,14 +4352,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"Then he threw himself over me,"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "roughly tearing off my clothes.\""
+                "\\SE[8]\"Then he threw himself over me, roughly"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "tearing off my clothes.\""
               ]
             },
             {
@@ -4243,21 +4384,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"I struggled, but he was a"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "battle-hardened adventurer. All I could do"
+                "\\SE[8]\"I struggled desperately, but he was an"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "was be pinned down.\""
+                "adventurer who had survived harsh"
               ]
             },
             {
@@ -4275,21 +4416,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"...When he stripped me of all"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "my clothes and left me completely"
+                "battlefields. All I could do was be pinned"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "defenseless,\""
+                "down.\""
               ]
             },
             {
@@ -4307,14 +4448,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"he forced my... legs wide"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "open...\""
+                "\\SE[8]\"...When he stripped me of all my clothes"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "and left me completely defenseless,\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_alma1",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Sister Alma"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[8]\"he forced my... legs wide open...\""
               ]
             },
             {
@@ -4456,21 +4629,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"Then he brutally shoved his"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "thick, hard cock inside me without a"
+                "\\SE[8]\"Then he brutally shoved his thick, hard"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "moment's hesitation.\""
+                "cock inside me without a moment's"
               ]
             },
             {
@@ -4488,21 +4661,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"He treated my body like nothing"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "more than an object, roughly rocking into me"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "over and over,\""
+                "hesitation.\""
               ]
             },
             {
@@ -4520,14 +4686,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"repeatedly thrusting in and out"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "with brutal force.\""
+                "\\SE[8]\"He treated my body like nothing more than"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "an object, roughly rocking into me over and"
               ]
             },
             {
@@ -4545,21 +4718,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"I clenched my eyes shut, bit"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "down on my teeth, tears streaming down my"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "face,\""
+                "over,\""
               ]
             },
             {
@@ -4577,14 +4743,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"unable to do anything but"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "endure it, waiting for the storm to pass.\""
+                "\\SE[8]\"repeatedly thrusting in and out with brutal"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "force.\""
               ]
             },
             {
@@ -4602,21 +4775,110 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"I don't even know how much time"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "passed... Then, with a muffled groan deep in"
+                "\\SE[8]\"I clenched my eyes shut, bit down on my"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "his throat, he suddenly stopped moving.\""
+                "teeth, tears streaming down my face,\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_alma1",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Sister Alma"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[8]\"unable to do anything but endure it,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "waiting for the storm to pass.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_alma1",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Sister Alma"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[8]\"I don't even know how much time passed..."
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Then, with a muffled groan deep in his"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_alma1",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Sister Alma"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "throat, he suddenly stopped moving.\""
               ]
             },
             {
@@ -4754,21 +5016,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"The next moment, I felt"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "something thick and warm spreading deep"
+                "\\SE[8]\"The next moment, I felt something thick and"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "inside me, filling me completely.\""
+                "warm spreading deep inside me, filling me"
               ]
             },
             {
@@ -4786,14 +5048,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"Yes... he came inside me, that"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "filthy, lustful thing.\""
+                "completely.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_alma1",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Sister Alma"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[8]\"Yes... he came inside me, that filthy,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "lustful thing.\""
               ]
             },
             {
@@ -4877,21 +5171,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"He let out a satisfied 'huff'"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "and left me lying on the bed, walking away"
+                "\\SE[8]\"He let out a satisfied 'huff' and left me"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "without a shred of remorse...\""
+                "lying on the bed, walking away without a"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_alma1",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Sister Alma"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "shred of remorse...\""
               ]
             },
             {
@@ -4980,14 +5299,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"That... was my first"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "experience. How was it?\""
+                "\\SE[8]\"That... was my first experience. How was"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "it?\""
               ]
             },
             {
@@ -5005,21 +5331,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"...I'm sorry. I shouldn't have forced"
+                "\\SE[0]Kyle"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "you to relive such a terrible memory. I"
+                "\\SE[3]\"...I'm sorry. I shouldn't have forced you"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "truly am sorry.\""
+                "to relive such a terrible memory. I truly am"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                5,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "sorry.\""
               ]
             },
             {
@@ -5037,21 +5388,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"Fufu, please don't apologize,"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Kyle-sama. It was so long ago... long since"
+                "\\SE[8]\"Fufu, please don't apologize, Kyle-sama. It"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "forgotten.\""
+                "was so long ago... long since forgotten.\""
               ]
             },
             {
@@ -5069,14 +5420,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"I'm not angry, nor am I sad."
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's fine now.\""
+                "\\SE[8]\"I'm not angry, nor am I sad. It's fine"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "now.\""
               ]
             },
             {
@@ -5094,21 +5452,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"But... ironically, I, who was"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "expected to dedicate everything to God and"
+                "\\SE[8]\"But... ironically, I, who was expected to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "remain pure,\""
+                "dedicate everything to God and remain pure,\""
               ]
             },
             {
@@ -5126,21 +5484,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"when I was violated―by force,"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "by whatever means―and felt a man's heat"
+                "\\SE[8]\"when I was violated―by force, by whatever"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "inside me,\""
+                "means―and felt a man's heat inside me,\""
               ]
             },
             {
@@ -5158,21 +5516,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"I realized... that before being"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "a servant of God, I am a woman. And I"
+                "\\SE[8]\"I realized... that before being a servant"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "understood that... clearly.\""
+                "of God, I am a woman. And I understood"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_alma1",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Sister Alma"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "that... clearly.\""
               ]
             },
             {
@@ -5199,21 +5582,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"...Adventurers, at their core, are"
+                "\\SE[0]Kyle"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "just rough men who couldn't live decent"
+                "\\SE[3]\"...Adventurers, at their core, are just"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "lives.\""
+                "rough men who couldn't live decent lives.\""
               ]
             },
             {
@@ -5231,21 +5614,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"Most of them don't have grand ideals."
+                "\\SE[0]Kyle"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Even I'm no different―I might just be an"
+                "\\SE[3]\"Most of them don't have grand ideals. Even"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "animal too.\""
+                "I'm no different―I might just be an animal"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "too.\""
               ]
             },
             {
@@ -5290,14 +5698,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"No, Kyle-sama. You are not like"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "that man.\""
+                "\\SE[8]\"No, Kyle-sama. You are not like that man.\""
               ]
             },
             {
@@ -5315,21 +5723,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"If you were just a greedy beast"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "like him, you wouldn't look so pained"
+                "\\SE[8]\"If you were just a beast driven by greed"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "hearing about my past wounds.\""
+                "like him, you wouldn't be making that pained"
               ]
             },
             {
@@ -5347,21 +5755,71 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"You wouldn't be wasting time"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "talking to me like this―you'd just take me"
+                "face when you learn about my past wounds.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_alma1",
+                0,
+                0,
+                2,
+                ""
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "by force from the start.\""
+                "\\SE[0]Sister Alma"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[8]\"You wouldn't be wasting time talking to me"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "like this―you'd just take me by force from"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_alma1",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Sister Alma"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "the start.\""
               ]
             },
             {
@@ -5388,21 +5846,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"Because you're the kind soul"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "who cares about my heart... I want to be"
+                "\\SE[8]\"Because you're the kind soul who cares"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "held by you.\""
+                "about my heart... I want to be held by you.\""
               ]
             },
             {
@@ -5429,14 +5887,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"Got it. Sister Alma. If you're okay"
+                "\\SE[0]Kyle"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "with me, I'll be your partner.\""
+                "\\SE[3]\"Got it. Sister Alma. If you're okay with"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "me, I'll be your partner.\""
               ]
             },
             {
@@ -5454,21 +5919,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"Aah...! I'm so happy...!"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Kyle-sama...! Please wrap me in your warm"
+                "\\SE[8]\"Aah...! I'm so happy...! Kyle-sama...!"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "body...!\""
+                "Please wrap me in your warm body...!\""
               ]
             },
             {
@@ -5765,7 +6230,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"You're so beautiful, Sister Alma.\""
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"You're so beautiful, Sister Alma.\""
               ]
             },
             {
@@ -5956,7 +6428,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"Come, this way.\""
+                "\\SE[0]Sister Alma"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[8]\"Come, this way.\""
               ]
             },
             {
@@ -6289,7 +6768,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"Mmh...nnh...hah...nngh...!\""
+                "\\SE[0]Sister Alma"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[8]\"Mmh...nnh...hah...nngh...!\""
               ]
             },
             {
@@ -6531,14 +7017,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"Ah, ahn...! Kyle-sama,"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "there...ah...it feels so good...!\""
+                "\\SE[8]\"Ah, ahn...! Kyle-sama, there...ah...it"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "feels so good...!\""
               ]
             },
             {
@@ -6600,21 +7093,39 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "As he rolls it with his tongue and sucks strongly"
+                "Every time he rolls it with the tip of his tongue and"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "without using his teeth, Alma clutches the sheets,"
+                "sucks strongly―careful not to use his teeth―Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "crying out in ecstasy."
+                "clutches the sheets tightly, letting out cries of"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "ecstasy."
               ]
             },
             {
@@ -6850,14 +7361,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"Aahh! There...right there...!"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Aah, my mind is melting...♡\""
+                "\\SE[8]\"Aahh! There...right there...! Aah, my mind"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "is melting...♡\""
               ]
             },
             {
@@ -7100,14 +7618,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"Hah...♡ Hah...♡ Hah...♡ Now"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "it's my turn...!\""
+                "\\SE[8]\"Hah...♡ Hah...♡ Hah...♡ Now it's my"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "turn...!\""
               ]
             },
             {
@@ -7360,7 +7885,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"Kuh...! Sister Alma...!\""
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Kuh...! Sister Alma...!\""
               ]
             },
             {
@@ -7442,14 +7974,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"Uah...h... Alma... I'm gonna..."
+                "\\SE[0]Kyle"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "cum...!\""
+                "\\SE[3]\"Uah...h... Alma... I'm gonna... cum...!\""
               ]
             },
             {
@@ -7609,7 +8141,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alma \\SE[8]\"Aah...h! It's so hot...so intense...!"
+                "\\SE[0]Alma"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[8]\"Aah...h! It's so hot...so intense...!"
               ]
             },
             {
@@ -7671,14 +8210,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alma \\SE[8]\"Kyle-sama... next time... let me take"
+                "\\SE[0]Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "care of you...!\""
+                "\\SE[8]\"Kyle-sama... next time... let me take care"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "of you...!\""
               ]
             },
             {
@@ -7973,7 +8519,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alma \\SE[8]\"You don't need that, Kyle-sama.\""
+                "\\SE[0]Alma"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[8]\"You don't need that, Kyle-sama.\""
               ]
             },
             {
@@ -7991,14 +8544,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"Sister Alma? But if something"
+                "\\SE[0]Kyle"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "happens...\""
+                "\\SE[3]\"Sister Alma? But if something happens...\""
               ]
             },
             {
@@ -8067,14 +8620,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alma \\SE[8]\"...I am a holy servant blessed by God,"
+                "\\SE[0]Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "am I not?\""
+                "\\SE[8]\"...I am a holy servant blessed by God, am I"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "not?\""
               ]
             },
             {
@@ -8092,21 +8652,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alma \\SE[8]\"Abortion (Antithesis) is child's play"
+                "\\SE[0]Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "for me. Let me feel all of you,"
+                "\\SE[8]\"Abortion (Antithesis) is child's play for"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Kyle-sama...♡\""
+                "me. Let me feel all of you, Kyle-sama...♡\""
               ]
             },
             {
@@ -8124,7 +8684,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"Understood. Let's go, Sister Alma.\""
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Understood. Let's go, Sister Alma.\""
               ]
             },
             {
@@ -8151,14 +8718,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alma \\SE[8]\"Yes, Kyle-sama...! Please enjoy my"
+                "\\SE[0]Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "dripping pussy...♡\""
+                "\\SE[8]\"Yes, Kyle-sama...! Please enjoy my dripping"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "pussy...♡\""
               ]
             },
             {
@@ -8453,7 +9027,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alma \\SE[8]\"Aah...♡ Kyle-sama, it's amazing...! So"
+                "\\SE[0]Alma"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[8]\"Aah...♡ Kyle-sama, it's amazing...! So"
               ]
             },
             {
@@ -9053,7 +9634,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alma \\SE[8]\"Aah...! I can't take it anymore... I'm"
+                "\\SE[0]Alma"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[8]\"Aah...! I can't take it anymore... I'm"
               ]
             },
             {
@@ -9213,7 +9801,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle \\SE[3]\"Ku...h...! I'm gonna cum... Alma...!\""
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3]\"Ku...h...! I'm gonna cum... Alma...!\""
               ]
             },
             {
@@ -9563,7 +10158,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Sister Alma] \\SE[8]\"Hah...♡ Hah...♡ Hah...♡\""
+                "\\SE[0][Sister Alma]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[8]\"Hah...♡ Hah...♡ Hah...♡\""
               ]
             },
             {
@@ -9637,14 +10239,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"Uh... Are you really okay with that?"
+                "\\SE[0][Kyle]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I came inside you...\""
+                "\\SE[3]\"Uh... Are you really okay with that? I came"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "inside you...\""
               ]
             },
             {
@@ -9662,21 +10271,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Sister Alma] \\SE[8]\"Fufu, of course...♡ I'll make"
+                "\\SE[0][Sister Alma]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "sure to properly take my \\c[2]antithesis\\c[0]"
+                "\\SE[8]\"Fufu, of course...♡ I'll make sure to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "afterward, so...♡\""
+                "properly take my \\c[2]antithesis\\c[0] afterward,"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_alma1",
+                4,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0][Sister Alma]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "so...♡\""
               ]
             },
             {
@@ -9741,14 +10375,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Sister Alma] \\SE[8]\"Nn...! Chuu... Lero..."
+                "\\SE[0][Sister Alma]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Lero...! Kyle-sama...♡ Kyle-sama...♡\""
+                "\\SE[8]\"Nn...! Chuu... Lero... Lero...!"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Kyle-sama...♡ Kyle-sama...♡\""
               ]
             },
             {
@@ -9766,14 +10407,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Sister Alma] \\SE[8]\"It was the best sex...♡ Thank"
+                "\\SE[0][Sister Alma]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "you so much, Kyle-sama...♡\""
+                "\\SE[8]\"It was the best sex...♡ Thank you so much,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Kyle-sama...♡\""
               ]
             },
             {
@@ -9850,14 +10498,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"Then I'll be going. Goodnight,"
+                "\\SE[0][Kyle]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sister Alma.\""
+                "\\SE[3]\"Then I'll be going. Goodnight, Sister"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Alma.\""
               ]
             },
             {
@@ -9875,14 +10530,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Sister Alma] \\SE[8]\"Yes, goodnight,"
+                "\\SE[0][Sister Alma]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Kyle-sama...♡\""
+                "\\SE[8]\"Yes, goodnight, Kyle-sama...♡\""
               ]
             },
             {
@@ -9938,7 +10593,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Sister Alma] \\SE[8]\"………\""
+                "\\SE[0][Sister Alma]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[8]\"………\""
               ]
             },
             {
@@ -9963,14 +10625,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Sister Alma] \\SE[8](...I have a dream I can't"
+                "\\SE[0][Sister Alma]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "tell anyone about.)"
+                "\\SE[8](...I have a dream I can't tell anyone"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "about.)"
               ]
             },
             {
@@ -9988,7 +10657,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Sister Alma] \\SE[8](I want to bear a child.)"
+                "\\SE[0][Sister Alma]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[8](I want to bear a child.)"
               ]
             },
             {
@@ -10006,14 +10682,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Sister Alma] \\SE[8](And I want that child to"
+                "\\SE[0][Sister Alma]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "become a \\c[2]clergyman\\c[0] someday.)"
+                "\\SE[8](And I want that child to become a \\c[2]clergyman\\c[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "someday.)"
               ]
             },
             {
@@ -10031,14 +10714,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Sister Alma] \\SE[8](And to become a clergyman,"
+                "\\SE[0][Sister Alma]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "one absolutely needs \\c[3]divine blessing\\c[0]...)"
+                "\\SE[8](And to become a clergyman, one absolutely"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "needs \\c[3]divine blessing\\c[0]...)"
               ]
             },
             {
@@ -10056,21 +10746,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Sister Alma] \\SE[8](Meeting a young, handsome man"
+                "\\SE[0][Sister Alma]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "with \\c[3]divine blessing\\c[0] in this godforsaken"
+                "\\SE[8](Meeting a young, handsome man with \\c[3]divine"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "place... What luck.)"
+                "blessing\\c[0] in this godforsaken place... What"
               ]
             },
             {
@@ -10088,21 +10778,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Sister Alma] \\SE[8](I truly am blessed. A gift"
+                "\\SE[0][Sister Alma]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "from Lady Fortuna, whom I pray to every"
+                "luck.)"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_alma1",
+                4,
+                0,
+                2,
+                ""
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "day.)"
+                "\\SE[0][Sister Alma]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[8](I truly am blessed. A gift from Lady"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Fortuna, whom I pray to every day.)"
               ]
             },
             {
@@ -10120,14 +10835,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Sister Alma] \\SE[8](I'd rather not have sex with"
+                "\\SE[0][Sister Alma]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "some old geezer with a potbelly.)"
+                "\\SE[8](I'd rather not have sex with some old"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "geezer with a potbelly.)"
               ]
             },
             {
@@ -10145,21 +10867,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Sister Alma] \\SE[8](Fufu... Kyle-sama, forgive"
+                "\\SE[0][Sister Alma]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "me. Actually, just before you came, I cast"
+                "\\SE[8](Fufu... Kyle-sama, forgive me. Actually,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\c[2]conception\\c[0] on myself.)"
+                "just before you came, I cast \\c[2]conception\\c[0] on"
               ]
             },
             {
@@ -10177,21 +10899,71 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Sister Alma] \\SE[8](Hehe, will it be a boy or a"
+                "\\SE[0][Sister Alma]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "girl...? What should I name them...?"
+                "myself.)"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_alma1",
+                6,
+                0,
+                2,
+                ""
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Kyle-sama, thank you so much...!)"
+                "\\SE[0][Sister Alma]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[8](Hehe, will it be a boy or a girl...? What"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "should I name them...? Kyle-sama, thank you"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_alma1",
+                6,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0][Sister Alma]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "so much...!)"
               ]
             },
             {
@@ -11306,14 +12078,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"The lord is having trouble"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "conceiving a child...\""
+                "\\SE[8]\"The lord is having trouble conceiving a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "child...\""
               ]
             },
             {
@@ -11331,7 +12110,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose \\SE[1]\"Y-Yes...\""
+                "\\SE[0]Rose"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Y-Yes...\""
               ]
             },
             {
@@ -11349,14 +12135,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"T-That... is it done"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "correctly?\""
+                "\\SE[8]\"T-That... is it done correctly?\""
               ]
             },
             {
@@ -11417,21 +12203,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"I-I apologize. Though it's"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "rare, there are those who don't understand"
+                "\\SE[8]\"I-I apologize. Though it's rare, there are"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "sexual intercourse\""
+                "those who don't understand sexual"
               ]
             },
             {
@@ -11449,21 +12235,71 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"Some even believe it can be"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "done just by \\C[3]inserting it\\C[0], or that"
+                "intercourse\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_alma1",
+                1,
+                0,
+                2,
+                ""
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\C[3]ejaculating in the mouth\\C[0] is sufficient...\""
+                "\\SE[0]Sister Alma"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[8]\"Some even believe it can be done just by"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\C[3]inserting it\\C[0], or that \\C[3]ejaculating in the"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_alma1",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Sister Alma"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "mouth\\C[0] is sufficient...\""
               ]
             },
             {
@@ -11490,7 +12326,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose \\SE[1]\"I think you'll be fine on that front.\""
+                "\\SE[0]Rose"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"I think you'll be fine on that front.\""
               ]
             },
             {
@@ -11508,14 +12351,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"Understood. Please wait a"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "moment.\""
+                "\\SE[8]\"Understood. Please wait a moment.\""
               ]
             },
             {
@@ -11751,14 +12594,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"This is just purified water,"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "but I'll infuse it with \\C[2]magic\\C[0].\""
+                "\\SE[8]\"This is just purified water, but I'll"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "infuse it with \\C[2]magic\\C[0].\""
               ]
             },
             {
@@ -11846,21 +12696,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"This is the magic of \\C[3]Conception"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Thesis)\\C[0], which opposes the magic of"
+                "\\SE[8]\"This is the magic of \\C[3]Conception (Thesis)\\C[0],"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\C[3]Abortion (Antithesis)\\C[0].\""
+                "which opposes the magic of \\C[3]Abortion"
               ]
             },
             {
@@ -11878,21 +12728,71 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"Drink this before intercourse."
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I can't guarantee 100%, but it will greatly"
+                "(Antithesis)\\C[0].\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_alma1",
+                0,
+                0,
+                2,
+                ""
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "increase the chances of pregnancy.\""
+                "\\SE[0]Sister Alma"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[8]\"Drink this before intercourse. I can't"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "guarantee 100%, but it will greatly increase"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_alma1",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Sister Alma"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "the chances of pregnancy.\""
               ]
             },
             {
@@ -12005,7 +12905,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose \\SE[1]\"Thank you, Sister Alma. Is this enough"
+                "\\SE[0]Rose"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Thank you, Sister Alma. Is this enough"
               ]
             },
             {
@@ -12030,14 +12937,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"This much...! I'm so grateful."
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Rose.\""
+                "\\SE[8]\"This much...! I'm so grateful. Rose.\""
               ]
             },
             {
@@ -12055,21 +12962,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"Ideally, I'd cast the magic"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "directly just before, as it's the most"
+                "\\SE[8]\"Ideally, I'd cast the magic directly just"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "effective...\""
+                "before, as it's the most effective...\""
               ]
             },
             {
@@ -12087,21 +12994,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"But this \\C[2]Conception Holy Water\\C[0]"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "should still work. However, it only lasts"
+                "\\SE[8]\"But this \\C[2]Conception Holy Water\\C[0] should still"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "about a week in the bottle.\""
+                "work. However, it only lasts about a week in"
               ]
             },
             {
@@ -12119,14 +13026,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"If the deadline passes, please"
+                "\\SE[0]Sister Alma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "come back again.\""
+                "the bottle.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_alma1",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Sister Alma"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[8]\"If the deadline passes, please come back"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "again.\""
               ]
             },
             {
@@ -12144,7 +13083,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose \\SE[1]\"Got it. Thank you, Sister Alma.\""
+                "\\SE[0]Rose"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]\"Got it. Thank you, Sister Alma.\""
               ]
             },
             {
