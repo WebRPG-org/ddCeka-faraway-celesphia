@@ -1466,14 +1466,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Armor Shop"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Welcome to the armory! Take a look around!\""
+                "\\SE[0]Armor Shop \"Welcome to the armory! Take a look around!\""
               ]
             },
             {
@@ -1642,14 +1635,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Armor Shop"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Come again soon!\""
+                "\\SE[0]Armor Shop \"Come again soon!\""
               ]
             },
             {
@@ -1727,14 +1713,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"The equipment from Eldenia has great"
+                "\\SE[0]Adventurer \"The equipment from Eldenia has great"
               ]
             },
             {
@@ -1759,14 +1738,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "\\SE[0]Adventurer \"you should definitely prepare for"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"you should definitely prepare for fire-element"
+                "fire-element"
               ]
             },
             {

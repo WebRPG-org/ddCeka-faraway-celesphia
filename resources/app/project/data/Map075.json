@@ -4795,14 +4795,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]？？？"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"What, already worn out?"
+                "\\SE[0]？？？ \\SE[5]\"What, already worn out?"
               ]
             },
             {
@@ -4829,21 +4822,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]？？？"
+                "\\SE[0]？？？ \\SE[1]\"Hah...hah...\\C[2]Celestia\\C[0], you're the one who's gone"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Hah...hah...\\C[2]Celestia\\C[0], you're the one who's"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "gone feral."
+                "feral."
               ]
             },
             {
@@ -4861,14 +4847,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Celestia"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"If you have the energy to talk back,"
+                "\\SE[0]Celestia \\SE[5]\"If you have the energy to talk back,"
               ]
             },
             {
@@ -4886,14 +4865,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Anastasia"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"So...is it really out there? That so-called"
+                "\\SE[0]Anastasia \\SE[1]\"So...is it really out there? That so-called"
               ]
             },
             {
@@ -5393,14 +5365,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Celestia"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"Yes. According to \\C[3]my father's diary\\C[0],"
+                "\\SE[0]Celestia \\SE[5]\"Yes. According to \\C[3]my father's diary\\C[0],"
               ]
             },
             {
@@ -5418,14 +5383,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Celestia"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"though it's just a large sculpture now, so we"
+                "\\SE[0]Celestia \\SE[5]\"though it's just a large sculpture now, so we"
               ]
             },
             {
@@ -5450,14 +5408,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Anastasia"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"That's what Tior-kun was talking about...\""
+                "\\SE[0]Anastasia \\SE[1]\"That's what Tior-kun was talking about...\""
               ]
             },
             {
@@ -5475,14 +5426,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Celestia"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"Exactly. The '\\C[1]Philosopher's Stone\\C[0].' In"
+                "\\SE[0]Celestia \\SE[5]\"Exactly. The '\\C[1]Philosopher's Stone\\C[0].' In"
               ]
             },
             {
@@ -5507,14 +5451,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Anastasia"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"The \\C[2]Goddess Crystal\\C[0]...\""
+                "\\SE[0]Anastasia \\SE[1]\"The \\C[2]Goddess Crystal\\C[0]...\""
               ]
             },
             {
@@ -5532,14 +5469,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Celestia"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"Yes. With that, we can make it. And then"
+                "\\SE[0]Celestia \\SE[5]\"Yes. With that, we can make it. And then"
               ]
             },
             {
@@ -5595,14 +5525,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Anastasia"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"'\\C[3]Magic beyond human understanding\\C[0]'... is"
+                "\\SE[0]Anastasia \\SE[1]\"'\\C[3]Magic beyond human understanding\\C[0]'... is"
               ]
             },
             {
@@ -5627,14 +5550,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Celestia"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"Revive the dead, control time... among other"
+                "\\SE[0]Celestia \\SE[5]\"Revive the dead, control time... among other"
               ]
             },
             {
@@ -5652,14 +5568,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Anastasia"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"What a pain. \\C[2]All-element magic\\C[0] like"
+                "\\SE[0]Anastasia \\SE[1]\"What a pain. \\C[2]All-element magic\\C[0] like"
               ]
             },
             {
@@ -5684,14 +5593,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Celestia"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"A zero-magic all-element mage is just a waste"
+                "\\SE[0]Celestia \\SE[5]\"A zero-magic all-element mage is just a waste"
               ]
             },
             {
@@ -5716,14 +5618,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Celestia"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"That's why we're making the magic-amplifying"
+                "\\SE[0]Celestia \\SE[5]\"That's why we're making the magic-amplifying"
               ]
             },
             {
@@ -6115,21 +6010,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Anastasia"
+                "\\SE[0]Anastasia \\SE[1]\"The Goddess Crystal was never meant to be"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"The Goddess Crystal was never meant to be used"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "by"
+                "used by"
               ]
             },
             {
@@ -6146,14 +6034,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Celestia"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"Oh? Someone's used it before, apparently."
+                "\\SE[0]Celestia \\SE[5]\"Oh? Someone's used it before, apparently."
               ]
             },
             {
@@ -6180,14 +6061,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Anastasia"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"That person is an absolute idiot...\""
+                "\\SE[0]Anastasia \\SE[1]\"That person is an absolute idiot...\""
               ]
             },
             {
@@ -6204,21 +6078,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Anastasia"
+                "\\SE[0]Anastasia \\SE[1]\"Sigh... I just want to get back to the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Sigh... I just want to get back to the Academy"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "and"
+                "Academy and"
               ]
             },
             {
@@ -6236,14 +6103,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Celestia"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"Same here. Soak in a steaming hot bath,"
+                "\\SE[0]Celestia \\SE[5]\"Same here. Soak in a steaming hot bath,"
               ]
             },
             {
@@ -6268,14 +6128,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Seles"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"Hey―! You're late! Hurry up or I'll turn you"
+                "\\SE[0]Seles \\SE[5]\"Hey―! You're late! Hurry up or I'll turn you"
               ]
             },
             {
@@ -6311,14 +6164,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]？？？"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]\"J-just a second!\""
+                "\\SE[0]？？？ \\SE[0]\"J-just a second!\""
               ]
             },
             {

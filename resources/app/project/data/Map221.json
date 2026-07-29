@@ -2736,14 +2736,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "After finishing his duties, Gilberto invited"
+                "After finishing his duties, Gilberto invited Rose to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Rose to his"
+                "his"
               ]
             },
             {
@@ -2813,14 +2813,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"Then he suddenly told me... that he"
+                "\\SE[0][Rose] \\SE[1]\"Then he suddenly told me... that he"
               ]
             },
             {
@@ -2845,21 +2838,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "\\SE[0][Rose] \\SE[1]\"He asked if I'd like to live with"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"He asked if I'd like to live with him"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "here.\""
+                "him here.\""
               ]
             },
             {
@@ -2877,14 +2863,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"That's sudden.\""
+                "\\SE[0][Kyle] \\SE[3]\"That's sudden.\""
               ]
             },
             {
@@ -2902,14 +2881,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "\\SE[0][Rose] \\SE[1]\"Seriously... I was really"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Seriously... I was really surprised.\""
+                "surprised.\""
               ]
             },
             {

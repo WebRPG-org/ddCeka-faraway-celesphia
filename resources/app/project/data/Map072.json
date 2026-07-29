@@ -2588,14 +2588,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Mayor"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Hello, traveler. I am the mayor of Eldenia.\""
+                "\\SE[0]Mayor \"Hello, traveler. I am the mayor of Eldenia.\""
               ]
             },
             {
@@ -2613,14 +2606,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Mayor"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Eldenia thrives mainly on tourism and export"
+                "\\SE[0]Mayor \"Eldenia thrives mainly on tourism and export"
               ]
             },
             {
@@ -2638,21 +2624,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Mayor"
+                "\\SE[0]Mayor \"and we export a variety of goods. In particular,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"and we export a variety of goods. In"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "particular, our most"
+                "our most"
               ]
             },
             {
@@ -2761,14 +2740,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Maid"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Hey, hey! It's dangerous in there, so don't go"
+                "\\SE[0]Maid \"Hey, hey! It's dangerous in there, so don't go"
               ]
             },
             {
@@ -2786,21 +2758,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Maid"
+                "\\SE[0]Maid \"If you're the scholar teacher, they're sitting at"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"If you're the scholar teacher, they're sitting"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "at that desk"
+                "that desk"
               ]
             },
             {
@@ -2878,14 +2843,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Merchant"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"I came from across the sea. Quite a long"
+                "\\SE[0]Merchant \"I came from across the sea. Quite a long"
               ]
             },
             {
@@ -2903,14 +2861,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Merchant"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Once this deal is done, I'd love to have a"
+                "\\SE[0]Merchant \"Once this deal is done, I'd love to have a"
               ]
             },
             {
@@ -2935,14 +2886,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Merchant"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Ah, right. If you ever run into Valgrind of"
+                "\\SE[0]Merchant \"Ah, right. If you ever run into Valgrind of"
               ]
             },
             {
@@ -2960,14 +2904,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Merchant"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"I'll pay top coin for it. Though I doubt it"
+                "\\SE[0]Merchant \"I'll pay top coin for it. Though I doubt it"
               ]
             },
             {
@@ -3455,14 +3392,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Scholar"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Yes, I've been studying Grimridge for many"
+                "\\SE[0]Scholar \"Yes, I've been studying Grimridge for many"
               ]
             },
             {
@@ -3480,14 +3410,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Scholar"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"It's true that Grimridge has what are called"
+                "\\SE[0]Scholar \"It's true that Grimridge has what are called"
               ]
             },
             {
@@ -3512,14 +3435,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Scholar"
+                "\\SE[0]Scholar \"...but I've never actually seen one with my"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"...but I've never actually seen one with my own"
+                "own"
               ]
             },
             {
@@ -3537,14 +3460,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Scholar"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"That alone should tell you how dangerous the"
+                "\\SE[0]Scholar \"That alone should tell you how dangerous the"
               ]
             },
             {
@@ -3629,14 +3545,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Researcher"
+                "\\SE[0]Researcher \"Celesphia? Of course I know it. It's a"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Celesphia? Of course I know it. It's a spirit"
+                "spirit"
               ]
             },
             {
@@ -3654,14 +3570,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Researcher"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"A legendary flower that only grows in"
+                "\\SE[0]Researcher \"A legendary flower that only grows in"
               ]
             },
             {
@@ -3679,21 +3588,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Researcher"
+                "\\SE[0]Researcher \"and consuming it can heal any disease or"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"and consuming it can heal any disease or even"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "fatal"
+                "even fatal"
               ]
             },
             {
@@ -3711,14 +3613,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Researcher"
+                "\\SE[0]Researcher \"but it's so rare that I've never even laid"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"but it's so rare that I've never even laid eyes"
+                "eyes"
               ]
             },
             {
@@ -3736,21 +3638,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Researcher"
+                "\\SE[0]Researcher \"If you ever get your hands on one, would"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"If you ever get your hands on one, would you be"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "willing to"
+                "you be willing to"
               ]
             },
             {

@@ -3968,14 +3968,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]？？？"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[2]\"Welcome."
+                "\\SE[0]？？？ \\SE[2]\"Welcome."
               ]
             },
             {
@@ -3993,21 +3986,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0][Luna] \\SE[5]\"Yes, we'd like to cross the bridge"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Yes, we'd like to cross the bridge to"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "take on a \\C[2]Guild Quest"
+                "to take on a \\C[2]Guild Quest"
               ]
             },
             {
@@ -4034,14 +4020,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]？？？"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[2]\"Oh my, you have the same long ears as"
+                "\\SE[0]？？？ \\SE[2]\"Oh my, you have the same long ears as"
               ]
             },
             {
@@ -4075,14 +4054,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Fioretta]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[2]\"I am Fioretta.\""
+                "\\SE[0][Fioretta] \\SE[2]\"I am Fioretta.\""
               ]
             },
             {
@@ -4099,14 +4071,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"I am Luna Arselia.\""
+                "\\SE[0][Luna] \\SE[5]\"I am Luna Arselia.\""
               ]
             },
             {
@@ -4124,14 +4089,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]\"I am Lilian Vermill.\""
+                "\\SE[0][Lilian] \\SE[4]\"I am Lilian Vermill.\""
               ]
             },
             {
@@ -4188,21 +4146,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Fioretta]"
+                "\\SE[0][Fioretta] \\SE[2]\"Wow, there really aren't many"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Wow, there really aren't many people"
+                "people around here (in the eastern"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "around here (in the eastern frontier)\""
+                "frontier)\""
               ]
             },
             {
@@ -4220,21 +4178,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Fioretta]"
+                "\\SE[0][Fioretta] \\SE[2]\"In Arseleon, apart from me,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"In Arseleon, apart from me, there are"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "only three of us elves\""
+                "there are only three of us elves\""
               ]
             },
             {
@@ -4516,14 +4467,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]having fun together.\""
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3][Kyle]"
+                "\\SE[0]having fun together.\" \\SE[3][Kyle]"
               ]
             },
             {
@@ -4550,14 +4494,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5][Luna]"
+                "\\SE[0]Luna \\SE[5][Luna]"
               ]
             },
             {
@@ -4618,14 +4555,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\"S-Sorry, we got carried away"
+                "\\SE[0]\"S-Sorry, we got carried away chatting.\""
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "chatting.\" \\SE[2][Fioretta]"
+                "\\SE[2][Fioretta]"
               ]
             },
             {
@@ -4643,21 +4580,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\"Y-Yes, yes, the \\C[2]Guild Quest"
+                "\\SE[0]\"Y-Yes, yes, the \\C[2]Guild Quest Completion"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Completion Certificate\\C[0]\""
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[2][Fioretta]"
+                "Certificate\\C[0]\" \\SE[2][Fioretta]"
               ]
             },
             {
@@ -4858,14 +4788,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\"Please wait a moment.\""
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[2][Fioretta]"
+                "\\SE[0]\"Please wait a moment.\" \\SE[2][Fioretta]"
               ]
             },
             {
@@ -4947,14 +4870,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5][Luna]"
+                "\\SE[0]Luna \\SE[5][Luna]"
               ]
             },
             {
@@ -4972,14 +4888,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"Which way to the Kawill Ruins?\""
+                "\\SE[0]Lilian \\SE[5]\"Which way to the Kawill Ruins?\""
               ]
             },
             {
@@ -5125,14 +5034,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Fiore(t)ta"
+                "\\SE[0]Fiore(t)ta \\SE[2]\"Then, I wish you the best of"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Then, I wish you the best of luck!\""
+                "luck!\""
               ]
             },
             {
@@ -5150,14 +5059,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"Yes! I'll be going now!\"\""
+                "\\SE[0]Luna \\SE[5]\"Yes! I'll be going now!\"\""
               ]
             },
             {
@@ -5276,14 +5178,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Fioretta"
+                "\\SE[0]Fioretta \\SE[2]\"The Kawill Ruins are near"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"The Kawill Ruins are near Arseleon,"
+                "Arseleon,"
               ]
             },
             {
@@ -5301,21 +5203,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Fioretta"
+                "\\SE[0]Fioretta \\SE[2]\"so there are lots of monsters."
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"so there are lots of monsters. Make"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "sure you're prepared.\""
+                "Make sure you're prepared.\""
               ]
             },
             {
@@ -5526,14 +5421,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"Fiore, I'm sorry...\""
+                "\\SE[0]Luna \\SE[5]\"Fiore, I'm sorry...\""
               ]
             },
             {
@@ -5551,21 +5439,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
+                "\\SE[0] \\SE[2]\"Mmm, mmm... sounds like a delicious, juicy"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Mmm, mmm... sounds like a delicious,"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "juicy one.\""
+                "one.\""
               ]
             },
             {
@@ -5583,14 +5464,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]\"I picked up the scraps that fell,"
+                "\\SE[0]Lilian \\SE[4]\"I picked up the scraps that fell,"
               ]
             },
             {
@@ -5624,14 +5498,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[2]\"No...even this is too much...\""
+                "\\SE[0] \\SE[2]\"No...even this is too much...\""
               ]
             },
             {
@@ -5667,14 +5534,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]\"Yeah, I figured.\""
+                "\\SE[0]Lilian \\SE[4]\"Yeah, I figured.\""
               ]
             },
             {
@@ -5692,14 +5552,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"Isn't there any other quest we could"
+                "\\SE[0]Luna \\SE[5]\"Isn't there any other quest we could"
               ]
             },
             {
@@ -5724,14 +5577,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[2]\"Just a moment~\""
+                "\\SE[0] \\SE[2]\"Just a moment~\""
               ]
             },
             {
@@ -5981,21 +5827,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
+                "\\SE[0] \\SE[2]\"Sorry about that~ I can introduce you to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Sorry about that~ I can introduce you"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "to one right now―\""
+                "one right now―\""
               ]
             },
             {
@@ -6065,21 +5904,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[2]\"I'd like you to come back another"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "day~\""
+                "\\SE[0] \\SE[2]\"I'd like you to come back another day~\""
               ]
             },
             {
@@ -6097,14 +5922,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"If there's nothing available, there's"
+                "\\SE[0]Kyle \\SE[3]\"If there's nothing available, there's"
               ]
             },
             {
@@ -6129,14 +5947,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"That's true... Fiore,\""
+                "\\SE[0]Luna \\SE[5]\"That's true... Fiore,\""
               ]
             },
             {
@@ -7111,14 +6922,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"What's wrong, Lilian?\""
+                "\\SE[0]Kyle \\SE[3]\"What's wrong, Lilian?\""
               ]
             },
             {
@@ -7307,14 +7111,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]\"T-This is a quest!\""
+                "\\SE[0]Lilian \\SE[4]\"T-This is a quest!\""
               ]
             },
             {
@@ -8092,14 +7889,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]\"Apparently, we can get a completion"
+                "\\SE[0]Lilian \\SE[4]\"Apparently, we can get a completion"
               ]
             },
             {
@@ -8133,14 +7923,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]\"And it was the last available slot,"
+                "\\SE[0]Lilian \\SE[4]\"And it was the last available slot,"
               ]
             },
             {
@@ -8165,14 +7948,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"Good job, Lilian!\""
+                "\\SE[0]Luna \\SE[5]\"Good job, Lilian!\""
               ]
             },
             {
@@ -8370,14 +8146,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"What kind of quest is it, anyway...?\""
+                "\\SE[0]Kyle \\SE[3]\"What kind of quest is it, anyway...?\""
               ]
             },
             {
@@ -8416,14 +8185,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "tournament!! Grand prize winner receives"
+                "tournament!! Grand prize winner receives luxurious"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "luxurious prizes!"
+                "prizes!"
               ]
             },
             {
@@ -8455,14 +8224,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"Wh-What did you just...?\""
+                "\\SE[0]Kyle \\SE[3]\"Wh-What did you just...?\""
               ]
             },
             {
@@ -8560,14 +8322,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"Let's talk. We should move somewhere"
+                "\\SE[0]Kyle \\SE[3]\"Let's talk. We should move somewhere"
               ]
             },
             {
@@ -8692,14 +8447,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[2]\"Luna, Lilian!"
+                "\\SE[0] \\SE[2]\"Luna, Lilian!"
               ]
             },
             {
@@ -8717,21 +8465,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
+                "\\SE[0] \\SE[2]\"If it's an adventurer's job, please go to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"If it's an adventurer's job, please"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "go to the \\C[2]next counter over\\C[0]!"
+                "the \\C[2]next counter over\\C[0]!"
               ]
             },
             {
@@ -8850,14 +8591,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Fioreita"
+                "\\SE[0]Fioreita \\SE[2]\"Oh, I saw your comedy live"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Oh, I saw your comedy live yesterday!"
+                "yesterday!"
               ]
             },
             {
@@ -8875,14 +8616,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"Thanks for watching~!\""
+                "\\SE[0]Luna \\SE[5]\"Thanks for watching~!\""
               ]
             },
             {
@@ -8900,14 +8634,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]\"Well, I tried my best...\""
+                "\\SE[0]Lilian \\SE[4]\"Well, I tried my best...\""
               ]
             },
             {
@@ -9171,14 +8898,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0](When did they get so close...?!)"
+                "\\SE[0]Kyle \\SE[0](When did they get so close...?!)"
               ]
             },
             {
@@ -9196,14 +8916,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"Uh, mmh...(clears throat)\""
+                "\\SE[0]Kyle \\SE[3]\"Uh, mmh...(clears throat)\""
               ]
             },
             {
@@ -9239,14 +8952,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"By the way, did you end up...\""
+                "\\SE[0]Luna \\SE[5]\"By the way, did you end up...\""
               ]
             },
             {
@@ -9264,14 +8970,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Fioreita"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[2]\"Ah~... It seems advancing to the"
+                "\\SE[0]Fioreita \\SE[2]\"Ah~... It seems advancing to the"
               ]
             },
             {
@@ -9296,21 +8995,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0]Lilian \\SE[4]\"Do you have any other requests by"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Do you have any other requests by any"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "chance?\""
+                "any chance?\""
               ]
             },
             {
@@ -9337,14 +9029,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Fioreita"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[2]\"Actually, I've already put out all"
+                "\\SE[0]Fioreita \\SE[2]\"Actually, I've already put out all"
               ]
             },
             {
@@ -9396,14 +9081,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"Then, then what about today's"
+                "\\SE[0]Kyle \\SE[3]\"Then, then what about today's"
               ]
             },
             {
@@ -9471,14 +9149,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Fioreita"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[2]\"I'd like you to come again"
+                "\\SE[0]Fioreita \\SE[2]\"I'd like you to come again"
               ]
             },
             {
@@ -9530,14 +9201,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"Understood... I'll come again...\""
+                "\\SE[0]Luna \\SE[5]\"Understood... I'll come again...\""
               ]
             },
             {
@@ -10097,14 +9761,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Fioreita"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[2]\"\\{Aaaaaah!!!\\}\""
+                "\\SE[0]Fioreita \\SE[2]\"\\{Aaaaaah!!!\\}\""
               ]
             },
             {
@@ -10343,14 +10000,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Fioreita"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[2]\"I forgot!! There was one thing I"
+                "\\SE[0]Fioreita \\SE[2]\"I forgot!! There was one thing I"
               ]
             },
             {
@@ -10974,14 +10624,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"W-What is it?!\""
+                "\\SE[0]Luna \\SE[5]\"W-What is it?!\""
               ]
             },
             {
@@ -11451,14 +11094,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"……\""
+                "\\SE[0]Luna \\SE[5]\"……\""
               ]
             },
             {
@@ -11483,14 +11119,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"……\""
+                "\\SE[0]Kyle \\SE[3]\"……\""
               ]
             },
             {
@@ -11721,14 +11350,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Fiore'ta"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"Luna, Lilian!"
+                "\\SE[0]Fiore'ta \\SE[1]\"Luna, Lilian!"
               ]
             },
             {
@@ -11746,21 +11368,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Fiore'ta"
+                "\\SE[0]Fiore'ta \\SE[1]\"If it's work, please go to the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"If it's work, please go to the next"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "window over!"
+                "next window over!"
               ]
             },
             {
@@ -11829,14 +11444,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Fiore'ta"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"Luna, Lilian!"
+                "\\SE[0]Fiore'ta \\SE[1]\"Luna, Lilian!"
               ]
             },
             {
@@ -11854,21 +11462,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Fiore'ta"
+                "\\SE[0]Fiore'ta \\SE[1]\"If it's work, please go to the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"If it's work, please go to the next"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "window over!"
+                "next window over!"
               ]
             },
             {
@@ -11946,14 +11547,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer"
+                "\\SE[0]Male Adventurer \"If you're heading to the Kawill Ruins"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"If you're heading to the Kawill Ruins to the"
+                "to the"
               ]
             },
             {
@@ -11971,21 +11572,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer"
+                "\\SE[0]Male Adventurer \"you'll have an advantage against"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"you'll have an advantage against enemies where"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "physical"
+                "enemies where physical"
               ]
             },
             {
@@ -12063,14 +11657,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"We've just returned from Eldenia.\""
+                "\\SE[0]Female Adventurer \"We've just returned from Eldenia.\""
               ]
             },
             {
@@ -12088,14 +11675,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "\\SE[0]Female Adventurer \"Eldenia is a harsh land. We're"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Eldenia is a harsh land. We're around level"
+                "around level"
               ]
             },
             {
@@ -12113,14 +11700,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "\\SE[0]Female Adventurer \"If you're going to Eldenia too, be"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"If you're going to Eldenia too, be careful.\""
+                "careful.\""
               ]
             },
             {
@@ -12842,14 +12429,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Member"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Welcome to the Ars Leone Guild.\""
+                "\\SE[0]Guild Member \"Welcome to the Ars Leone Guild.\""
               ]
             },
             {
@@ -12867,14 +12447,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Member"
+                "\\SE[0]Guild Member \"These are the jobs we can offer you right"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"These are the jobs we can offer you right now.\""
+                "now.\""
               ]
             },
             {
@@ -14870,14 +14450,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alvin"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Is there something you're looking for? If you"
+                "\\SE[0]Alvin \"Is there something you're looking for? If you"
               ]
             },
             {
@@ -15013,14 +14586,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Staff"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"This is the Ars Leone Guild. If you have any"
+                "\\SE[0]Staff \"This is the Ars Leone Guild. If you have any"
               ]
             },
             {
@@ -15156,14 +14722,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"You know about Goddess Crystals, right?\""
+                "\\SE[0]Adventurer \"You know about Goddess Crystals, right?\""
               ]
             },
             {
@@ -15207,14 +14766,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Adventurer"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "\"If you find one, take it to the guildhall.\""
+                "\\SE[0]Adventurer \"If you find one, take it to the guildhall.\""
               ]
             },
             {
@@ -15245,14 +14797,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Adventurer"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "\"The method's described in ancient texts.\""
+                "\\SE[0]Adventurer \"The method's described in ancient texts.\""
               ]
             },
             {
@@ -15270,14 +14815,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Adventurer"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "\"You trap a high-magic woman inside a large"
+                "\\SE[0]Adventurer \"You trap a high-magic woman inside a large"
               ]
             },
             {
@@ -15295,21 +14833,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "\\SE[0]Adventurer \"and once her magic saturates the crystal"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"and once her magic saturates the crystal and"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "overflows from"
+                "and overflows from"
               ]
             },
             {
@@ -15327,14 +14858,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Adventurer"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "\"That's how a Goddess Crystal is made. The"
+                "\\SE[0]Adventurer \"That's how a Goddess Crystal is made. The"
               ]
             },
             {
@@ -15359,14 +14883,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "\\SE[0]Adventurer \"Huh? You're asking what happens to the"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Huh? You're asking what happens to the woman"
+                "woman"
               ]
             },
             {
@@ -15536,14 +15060,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Mage"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Hey, let's go see the festival instead of"
+                "\\SE[0]Female Mage \"Hey, let's go see the festival instead of"
               ]
             },
             {
@@ -15561,21 +15078,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shrine Maiden Woman"
+                "\\SE[0]Shrine Maiden Woman \"Again? You drank too much, and now"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Again? You drank too much, and now you're just"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "gonna pass"
+                "you're just gonna pass"
               ]
             },
             {
@@ -15593,21 +15103,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Mage"
+                "\\SE[0]Female Mage \"That's part of the festival too! Come on,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"That's part of the festival too! Come on, stay"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "until the"
+                "stay until the"
               ]
             },
             {
@@ -15793,14 +15296,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "but delivers a mild electric shock upon contact,"
+                "but delivers a mild electric shock upon contact, so it"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "so it must"
+                "must"
               ]
             },
             {
@@ -15818,14 +15321,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The Thunder Signal Bird can travel at extremely"
+                "The Thunder Signal Bird can travel at extremely high"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "high speeds"
+                "speeds"
               ]
             },
             {
@@ -15843,14 +15346,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "and by using the Central Guild as a relay point,"
+                "and by using the Central Guild as a relay point, it"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "it reliably"
+                "reliably"
               ]
             },
             {
@@ -15868,14 +15371,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The usage fee is 10 gold per trip. Once a"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "message is"
+                "The usage fee is 10 gold per trip. Once a message is"
               ]
             },
             {
@@ -15893,14 +15389,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "it delivers a mild electric shock upon contact,"
+                "it delivers a mild electric shock upon contact, so it"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "so it must"
+                "must"
               ]
             },
             {
@@ -16150,14 +15646,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"Excuse me, are you... Ellis-san?\""
+                "\\SE[0]Luna \\SE[5]\"Excuse me, are you... Ellis-san?\""
               ]
             },
             {
@@ -16210,14 +15699,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[6]\"Yes, I am Ellis=Valgren.\""
+                "\\SE[0] \\SE[6]\"Yes, I am Ellis=Valgren.\""
               ]
             },
             {
@@ -16235,14 +15717,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]\"She says she wants us to find the"
+                "\\SE[0]Lilian \\SE[4]\"She says she wants us to find the"
               ]
             },
             {
@@ -16267,21 +15742,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
+                "\\SE[0] \\SE[6]\"My family runs a small tavern called the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[6]\"My family runs a small tavern called"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "the Laurel Arbor,\""
+                "Laurel Arbor,\""
               ]
             },
             {
@@ -16299,21 +15767,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
+                "\\SE[0] \\SE[6]\"but business has been rough, so I came to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[6]\"but business has been rough, so I"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "came to this town to borrow money from"
+                "this town to borrow money from"
               ]
             },
             {
@@ -16349,14 +15810,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[6]\"As collateral, I brought our family"
+                "\\SE[0] \\SE[6]\"As collateral, I brought our family"
               ]
             },
             {
@@ -16381,21 +15835,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
+                "\\SE[0] \\SE[6]\"but it was lost along the way... I need"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[6]\"but it was lost along the way... I"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "need you to find it.\""
+                "you to find it.\""
               ]
             },
             {
@@ -16413,14 +15860,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"Do you have any idea where you might"
+                "\\SE[0]Kyle \\SE[3]\"Do you have any idea where you might"
               ]
             },
             {
@@ -16445,21 +15885,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
+                "\\SE[0] \\SE[6]\"Yes...\\C[2]through the Caldoon Coal Mine\\C[0] to be"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[6]\"Yes...\\C[2]through the Caldoon Coal"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Mine\\C[0] to be precise.\""
+                "precise.\""
               ]
             },
             {
@@ -16477,14 +15910,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[6]\"I dropped it while fleeing from"
+                "\\SE[0] \\SE[6]\"I dropped it while fleeing from"
               ]
             },
             {
@@ -16509,21 +15935,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0]Luna \\SE[5]\"Understood. \\C[2]The Caldoon Coal Mine\\C[0],"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Understood. \\C[2]The Caldoon Coal"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Mine\\C[0], then.\""
+                "then.\""
               ]
             },
             {
@@ -16541,21 +15960,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
+                "\\SE[0] \\SE[6]\"If we don't find it soon, my entire family"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[6]\"If we don't find it soon, my entire"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "family will be left homeless.\""
+                "will be left homeless.\""
               ]
             },
             {
@@ -16885,21 +16297,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0]Luna \\SE[5]\"Lady Eris, I apologize for keeping you"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Lady Eris, I apologize for keeping"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "you waiting.\""
+                "waiting.\""
               ]
             },
             {
@@ -17035,14 +16440,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[6]\"Ah! This is it!\""
+                "\\SE[0] \\SE[6]\"Ah! This is it!\""
               ]
             },
             {
@@ -17060,14 +16458,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]\"That's great, you found it.\""
+                "\\SE[0]Lilian \\SE[4]\"That's great, you found it.\""
               ]
             },
             {
@@ -17085,21 +16476,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
+                "\\SE[0] \\SE[6]\"Yes...! Now I can borrow money from the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[6]\"Yes...! Now I can borrow money from"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "the guild.\""
+                "guild.\""
               ]
             },
             {
@@ -17177,14 +16561,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[6]\"I truly appreciate it. This is your"
+                "\\SE[0] \\SE[6]\"I truly appreciate it. This is your"
               ]
             },
             {
@@ -17239,14 +16616,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"I pray for a good outcome.\""
+                "\\SE[0]Luna \\SE[5]\"I pray for a good outcome.\""
               ]
             },
             {
@@ -17264,14 +16634,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[6]\"Thank you... so much...!\""
+                "\\SE[0] \\SE[6]\"Thank you... so much...!\""
               ]
             },
             {
@@ -18054,14 +17417,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Guild Member"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Are you really going to leave?\""
+                "\\SE[0]Male Guild Member \"Are you really going to leave?\""
               ]
             },
             {
@@ -18079,14 +17435,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Yes... Tomorrow. I'm sorry, Alvin.\""
+                "\\SE[0]Female Adventurer \"Yes... Tomorrow. I'm sorry, Alvin.\""
               ]
             },
             {
@@ -18256,21 +17605,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0]Kyle \\SE[3](There are people around. I should step"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3](There are people around. I should"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "step outside for now...)"
+                "outside for now...)"
               ]
             },
             {
@@ -18288,14 +17630,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5](Kyle-sama, be quiet...! For now, just"
+                "\\SE[0]Luna \\SE[5](Kyle-sama, be quiet...! For now, just"
               ]
             },
             {
@@ -18320,14 +17655,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4](She just wants to hear it, doesn't"
+                "\\SE[0]Lilian \\SE[4](She just wants to hear it, doesn't"
               ]
             },
             {
@@ -18504,14 +17832,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alvin"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"I'm about to say something selfish. Listen to"
+                "\\SE[0]Alvin \"I'm about to say something selfish. Listen to"
               ]
             },
             {
@@ -18536,14 +17857,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alvin"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Please... don't go. I can't support you like"
+                "\\SE[0]Alvin \"Please... don't go. I can't support you like"
               ]
             },
             {
@@ -18570,14 +17884,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shion"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"I'm sorry. I can't stay in one place."
+                "\\SE[0]Shion \"I'm sorry. I can't stay in one place."
               ]
             },
             {
@@ -18816,14 +18123,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shion"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"I love you too... But I've seen more of the"
+                "\\SE[0]Shion \"I love you too... But I've seen more of the"
               ]
             },
             {
@@ -18848,14 +18148,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shion"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"I want to see a little more. It's my dream.\""
+                "\\SE[0]Shion \"I want to see a little more. It's my dream.\""
               ]
             },
             {
@@ -18891,21 +18184,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alvin"
+                "\\SE[0]Alvin \"I love you, Shion. No matter where you go or who"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I love you, Shion. No matter where you go or"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "who you"
+                "you"
               ]
             },
             {
@@ -18932,14 +18218,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shion"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"...That's unfair. If you say things like that,"
+                "\\SE[0]Shion \"...That's unfair. If you say things like that,"
               ]
             },
             {
@@ -18971,14 +18250,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shion"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"So I can't make any promises. \\! But if I ever"
+                "\\SE[0]Shion \"So I can't make any promises. \\! But if I ever"
               ]
             },
             {
@@ -19003,14 +18275,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shion"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"And if you're still here, smiling the way I"
+                "\\SE[0]Shion \"And if you're still here, smiling the way I"
               ]
             },
             {
@@ -19028,14 +18293,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shion"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Then I won't be an adventurer. Just a woman...\""
+                "\\SE[0]Shion \"Then I won't be an adventurer. Just a woman...\""
               ]
             },
             {
@@ -19053,14 +18311,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alvin"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Shion...!\""
+                "\\SE[0]Alvin \"Shion...!\""
               ]
             },
             {
@@ -19143,14 +18394,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shion"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Alvin... Don't forget me... Leave your mark on"
+                "\\SE[0]Shion \"Alvin... Don't forget me... Leave your mark on"
               ]
             },
             {
@@ -19168,14 +18412,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alvin"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"But what if you get pregnant? It'll just weigh"
+                "\\SE[0]Alvin \"But what if you get pregnant? It'll just weigh"
               ]
             },
             {
@@ -19200,14 +18437,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shion"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"You're right... I'm sorry... That...\"thing\"...\""
+                "\\SE[0]Shion \"You're right... I'm sorry... That...\"thing\"...\""
               ]
             },
             {
@@ -19225,14 +18455,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alvin"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"It's fine. I always have one on me...\""
+                "\\SE[0]Alvin \"It's fine. I always have one on me...\""
               ]
             },
             {
@@ -19250,14 +18473,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shion"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Alvin...!\""
+                "\\SE[0]Shion \"Alvin...!\""
               ]
             },
             {
@@ -19327,14 +18543,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alvin"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "(W-What?! Where the hell is the... condom...?!)"
+                "\\SE[0]Alvin (W-What?! Where the hell is the... condom...?!)"
               ]
             },
             {
@@ -19473,14 +18682,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4](H-he seems really flustered, doesn't"
+                "\\SE[0]Lilian \\SE[4](H-he seems really flustered, doesn't"
               ]
             },
             {
@@ -19505,14 +18707,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5](He's searching his pockets...?)"
+                "\\SE[0]Luna \\SE[5](He's searching his pockets...?)"
               ]
             },
             {
@@ -19539,14 +18734,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3](...This must be it.)"
+                "\\SE[0]Kyle \\SE[3](...This must be it.)"
               ]
             },
             {
@@ -19609,14 +18797,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He quietly took out the condom and placed it at"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Alvin's"
+                "He quietly took out the condom and placed it at Alvin's"
               ]
             },
             {
@@ -19790,14 +18971,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alvin"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "(Ah, there it is! It fell to the floor. Good.)"
+                "\\SE[0]Alvin (Ah, there it is! It fell to the floor. Good.)"
               ]
             },
             {
@@ -19862,14 +19036,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "As Alvin kissed her, he casually picked up the"
+                "As Alvin kissed her, he casually picked up the condom"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "condom from"
+                "from"
               ]
             },
             {
@@ -19887,14 +19061,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shion"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Alvin...!\""
+                "\\SE[0]Shion \"Alvin...!\""
               ]
             },
             {
@@ -19992,14 +19159,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "unable to show any more weakness to the one who"
+                "unable to show any more weakness to the one who was"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "was about to"
+                "about to"
               ]
             },
             {
@@ -20017,14 +19184,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shion"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Please... Alvin. Love me from behind...!\""
+                "\\SE[0]Shion \"Please... Alvin. Love me from behind...!\""
               ]
             },
             {
@@ -20042,14 +19202,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alvin"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Ahh, here I go... Shion. All of you... inside"
+                "\\SE[0]Alvin \"Ahh, here I go... Shion. All of you... inside"
               ]
             },
             {
@@ -20389,14 +19542,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shion"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Ah...! Aahh...!\""
+                "\\SE[0]Shion \"Ah...! Aahh...!\""
               ]
             },
             {
@@ -20449,14 +19595,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the solid heat of Alvin's body pressing against"
+                "the solid heat of Alvin's body pressing against her"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "her from"
+                "from"
               ]
             },
             {
@@ -20799,14 +19945,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "and he took her with fierce, primal instinct,"
+                "and he took her with fierce, primal instinct, slamming"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "slamming into"
+                "into"
               ]
             },
             {
@@ -20824,14 +19970,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alvin"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Aahh...! Shion...! Shion...!!\""
+                "\\SE[0]Alvin \"Aahh...! Shion...! Shion...!!\""
               ]
             },
             {
@@ -20849,14 +19988,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shion"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Alvin...! Alvin...!! Aahh...!!\""
+                "\\SE[0]Shion \"Alvin...! Alvin...!! Aahh...!!\""
               ]
             },
             {
@@ -21107,14 +20239,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5](I-I should sneak away now...)"
+                "\\SE[0]Luna \\SE[5](I-I should sneak away now...)"
               ]
             },
             {
@@ -21132,14 +20257,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3](Y-yeah, let's do that...)"
+                "\\SE[0]Kyle \\SE[3](Y-yeah, let's do that...)"
               ]
             },
             {
@@ -21992,14 +21110,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Guild Member"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Are you really going to leave?\""
+                "\\SE[0]Male Guild Member \"Are you really going to leave?\""
               ]
             },
             {
@@ -22017,14 +21128,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Yes... Tomorrow. I'm sorry, Alvin.\""
+                "\\SE[0]Female Adventurer \"Yes... Tomorrow. I'm sorry, Alvin.\""
               ]
             },
             {
@@ -22194,21 +21298,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0]Kyle \\SE[3](There are people around. I should step"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3](There are people around. I should"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "step outside for now...)"
+                "outside for now...)"
               ]
             },
             {
@@ -22226,14 +21323,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5](Kyle-sama, be quiet...! For now, just"
+                "\\SE[0]Luna \\SE[5](Kyle-sama, be quiet...! For now, just"
               ]
             },
             {
@@ -22258,14 +21348,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4](She just wants to hear it, doesn't"
+                "\\SE[0]Lilian \\SE[4](She just wants to hear it, doesn't"
               ]
             },
             {
@@ -22442,14 +21525,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alvin"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"I'm about to say something selfish. Listen to"
+                "\\SE[0]Alvin \"I'm about to say something selfish. Listen to"
               ]
             },
             {
@@ -22474,14 +21550,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alvin"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Please... don't go. I can't support you like"
+                "\\SE[0]Alvin \"Please... don't go. I can't support you like"
               ]
             },
             {
@@ -22508,14 +21577,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shion"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"I'm sorry. I can't stay in one place."
+                "\\SE[0]Shion \"I'm sorry. I can't stay in one place."
               ]
             },
             {
@@ -22754,14 +21816,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shion"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"I love you too... But I've seen more of the"
+                "\\SE[0]Shion \"I love you too... But I've seen more of the"
               ]
             },
             {
@@ -22786,14 +21841,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shion"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"I want to see a little more. It's my dream.\""
+                "\\SE[0]Shion \"I want to see a little more. It's my dream.\""
               ]
             },
             {
@@ -22829,21 +21877,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alvin"
+                "\\SE[0]Alvin \"I love you, Shion. No matter where you go or who"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I love you, Shion. No matter where you go or"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "who you"
+                "you"
               ]
             },
             {
@@ -22870,14 +21911,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shion"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"...That's unfair. If you say things like that,"
+                "\\SE[0]Shion \"...That's unfair. If you say things like that,"
               ]
             },
             {
@@ -22909,14 +21943,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shion"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"So I can't make any promises. \\! But if I ever"
+                "\\SE[0]Shion \"So I can't make any promises. \\! But if I ever"
               ]
             },
             {
@@ -22941,14 +21968,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shion"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"And if you're still here, smiling the way I"
+                "\\SE[0]Shion \"And if you're still here, smiling the way I"
               ]
             },
             {
@@ -22966,14 +21986,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shion"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Then I won't be an adventurer. Just a woman...\""
+                "\\SE[0]Shion \"Then I won't be an adventurer. Just a woman...\""
               ]
             },
             {
@@ -22991,14 +22004,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alvin"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Shion...!\""
+                "\\SE[0]Alvin \"Shion...!\""
               ]
             },
             {
@@ -23081,14 +22087,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shion"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Alvin... Don't forget me... Leave your mark on"
+                "\\SE[0]Shion \"Alvin... Don't forget me... Leave your mark on"
               ]
             },
             {
@@ -23106,14 +22105,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alvin"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"But what if you get pregnant? It'll just weigh"
+                "\\SE[0]Alvin \"But what if you get pregnant? It'll just weigh"
               ]
             },
             {
@@ -23138,14 +22130,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shion"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"You're right... I'm sorry... That...\"thing\"...\""
+                "\\SE[0]Shion \"You're right... I'm sorry... That...\"thing\"...\""
               ]
             },
             {
@@ -23163,14 +22148,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alvin"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"It's fine. I always have one on me...\""
+                "\\SE[0]Alvin \"It's fine. I always have one on me...\""
               ]
             },
             {
@@ -23188,14 +22166,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shion"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Alvin...!\""
+                "\\SE[0]Shion \"Alvin...!\""
               ]
             },
             {
@@ -23265,14 +22236,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alvin"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "(W-What?! Where the hell is the... condom...?!)"
+                "\\SE[0]Alvin (W-What?! Where the hell is the... condom...?!)"
               ]
             },
             {
@@ -23411,14 +22375,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4](H-he seems really flustered, doesn't"
+                "\\SE[0]Lilian \\SE[4](H-he seems really flustered, doesn't"
               ]
             },
             {
@@ -23443,14 +22400,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5](He's searching his pockets...?)"
+                "\\SE[0]Luna \\SE[5](He's searching his pockets...?)"
               ]
             },
             {
@@ -23477,14 +22427,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3](...This must be it.)"
+                "\\SE[0]Kyle \\SE[3](...This must be it.)"
               ]
             },
             {
@@ -23547,14 +22490,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He quietly took out the condom and placed it at"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Alvin's"
+                "He quietly took out the condom and placed it at Alvin's"
               ]
             },
             {
@@ -23728,14 +22664,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alvin"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "(Ah, there it is! It fell to the floor. Good.)"
+                "\\SE[0]Alvin (Ah, there it is! It fell to the floor. Good.)"
               ]
             },
             {
@@ -23800,14 +22729,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "As Alvin kissed her, he casually picked up the"
+                "As Alvin kissed her, he casually picked up the condom"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "condom from"
+                "from"
               ]
             },
             {
@@ -23825,14 +22754,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shion"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Alvin...!\""
+                "\\SE[0]Shion \"Alvin...!\""
               ]
             },
             {
@@ -23930,14 +22852,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "unable to show any more weakness to the one who"
+                "unable to show any more weakness to the one who was"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "was about to"
+                "about to"
               ]
             },
             {
@@ -23955,14 +22877,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shion"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Please... Alvin. Love me from behind...!\""
+                "\\SE[0]Shion \"Please... Alvin. Love me from behind...!\""
               ]
             },
             {
@@ -23980,14 +22895,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alvin"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Ahh, here I go... Shion. All of you... inside"
+                "\\SE[0]Alvin \"Ahh, here I go... Shion. All of you... inside"
               ]
             },
             {
@@ -24327,14 +23235,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shion"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Ah...! Aahh...!\""
+                "\\SE[0]Shion \"Ah...! Aahh...!\""
               ]
             },
             {
@@ -24387,14 +23288,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the solid heat of Alvin's body pressing against"
+                "the solid heat of Alvin's body pressing against her"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "her from"
+                "from"
               ]
             },
             {
@@ -24737,14 +23638,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "and he took her with fierce, primal instinct,"
+                "and he took her with fierce, primal instinct, slamming"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "slamming into"
+                "into"
               ]
             },
             {
@@ -24762,14 +23663,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alvin"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Aahh...! Shion...! Shion...!!\""
+                "\\SE[0]Alvin \"Aahh...! Shion...! Shion...!!\""
               ]
             },
             {
@@ -24787,14 +23681,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shion"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Alvin...! Alvin...!! Aahh...!!\""
+                "\\SE[0]Shion \"Alvin...! Alvin...!! Aahh...!!\""
               ]
             },
             {
@@ -25045,14 +23932,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5](I-I should sneak away now...)"
+                "\\SE[0]Luna \\SE[5](I-I should sneak away now...)"
               ]
             },
             {
@@ -25070,14 +23950,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3](Y-yeah, let's do that...)"
+                "\\SE[0]Kyle \\SE[3](Y-yeah, let's do that...)"
               ]
             },
             {

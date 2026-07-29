@@ -4136,14 +4136,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Innkeeper"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Welcome, traveler. It's 120 gold for one"
+                "\\SE[0]Innkeeper \"Welcome, traveler. It's 120 gold for one"
               ]
             },
             {
@@ -4233,14 +4226,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]Innkeeper"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": [
-                "\"We look forward to your next visit.\""
+                "\\SE[0]Innkeeper \"We look forward to your next visit.\""
               ]
             },
             {
@@ -4268,14 +4254,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]Innkeeper"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": [
-                "\"It seems you don't have enough money...\""
+                "\\SE[0]Innkeeper \"It seems you don't have enough money...\""
               ]
             },
             {
@@ -4321,14 +4300,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Innkeeper"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "\"We look forward to your next visit.\""
+                "\\SE[0]Innkeeper \"We look forward to your next visit.\""
               ]
             },
             {
@@ -4407,14 +4379,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Innkeeper"
+                "\\SE[0]Innkeeper \"Welcome, traveler. It's 120 gold for the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Welcome, traveler. It's 120 gold for the night,"
+                "night,"
               ]
             },
             {
@@ -4582,14 +4554,7 @@
               "code": 401,
               "indent": 3,
               "parameters": [
-                "\\SE[0]Innkeeper"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 3,
-              "parameters": [
-                "\"We look forward to your next visit.\""
+                "\\SE[0]Innkeeper \"We look forward to your next visit.\""
               ]
             },
             {
@@ -4627,14 +4592,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]Innkeeper"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": [
-                "\"It seems you don't have enough money...\""
+                "\\SE[0]Innkeeper \"It seems you don't have enough money...\""
               ]
             },
             {
@@ -4680,14 +4638,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Innkeeper"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "\"We look forward to your next visit.\""
+                "\\SE[0]Innkeeper \"We look forward to your next visit.\""
               ]
             },
             {
@@ -4775,21 +4726,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Innkeeper"
+                "\\SE[0]Innkeeper \"Oh my, you haven't had dinner yet. I'll"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Oh my, you haven't had dinner yet. I'll bring"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "it up to your"
+                "bring it up to your"
               ]
             },
             {
@@ -4898,14 +4842,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Innkeeper"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Ahh, so busy, so busy! This one and this"
+                "\\SE[0]Innkeeper \"Ahh, so busy, so busy! This one and this"
               ]
             },
             {

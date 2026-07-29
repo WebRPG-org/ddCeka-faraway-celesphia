@@ -1814,14 +1814,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Village Chief"
+                "\\SE[0]Village Chief \"Welcome, traveler. I am the chief of"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Welcome, traveler. I am the chief of this"
+                "this"
               ]
             },
             {
@@ -1839,14 +1839,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Village Chief"
+                "\\SE[0]Village Chief \"Lately, bandits have been appearing"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Lately, bandits have been appearing around"
+                "around"
               ]
             },
             {
@@ -1864,14 +1864,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Village Chief"
+                "\\SE[0]Village Chief \"You look skilled, but they're a large"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"You look skilled, but they're a large group.\""
+                "group.\""
               ]
             },
             {
@@ -2059,14 +2059,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Priest"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Hohoho, I am not the village chief.\""
+                "\\SE[0]Priest \"Hohoho, I am not the village chief.\""
               ]
             },
             {
@@ -2084,14 +2077,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Priest"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Since there's no space, I'm borrowing the"
+                "\\SE[0]Priest \"Since there's no space, I'm borrowing the"
               ]
             },
             {
@@ -2116,14 +2102,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Priest"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"If you're feeling unwell, that is\""
+                "\\SE[0]Priest \"If you're feeling unwell, that is\""
               ]
             },
             {
@@ -2391,14 +2370,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"The spell 'Antithesis' literally means to stop"
+                "\\SE[0]Sister \"The spell 'Antithesis' literally means to stop"
               ]
             },
             {
@@ -2416,14 +2388,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"but its power is beyond even divine blessing,"
+                "\\SE[0]Sister \"but its power is beyond even divine blessing,"
               ]
             },
             {
@@ -2441,14 +2406,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"so only a select few can wield it.\""
+                "\\SE[0]Sister \"so only a select few can wield it.\""
               ]
             },
             {

@@ -1610,14 +1610,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Inn"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"We're fully booked right now... Please come"
+                "\\SE[0]Inn \"We're fully booked right now... Please come"
               ]
             },
             {
@@ -1686,14 +1679,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Inn"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Welcome, traveler.\""
+                "\\SE[0]Inn \"Welcome, traveler.\""
               ]
             },
             {
@@ -1785,14 +1771,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]Inn"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": [
-                "\"Please make yourself at home.\""
+                "\\SE[0]Inn \"Please make yourself at home.\""
               ]
             },
             {
@@ -1841,14 +1820,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]Inn"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": [
-                "\"It seems you don't have enough money...\""
+                "\\SE[0]Inn \"It seems you don't have enough money...\""
               ]
             },
             {
@@ -1950,14 +1922,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Inn"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Welcome, travelers.\""
+                "\\SE[0]Inn \"Welcome, travelers.\""
               ]
             },
             {
@@ -1975,21 +1940,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Inn"
+                "\\SE[0]Inn \"The adventurers you saved are recuperating on the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"The adventurers you saved are recuperating on"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "the 2nd"
+                "2nd"
               ]
             },
             {
@@ -2007,14 +1965,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Inn"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"The fee is 30G per night. Will you be staying?\""
+                "\\SE[0]Inn \"The fee is 30G per night. Will you be staying?\""
               ]
             },
             {
@@ -2106,14 +2057,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]Inn"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": [
-                "\"Then please make yourself at home.\""
+                "\\SE[0]Inn \"Then please make yourself at home.\""
               ]
             },
             {
@@ -2162,14 +2106,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]Inn"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": [
-                "\"It seems you don't have enough money...\""
+                "\\SE[0]Inn \"It seems you don't have enough money...\""
               ]
             },
             {
@@ -2290,14 +2227,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Inn"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Good morning, traveler."
+                "\\SE[0]Inn \"Good morning, traveler."
               ]
             },
             {
@@ -2463,21 +2393,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer"
+                "\\SE[0]Male Adventurer \"While exploring the forest, I came"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"While exploring the forest, I came across an"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "absolutely"
+                "across an absolutely"
               ]
             },
             {
@@ -2555,21 +2478,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "\\SE[0]Female Adventurer \"Haa... sometimes I just wanna fool"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Haa... sometimes I just wanna fool around with"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "another"
+                "around with another"
               ]
             },
             {
@@ -2587,21 +2503,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "\\SE[0]Female Adventurer That guy from the same party I played"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "That guy from the same party I played with last"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "time? He"
+                "with last time? He"
               ]
             },
             {
@@ -2619,21 +2528,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "\\SE[0]Female Adventurer Had to get the Church to cast an"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Had to get the Church to cast an anti-conception"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "spell"
+                "anti-conception spell"
               ]
             },
             {
@@ -2651,14 +2553,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "\\SE[0]Female Adventurer and I'm definitely charging him for"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "and I'm definitely charging him for the spell"
+                "the spell"
               ]
             },
             {
@@ -3030,21 +2932,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Shopkeeper"
+                "\\SE[0]\\Se[0]Shopkeeper \"Good evening, traveler. How many rooms will"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Good evening, traveler. How many rooms will you"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "be"
+                "you be"
               ]
             },
             {
@@ -3062,14 +2957,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"Uh, two...\""
+                "\\SE[0]Kyle \\SE[3]\"Uh, two...\""
               ]
             },
             {
@@ -3087,14 +2975,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"O-One room is fine!\""
+                "\\SE[0]Luna \\SE[5]\"O-One room is fine!\""
               ]
             },
             {
@@ -3151,14 +3032,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"Huh?\""
+                "\\SE[0]Kyle \\SE[3]\"Huh?\""
               ]
             },
             {
@@ -3176,14 +3050,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Shopkeeper"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Ah, right. Understood. 80 gold up front.\""
+                "\\SE[0]\\Se[0]Shopkeeper \"Ah, right. Understood. 80 gold up front.\""
               ]
             },
             {
@@ -3230,14 +3097,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"L-let's go.\""
+                "\\SE[0]Luna \\SE[5]\"L-let's go.\""
               ]
             },
             {
@@ -3492,14 +3352,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"O-oi...Luna...!\""
+                "\\SE[0]Kyle \\SE[3]\"O-oi...Luna...!\""
               ]
             },
             {
@@ -3517,14 +3370,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]\"W-well, let's go then.\""
+                "\\SE[0]Lilian \\SE[4]\"W-well, let's go then.\""
               ]
             },
             {
@@ -3863,14 +3709,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]\"Good morning.\""
+                "\\SE[0][Lilian] \\SE[4]\"Good morning.\""
               ]
             },
             {
@@ -3888,14 +3727,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"Good morning.\""
+                "\\SE[0][Luna] \\SE[5]\"Good morning.\""
               ]
             },
             {
@@ -3913,14 +3745,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"Morning... though we were all"
+                "\\SE[0][Kyle] \\SE[3]\"Morning... though we were all"
               ]
             },
             {
@@ -3963,14 +3788,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"Let's go. You know where we're"
+                "\\SE[0][Kyle] \\SE[3]\"Let's go. You know where we're"
               ]
             },
             {
@@ -3995,21 +3813,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0][Lilian] \\SE[4]\"Yes, it's the \\C[1]Caldoon Coal Mine\\C[0] to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Yes, it's the \\C[1]Caldoon Coal"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Mine\\C[0] to the north.\""
+                "the north.\""
               ]
             },
             {
@@ -4027,14 +3838,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"Let's get going!\""
+                "\\SE[0][Luna] \\SE[5]\"Let's get going!\""
               ]
             },
             {

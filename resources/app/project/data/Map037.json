@@ -5636,14 +5636,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"Lord Kyle, it's here.\""
+                "\\SE[0]Luna \\SE[5]\"Lord Kyle, it's here.\""
               ]
             },
             {
@@ -5701,14 +5694,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"Huh? What is it...?\""
+                "\\SE[0]Kyle \\SE[3]\"Huh? What is it...?\""
               ]
             },
             {
@@ -5757,14 +5743,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"There's an elf barrier here.\""
+                "\\SE[0]Luna \\SE[5]\"There's an elf barrier here.\""
               ]
             },
             {
@@ -5782,14 +5761,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"A barrier?\""
+                "\\SE[0]Kyle \\SE[3]\"A barrier?\""
               ]
             },
             {
@@ -5807,14 +5779,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0]Lilian \\SE[4]\"Well, seeing is believing. Let's"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Well, seeing is believing. Let's go.\""
+                "go.\""
               ]
             },
             {
@@ -5832,21 +5804,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0]Kyle \\SE[3]\"Go where...? There's nothing but trees"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Go where...? There's nothing but"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "trees there.\""
+                "there.\""
               ]
             },
             {
@@ -5864,14 +5829,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"Please come with me. If you're an"
+                "\\SE[0]Luna \\SE[5]\"Please come with me. If you're an"
               ]
             },
             {

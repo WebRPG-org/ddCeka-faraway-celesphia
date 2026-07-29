@@ -1466,14 +1466,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Item Shop"
+                "\\SE[0]Item Shop \"Welcome! We have a variety of items in"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Welcome! We have a variety of items in stock.\""
+                "stock.\""
               ]
             },
             {
@@ -1582,14 +1582,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Item Shop"
+                "\\SE[0]Item Shop \"Please come again! Feel free to visit"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Please come again! Feel free to visit anytime.\""
+                "anytime.\""
               ]
             },
             {
@@ -1667,21 +1667,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "\\SE[0]Female Adventurer \"Grimridge is at a high elevation, so"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Grimridge is at a high elevation, so climbing"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "it will be"
+                "climbing it will be"
               ]
             },
             {
@@ -1699,14 +1692,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "\\SE[0]Female Adventurer \"Think about the long battle ahead"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Think about the long battle ahead and prepare"
+                "and prepare"
               ]
             },
             {

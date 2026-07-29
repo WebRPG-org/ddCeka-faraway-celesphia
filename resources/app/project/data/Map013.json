@@ -15158,14 +15158,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Frequent saving will save your ass.\""
+                "\\SE[0]Soldier \"Frequent saving will save your ass.\""
               ]
             },
             {
@@ -15363,14 +15356,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Merchant"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"You need a pass to bring goods into the royal"
+                "\\SE[0]Merchant \"You need a pass to bring goods into the royal"
               ]
             },
             {
@@ -15388,14 +15374,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Merchant"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Huh... Where did I put it...?\""
+                "\\SE[0]Merchant \"Huh... Where did I put it...?\""
               ]
             },
             {
@@ -15473,14 +15452,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "\\SE[0]Adventurer \"Let's get inside quick and hit the tavern"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Let's get inside quick and hit the tavern for a"
+                "for a"
               ]
             },
             {
@@ -15589,14 +15568,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Eeh, what should I do...?\""
+                "\\SE[0]Adventurer \"Eeh, what should I do...?\""
               ]
             },
             {
@@ -15705,14 +15677,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"The monsters around here are pretty docile,"
+                "\\SE[0]Adventurer \"The monsters around here are pretty docile,"
               ]
             },
             {
@@ -16477,14 +16442,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0][Kyle] \\SE[3]\"Sorry to keep you waiting. Let's"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Sorry to keep you waiting. Let's go.\""
+                "go.\""
               ]
             },
             {
@@ -16589,14 +16554,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"Yes, let's set out!\""
+                "\\SE[0][Luna] \\SE[5]\"Yes, let's set out!\""
               ]
             },
             {
@@ -16614,14 +16572,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]\"If we just follow the highway, we"
+                "\\SE[0][Lilian] \\SE[4]\"If we just follow the highway, we"
               ]
             },
             {
@@ -16646,14 +16597,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"First, we'll leave the highway and"
+                "\\SE[0][Kyle] \\SE[3]\"First, we'll leave the highway and"
               ]
             },
             {
@@ -16750,14 +16694,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"From here, we'll cut through the"
+                "\\SE[0][Kyle] \\SE[3]\"From here, we'll cut through the"
               ]
             },
             {
@@ -16782,14 +16719,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"We can talk more as we walk.\""
+                "\\SE[0][Kyle] \\SE[3]\"We can talk more as we walk.\""
               ]
             },
             {
@@ -16807,14 +16737,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"Understood. I'll follow your lead,"
+                "\\SE[0][Luna] \\SE[5]\"Understood. I'll follow your lead,"
               ]
             },
             {
@@ -16859,14 +16782,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]\"Let's set out right away!\""
+                "\\SE[0][Lilian] \\SE[4]\"Let's set out right away!\""
               ]
             },
             {

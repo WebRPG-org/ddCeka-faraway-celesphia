@@ -4815,14 +4815,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Member"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Hello, adventurer!\""
+                "\\SE[0]Guild Member \"Hello, adventurer!\""
               ]
             },
             {
@@ -4840,14 +4833,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Member"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Here are the jobs I can offer right now.\""
+                "\\SE[0]Guild Member \"Here are the jobs I can offer right now.\""
               ]
             },
             {
@@ -5133,14 +5119,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "\\SE[0]Female Adventurer \"Mmmf...! I gotta eat this before it"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Mmmf...! I gotta eat this before it gets"
+                "gets"
               ]
             },
             {
@@ -5218,14 +5204,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "\\SE[0]Female Adventurer \"People are born with a fixed"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"People are born with a fixed attribute they can"
+                "attribute they can"
               ]
             },
             {
@@ -5243,21 +5229,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "\\SE[0]Female Adventurer \"But sometimes a child is born with"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"But sometimes a child is born with neither of"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "those"
+                "neither of those"
               ]
             },
             {
@@ -5335,14 +5314,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "\\SE[0]Female Adventurer \"You should accept every quest you"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"You should accept every quest you can."
+                "can."
               ]
             },
             {
@@ -5420,21 +5399,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer"
+                "\\SE[0]Male Adventurer \"All beings born into this"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"All beings born into this world―humans,"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "beastkin,"
+                "world―humans, beastkin,"
               ]
             },
             {
@@ -5452,14 +5424,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer"
+                "\\SE[0]Male Adventurer \"―vary greatly in their mana capacity."
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"―vary greatly in their mana capacity. Me, for"
+                "Me, for"
               ]
             },
             {
@@ -5477,21 +5449,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer"
+                "\\SE[0]Male Adventurer \"can't even use the word 'magic'"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"can't even use the word 'magic' without it"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "backfiring on"
+                "without it backfiring on"
               ]
             },
             {
@@ -5569,14 +5534,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Town Man"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Hey, what's your element? I'm Fire.\""
+                "\\SE[0]Town Man \"Hey, what's your element? I'm Fire.\""
               ]
             },
             {
@@ -5594,21 +5552,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Town Man"
+                "\\SE[0]Town Man \"In terms of percentage, Fire is 51%,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"In terms of percentage, Fire is 51%, Water/Ice"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "is 22%, and"
+                "Water/Ice is 22%, and"
               ]
             },
             {
@@ -5626,14 +5577,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Town Man"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Huh, divine blessing? Probably less than 1%.\""
+                "\\SE[0]Town Man \"Huh, divine blessing? Probably less than 1%.\""
               ]
             },
             {
@@ -5771,21 +5715,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "\\SE[0]Female Adventurer \"It seems like they're even trying to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It seems like they're even trying to negotiate"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "with the"
+                "negotiate with the"
               ]
             },
             {
@@ -5863,21 +5800,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "\\SE[0]Female Adventurer \"Back in the day, humans tried to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Back in the day, humans tried to dominate"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "beastkin and"
+                "dominate beastkin and"
               ]
             },
             {
@@ -5895,21 +5825,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "\\SE[0]Female Adventurer \"That's why the fighting stopped and"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"That's why the fighting stopped and a pact was"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "made―humans,"
+                "a pact was made―humans,"
               ]
             },
             {
@@ -5927,14 +5850,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "\\SE[0]Female Adventurer \"Though it took 500 years to get"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Though it took 500 years to get there,"
+                "there,"
               ]
             },
             {
@@ -6343,14 +6266,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "but delivers a mild electric shock upon contact,"
+                "but delivers a mild electric shock upon contact, so it"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "so it must"
+                "must"
               ]
             },
             {
@@ -6368,14 +6291,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The Thunder Signal Bird can travel at extremely"
+                "The Thunder Signal Bird can travel at extremely high"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "high speeds"
+                "speeds"
               ]
             },
             {
@@ -6393,14 +6316,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "and by using the Central Guild as a relay point,"
+                "and by using the Central Guild as a relay point, it"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "it reliably"
+                "reliably"
               ]
             },
             {
@@ -6418,14 +6341,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The usage fee is 10 gold per trip. Once a"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "message is"
+                "The usage fee is 10 gold per trip. Once a message is"
               ]
             },
             {
@@ -6443,14 +6359,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "it delivers a mild electric shock upon contact,"
+                "it delivers a mild electric shock upon contact, so it"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "so it must"
+                "must"
               ]
             },
             {
@@ -8286,21 +8202,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0]Luna \\SE[5]\"Kyle-sama, I'd like to use the \\C[2]Thunder"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Kyle-sama, I'd like to use the"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\C[2]Thunder Pigeon\\C[0],\""
+                "Pigeon\\C[0],\""
               ]
             },
             {
@@ -8318,14 +8227,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"Ah, understood.\""
+                "\\SE[0]Kyle \\SE[3]\"Ah, understood.\""
               ]
             },
             {
@@ -8420,14 +8322,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"Uh, excuse me.\""
+                "\\SE[0]Luna \\SE[5]\"Uh, excuse me.\""
               ]
             },
             {
@@ -8524,14 +8419,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Guild Member"
+                "\\SE[0]\\Se[0]Guild Member \"Would you like to use the Thunder"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Would you like to use the Thunder Pigeon?\""
+                "Pigeon?\""
               ]
             },
             {
@@ -8549,14 +8444,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"Yes, I'd like to send this letter's"
+                "\\SE[0]Luna \\SE[5]\"Yes, I'd like to send this letter's"
               ]
             },
             {
@@ -8581,14 +8469,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"And also, a message addressed to"
+                "\\SE[0]Luna \\SE[5]\"And also, a message addressed to"
               ]
             },
             {
@@ -8613,14 +8494,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Guild Member"
+                "\\SE[0]\\Se[0]Guild Member \"Understood. I'll check with the central"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Understood. I'll check with the central guild.\""
+                "guild.\""
               ]
             },
             {
@@ -8709,21 +8590,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Guild Member"
+                "\\SE[0]\\Se[0]Guild Member \"They say there's no particular news. I'll"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"They say there's no particular news. I'll send"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "this one"
+                "send this one"
               ]
             },
             {
@@ -8741,14 +8615,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"Yes, that's all. Thank you.\""
+                "\\SE[0]Luna \\SE[5]\"Yes, that's all. Thank you.\""
               ]
             },
             {
@@ -8862,14 +8729,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"What kind of letter did you send?\""
+                "\\SE[0]Kyle \\SE[3]\"What kind of letter did you send?\""
               ]
             },
             {
@@ -8887,14 +8747,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"Yes... I wrote about the current"
+                "\\SE[0]Luna \\SE[5]\"Yes... I wrote about the current"
               ]
             },
             {
@@ -8919,21 +8772,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0]Kyle \\SE[3]\"You send reports every time we reach a"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"You send reports every time we reach"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "a town?\""
+                "town?\""
               ]
             },
             {
@@ -8951,21 +8797,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"Yes, I check and send them from"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "here.\""
+                "\\SE[0]Luna \\SE[5]\"Yes, I check and send them from here.\""
               ]
             },
             {
@@ -8983,14 +8815,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]\"Luna-sama... that...\""
+                "\\SE[0]Lilian \\SE[4]\"Luna-sama... that...\""
               ]
             },
             {
@@ -9008,14 +8833,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"I know, Lilian.\""
+                "\\SE[0]Luna \\SE[5]\"I know, Lilian.\""
               ]
             },
             {
@@ -9033,21 +8851,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0]Luna \\SE[5]\"No news means things are still holding"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"No news means things are still"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "holding steady.\""
+                "steady.\""
               ]
             },
             {
@@ -9065,14 +8876,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]\"Yes... let's do our best.\""
+                "\\SE[0]Lilian \\SE[4]\"Yes... let's do our best.\""
               ]
             },
             {
@@ -9090,14 +8894,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"Yes, let's move forward.\""
+                "\\SE[0]Luna \\SE[5]\"Yes, let's move forward.\""
               ]
             },
             {

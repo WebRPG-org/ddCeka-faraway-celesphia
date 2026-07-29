@@ -3688,21 +3688,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shopkeeper"
+                "\\SE[0]Shopkeeper \"This is an inn, but right now we're taking"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This is an inn, but right now we're taking in"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "injured"
+                "in injured"
               ]
             },
             {
@@ -3720,14 +3713,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shopkeeper"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Come back another day.\""
+                "\\SE[0]Shopkeeper \"Come back another day.\""
               ]
             },
             {
@@ -3856,14 +3842,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]General Store"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Hello! We handle general goods.\""
+                "\\SE[0]General Store \"Hello! We handle general goods.\""
               ]
             },
             {
@@ -4546,14 +4525,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"The Sacred Forest? Oh yeah, a lot of monsters"
+                "\\SE[0]Soldier \"The Sacred Forest? Oh yeah, a lot of monsters"
               ]
             },
             {
@@ -5670,14 +5642,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"A hotel...?\""
+                "\\SE[0][Kyle] \\SE[3]\"A hotel...?\""
               ]
             },
             {
@@ -5695,14 +5660,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"That's right. Because...\""
+                "\\SE[0][Rose] \\SE[1]\"That's right. Because...\""
               ]
             },
             {
@@ -6092,14 +6050,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"I finally got rid of that cursed"
+                "\\SE[0][Rose] \\SE[1]\"I finally got rid of that cursed"
               ]
             },
             {
@@ -6124,14 +6075,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"Hah, that's great. Now you can wear"
+                "\\SE[0][Kyle] \\SE[3]\"Hah, that's great. Now you can wear"
               ]
             },
             {
@@ -6156,14 +6100,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"Come on, Kyle! Let's take a bath"
+                "\\SE[0][Rose] \\SE[1]\"Come on, Kyle! Let's take a bath"
               ]
             },
             {
@@ -6382,14 +6319,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"Ahhh...♡ This is the best...♡\""
+                "\\SE[0][Rose] \\SE[1]\"Ahhh...♡ This is the best...♡\""
               ]
             },
             {
@@ -6407,14 +6337,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"A proper bath where we're both"
+                "\\SE[0][Rose] \\SE[1]\"A proper bath where we're both"
               ]
             },
             {
@@ -6472,14 +6395,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"Hey, Kyle.\""
+                "\\SE[0][Rose] \\SE[1]\"Hey, Kyle.\""
               ]
             },
             {
@@ -6506,14 +6422,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"Wash my hair for me~♡\""
+                "\\SE[0][Rose] \\SE[1]\"Wash my hair for me~♡\""
               ]
             },
             {
@@ -6540,14 +6449,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"As you wish, milady. Please leave it"
+                "\\SE[0][Kyle] \\SE[3]\"As you wish, milady. Please leave it"
               ]
             },
             {
@@ -6590,14 +6492,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"Hmph, what's that supposed to mean?\""
+                "\\SE[0][Rose] \\SE[1]\"Hmph, what's that supposed to mean?\""
               ]
             },
             {
@@ -6696,14 +6591,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"Milady, how does the pressure feel?\""
+                "\\SE[0][Kyle] \\SE[3]\"Milady, how does the pressure feel?\""
               ]
             },
             {
@@ -6721,14 +6609,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"Mmmh~... Just right♡ Oh, perfect...♡"
+                "\\SE[0][Rose] \\SE[1]\"Mmmh~... Just right♡ Oh, perfect...♡"
               ]
             },
             {
@@ -6861,14 +6742,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"Nn...♡\""
+                "\\SE[0][Rose] \\SE[1]\"Nn...♡\""
               ]
             },
             {
@@ -6909,21 +6783,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "\\SE[0][Rose] \\SE[1]\"Hey, now that we're both clean..."
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Hey, now that we're both clean... How"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "about we go to bed?\""
+                "How about we go to bed?\""
               ]
             },
             {
@@ -7172,14 +7039,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"Chu... chu...♡ Nn... mm...\""
+                "\\SE[0][Rose] \\SE[1]\"Chu... chu...♡ Nn... mm...\""
               ]
             },
             {
@@ -7197,14 +7057,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Even after just a light wipe-down, their bodies"
+                "Even after just a light wipe-down, their bodies still"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "still damp,"
+                "damp,"
               ]
             },
             {
@@ -7234,14 +7094,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"Kyle...\""
+                "\\SE[0][Rose] \\SE[1]\"Kyle...\""
               ]
             },
             {
@@ -7259,14 +7112,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"Rose...\""
+                "\\SE[0][Kyle] \\SE[3]\"Rose...\""
               ]
             },
             {
@@ -7291,14 +7137,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "When dawn comes, Kyle will set off for the next"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "town,"
+                "When dawn comes, Kyle will set off for the next town,"
               ]
             },
             {
@@ -7316,14 +7155,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "And Rose will head toward a married life as the"
+                "And Rose will head toward a married life as the third"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "third wife"
+                "wife"
               ]
             },
             {
@@ -7373,14 +7212,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"Please... take me, Kyle... deep"
+                "\\SE[0][Rose] \\SE[1]\"Please... take me, Kyle... deep"
               ]
             },
             {
@@ -7423,14 +7255,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "With tender, loving hands, Rose guides Kyle's"
+                "With tender, loving hands, Rose guides Kyle's already"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "already hard"
+                "hard"
               ]
             },
             {
@@ -7580,14 +7412,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "it feels as though they've always been one"
+                "it feels as though they've always been one being, a"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "being, a single"
+                "single"
               ]
             },
             {
@@ -7605,14 +7437,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Kyle moves slowly, gently... yet his hips begin"
+                "Kyle moves slowly, gently... yet his hips begin to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "to thrust"
+                "thrust"
               ]
             },
             {
@@ -7905,14 +7737,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tonight, they walk separate paths tomorrow, but"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "in this"
+                "Tonight, they walk separate paths tomorrow, but in this"
               ]
             },
             {
@@ -7948,14 +7773,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"Kyle...! Kyle...!\""
+                "\\SE[0][Rose] \\SE[1]\"Kyle...! Kyle...!\""
               ]
             },
             {
@@ -7973,14 +7791,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Rose calls his name again and again, her voice"
+                "Rose calls his name again and again, her voice brimming"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "brimming with"
+                "with"
               ]
             },
             {
@@ -8016,14 +7834,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Kyle gazes into her eyes, filled with adoration,"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "and"
+                "Kyle gazes into her eyes, filled with adoration, and"
               ]
             },
             {
@@ -8111,14 +7922,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"Kyle... please...!\""
+                "\\SE[0][Rose] \\SE[1]\"Kyle... please...!\""
               ]
             },
             {
@@ -8136,14 +7940,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Kyle pulls Rose's hips tightly against him and"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "drives"
+                "Kyle pulls Rose's hips tightly against him and drives"
               ]
             },
             {
@@ -8380,14 +8177,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "a rhythm that Rose accepts with a blissful,"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "rapturous"
+                "a rhythm that Rose accepts with a blissful, rapturous"
               ]
             },
             {
@@ -8771,14 +8561,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Rose's tongue traces his semen-slicked shaft,"
+                "Rose's tongue traces his semen-slicked shaft, the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the obscene"
+                "obscene"
               ]
             },
             {
@@ -8796,14 +8586,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"Mnh... mnh... nn... lero...♡\""
+                "\\SE[0][Rose] \\SE[1]\"Mnh... mnh... nn... lero...♡\""
               ]
             },
             {
@@ -8821,14 +8604,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Her melting, relentless devotion seems to scream"
+                "Her melting, relentless devotion seems to scream that"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "that she"
+                "she"
               ]
             },
             {
@@ -8912,14 +8695,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"Mnh... he's hard again,♡\""
+                "\\SE[0][Rose] \\SE[1]\"Mnh... he's hard again,♡\""
               ]
             },
             {
@@ -8963,14 +8739,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "She mounts him once more and sinks herself onto"
+                "She mounts him once more and sinks herself onto his"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "his length,"
+                "length,"
               ]
             },
             {
@@ -9093,14 +8869,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"…………♡\""
+                "\\SE[0][Rose] \\SE[1]\"…………♡\""
               ]
             },
             {
@@ -9118,14 +8887,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This time, Rose sets the pace―she rides him"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "fiercely,"
+                "This time, Rose sets the pace―she rides him fiercely,"
               ]
             },
             {
@@ -9143,14 +8905,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Skin against skin, no barrier between them. Rose"
+                "Skin against skin, no barrier between them. Rose savors"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "savors the"
+                "the"
               ]
             },
             {
@@ -9168,14 +8930,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"Ahh... Kyle...! Kyle...! Kyle...!\""
+                "\\SE[0][Rose] \\SE[1]\"Ahh... Kyle...! Kyle...! Kyle...!\""
               ]
             },
             {
@@ -9511,14 +9266,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Kyle gripped her ample breasts firmly in both"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "hands and"
+                "Kyle gripped her ample breasts firmly in both hands and"
               ]
             },
             {
@@ -9536,14 +9284,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"Rose...! Rose...!\""
+                "\\SE[0]Kyle \\SE[3]\"Rose...! Rose...!\""
               ]
             },
             {
@@ -9933,14 +9674,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Rose arched her back in a deep bow, and Kyle's"
+                "Rose arched her back in a deep bow, and Kyle's own"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "own release"
+                "release"
               ]
             },
             {
@@ -10090,14 +9831,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "―His hot seed pulsed deep inside Rose, filling"
+                "―His hot seed pulsed deep inside Rose, filling her womb"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "her womb with"
+                "with"
               ]
             },
             {
@@ -10115,14 +9856,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Rose accepted that raw warmth deep within"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "herself,"
+                "Rose accepted that raw warmth deep within herself,"
               ]
             },
             {
@@ -10383,14 +10117,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He gripped her toned waist tightly with both"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "hands and"
+                "He gripped her toned waist tightly with both hands and"
               ]
             },
             {
@@ -10683,14 +10410,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"Aah! Kyle...! It's reaching so deep"
+                "\\SE[0]Rose \\SE[1]\"Aah! Kyle...! It's reaching so deep"
               ]
             },
             {
@@ -10715,14 +10435,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The pleasure of being relentlessly probed from"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "this new"
+                "The pleasure of being relentlessly probed from this new"
               ]
             },
             {
@@ -10747,14 +10460,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "She let out a cry of ecstasy, her voice"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "trembling with"
+                "She let out a cry of ecstasy, her voice trembling with"
               ]
             },
             {
@@ -11536,21 +11242,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Unable to say the words \"I love you,\" they"
+                "Unable to say the words \"I love you,\" they instead"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "instead expressed"
+                "expressed their love through climax after climax,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "their love through climax after climax, etching"
+                "etching"
               ]
             },
             {
@@ -11707,14 +11413,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Outside the window, the night slowly gave way to"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "dawn."
+                "Outside the window, the night slowly gave way to dawn."
               ]
             },
             {
@@ -11866,14 +11565,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "They refused it, yet accepted it―this final"
+                "They refused it, yet accepted it―this final night of"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "night of theirs,"
+                "theirs,"
               ]
             },
             {
@@ -12153,14 +11852,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Outside the window, the first hints of light"
+                "Outside the window, the first hints of light began to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "began to creep"
+                "creep"
               ]
             },
             {
@@ -12178,21 +11877,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The room was thick with the lingering scent of"
+                "The room was thick with the lingering scent of their"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "their intense"
+                "intense lovemaking―sweat, arousal, and the musk of"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "lovemaking―sweat, arousal, and the musk of spent"
+                "spent"
               ]
             },
             {
@@ -12210,14 +11909,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There, they lay spent, their bodies entwined,"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "breathing"
+                "There, they lay spent, their bodies entwined, breathing"
               ]
             },
             {
@@ -12279,14 +11971,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"...And after I just took a bath too."
+                "\\SE[0]Rose \\SE[1]\"...And after I just took a bath too."
               ]
             },
             {
@@ -12311,21 +11996,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0]Kyle \\SE[3]\"Yeah, no kidding. Want to take another"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Yeah, no kidding. Want to take"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "another one now?\""
+                "one now?\""
               ]
             },
             {
@@ -12343,14 +12021,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"No way. I don't even have the energy"
+                "\\SE[0]Rose \\SE[1]\"No way. I don't even have the energy"
               ]
             },
             {
@@ -12375,14 +12046,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"Heh, me neither.\""
+                "\\SE[0]Kyle \\SE[3]\"Heh, me neither.\""
               ]
             },
             {
@@ -12526,14 +12190,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Rose poked a finger lightly against Kyle's chest"
+                "Rose poked a finger lightly against Kyle's chest and"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "and quietly"
+                "quietly"
               ]
             },
             {
@@ -12551,14 +12215,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"Hey, Kyle... Do you... like me?\""
+                "\\SE[0]Rose \\SE[1]\"Hey, Kyle... Do you... like me?\""
               ]
             },
             {
@@ -12594,14 +12251,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"...If I didn't, I wouldn't be doing"
+                "\\SE[0]Kyle \\SE[3]\"...If I didn't, I wouldn't be doing"
               ]
             },
             {
@@ -12635,14 +12285,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"Ugh! Don't give me that roundabout"
+                "\\SE[0]Rose \\SE[1]\"Ugh! Don't give me that roundabout"
               ]
             },
             {
@@ -12710,14 +12353,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"What about you, Rose?\""
+                "\\SE[0]Kyle \\SE[3]\"What about you, Rose?\""
               ]
             },
             {
@@ -12788,14 +12424,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"Mmh, that's a secret!\""
+                "\\SE[0]Rose \\SE[1]\"Mmh, that's a secret!\""
               ]
             },
             {
@@ -12813,14 +12442,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"Hey, that's not fair!\""
+                "\\SE[0]Kyle \\SE[3]\"Hey, that's not fair!\""
               ]
             },
             {
@@ -12838,14 +12460,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"Heehee, unfair is fine! Nyahhee~♡\""
+                "\\SE[0]Rose \\SE[1]\"Heehee, unfair is fine! Nyahhee~♡\""
               ]
             },
             {
@@ -12942,14 +12557,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"Honestly...\""
+                "\\SE[0]Kyle \\SE[3]\"Honestly...\""
               ]
             },
             {
@@ -12967,14 +12575,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "No matter what, Rose was always Rose. And that"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "made her"
+                "No matter what, Rose was always Rose. And that made her"
               ]
             },
             {
@@ -13018,14 +12619,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"Hey, Rose. Can I ask you something?\""
+                "\\SE[0]Kyle \\SE[3]\"Hey, Rose. Can I ask you something?\""
               ]
             },
             {
@@ -13043,14 +12637,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"Hm?\""
+                "\\SE[0]Rose \\SE[1]\"Hm?\""
               ]
             },
             {
@@ -13068,14 +12655,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"How old are you really...?\""
+                "\\SE[0]Kyle \\SE[3]\"How old are you really...?\""
               ]
             },
             {
@@ -13093,14 +12673,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"………\""
+                "\\SE[0]Rose \\SE[1]\"………\""
               ]
             },
             {
@@ -13125,14 +12698,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"It's taboo to ask a woman her age."
+                "\\SE[0]Rose \\SE[1]\"It's taboo to ask a woman her age."
               ]
             },
             {
@@ -13157,14 +12723,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"Eeh...? So we're not the same age or"
+                "\\SE[0]Kyle \\SE[3]\"Eeh...? So we're not the same age or"
               ]
             },
             {
@@ -13189,21 +12748,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "\\SE[0]Rose \\SE[1]\"It's a secret. A secret... I'm a woman"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"It's a secret. A secret... I'm a"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "woman full of mysteries. Don't ask,"
+                "full of mysteries. Don't ask,"
               ]
             },
             {
@@ -13248,14 +12800,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"It's almost morning, but do you want"
+                "\\SE[0]Kyle \\SE[3]\"It's almost morning, but do you want"
               ]
             },
             {
@@ -13280,14 +12825,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"Yeah. I'm sleepy... Goodnight, Kyle.\""
+                "\\SE[0]Rose \\SE[1]\"Yeah. I'm sleepy... Goodnight, Kyle.\""
               ]
             },
             {
@@ -13305,14 +12843,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"Yeah... Goodnight.\""
+                "\\SE[0]Kyle \\SE[3]\"Yeah... Goodnight.\""
               ]
             },
             {
@@ -13668,14 +13199,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1]\"………\""
+                "\\SE[0]Rose \\SE[1]\"………\""
               ]
             },
             {
@@ -13759,14 +13283,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "(I wonder if I'll see his face on the"
+                "\\SE[0]Rose (I wonder if I'll see his face on the"
               ]
             },
             {
@@ -13791,14 +13308,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "(It's a little disappointing I won't"
+                "\\SE[0]Rose (It's a little disappointing I won't"
               ]
             },
             {
@@ -14182,21 +13692,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "(I wonder if even Kyle would get mad"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "at"
+                "\\SE[0]Rose (I wonder if even Kyle would get mad at"
               ]
             },
             {
@@ -14214,14 +13710,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "(Well, I don't know, but she said it"
+                "\\SE[0]Rose (Well, I don't know, but she said it"
               ]
             },
             {
@@ -14246,14 +13735,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[1](………)"
+                "\\SE[0]Rose \\SE[1](………)"
               ]
             },
             {
@@ -14415,14 +13897,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "(Goodnight...Kyle...)"
+                "\\SE[0]Rose (Goodnight...Kyle...)"
               ]
             },
             {

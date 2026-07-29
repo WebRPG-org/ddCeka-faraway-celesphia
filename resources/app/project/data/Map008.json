@@ -2401,14 +2401,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shop Owner"
+                "\\SE[0]Shop Owner \"Oh! Kyle! Long time no see! How many years"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Oh! Kyle! Long time no see! How many years has"
+                "has"
               ]
             },
             {
@@ -2426,14 +2426,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"Hey, it's been two years since I was"
+                "\\SE[0]Kyle \\SE[3]\"Hey, it's been two years since I was"
               ]
             },
             {
@@ -2458,21 +2451,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Shopkeeper"
+                "\\SE[0]\\Se[0]Shopkeeper \"Yeah, we do! The farthest room on the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yeah, we do! The farthest room on the second"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "floor―feel"
+                "second floor―feel"
               ]
             },
             {
@@ -2490,14 +2476,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"Ah, thanks. I appreciate it.\""
+                "\\SE[0]Kyle \\SE[3]\"Ah, thanks. I appreciate it.\""
               ]
             },
             {

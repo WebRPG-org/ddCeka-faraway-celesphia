@@ -1934,14 +1934,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Tool Shop Clerk"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Welcome! Arseleon General Store.\""
+                "\\SE[0]Tool Shop Clerk \"Welcome! Arseleon General Store.\""
               ]
             },
             {
@@ -2040,14 +2033,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Tool Shop Clerk"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Thank you very much!\""
+                "\\SE[0]Tool Shop Clerk \"Thank you very much!\""
               ]
             },
             {
@@ -2125,21 +2111,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "\\SE[0]Adventurer \"If you're short on cash, you should go to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"If you're short on cash, you should go to the"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "guild. It's a"
+                "the guild. It's a"
               ]
             },
             {

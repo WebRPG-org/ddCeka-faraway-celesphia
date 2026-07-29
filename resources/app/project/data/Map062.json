@@ -1814,14 +1814,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Arseleon Private Guard"
+                "\\SE[0]Arseleon Private Guard \"This is the Great Bridge of"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This is the Great Bridge of Arseleon.\""
+                "Arseleon.\""
               ]
             },
             {
@@ -1899,14 +1899,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Arseleon Private Guard"
+                "\\SE[0]Arseleon Private Guard \"This is the Great Bridge of"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This is the Great Bridge of Arseleon.\""
+                "Arseleon.\""
               ]
             },
             {
@@ -1984,14 +1984,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Arseleon Private Guard"
+                "\\SE[0]Arseleon Private Guard \"Let me see your pass... If you"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Let me see your pass... If you don't have one,"
+                "don't have one,"
               ]
             },
             {
@@ -2125,14 +2125,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Arseleon Private Guard"
+                "\\SE[0]Arseleon Private Guard \"Let me see your pass... Ah,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Let me see your pass... Ah, thank you."
+                "thank you."
               ]
             },
             {
@@ -2562,14 +2562,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "To pass through, you need the \\C[1]Arseleon Great"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Bridge"
+                "To pass through, you need the \\C[1]Arseleon Great Bridge"
               ]
             },
             {
@@ -2587,14 +2580,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "For details, inquire at the \\C[2]Arseleon Merchant"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "House\\C[0]."
+                "For details, inquire at the \\C[2]Arseleon Merchant House\\C[0]."
               ]
             },
             {
@@ -2672,14 +2658,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Merchant"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"That's a huge load, huh? Imported from"
+                "\\SE[0]Merchant \"That's a huge load, huh? Imported from"
               ]
             },
             {
@@ -2697,14 +2676,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Merchant"
+                "\\SE[0]Merchant \"Spices, exotic fruits―everything's selling"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Spices, exotic fruits―everything's selling for"
+                "for"
               ]
             },
             {
@@ -2782,21 +2761,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "\\SE[0]Adventurer \"You can get it at the \\C[1]Arseleon Merchant"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"You can get it at the \\C[1]Arseleon Merchant House\\C[0]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "if"
+                "House\\C[0] if"
               ]
             },
             {
@@ -2874,14 +2846,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"I wasn't told I'd need a \\C[1]pass\\C[0] to get"
+                "\\SE[0]Adventurer \"I wasn't told I'd need a \\C[1]pass\\C[0] to get"
               ]
             },
             {
@@ -3079,14 +3044,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Merchant"
+                "\\SE[0]Merchant \"Eldenia gets really hot. Be careful not to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Eldenia gets really hot. Be careful not to get"
+                "get"
               ]
             },
             {
@@ -3164,14 +3129,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Watchdog"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Hah... hah... hah...\""
+                "\\SE[0]Watchdog \"Hah... hah... hah...\""
               ]
             },
             {
@@ -3189,14 +3147,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Arseleon Private Guard"
+                "\\SE[0]Arseleon Private Guard \"Cute, right? His name's"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Cute, right? His name's Arthur.\""
+                "Arthur.\""
               ]
             },
             {
