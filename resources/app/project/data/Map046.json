@@ -4502,6 +4502,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "a discussion about elves had started."
+              ]
+            },
+            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -10947,21 +10954,17 @@
               ]
             },
             {
-              "code": 101,
+              "code": 401,
               "indent": 0,
               "parameters": [
-                "player/lylyan_normal",
-                5,
-                0,
-                2,
-                ""
+                "\\SE[2] \"The party that took down the bandits the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "other day—wasn’t that definitely Luna’s"
               ]
             },
             {
@@ -10980,6 +10983,70 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]Fioreita"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "party?\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                5,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Lilian"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"Well, yes, but…\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/モブ顔",
+                3,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Fioreita"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[2] \"Actually, there was a \\C[1] bounty \\C[0] on that"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "boss’s head!\""
               ]
             },
             {
@@ -11035,6 +11102,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"Huh?!!\""
+              ]
+            },
+            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -11050,6 +11124,20 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]Fioreita"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[2] \"This! A bounty of \\C[1]10000G\\C[0] and a Guild Quest"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Completion Certificate \\C[2]!\""
               ]
             },
             {
@@ -11095,6 +11183,52 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]Fioreita"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[2] \"\\C[2] The 'Take Down the Bounty Hunter' \\C[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "mission has been around forever, so they say"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/モブ顔",
+                3,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Fioreita"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "proving you've completed it is good enough!"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "That's great news!\""
               ]
             },
             {
@@ -11178,6 +11312,20 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]Fioreita"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[2] \"Well then, I definitely gave it to you!"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "See you later~\""
               ]
             },
             {
@@ -11470,6 +11618,20 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"…W-we went to the ruins… did some comedy…"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "What were we even doing…?\""
+              ]
+            },
+            {
               "code": 230,
               "indent": 0,
               "parameters": [
@@ -11492,6 +11654,20 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]Luna"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"Don’t say that, Lilian. It’s all the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "guidance of the goddess Fortuna…\""
               ]
             },
             {
@@ -11544,6 +11720,20 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3] \"Shall we go to the Arcelion Trading"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Company…?\""
               ]
             },
             {
@@ -21140,6 +21330,20 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] (May happiness be with the two of them… I"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "suppose)"
+              ]
+            },
+            {
               "code": 117,
               "indent": 0,
               "parameters": [
@@ -25110,6 +25314,20 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]Lilian"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] (May happiness be with the two of them… I"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "suppose)"
               ]
             },
             {

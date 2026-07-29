@@ -6366,6 +6366,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Crouch down behind cover"
+              ]
+            },
+            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -6887,6 +6894,45 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]Luna pulls a small orb from her pocket."
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "It was just big enough to fit in the palm of her hand,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "and upon closer inspection, a small magic circle was"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Luna pulls a small orb from her pocket."
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "engraved inside it."
               ]
             },
             {

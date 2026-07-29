@@ -13382,6 +13382,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                ". It should hurt, normally."
+              ]
+            },
+            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -17766,6 +17773,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"Did you go all the way?\""
+              ]
+            },
+            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -17781,6 +17795,13 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0][Luna]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"Yeah, we went all the way.\""
               ]
             },
             {
@@ -18140,6 +18161,20 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"Kailu!! You’re something else! You’re"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "something else!!!\""
+              ]
+            },
+            {
               "code": 117,
               "indent": 0,
               "parameters": [
@@ -18212,6 +18247,13 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3] \"Guh...!! It hurts...!!\""
               ]
             },
             {
@@ -18291,6 +18333,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"L-Lillian!? Please calm down!!!\""
+              ]
+            },
+            {
               "code": 221,
               "indent": 0,
               "parameters": []
@@ -18325,6 +18374,20 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0][Lilian]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"For now, please just put some clothes on,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "both of you!\""
               ]
             },
             {
@@ -18685,6 +18748,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"Ahem…\""
+              ]
+            },
+            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -18703,6 +18773,20 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"Lady Noel, it’s not as if Lady Luna’s"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "mother told me directly, but—\""
+              ]
+            },
+            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -18718,6 +18802,20 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0][Lilian]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"I believe it is my mission to protect Lady"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Luna.\""
               ]
             },
             {
@@ -18736,6 +18834,45 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0][Lilian]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"That goes not only for monsters, but also"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "for protecting you from pesky bugs. You"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0][Lilian]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "understand, right?\""
               ]
             },
             {
@@ -18766,6 +18903,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3] \"Yes…\""
+              ]
+            },
+            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -18784,6 +18928,20 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"If, when I return, Lady Luna’s belly is"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "swollen...\""
+              ]
+            },
+            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -18799,6 +18957,20 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0][Lilian]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"I wonder how I should explain this to Lord"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Noel… \""
               ]
             },
             {
@@ -18817,6 +18989,20 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0][Luna]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"Oh, well, in that case, Lord Kyle is a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "sensible adult, after all.\""
               ]
             },
             {
@@ -19805,6 +19991,13 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3] \"O-okay.\""
               ]
             },
             {
@@ -27895,6 +28088,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"………\""
+              ]
+            },
+            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -35445,6 +35645,20 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\\SE[4] \"Thank you for your hard work… Kyle, Lady"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Luna.\""
+              ]
+            },
+            {
               "code": 242,
               "indent": 1,
               "parameters": [
@@ -37105,6 +37319,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\\SE[5] \"Ah...♡ Ah...♡\""
+              ]
+            },
+            {
               "code": 101,
               "indent": 1,
               "parameters": [
@@ -37174,6 +37395,20 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\\SE[5]: \"Haa… haa…! O-oh my… what a indecent sound"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "I’m making…\""
+              ]
+            },
+            {
               "code": 101,
               "indent": 1,
               "parameters": [
@@ -37189,6 +37424,20 @@
               "indent": 1,
               "parameters": [
                 "\\SE[0][Lilian]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\\SE[4] \"Thank you for your hard work… Kyle, Lady"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Luna.\""
               ]
             },
             {
@@ -44657,6 +44906,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                ". It should hurt, normally."
+              ]
+            },
+            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -49041,6 +49297,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"Did you go all the way?\""
+              ]
+            },
+            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -49056,6 +49319,13 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0][Luna]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"Yeah, we went all the way.\""
               ]
             },
             {
@@ -49415,6 +49685,20 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"Kailu!! You’re something else! You’re"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "something else!!!\""
+              ]
+            },
+            {
               "code": 117,
               "indent": 0,
               "parameters": [
@@ -49487,6 +49771,13 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3] \"Guh...!! It hurts...!!\""
               ]
             },
             {
@@ -49566,6 +49857,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"L-Lillian!? Please calm down!!!\""
+              ]
+            },
+            {
               "code": 221,
               "indent": 0,
               "parameters": []
@@ -49600,6 +49898,20 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0][Lilian]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"For now, please just put some clothes on,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "both of you!\""
               ]
             },
             {
@@ -49960,6 +50272,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"Ahem…\""
+              ]
+            },
+            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -49978,6 +50297,20 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"Lady Noel, it’s not as if Lady Luna’s"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "mother told me directly, but—\""
+              ]
+            },
+            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -49993,6 +50326,20 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0][Lilian]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"I believe it is my mission to protect Lady"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Luna.\""
               ]
             },
             {
@@ -50011,6 +50358,45 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0][Lilian]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"That goes not only for monsters, but also"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "for protecting you from pesky bugs. You"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0][Lilian]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "understand, right?\""
               ]
             },
             {
@@ -50041,6 +50427,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3] \"Yes…\""
+              ]
+            },
+            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -50059,6 +50452,20 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"If, when I return, Lady Luna’s belly is"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "swollen...\""
+              ]
+            },
+            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -50074,6 +50481,20 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0][Lilian]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"I wonder how I should explain this to Lord"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Noel… \""
               ]
             },
             {
@@ -50092,6 +50513,20 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0][Luna]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"Oh, well, in that case, Lord Kyle is a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "sensible adult, after all.\""
               ]
             },
             {
@@ -51080,6 +51515,13 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0][Kyle]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3] \"O-okay.\""
               ]
             },
             {
@@ -59010,6 +59452,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"………\""
+              ]
+            },
+            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -64887,6 +65336,20 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"Thank you for your hard work… Kyle, Lady"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Luna.\""
+              ]
+            },
+            {
               "code": 242,
               "indent": 0,
               "parameters": [
@@ -68053,6 +68516,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"Ah...♡ Ah...♡\""
+              ]
+            },
+            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -68122,6 +68592,20 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5]: \"Haa… haa…! O-oh my… what a indecent sound"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I’m making…\""
+              ]
+            },
+            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -68137,6 +68621,20 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0][Lilian]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"Thank you for your hard work… Kyle, Lady"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Luna.\""
               ]
             },
             {

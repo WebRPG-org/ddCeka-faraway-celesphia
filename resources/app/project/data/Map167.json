@@ -3313,6 +3313,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "spacious bed."
+              ]
+            },
+            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -3328,6 +3335,13 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]and further back, even a small bathing area."
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "."
               ]
             },
             {
@@ -3814,6 +3828,13 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]Now, all of it just felt…"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"proof of its effectiveness.\""
               ]
             },
             {
@@ -4667,6 +4688,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I thought it was perfect, even by my own standards."
+              ]
+            },
+            {
               "code": 213,
               "indent": 0,
               "parameters": [
@@ -5036,6 +5064,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "bowed gracefully."
+              ]
+            },
+            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -5344,6 +5379,13 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]Safira doesn't look away at all,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "."
               ]
             },
             {
@@ -14361,6 +14403,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] \"Ahh... This is the best... ♡\""
+              ]
+            },
+            {
               "code": 205,
               "indent": 0,
               "parameters": [
@@ -14421,6 +14470,13 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1] \"...Were you satisfied?\""
               ]
             },
             {
@@ -14487,6 +14543,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] \"Ah, that was the best. Safira♡\""
+              ]
+            },
+            {
               "code": 213,
               "indent": 0,
               "parameters": [
@@ -14514,6 +14577,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1] \"That is… more than anything else.\""
+              ]
+            },
+            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -14529,6 +14599,20 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] \"Hey, so… did you really get the message I"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "was trying to send?\""
               ]
             },
             {
@@ -14586,6 +14670,13 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] (……There it is……)"
               ]
             },
             {
@@ -14667,6 +14758,13 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1] \"…Yes. I was really happy.\""
               ]
             },
             {
@@ -14772,39 +14870,10 @@
               ]
             },
             {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/elis_face1",
-                7,
-                0,
-                2,
-                ""
-              ]
-            },
-            {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/elis_face1",
-                5,
-                0,
-                2,
-                ""
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]"
+                "\\SE[0] \"Well then… when should we do it?\""
               ]
             },
             {
@@ -14826,6 +14895,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1] \"…Huh?\""
+              ]
+            },
+            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -14841,6 +14917,63 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] \"So, when’s a good time?\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/elis_face1",
+                7,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1] \"Oh, um… What are you talking about?\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/elis_face1",
+                5,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] \"That’s Why… The Wedding\""
               ]
             },
             {
@@ -18606,6 +18739,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "spacious bed."
+              ]
+            },
+            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -18621,6 +18761,13 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]and further back, even a small bathing area."
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "."
               ]
             },
             {
@@ -19107,6 +19254,13 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]Now, all of it just felt…"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"proof of its effectiveness.\""
               ]
             },
             {
@@ -19960,6 +20114,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I thought it was perfect, even by my own standards."
+              ]
+            },
+            {
               "code": 213,
               "indent": 0,
               "parameters": [
@@ -20329,6 +20490,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "bowed gracefully."
+              ]
+            },
+            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -20637,6 +20805,13 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]Safira doesn't look away at all,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "."
               ]
             },
             {
@@ -29654,6 +29829,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] \"Ahh... This is the best... ♡\""
+              ]
+            },
+            {
               "code": 205,
               "indent": 0,
               "parameters": [
@@ -29714,6 +29896,13 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1] \"...Were you satisfied?\""
               ]
             },
             {
@@ -29780,6 +29969,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] \"Ah, that was the best. Safira♡\""
+              ]
+            },
+            {
               "code": 213,
               "indent": 0,
               "parameters": [
@@ -29807,6 +30003,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1] \"That is… more than anything else.\""
+              ]
+            },
+            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -29822,6 +30025,20 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] \"Hey, so… did you really get the message I"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "was trying to send?\""
               ]
             },
             {
@@ -29879,6 +30096,13 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] (……There it is……)"
               ]
             },
             {
@@ -29960,6 +30184,13 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1] \"…Yes. I was really happy.\""
               ]
             },
             {
@@ -30065,39 +30296,10 @@
               ]
             },
             {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/elis_face1",
-                7,
-                0,
-                2,
-                ""
-              ]
-            },
-            {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/elis_face1",
-                5,
-                0,
-                2,
-                ""
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]"
+                "\\SE[0] \"Well then… when should we do it?\""
               ]
             },
             {
@@ -30119,6 +30321,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1] \"…Huh?\""
+              ]
+            },
+            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -30134,6 +30343,63 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] \"So, when’s a good time?\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/elis_face1",
+                7,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1] \"Oh, um… What are you talking about?\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/elis_face1",
+                5,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] \"That’s Why… The Wedding\""
               ]
             },
             {

@@ -9813,6 +9813,45 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"I want to treat the injured. I’m also"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "worried about the adventurer I left at the"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "entrance.\""
+              ]
+            },
+            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -9828,6 +9867,13 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]Lilian"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"Yes, let’s get out of here for now.\""
               ]
             },
             {

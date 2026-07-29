@@ -18443,6 +18443,20 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1] \"See you tomorrow… or could you please wait just a few"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "days… I’m sorry.\""
+              ]
+            },
+            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -37350,6 +37364,13 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3] \"Huh?\""
               ]
             },
             {

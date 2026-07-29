@@ -12503,6 +12503,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Um...\""
+              ]
+            },
+            {
               "code": 213,
               "indent": 0,
               "parameters": [
@@ -12561,6 +12568,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3] \"Wh-what?\""
+              ]
+            },
+            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -12576,6 +12590,13 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]A young-looking frontliner."
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Are you by any chance a healing mage—an <Oracle>…?\""
               ]
             },
             {
@@ -12619,6 +12640,20 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]A young-looking frontliner."
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Hey, if you’re up for it, would you mind joining our"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "party…? As you can see, we’re all frontline classes…\""
               ]
             },
             {
@@ -12783,6 +12818,20 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]A young-looking frontliner."
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"I’m counting on you! We’re on our way south for work,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "but our back-line class character ran off…\""
               ]
             },
             {
@@ -12958,6 +13007,20 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Please! If you stick with me until I complete this"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "quest, \\C[2] I’ll give you 5,000G. \\C[0] How about it?\""
+              ]
+            },
+            {
               "code": 213,
               "indent": 0,
               "parameters": [
@@ -13028,6 +13091,45 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"I’m hoping for a positive response…! We’re planning to"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "leave tomorrow morning , so please get in touch by"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]A young-looking frontliner."
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "then…\""
+              ]
+            },
+            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -13046,6 +13148,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "."
+              ]
+            },
+            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -13061,6 +13170,13 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]Everyone wants to survive. And to do that,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "—to make that happen."
               ]
             },
             {
@@ -13199,6 +13315,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Valdine!?\""
+              ]
+            },
+            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -13214,6 +13337,20 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]A young-looking frontliner."
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"H-hold on a second. Let’s just pretend this never"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "happened. See ya.\""
               ]
             },
             {
@@ -14937,6 +15074,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "make out what they were saying."
+              ]
+            },
+            {
               "code": 205,
               "indent": 0,
               "parameters": [
@@ -15462,6 +15606,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"………\""
+              ]
+            },
+            {
               "code": 222,
               "indent": 0,
               "parameters": []
@@ -15724,6 +15875,20 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3] \"…Luna, what’s wrong? Did it not suit your"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "taste, by any chance?\""
+              ]
+            },
+            {
               "code": 213,
               "indent": 0,
               "parameters": [
@@ -15748,6 +15913,13 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]Luna"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"N-no! Not at all…! It’s delicious.\""
               ]
             },
             {
@@ -15785,6 +15957,13 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]Kyle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3] \"I'm just going to wash my hands.\""
               ]
             },
             {
@@ -15912,6 +16091,20 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"…So, is the Valdine region really a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "dangerous place?\""
+              ]
+            },
+            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -15927,6 +16120,20 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]Lilian"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"Well… I suppose so… It’s enough that even"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "other adventurers avoid it.\""
               ]
             },
             {
@@ -15954,6 +16161,20 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]Luna"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"…Ugh, I wonder if Lord Kyle will stay with"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "me until the very end …\""
               ]
             },
             {
@@ -16014,6 +16235,20 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I found it very reassuring to have a guide and a healer"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "by my side."
+              ]
+            },
+            {
               "code": 223,
               "indent": 0,
               "parameters": [
@@ -16055,6 +16290,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"But what about the reward…\""
+              ]
+            },
+            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -16070,6 +16312,13 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]Luna"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"It’s certainly not enough…\""
               ]
             },
             {
@@ -16131,6 +16380,13 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]Luna"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"L-Lillian. Please listen to me.\""
               ]
             },
             {
@@ -16249,6 +16505,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"L-Lady Luna! Are you serious!?\""
+              ]
+            },
+            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -16264,6 +16527,13 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]Luna"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"Yes, I’m serious.\""
               ]
             },
             {
