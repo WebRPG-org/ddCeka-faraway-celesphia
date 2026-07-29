@@ -730,7 +730,7 @@
     "tpCost": 0,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Revive a single fallen ally and restore a large\namount of HP.",
+    "description": "Revive a single fallen ally and restore a large amount of\nHP.",
     "params": [],
     "damage": {
       "critical": false,
@@ -773,7 +773,7 @@
     "tpCost": 0,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Grant one ally automatic HP recovery for four\nturns.",
+    "description": "Grant one ally automatic HP recovery for four turns.",
     "params": [],
     "damage": {
       "critical": false,
@@ -1439,7 +1439,7 @@
     "tpCost": 0,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Grant one ally levitation, nullifying floor\ndamage and earth-based attacks.",
+    "description": "Grant one ally levitation, nullifying floor damage and\nearth-based attacks.",
     "params": [],
     "damage": {
       "critical": false,
@@ -1482,7 +1482,7 @@
     "tpCost": 0,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Reflect magic attacks aimed at one ally for five\nturns.",
+    "description": "Reflect magic attacks aimed at one ally for five turns.",
     "params": [],
     "damage": {
       "critical": false,
@@ -2854,7 +2854,7 @@
     "tpCost": 0,
     "tpGain": 5,
     "messageType": 1,
-    "description": "Gunbow technique. Attacks one enemy before anyone\nelse.",
+    "description": "Gunbow technique. Attacks one enemy before anyone else.",
     "params": [],
     "damage": {
       "critical": true,
@@ -2897,7 +2897,7 @@
     "tpCost": 0,
     "tpGain": 5,
     "messageType": 1,
-    "description": "Deals a guaranteed hit to one enemy, and lowers\ntheir Attack. (Max 2 stacks)",
+    "description": "Deals a guaranteed hit to one enemy, and lowers their\nAttack. (Max 2 stacks)",
     "params": [],
     "damage": {
       "critical": false,
@@ -2940,7 +2940,7 @@
     "tpCost": 0,
     "tpGain": 5,
     "messageType": 1,
-    "description": "Deals a guaranteed hit to one enemy, and lowers\ntheir Defense. (Max 2 stacks)",
+    "description": "Deals a guaranteed hit to one enemy, and lowers their\nDefense. (Max 2 stacks)",
     "params": [],
     "damage": {
       "critical": false,
@@ -2983,7 +2983,7 @@
     "tpCost": 0,
     "tpGain": 5,
     "messageType": 1,
-    "description": "Deals a guaranteed hit to one enemy, and lowers\ntheir M.Def. (Max 2 stacks)",
+    "description": "Deals a guaranteed hit to one enemy, and lowers their\nM.Def. (Max 2 stacks)",
     "params": [],
     "damage": {
       "critical": false,
@@ -3026,7 +3026,7 @@
     "tpCost": 0,
     "tpGain": 5,
     "messageType": 1,
-    "description": "Deals a guaranteed hit to one enemy, and lowers\ntheir M.Def. (Max 2 stacks)",
+    "description": "Deals a guaranteed hit to one enemy, and lowers their\nM.Def. (Max 2 stacks)",
     "params": [],
     "damage": {
       "critical": false,
@@ -3241,7 +3241,7 @@
     "tpCost": 0,
     "tpGain": 2,
     "messageType": 1,
-    "description": "Attacks all enemies, inflicting darkness. Damage\ndepends on the user's Attack and",
+    "description": "Attacks all enemies, inflicting darkness. Damage depends\non Attack and Agility.",
     "params": [],
     "damage": {
       "critical": true,
@@ -3284,7 +3284,7 @@
     "tpCost": 0,
     "tpGain": 5,
     "messageType": 1,
-    "description": "Sword technique. Attacks one enemy, occasionally\ndefeating them in one hit.",
+    "description": "Sword technique. Attacks one enemy, occasionally defeating\nthem in one hit.",
     "params": [],
     "damage": {
       "critical": true,
@@ -3425,7 +3425,7 @@
     "tpCost": 0,
     "tpGain": 2,
     "messageType": 1,
-    "description": "Attacks all enemies, inflicting charm. Damage\ndepends on the user's Attack and",
+    "description": "Attacks all enemies, inflicting charm. Damage depends on\nAttack and Agility.",
     "params": [],
     "damage": {
       "critical": false,
@@ -3842,7 +3842,7 @@
     "tpCost": 0,
     "tpGain": 5,
     "messageType": 1,
-    "description": "Gun/archery technique. Deals defense-ignoring\ndamage to one enemy.",
+    "description": "Gun/archery technique. Deals defense-ignoring damage to\none enemy.",
     "params": [],
     "damage": {
       "critical": false,
@@ -4006,7 +4006,7 @@
     "tpCost": 0,
     "tpGain": 5,
     "messageType": 1,
-    "description": "Cancels enemy attacks for 3 turns and\ncounterattacks.",
+    "description": "Cancels enemy attacks for 3 turns and counterattacks.",
     "params": [],
     "damage": {
       "critical": false,
@@ -4092,7 +4092,7 @@
     "tpCost": 0,
     "tpGain": 10,
     "messageType": 1,
-    "description": "Increases the user's likelihood of being targeted\nfor 5 turns.",
+    "description": "Increases the user's likelihood of being targeted for 5\nturns.",
     "params": [],
     "damage": {
       "critical": false,
@@ -4135,7 +4135,7 @@
     "tpCost": 0,
     "tpGain": 10,
     "messageType": 1,
-    "description": "Almost completely blocks physical and magical\nattacks against the user for 3",
+    "description": "Almost completely blocks physical and magical attacks\nagainst the user for 3",
     "params": [],
     "damage": {
       "critical": false,
@@ -4264,7 +4264,7 @@
     "tpCost": 0,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Grants lightning affinity to one ally for 5\nturns.",
+    "description": "Grants lightning affinity to one ally for 5 turns.",
     "params": [],
     "damage": {
       "critical": false,
@@ -4490,7 +4490,7 @@
     "tpCost": 0,
     "tpGain": 5,
     "messageType": 1,
-    "description": "Removes enemy buffs, magic reflection, and magic\nbarriers from a single target.",
+    "description": "Removes enemy buffs, magic reflection, and magic barriers\nfrom a single target.",
     "params": [],
     "damage": {
       "critical": false,
@@ -4619,7 +4619,7 @@
     "tpCost": 0,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Increases one ally's M. Power. Stacks up to 2\ntimes.",
+    "description": "Increases one ally's M. Power. Stacks up to 2 times.",
     "params": [],
     "damage": {
       "critical": false,
@@ -4662,7 +4662,7 @@
     "tpCost": 0,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Increases one ally's Attack. Stacks up to 2\ntimes.",
+    "description": "Increases one ally's Attack. Stacks up to 2 times.",
     "params": [],
     "damage": {
       "critical": false,
@@ -4698,7 +4698,7 @@
     "tpCost": 0,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Recovers HP for all allies. Recovery amount\ndepends on the user's Agility.",
+    "description": "Recovers HP for all allies. Recovery amount depends on the\nuser's Agility.",
     "params": [],
     "damage": {
       "critical": false,
@@ -4856,7 +4856,7 @@
     "tpCost": 0,
     "tpGain": 5,
     "messageType": 1,
-    "description": "Deals lightning damage to one enemy. Damage\ndepends on the user's Agility.",
+    "description": "Deals lightning damage to one enemy. Damage depends on the\nuser's Agility.",
     "params": [],
     "damage": {
       "critical": false,
@@ -4892,7 +4892,7 @@
     "tpCost": 0,
     "tpGain": 2,
     "messageType": 1,
-    "description": "Deals fire damage to all enemies. Damage depends\non the user's Agility.",
+    "description": "Deals fire damage to all enemies. Damage depends on the\nuser's Agility.",
     "params": [],
     "damage": {
       "critical": false,
@@ -4935,7 +4935,7 @@
     "tpCost": 0,
     "tpGain": 5,
     "messageType": 1,
-    "description": "Attacks one enemy with water, lowering their\nAgility. Damage depends on the user's",
+    "description": "Attacks one enemy with water, lowering their Agility.\nDamage depends on the user's",
     "params": [],
     "damage": {
       "critical": false,
@@ -4978,7 +4978,7 @@
     "tpCost": 0,
     "tpGain": 2,
     "messageType": 1,
-    "description": "Deals Earth damage to all enemies and inflicts\nStun. Damage depends on the",
+    "description": "Deals Earth damage to all enemies and inflicts Stun.\nDamage depends on M. Power.",
     "params": [],
     "damage": {
       "critical": false,
@@ -5057,7 +5057,7 @@
     "tpCost": 0,
     "tpGain": 5,
     "messageType": 1,
-    "description": "Deals Ice damage to one enemy. Damage depends on\nthe user's Agility.",
+    "description": "Deals Ice damage to one enemy. Damage depends on the\nuser's Agility.",
     "params": [],
     "damage": {
       "critical": false,
@@ -5176,7 +5176,7 @@
     "tpCost": 15,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Performs a powerful attack on one enemy while\nputting them to sleep.",
+    "description": "Performs a powerful attack on one enemy while putting them\nto sleep.",
     "params": [],
     "damage": {
       "critical": false,
@@ -5219,7 +5219,7 @@
     "tpCost": 15,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Attacks one enemy and knocks them off balance.\nDamage depends on the user's Attack",
+    "description": "Attacks one enemy and knocks them off balance. Damage\ndepends on the user's Attack",
     "params": [],
     "damage": {
       "critical": false,
@@ -5262,7 +5262,7 @@
     "tpCost": 0,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Sword technique. Performs a powerful attack on\none enemy and inflicts Silence. Damage",
+    "description": "Sword technique. Performs a powerful attack on one enemy\nand inflicts Silence. Damage",
     "params": [],
     "damage": {
       "critical": true,
@@ -5311,7 +5311,7 @@
     "tpCost": 15,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Raises the user's Attack and Defense slightly for\n5 turns. Can stack up to 2",
+    "description": "Raises the user's Attack and Defense slightly for 5 turns.\nCan stack up to 2",
     "params": [],
     "damage": {
       "critical": false,
@@ -5403,7 +5403,7 @@
     "tpCost": 15,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Gun technique. Performs a powerful attack on one\nenemy.",
+    "description": "Gun technique. Performs a powerful attack on one enemy.",
     "params": [],
     "damage": {
       "critical": true,
@@ -5446,7 +5446,7 @@
     "tpCost": 15,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Whip technique. Performs a powerful attack on one\nenemy. Damage depends on the user's",
+    "description": "Whip technique. Performs a powerful attack on one enemy.\nDamage depends on the user's",
     "params": [],
     "damage": {
       "critical": true,
@@ -5531,7 +5531,7 @@
     "tpCost": 20,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Bow technique. Attacks all enemies. Damage\ndepends on the user's Attack and Agility.",
+    "description": "Bow technique. Attacks all enemies. Damage depends on the\nuser's Attack and Agility.",
     "params": [],
     "damage": {
       "critical": false,
@@ -5567,7 +5567,7 @@
     "tpCost": 20,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Deals damage equal to the user's Max HP minus\ncurrent HP to one enemy. Guaranteed to",
+    "description": "Deals damage equal to Max HP minus current HP to one\nenemy. Guaranteed to hit.",
     "params": [],
     "damage": {
       "critical": false,
@@ -5738,7 +5738,7 @@
     "tpCost": 30,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Greatly increases the Defense of all allies for 5\nturns.",
+    "description": "Greatly increases the Defense of all allies for 5 turns.",
     "params": [],
     "damage": {
       "critical": true,
@@ -5774,7 +5774,7 @@
     "tpCost": 30,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Dagger technique. Performs a powerful double\nattack on one enemy. Damage depends on the",
+    "description": "Dagger technique. Double attack on one enemy. Damage\ndepends on Agility.",
     "params": [],
     "damage": {
       "critical": false,
@@ -5810,7 +5810,7 @@
     "tpCost": 30,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Bow technique. Performs a powerful attack on\nthree enemies. Damage depends on the user's",
+    "description": "Bow technique. Performs a powerful attack on three\nenemies. Damage depends on the user's",
     "params": [],
     "damage": {
       "critical": false,
@@ -5846,7 +5846,7 @@
     "tpCost": 30,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Gun technique. Performs a powerful attack on all\nenemies.",
+    "description": "Gun technique. Performs a powerful attack on all enemies.",
     "params": [],
     "damage": {
       "critical": false,
@@ -5882,7 +5882,7 @@
     "tpCost": 30,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Performs a powerful attack on all enemies. Damage\ndepends on the user's Attack and",
+    "description": "Performs a powerful attack on all enemies. Damage depends\non Attack and Agility.",
     "params": [],
     "damage": {
       "critical": false,
@@ -5931,7 +5931,7 @@
     "tpCost": 35,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Sword technique. Attacks one enemy and greatly\nreduces their Magic Defense. Damage",
+    "description": "Sword technique. Attacks one enemy and greatly reduces\ntheir Magic Defense. Damage",
     "params": [],
     "damage": {
       "critical": true,
@@ -6003,7 +6003,7 @@
     "tpCost": 35,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Axe-sickle technique. Performs a powerful attack\non three enemies.",
+    "description": "Axe-sickle technique. Performs a powerful attack on three\nenemies.",
     "params": [],
     "damage": {
       "critical": false,
@@ -6039,7 +6039,7 @@
     "tpCost": 50,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Axe-sickle technique. Performs a powerful attack\non all enemies.",
+    "description": "Axe-sickle technique. Performs a powerful attack on all\nenemies.",
     "params": [],
     "damage": {
       "critical": false,
@@ -6075,7 +6075,7 @@
     "tpCost": 50,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Claw technique. Performs a powerful attack on one\nenemy, ignoring their Defense.",
+    "description": "Claw technique. Performs a powerful attack on one enemy,\nignoring Defense.",
     "params": [],
     "damage": {
       "critical": false,
@@ -6118,7 +6118,7 @@
     "tpCost": 50,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Spear technique. Performs a powerful double\nattack on three enemies.",
+    "description": "Spear technique. Performs a powerful double attack on\nthree enemies.",
     "params": [],
     "damage": {
       "critical": false,
@@ -6154,7 +6154,7 @@
     "tpCost": 50,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Sword technique. Performs a powerful\nlight-element attack on all enemies. Damage",
+    "description": "Sword technique. Powerful light-element attack on all\nenemies. Damage depends on Atk.",
     "params": [],
     "damage": {
       "critical": false,
@@ -6226,7 +6226,7 @@
     "tpCost": 50,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Bow technique. Attacks all enemies three times.\nDamage depends on the user's Attack",
+    "description": "Bow technique. Attacks all enemies three times. Damage\ndepends on the user's Attack",
     "params": [],
     "damage": {
       "critical": false,
@@ -6262,7 +6262,7 @@
     "tpCost": 50,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Dagger technique. Performs a powerful attack on\nfour enemies. Damage depends on the",
+    "description": "Dagger technique. Powerful attack on four enemies. Damage\ndepends on Agility.",
     "params": [],
     "damage": {
       "critical": false,
@@ -6298,7 +6298,7 @@
     "tpCost": 50,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Whip technique. Attacks all enemies three times.\nDamage depends on the user's Attack",
+    "description": "Whip technique. Attacks all enemies three times. Damage\ndepends on the user's Attack",
     "params": [],
     "damage": {
       "critical": false,
@@ -6334,7 +6334,7 @@
     "tpCost": 50,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Gun technique. Performs a powerful attack on all\nenemies.",
+    "description": "Gun technique. Performs a powerful attack on all enemies.",
     "params": [],
     "damage": {
       "critical": false,
@@ -6377,7 +6377,7 @@
     "tpCost": 15,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Slightly increases the Defense of all allies for\n3 turns.",
+    "description": "Slightly increases the Defense of all allies for 3 turns.",
     "params": [],
     "damage": {
       "critical": false,
@@ -6420,7 +6420,7 @@
     "tpCost": 15,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Slightly increases the Magic Defense of all\nallies for 3 turns.",
+    "description": "Slightly increases the Magic Defense of all allies for 3\nturns.",
     "params": [],
     "damage": {
       "critical": false,
@@ -6481,7 +6481,7 @@
     "tpCost": 25,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Greatly increases the Defense and Magic Defense\nof all allies for 5 turns.",
+    "description": "Greatly increases the Defense and Magic Defense of all\nallies for 5 turns.",
     "params": [],
     "damage": {
       "critical": false,
@@ -6524,7 +6524,7 @@
     "tpCost": 35,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Recovers HP for all allies and revives KO'd\nallies.",
+    "description": "Recovers HP for all allies and revives KO'd allies.",
     "params": [],
     "damage": {
       "critical": false,
@@ -6560,7 +6560,7 @@
     "tpCost": 50,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Performs a guaranteed light-element attack on all\nenemies, with damage depending on the",
+    "description": "Guaranteed light-element attack on all enemies. Damage\ndepends on M. Power.",
     "params": [],
     "damage": {
       "critical": false,
@@ -6652,7 +6652,7 @@
     "tpCost": 15,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Greatly increases the user's M. Power for 5\nturns.",
+    "description": "Greatly increases the user's M. Power for 5 turns.",
     "params": [],
     "damage": {
       "critical": false,
@@ -6713,7 +6713,7 @@
     "tpCost": 25,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Inflicts sleep and curse on all enemies, greatly\nreducing their magic defense.",
+    "description": "Inflicts sleep and curse on all enemies, greatly reducing\ntheir magic defense.",
     "params": [],
     "damage": {
       "critical": false,
@@ -6792,7 +6792,7 @@
     "tpCost": 15,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Nullifies all magic attacks against the user for\n3 turns.",
+    "description": "Nullifies all magic attacks against the user for 3 turns.",
     "params": [],
     "damage": {
       "critical": false,
@@ -6835,7 +6835,7 @@
     "tpCost": 25,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Prevents all status ailments on allies for 5\nturns.",
+    "description": "Prevents all status ailments on allies for 5 turns.",
     "params": [],
     "damage": {
       "critical": false,
@@ -6878,7 +6878,7 @@
     "tpCost": 35,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Greatly reduces the user's MP consumption for 5\nturns.",
+    "description": "Greatly reduces the user's MP consumption for 5 turns.",
     "params": [],
     "damage": {
       "critical": false,
@@ -6914,7 +6914,7 @@
     "tpCost": 50,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Deals a guaranteed dark-element attack to all\nenemies, dependent on M. Power.",
+    "description": "Deals a guaranteed dark-element attack to all enemies,\ndependent on M. Power.",
     "params": [],
     "damage": {
       "critical": false,
@@ -6950,7 +6950,7 @@
     "tpCost": 50,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Deals a guaranteed attack to all enemies that\nignores defense, dependent on M. Power.",
+    "description": "Deals a guaranteed attack to all enemies that ignores\ndefense, dependent on M. Power.",
     "params": [],
     "damage": {
       "critical": false,
@@ -6993,7 +6993,7 @@
     "tpCost": 15,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Slightly increases the agility of all allies for\n3 turns. (Stacks x2)",
+    "description": "Slightly increases the agility of all allies for 3 turns.\n(Stacks x2)",
     "params": [],
     "damage": {
       "critical": false,
@@ -7036,7 +7036,7 @@
     "tpCost": 15,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Slightly decreases the agility of all allies for\n3 turns. (Stacks x2)",
+    "description": "Slightly decreases the agility of all allies for 3 turns.\n(Stacks x2)",
     "params": [],
     "damage": {
       "critical": false,
@@ -7079,7 +7079,7 @@
     "tpCost": 25,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Deals damage equal to 3/4 of the target's\nremaining HP to one enemy and removes",
+    "description": "Deals damage equal to 3/4 of the target's remaining HP to\none enemy and removes",
     "params": [],
     "damage": {
       "critical": false,
@@ -7158,7 +7158,7 @@
     "tpCost": 50,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Deals a guaranteed attack to 4 enemies that\nignores defense, dependent on M. Power.",
+    "description": "Deals a guaranteed attack to 4 enemies that ignores\ndefense, dependent on M. Power.",
     "params": [],
     "damage": {
       "critical": false,
@@ -7262,7 +7262,7 @@
     "tpCost": 0,
     "tpGain": 2,
     "messageType": 1,
-    "description": "Deals Fire damage to all enemies. Damage is\ndependent on the user's dexterity.",
+    "description": "Deals Fire damage to all enemies. Damage is dependent on\nthe user's dexterity.",
     "params": [],
     "damage": {
       "critical": false,
@@ -7305,7 +7305,7 @@
     "tpCost": 0,
     "tpGain": 2,
     "messageType": 1,
-    "description": "Deals lightning-element damage to all enemies and\ninflicts paralysis.",
+    "description": "Deals lightning-element damage to all enemies and inflicts\nparalysis.",
     "params": [],
     "damage": {
       "critical": false,
@@ -7348,7 +7348,7 @@
     "tpCost": 0,
     "tpGain": 2,
     "messageType": 1,
-    "description": "Deals Wind damage to all enemies and inflicts\ndarkness.",
+    "description": "Deals Wind damage to all enemies and inflicts darkness.",
     "params": [],
     "damage": {
       "critical": false,
@@ -7391,7 +7391,7 @@
     "tpCost": 0,
     "tpGain": 2,
     "messageType": 1,
-    "description": "Deals Ice damage to all enemies and inflicts\nsleep.",
+    "description": "Deals Ice damage to all enemies and inflicts sleep.",
     "params": [],
     "damage": {
       "critical": false,
@@ -7513,7 +7513,7 @@
     "tpCost": 0,
     "tpGain": 2,
     "messageType": 1,
-    "description": "Deals Earth damage to all enemies and inflicts\nstun.",
+    "description": "Deals Earth damage to all enemies and inflicts stun.",
     "params": [],
     "damage": {
       "critical": false,
@@ -7556,7 +7556,7 @@
     "tpCost": 0,
     "tpGain": 2,
     "messageType": 1,
-    "description": "Deals Light damage to all enemies and inflicts\nsleep.",
+    "description": "Deals Light damage to all enemies and inflicts sleep.",
     "params": [],
     "damage": {
       "critical": false,
@@ -7599,7 +7599,7 @@
     "tpCost": 0,
     "tpGain": 10,
     "messageType": 1,
-    "description": "Deals lethal damage to one enemy, rendering it\nunable to act.",
+    "description": "Deals lethal damage to one enemy, rendering it unable to\nact.",
     "params": [],
     "damage": {
       "critical": false,
@@ -7648,7 +7648,7 @@
     "tpCost": 0,
     "tpGain": 5,
     "messageType": 1,
-    "description": "Attacks one enemy and lowers its defense and\nmagic defense.",
+    "description": "Attacks one enemy and lowers its defense and magic\ndefense.",
     "params": [],
     "damage": {
       "critical": false,
@@ -7843,7 +7843,7 @@
     "tpCost": 25,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Recovers all allies by an amount equal to the\nuser's current HP.",
+    "description": "Recovers all allies by an amount equal to the user's\ncurrent HP.",
     "params": [],
     "damage": {
       "critical": false,
@@ -7904,7 +7904,7 @@
     "tpCost": 30,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Greatly increases the defense and magic defense\nof all allies for 5 turns.",
+    "description": "Greatly increases the defense and magic defense of all\nallies for 5 turns.",
     "params": [],
     "damage": {
       "critical": true,
@@ -7940,7 +7940,7 @@
     "tpCost": 50,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Deals a guaranteed dark-element attack to all\nenemies, dependent on M. Power.",
+    "description": "Deals a guaranteed dark-element attack to all enemies,\ndependent on M. Power.",
     "params": [],
     "damage": {
       "critical": false,
@@ -8016,7 +8016,7 @@
     "tpCost": 0,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Sprays poison fluid at one enemy, inflicting\npoison.",
+    "description": "Sprays poison fluid at one enemy, inflicting poison.",
     "params": [],
     "damage": {
       "critical": false,
@@ -8833,7 +8833,7 @@
     "tpCost": 0,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Stares down one enemy, rendering them unable to\nact.",
+    "description": "Stares down one enemy, rendering them unable to act.",
     "params": [],
     "damage": {
       "critical": false,
@@ -8919,7 +8919,7 @@
     "tpCost": 0,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Deals damage to one enemy and knocks them off\nbalance.",
+    "description": "Deals damage to one enemy and knocks them off balance.",
     "params": [],
     "damage": {
       "critical": false,
@@ -9011,7 +9011,7 @@
     "tpCost": 0,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Boosts the user's fighting spirit, enhancing\ntheir abilities.",
+    "description": "Boosts the user's fighting spirit, enhancing their\nabilities.",
     "params": [],
     "damage": {
       "critical": false,
@@ -9054,7 +9054,7 @@
     "tpCost": 0,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Covers one enemy in slime, lowering their\nAgility.",
+    "description": "Covers one enemy in slime, lowering their Agility.",
     "params": [],
     "damage": {
       "critical": false,
@@ -9634,7 +9634,7 @@
     "tpCost": 0,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Deals 1.5x the target's remaining HP as damage to\nall enemies.",
+    "description": "Deals 1.5x the target's remaining HP as damage to all\nenemies.",
     "params": [],
     "damage": {
       "critical": false,
@@ -9710,7 +9710,7 @@
     "tpCost": 0,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Renders all enemies unable to act for the rest of\nthe battle.",
+    "description": "Renders all enemies unable to act for the rest of the\nbattle.",
     "params": [],
     "damage": {
       "critical": false,
@@ -9795,7 +9795,7 @@
     "tpCost": 0,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Revives all allies from defeat and restores HP\nequal to their current max HP.",
+    "description": "Revives all allies from defeat and restores HP equal to\ntheir current max HP.",
     "params": [],
     "damage": {
       "critical": false,
@@ -9844,7 +9844,7 @@
     "tpCost": 0,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Revives one ally from defeat and fully restores\ntheir HP.",
+    "description": "Revives one ally from defeat and fully restores their HP.",
     "params": [],
     "damage": {
       "critical": false,
@@ -9916,7 +9916,7 @@
     "tpCost": 0,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Claw Technique. Deals powerful damage to one\nenemy, ignoring defense.",
+    "description": "Claw Technique. Deals powerful damage to one enemy,\nignoring defense.",
     "params": [],
     "damage": {
       "critical": false,
@@ -9988,7 +9988,7 @@
     "tpCost": 0,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Deals 9999 damage to a target with 0 MP\nremaining.",
+    "description": "Deals 9999 damage to a target with 0 MP remaining.",
     "params": [],
     "damage": {
       "critical": false,
@@ -10194,7 +10194,7 @@
     "tpCost": 0,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Bow Technique. Attacks 8 times against 4 enemies.\nDamage depends on the user's Attack",
+    "description": "Bow Technique. Attacks 8 times against 4 enemies. Damage\ndepends on the user's Attack",
     "params": [],
     "damage": {
       "critical": false,
@@ -10414,7 +10414,7 @@
       "variance": 20
     },
     "message1": "%1 chanted %2!",
-    "description": "Blesses the user's legs with divine protection,\nallowing safe passage even in",
+    "description": "Blesses the user's legs with divine protection, allowing\nsafe passage even in",
     "_original": {
       "name": "フィールドバリア",
       "description": "脚の周りに神の加護を付与し、普段は歩けないような危険\nな場所も歩くことが出来る。床ダメージ無効。",
@@ -10449,7 +10449,7 @@
     "tpCost": 0,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Wraps a fallen ally in light, reviving them.\nRevives one ally from incapacitation.",
+    "description": "Wraps a fallen ally in light, reviving them. Revives one\nally from incapacitation.",
     "params": [],
     "damage": {
       "critical": false,
@@ -10518,7 +10518,7 @@
     "tpCost": 0,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Gently heals one ally's wounds with healing\nlight. Restores one ally's HP.",
+    "description": "Gently heals one ally's wounds with healing light.\nRestores one ally's HP.",
     "params": [],
     "damage": {
       "critical": false,
@@ -10554,7 +10554,7 @@
     "tpCost": 0,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Heals all allies with a wave of holy energy.\nRestores all allies' HP.",
+    "description": "Heals all allies with a wave of holy energy. Restores all\nallies' HP.",
     "params": [],
     "damage": {
       "critical": false,
@@ -10627,7 +10627,7 @@
     "tpCost": 0,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Purges impurities and cleanses status ailments.\nCures one ally of Poison,",
+    "description": "Purges impurities and cleanses status ailments. Cures one\nally of Poison,",
     "params": [],
     "damage": {
       "critical": false,
@@ -10663,7 +10663,7 @@
     "tpCost": 0,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Restores a significant amount of vitality with a\npowerful beam of light. Greatly",
+    "description": "Restores a significant amount of vitality with a beam of\nlight. Greatly heals one ally.",
     "params": [],
     "damage": {
       "critical": false,
@@ -10699,7 +10699,7 @@
     "tpCost": 0,
     "tpGain": 0,
     "messageType": 1,
-    "description": "The light of a sacred domain heals everyone\ngreatly. Greatly restores all allies' HP.",
+    "description": "The light of a sacred domain heals everyone greatly.\nGreatly restores all allies' HP.",
     "params": [],
     "damage": {
       "critical": false,
@@ -10742,7 +10742,7 @@
     "tpCost": 0,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Divine miracle rescues a fallen ally from the\nbrink of death. Revives one ally from",
+    "description": "Divine miracle rescues a fallen ally from the brink of\ndeath. Revives one ally from",
     "params": [],
     "damage": {
       "critical": false,
@@ -10791,7 +10791,7 @@
     "tpCost": 0,
     "tpGain": 0,
     "messageType": 1,
-    "description": "The ultimate blessing of the goddess who heals\nfate. Revives all allies from",
+    "description": "The ultimate blessing of the goddess who heals fate.\nRevives all allies from",
     "params": [],
     "damage": {
       "critical": false,
@@ -10827,7 +10827,7 @@
     "tpCost": 0,
     "tpGain": 5,
     "messageType": 1,
-    "description": "Holy arrow of light pierces the darkness. Deals\nLight damage to one enemy.",
+    "description": "Holy arrow of light pierces the darkness. Deals Light\ndamage to one enemy.",
     "params": [],
     "damage": {
       "critical": false,
@@ -10863,7 +10863,7 @@
     "tpCost": 0,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Dancing flames of light incinerate the enemy\nthrice. Deals Light damage to random",
+    "description": "Dancing flames of light incinerate the enemy thrice. Deals\nLight damage to random enemies.",
     "params": [],
     "damage": {
       "critical": false,
@@ -10899,7 +10899,7 @@
     "tpCost": 0,
     "tpGain": 5,
     "messageType": 1,
-    "description": "Ultimate holy light descends from the heavens.\nDeals Light damage to all enemies.",
+    "description": "Ultimate holy light descends from the heavens. Deals Light\ndamage to all enemies.",
     "params": [],
     "damage": {
       "critical": false,
@@ -10935,7 +10935,7 @@
     "tpCost": 12,
     "tpGain": 5,
     "messageType": 1,
-    "description": "A crushing blow pulverizes the enemy with raw\npower. Deals physical damage to one",
+    "description": "A crushing blow pulverizes the enemy with raw power. Deals\nphysical damage to one enemy.",
     "params": [],
     "damage": {
       "critical": false,
@@ -10978,7 +10978,7 @@
     "tpCost": 0,
     "tpGain": 0,
     "messageType": 1,
-    "description": "A shield of light halves magical damage. Halves\nmagical damage taken by one ally.",
+    "description": "A shield of light halves magical damage. Halves magical\ndamage taken by one ally.",
     "message2": "",
     "params": [],
     "damage": {
@@ -11022,7 +11022,7 @@
     "tpCost": 0,
     "tpGain": 0,
     "messageType": 1,
-    "description": "A sacred barrier protects all allies. Halves\nmagical damage taken by all allies.",
+    "description": "A sacred barrier protects all allies. Halves magical\ndamage taken.",
     "message2": "",
     "params": [],
     "damage": {
@@ -11066,7 +11066,7 @@
     "tpCost": 22,
     "tpGain": 5,
     "messageType": 1,
-    "description": "A blade of destruction severs the enemy's\nstrength. Deals damage to an enemy and may",
+    "description": "A blade of destruction severs the enemy's strength. Deals\ndamage and may lower Atk.",
     "params": [],
     "damage": {
       "critical": false,
@@ -11109,7 +11109,7 @@
     "tpCost": 22,
     "tpGain": 5,
     "messageType": 1,
-    "description": "Strikes at the enemy's weak point, shattering\ntheir defenses. damage to an",
+    "description": "Strikes at the enemy's weak point, shattering their\ndefenses. Lowers target Def.",
     "params": [],
     "damage": {
       "critical": false,
@@ -11224,7 +11224,7 @@
     "tpCost": 0,
     "tpGain": 5,
     "messageType": 1,
-    "description": "A blade of frost pierces the enemy. Deals Ice\ndamage to one enemy.",
+    "description": "A blade of frost pierces the enemy. Deals Ice damage to\none enemy.",
     "params": [],
     "damage": {
       "critical": false,
@@ -11260,7 +11260,7 @@
     "tpCost": 0,
     "tpGain": 5,
     "messageType": 1,
-    "description": "Seals the enemy in an icy coffin with frigid\nmagic, a prison of silence. ice-element",
+    "description": "Seals the enemy in an icy coffin with frigid magic, a\nprison of silence. ice-element",
     "params": [],
     "damage": {
       "critical": false,
@@ -11296,7 +11296,7 @@
     "tpCost": 0,
     "tpGain": 5,
     "messageType": 1,
-    "description": "A blizzard tears through the enemy. A high-level\nspell only those who command",
+    "description": "A blizzard tears through the enemy. A high-level spell\nonly those who command",
     "params": [],
     "damage": {
       "critical": false,
@@ -11332,7 +11332,7 @@
     "tpCost": 0,
     "tpGain": 5,
     "messageType": 1,
-    "description": "Beautiful ice crystals dance, freezing enemies\nwith light and cold. Deals Ice",
+    "description": "Beautiful ice crystals dance, freezing enemies with light\nand cold. Deals Ice",
     "params": [],
     "damage": {
       "critical": false,
@@ -11368,7 +11368,7 @@
     "tpCost": 0,
     "tpGain": 5,
     "messageType": 1,
-    "description": "A freezing explosion engulfs the surroundings,\nhalting even life itself.",
+    "description": "A freezing explosion engulfs the surroundings, halting\neven life itself.",
     "params": [],
     "damage": {
       "critical": false,
@@ -11404,7 +11404,7 @@
     "tpCost": 0,
     "tpGain": 5,
     "messageType": 1,
-    "description": "Lightning splits the sky, a bolt of divine wrath\nstriking the enemy. Deals",
+    "description": "Lightning splits the sky, a bolt of divine wrath striking\nthe enemy. Deals Lightning damage.",
     "params": [],
     "damage": {
       "critical": false,
@@ -11440,7 +11440,7 @@
     "tpCost": 0,
     "tpGain": 5,
     "messageType": 1,
-    "description": "Summons the power of the storm, calling forth\nthunder. Roaring electricity",
+    "description": "Summons the power of the storm, calling forth thunder.\nRoaring electricity",
     "params": [],
     "damage": {
       "critical": false,
@@ -11476,7 +11476,7 @@
     "tpCost": 0,
     "tpGain": 2,
     "messageType": 1,
-    "description": "A storm of divine lightning shakes heaven and\nearth. Lightning courses across the land",
+    "description": "A storm of divine lightning shakes heaven and earth.\nLightning courses across the land",
     "params": [],
     "damage": {
       "critical": false,
@@ -11519,7 +11519,7 @@
     "tpCost": 40,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Focuses the mind to amplify the next strike, a\nsilence of concentration. Doubles the",
+    "description": "Focuses the mind to amplify the next strike. Doubles the\nuser's next physical damage.",
     "message2": "",
     "params": [],
     "damage": {
@@ -11556,7 +11556,7 @@
     "tpCost": 25,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Fires a high-speed magic bullet. A precise strike\nfrom a master magician. magic-power",
+    "description": "Fires a high-speed magic bullet. A precise strike from a\nmaster magician. magic-power",
     "message2": "",
     "params": [],
     "damage": {
@@ -11600,7 +11600,7 @@
     "tpCost": 0,
     "tpGain": 0,
     "messageType": 1,
-    "description": "A flash of lightning pierces the enemy. Even the\nsmallest spark carries the power of the",
+    "description": "A flash of lightning pierces the enemy. Even a small spark\ncarries the storm's power.",
     "message2": "",
     "params": [],
     "damage": {
@@ -11637,7 +11637,7 @@
     "tpCost": 35,
     "tpGain": 0,
     "messageType": 1,
-    "description": "A technique that inserts one's own magic power\ninto the opponent's magical core,",
+    "description": "Inserts magic power into the opponent's core, disrupting\ntheir spellcasting.",
     "message2": "",
     "params": [],
     "damage": {
@@ -11716,7 +11716,7 @@
     "tpCost": 15,
     "tpGain": 3,
     "messageType": 1,
-    "description": "A pair of wind-like slashes that cleave through\nthe enemy. Deals two attacks to a",
+    "description": "A pair of wind-like slashes that cleave through the enemy.\nDeals two attacks to one enemy.",
     "params": [],
     "damage": {
       "critical": true,
@@ -11759,7 +11759,7 @@
     "tpCost": 22,
     "tpGain": 15,
     "messageType": 1,
-    "description": "Steps forward to protect allies. Takes all damage\nin their place.",
+    "description": "Steps forward to protect allies. Takes all damage in their\nplace.",
     "message2": "",
     "params": [],
     "damage": {
@@ -11803,7 +11803,7 @@
     "tpCost": 15,
     "tpGain": 15,
     "messageType": 1,
-    "description": "Raises their shield and prepares. Adopts a\ndefensive stance, greatly increasing",
+    "description": "Raises their shield and prepares. Adopts a defensive\nstance, greatly increasing",
     "message2": "",
     "params": [],
     "damage": {
@@ -11847,7 +11847,7 @@
     "tpCost": 15,
     "tpGain": 5,
     "messageType": 1,
-    "description": "Channels all their strength into a single point\nand strikes one enemy with a",
+    "description": "Channels all strength into a single point and strikes one\nenemy with a heavy blow.",
     "params": [],
     "damage": {
       "critical": true,
@@ -11883,7 +11883,7 @@
     "tpCost": 25,
     "tpGain": 2,
     "messageType": 1,
-    "description": "A sweeping spin slash that cuts down enemies like\ndancing blades. Deals damage to all",
+    "description": "A sweeping spin slash that cuts down enemies like dancing\nblades. Deals damage to all.",
     "message2": "",
     "params": [],
     "damage": {
@@ -11920,7 +11920,7 @@
     "tpCost": 40,
     "tpGain": 5,
     "messageType": 1,
-    "description": "A shockwave that cracks the earth. Deals Earth\ndamage to all enemies.",
+    "description": "A shockwave that cracks the earth. Deals Earth damage to\nall enemies.",
     "params": [],
     "damage": {
       "critical": false,
@@ -11956,7 +11956,7 @@
     "tpCost": 50,
     "tpGain": 5,
     "messageType": 1,
-    "description": "A flurry of strikes launched mid-leap. Blades\ndescend from the sky, striking the",
+    "description": "A flurry of strikes launched mid-leap. Blades descend from\nthe sky, striking one enemy.",
     "params": [],
     "damage": {
       "critical": true,
@@ -12005,7 +12005,7 @@
     "tpCost": 50,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Awakens the proud soul of a knight.\nSimultaneously boosts attack, defense, and",
+    "description": "Awakens a knight's proud soul. Simultaneously boosts\nAttack, Defense, and Agility.",
     "params": [],
     "damage": {
       "critical": false,
@@ -12041,7 +12041,7 @@
     "tpCost": 100,
     "tpGain": 5,
     "messageType": 1,
-    "description": "Infuses the knight's courage and conviction into\ntheir blade. Deals a full-power slash",
+    "description": "Infuses the knight's courage and conviction into their\nblade. Deals a full-power slash",
     "params": [],
     "damage": {
       "critical": true,
@@ -12084,7 +12084,7 @@
     "tpCost": 0,
     "tpGain": 0,
     "messageType": 1,
-    "description": "Calms their breathing and refines their power.\nCorrects their stance and recovers TP",
+    "description": "Calms their breathing and refines their power. Corrects\ntheir stance and recovers TP",
     "message2": "",
     "params": [],
     "damage": {
@@ -12368,7 +12368,7 @@
     "tpCost": 20,
     "tpGain": 5,
     "messageType": 1,
-    "description": "Crouches low like a predator stalking prey,\nsliding gracefully to cut down two enemies.",
+    "description": "Crouches low like a predator stalking prey, sliding\ngracefully to cut down two enemies.",
     "params": [],
     "damage": {
       "critical": true,
@@ -12411,7 +12411,7 @@
     "tpCost": 15,
     "tpGain": 5,
     "messageType": 1,
-    "description": "Deals damage to one enemy, ignoring their\ndefense.",
+    "description": "Deals damage to one enemy, ignoring their defense.",
     "params": [],
     "damage": {
       "critical": false,
@@ -12447,7 +12447,7 @@
     "tpCost": 30,
     "tpGain": 5,
     "messageType": 1,
-    "description": "A flowing dance of strikes and spins. Deals Wind\ndamage to all enemies.",
+    "description": "A flowing dance of strikes and spins. Deals Wind damage to\nall enemies.",
     "params": [],
     "damage": {
       "critical": true,
@@ -12490,7 +12490,7 @@
     "tpCost": 0,
     "tpGain": 50,
     "messageType": 1,
-    "description": "Calms their breathing, unifies their spirit, and\naligns the flow of energy throughout",
+    "description": "Calms their breathing, unifies their spirit, and aligns\nthe flow of energy throughout",
     "params": [],
     "damage": {
       "critical": false,
@@ -12515,7 +12515,7 @@
       "type": 1,
       "variance": 20
     },
-    "description": "Dives into the opponent's guard, kicks upward\ninto the air, and tears them apart",
+    "description": "Dives into the opponent's guard, kicks upward, and tears\nthem apart.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 82,
@@ -12562,7 +12562,7 @@
     "tpCost": 90,
     "tpGain": 5,
     "messageType": 1,
-    "description": "A technique that strikes with the speed of\ndripping water wearing away stone. Leaves",
+    "description": "A technique that strikes with the speed of dripping water\nwearing away stone. Leaves",
     "params": [],
     "damage": {
       "critical": true,
@@ -12587,7 +12587,7 @@
       "type": 1,
       "variance": 20
     },
-    "description": "Approaches the enemy with a relaxed body, then\nfreezes them in place with a sudden",
+    "description": "Approaches the enemy with a relaxed body, then freezes\nthem in place with a sudden",
     "effects": [],
     "hitType": 0,
     "iconIndex": 77,
@@ -12623,7 +12623,7 @@
       "type": 1,
       "variance": 20
     },
-    "description": "Flows into a smooth motion, striking the\nopponent's temple, solar plexus, throat,",
+    "description": "Flows into a smooth motion, striking the opponent's\ntemple, solar plexus, throat,",
     "effects": [],
     "hitType": 0,
     "iconIndex": 77,
@@ -12739,7 +12739,7 @@
     "tpCost": 0,
     "tpGain": 100,
     "messageType": 1,
-    "description": "Calms their breathing, unifies their spirit, and\nchannels everything into their next",
+    "description": "Calms their breathing, unifies their spirit, and channels\neverything into their next",
     "params": [],
     "damage": {
       "critical": false,
@@ -12764,7 +12764,7 @@
       "type": 1,
       "variance": 20
     },
-    "description": "Refines the chakra within their body, removes\ntheir physical limits, and unleashes",
+    "description": "Refines the chakra within their body, removes their\nphysical limits, and unleashes",
     "effects": [],
     "hitType": 0,
     "iconIndex": 77,

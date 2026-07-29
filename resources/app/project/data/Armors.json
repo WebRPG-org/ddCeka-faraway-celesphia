@@ -51,7 +51,7 @@
     "name": "Cloth Clothes",
     "price": 120,
     "note": "",
-    "description": "[Light Armor]Breathable cloth clothes.\\r Clothing\ncommonly worn by townsfolk in",
+    "description": "[Light Armor]Breathable cloth clothes.\\r Clothing commonly\nworn by townsfolk in",
     "params": [
       0,
       0,
@@ -89,7 +89,7 @@
     "name": "Leather Vest",
     "price": 380,
     "note": "",
-    "description": "[Light Armor]A vest made of tanned leather.\\r\nProvides protection against sharp",
+    "description": "[Light Armor]A vest made of tanned leather.\\r Provides\nprotection against sharp",
     "params": [
       0,
       0,
@@ -127,7 +127,7 @@
     "name": "Hard Leather",
     "price": 650,
     "note": "",
-    "description": "[Light Armor]A vest made of hardened leather\ntanned with glue.\\r Harder than ordinary",
+    "description": "[Light Armor]A vest made of hardened leather tanned with\nglue.\\r Harder than ordinary",
     "params": [
       0,
       0,
@@ -165,7 +165,7 @@
     "name": "Brigandine",
     "price": 1500,
     "note": "",
-    "description": "[Light Armor]A leather garment reinforced with\nsteel plates.\\r Protects against blades",
+    "description": "[Light Armor]A leather garment reinforced with steel\nplates.\\r Protects against blades",
     "params": [
       0,
       0,
@@ -203,7 +203,7 @@
     "name": "Mithril Vest",
     "price": 2980,
     "note": "",
-    "description": "[Light Armor]A garment woven from mithril silver\nthread.\\r Its complex fibers can",
+    "description": "[Light Armor]A garment woven from mithril silver thread.\\r\nIts complex fibers can",
     "params": [
       0,
       0,
@@ -241,7 +241,7 @@
     "name": "Mystic Cloth",
     "price": 4400,
     "note": "",
-    "description": "[Light Armor]A garment made of fabric that allows\neasy movement and is infused with",
+    "description": "[Light Armor] Fabric that allows easy movement and is\ninfused with magic.",
     "params": [
       0,
       0,
@@ -279,7 +279,7 @@
     "name": "Rune Vest",
     "price": 7200,
     "note": "",
-    "description": "[Light Armor]An ancient garment with runes etched\ninto its lining.\\r Enhances the",
+    "description": "[Light Armor] Ancient garment with runes lining the\ninside. Enhances M. Def.",
     "params": [
       0,
       0,
@@ -322,7 +322,7 @@
     "name": "Dragon Vest",
     "price": 9800,
     "note": "",
-    "description": "[Light Armor]A vest made of fabric developed\nspecifically for dragon resistance.\\r",
+    "description": "[Light Armor]A vest made of fabric developed specifically\nfor dragon resistance.\\r",
     "params": [
       0,
       0,
@@ -430,7 +430,7 @@
     "name": "Cotton Robe",
     "price": 110,
     "note": "",
-    "description": "[Magic Armor]A robe made of cotton fabric.\\r\nSlightly increases magic power.",
+    "description": "[Magic Armor]A robe made of cotton fabric.\\r Slightly\nincreases magic power.",
     "params": [
       0,
       0,
@@ -468,7 +468,7 @@
     "name": "Silk Robe",
     "price": 330,
     "note": "",
-    "description": "[Magic Armor]A robe made of silk.\\r Woven with\nspell formulas, it slightly increases",
+    "description": "[Magic Armor]A robe made of silk.\\r Woven with spell\nformulas, it slightly increases",
     "params": [
       0,
       0,
@@ -506,7 +506,7 @@
     "name": "Felt Robe",
     "price": 630,
     "note": "",
-    "description": "[Magic Armor]A sturdy robe made of thick\nfabric.\\r Warm and excellent as winter wear.",
+    "description": "[Magic Armor]A sturdy robe made of thick fabric.\\r Warm\nand excellent as winter wear.",
     "params": [
       0,
       0,
@@ -544,7 +544,7 @@
     "name": "Magic Robe",
     "price": 1400,
     "note": "",
-    "description": "[Magic Armor]A robe made of fabric infused with\nmagic power.\\r Greatly increases magic",
+    "description": "[Magic Armor]A robe made of fabric infused with magic\npower.\\r Greatly increases magic",
     "params": [
       0,
       0,
@@ -582,7 +582,7 @@
     "name": "Mithril Robe",
     "price": 2800,
     "note": "",
-    "description": "[Magic Armor]A robe woven from mithril silver\nthread.\\r Its complex fibers can",
+    "description": "[Magic Armor]A robe woven from mithril silver thread.\\r\nIts complex fibers can",
     "params": [
       0,
       0,
@@ -625,7 +625,7 @@
     "name": "Saint Robe",
     "price": 4200,
     "note": "",
-    "description": "[Magic Armor]A robe made of fabric infused with\nholy power.\\r Worn by clergy; reduces",
+    "description": "[Magic Armor]A robe made of fabric infused with holy\npower.\\r Worn by clergy; reduces",
     "params": [
       0,
       0,
@@ -663,7 +663,7 @@
     "name": "Rune Robe",
     "price": 7000,
     "note": "",
-    "description": "[Magic Armor]A robe with runes etched into its\nlining.\\r Enhances the wearer's",
+    "description": "[Magic Armor]A robe with runes etched into its lining.\\r\nEnhances the wearer's",
     "params": [
       0,
       0,
@@ -706,7 +706,7 @@
     "name": "Dragon Robe",
     "price": 9500,
     "note": "",
-    "description": "[Magic Armor]A robe made of fabric developed\nspecifically for dragon resistance.\\r",
+    "description": "[Magic Armor]A robe made of fabric developed specifically\nfor dragon resistance.\\r",
     "params": [
       0,
       0,
@@ -819,7 +819,7 @@
     "name": "Bronze Armor",
     "price": 220,
     "note": "",
-    "description": "[Heavy Armor]Armor made of bronze.\\r Heavy and\ndifficult for those without strength to",
+    "description": "[Heavy Armor] Bronze armor. Heavy and hard to wear without\nsufficient strength.",
     "params": [
       0,
       0,
@@ -857,7 +857,7 @@
     "name": "Iron Armor",
     "price": 420,
     "note": "",
-    "description": "[Heavy Armor]Armor made of iron.\\r Very heavy but\noffers high defense.",
+    "description": "[Heavy Armor]Armor made of iron.\\r Very heavy but offers\nhigh defense.",
     "params": [
       0,
       0,
@@ -895,7 +895,7 @@
     "name": "Silver Mail",
     "price": 720,
     "note": "",
-    "description": "[Heavy Armor]Armor made of silver.\\r Infused with\nholy silver, it also provides",
+    "description": "[Heavy Armor]Armor made of silver.\\r Infused with holy\nsilver, it also provides",
     "params": [
       0,
       0,
@@ -933,7 +933,7 @@
     "name": "Chrome Plate",
     "price": 2000,
     "note": "",
-    "description": "[Heavy Armor]Armor made of steel.\\r The heaviest\ntype, sacrificing Agility for",
+    "description": "[Heavy Armor]Armor made of steel.\\r The heaviest type,\nsacrificing Agility for",
     "params": [
       0,
       0,
@@ -971,7 +971,7 @@
     "name": "Mithril Armor",
     "price": 3800,
     "note": "",
-    "description": "[Heavy Armor]Armor made of mithril steel.\\r\nMaintains defense while being as lightweight",
+    "description": "[Heavy Armor]Armor made of mithril steel.\\r Maintains\ndefense while being as lightweight",
     "params": [
       0,
       0,
@@ -1024,7 +1024,7 @@
     "name": "Crystal Mail",
     "price": 5500,
     "note": "",
-    "description": "[Heavy Armor]Armor made from magic-infused\ncrystal.\\r Highly effective against magical",
+    "description": "[Heavy Armor]Armor made from magic-infused crystal.\\r\nHighly effective against magical",
     "params": [
       0,
       0,
@@ -1062,7 +1062,7 @@
     "name": "Rune Plate",
     "price": 8000,
     "note": "",
-    "description": "[Heavy Armor]Ancient armor etched with runes.\\r\nEnhances the wearer's abilities.",
+    "description": "[Heavy Armor] Ancient armor etched with runes. Enhances\nwearer's abilities.",
     "params": [
       0,
       0,
@@ -1105,7 +1105,7 @@
     "name": "Dragon Armor",
     "price": 11500,
     "note": "",
-    "description": "[Heavy Armor]Armor made from steel developed\nspecifically for dragon resistance.\\r",
+    "description": "[Heavy Armor]Armor made from steel developed specifically\nfor dragon resistance.\\r",
     "params": [
       0,
       0,
@@ -1213,7 +1213,7 @@
     "name": "Buckler",
     "price": 80,
     "note": "",
-    "description": "[Shield]A lightweight shield wielded with one\nhand.\\r Does not hinder swift movements",
+    "description": "[Shield]A lightweight shield wielded with one hand.\\r Does\nnot hinder swift movements",
     "params": [
       0,
       0,
@@ -1251,7 +1251,7 @@
     "name": "Round Shield",
     "price": 280,
     "note": "",
-    "description": "[Shield]A round wooden shield reinforced with an\niron frame.\\r Balanced in offense",
+    "description": "[Shield]A round wooden shield reinforced with an iron\nframe.\\r Balanced in offense",
     "params": [
       0,
       0,
@@ -1289,7 +1289,7 @@
     "name": "Silver Tray",
     "price": 650,
     "note": "",
-    "description": "[Shield]A decorative shield made of polished\nsilver plates.\\r Its dazzling luster is said",
+    "description": "[Shield]A decorative shield made of polished silver\nplates.\\r Its dazzling luster is said",
     "params": [
       0,
       0,
@@ -1327,7 +1327,7 @@
     "name": "Spike Shield",
     "price": 1600,
     "note": "",
-    "description": "[Shield]A combat shield with sharp protrusions on\nits surface.\\r Designed for",
+    "description": "[Shield]A combat shield with sharp protrusions on its\nsurface.\\r Designed for",
     "params": [
       0,
       0,
@@ -1365,7 +1365,7 @@
     "name": "Mithril Shield",
     "price": 2700,
     "note": "",
-    "description": "[Shield]A high-grade shield made of mithril\nmetal.\\r Light as a feather yet stronger",
+    "description": "[Shield]A high-grade shield made of mithril metal.\\r Light\nas a feather yet stronger",
     "params": [
       0,
       0,
@@ -1418,7 +1418,7 @@
     "name": "Crystal Shield",
     "price": 4000,
     "note": "",
-    "description": "[Shield]A beautiful shield polished from magic\ncrystal stones.\\r Glows when exposed",
+    "description": "[Shield]A beautiful shield polished from magic crystal\nstones.\\r Glows when exposed",
     "params": [
       0,
       0,
@@ -1456,7 +1456,7 @@
     "name": "Rune Shield",
     "price": 6000,
     "note": "",
-    "description": "[Shield]A mysterious shield engraved with ancient\nrunes.\\r The engravings glow",
+    "description": "[Shield]A mysterious shield engraved with ancient runes.\\r\nThe engravings glow",
     "params": [
       0,
       0,
@@ -1499,7 +1499,7 @@
     "name": "Dragon Shield",
     "price": 7900,
     "note": "",
-    "description": "[Shield]A shield made from steel developed\nspecifically for dragon resistance.\\r",
+    "description": "[Shield] Steel shield developed specifically for dragon\nresistance.",
     "params": [
       0,
       0,
@@ -1552,7 +1552,7 @@
     "name": "Adamant Shield",
     "price": 30000,
     "note": "",
-    "description": "[Shield]A top-tier shield made from the\nultra-hard metal Adamantite.\\r Absorbs all",
+    "description": "[Shield] Shield made of ultra-hard Adamantite. Absorbs\nphysical attacks.",
     "params": [
       0,
       0,
@@ -1626,7 +1626,7 @@
     "name": "Wood Bangle",
     "price": 60,
     "note": "",
-    "description": "[Bracelet]A wooden bracelet carved from natural\nwood.\\r Simple yet warm to the",
+    "description": "[Bracelet] A wooden bracelet carved from natural wood.\nSimple and warm.",
     "params": [
       0,
       0,
@@ -1664,7 +1664,7 @@
     "name": "Bronze Bangle",
     "price": 250,
     "note": "",
-    "description": "[Bracelet]A sturdy bracelet cast from bronze.\\r\nIts faint luster evokes images of",
+    "description": "[Bracelet] A sturdy bracelet cast from bronze. Its faint\nluster evokes history.",
     "params": [
       0,
       0,
@@ -1702,7 +1702,7 @@
     "name": "Iron Bangle",
     "price": 600,
     "note": "",
-    "description": "[Bracelet]A heavy bracelet forged from hammered\niron.\\r Its unyielding strength",
+    "description": "[Bracelet]A heavy bracelet forged from hammered iron.\\r\nIts unyielding strength",
     "params": [
       0,
       0,
@@ -1740,7 +1740,7 @@
     "name": "Silver Bangle",
     "price": 1400,
     "note": "",
-    "description": "[Bracelet]A heavy bracelet forged from hammered\niron.\\r Its unyielding strength",
+    "description": "[Bracelet]A heavy bracelet forged from hammered iron.\\r\nIts unyielding strength",
     "params": [
       0,
       0,
@@ -1778,7 +1778,7 @@
     "name": "Mithril Bangle",
     "price": 2100,
     "note": "",
-    "description": "[Bracelet]A high-class bracelet crafted from\nmithril metal.\\r Its radiant gleam, which",
+    "description": "[Bracelet]A high-class bracelet crafted from mithril\nmetal.\\r Its radiant gleam, which",
     "params": [
       0,
       0,
@@ -1831,7 +1831,7 @@
     "name": "Crystal Bangle",
     "price": 3500,
     "note": "",
-    "description": "[Bracelet]A bracelet made by processing magic\ncrystals.\\r Its translucent light",
+    "description": "[Bracelet]A bracelet made by processing magic crystals.\\r\nIts translucent light",
     "params": [
       0,
       0,
@@ -1869,7 +1869,7 @@
     "name": "Rune Bangle",
     "price": 5600,
     "note": "",
-    "description": "[Bracelet]A mysterious bracelet engraved with\nancient runes.\\r The markings faintly",
+    "description": "[Bracelet]A mysterious bracelet engraved with ancient\nrunes.\\r The markings faintly",
     "params": [
       0,
       0,
@@ -1912,7 +1912,7 @@
     "name": "Dragon Bangle",
     "price": 7300,
     "note": "",
-    "description": "[Bracelet]A bracelet forged from a dragon's\nscales.\\r It is said to grant the wearer the",
+    "description": "[Bracelet] Forged from dragon scales. Grants the wearer\ndragon-like defense.",
     "params": [
       0,
       0,
@@ -2039,7 +2039,7 @@
     "name": "Bandana",
     "price": 100,
     "note": "",
-    "description": "[Light Armor]A simple piece of armor twisted from\ncloth.\\r A symbol of adventurers who",
+    "description": "[Light Armor]A simple piece of armor twisted from cloth.\\r\nA symbol of adventurers who",
     "params": [
       0,
       0,
@@ -2077,7 +2077,7 @@
     "name": "Leather Cap",
     "price": 200,
     "note": "",
-    "description": "[Light Armor]A protective cap made from tanned\nleather.\\r Its perfect balance of",
+    "description": "[Light Armor] Protective cap of tanned leather.\nWell-balanced and light.",
     "params": [
       0,
       0,
@@ -2115,7 +2115,7 @@
     "name": "Fur Hat",
     "price": 400,
     "note": "",
-    "description": "[Light Armor]A hat tailored from the fur of\nbeasts in cold lands.\\r It retains body",
+    "description": "[Light Armor]A hat tailored from the fur of beasts in cold\nlands.\\r It retains body",
     "params": [
       0,
       0,
@@ -2153,7 +2153,7 @@
     "name": "Turban",
     "price": 1000,
     "note": "",
-    "description": "[Light Armor]A headscarf used by desert nomads.\\r\nIt shields the head from sunlight",
+    "description": "[Light Armor]A headscarf used by desert nomads.\\r It\nshields the head from sunlight",
     "params": [
       0,
       0,
@@ -2229,7 +2229,7 @@
     "name": "Black Helmet",
     "price": 2500,
     "note": "",
-    "description": "[Light Armor]A lightweight helmet made from black\nleather.\\r Its design allows it to",
+    "description": "[Light Armor] Lightweight helmet of black leather.\nDesigned for evasion.",
     "params": [
       0,
       0,
@@ -2267,7 +2267,7 @@
     "name": "Hunter's Hat",
     "price": 4000,
     "note": "",
-    "description": "[Light Armor]A wide-brimmed windproof hat.\\r A\ntrusted companion for hunters traversing",
+    "description": "[Light Armor]A wide-brimmed windproof hat.\\r A trusted\ncompanion for hunters traversing",
     "params": [
       0,
       0,
@@ -2315,7 +2315,7 @@
     "name": "Captain's Hat",
     "price": 6000,
     "note": "",
-    "description": "[Light Armor]A hat designed for sailors.\\r Its\nsturdy construction withstands sea",
+    "description": "[Light Armor]A hat designed for sailors.\\r Its sturdy\nconstruction withstands sea",
     "params": [
       0,
       0,
@@ -2353,7 +2353,7 @@
     "name": "Royal Chapeau",
     "price": 9500,
     "note": "",
-    "description": "[Light Armor]A high-quality hat crafted from fine\ncloth and silver thread.\\r Its elegance",
+    "description": "[Light Armor]A high-quality hat crafted from fine cloth\nand silver thread.\\r Its elegance",
     "params": [
       0,
       0,
@@ -2427,7 +2427,7 @@
     "name": "Pointed Hat",
     "price": 100,
     "note": "",
-    "description": "[Magic Armor]A hat symbolic of mages.\\r Its\nswaying form in the wind is seen as a",
+    "description": "[Magic Armor] Symbolic mage hat. Its swaying form\nrepresents arcane mastery.",
     "params": [
       0,
       0,
@@ -2503,7 +2503,7 @@
     "name": "Circlet",
     "price": 450,
     "note": "",
-    "description": "[Magic Armor]A golden circlet worn on the\nforehead.\\r It sharpens the mind and",
+    "description": "[Magic Armor] Golden circlet worn on the forehead.\nSharpens magic power.",
     "params": [
       0,
       0,
@@ -2541,7 +2541,7 @@
     "name": "Silver Hair Ornament",
     "price": 1200,
     "note": "",
-    "description": "[Magic Armor]A delicate hair accessory woven from\nsilver thread.\\r It glows faintly when",
+    "description": "[Magic Armor]A delicate hair accessory woven from silver\nthread.\\r It glows faintly when",
     "params": [
       0,
       0,
@@ -2579,7 +2579,7 @@
     "name": "Mithril Circlet",
     "price": 1700,
     "note": "",
-    "description": "[Magic Armor]A high-tier decorative piece forged\nfrom mithril.\\r Its exceptional magic",
+    "description": "[Magic Armor]A high-tier decorative piece forged from\nmithril.\\r Its exceptional magic",
     "params": [
       0,
       0,
@@ -2622,7 +2622,7 @@
     "name": "Saint Hat",
     "price": 2700,
     "note": "",
-    "description": "[Magic Armor]A hat worn by clergy during\nrituals.\\r It amplifies the power of prayer",
+    "description": "[Magic Armor]A hat worn by clergy during rituals.\\r It\namplifies the power of prayer",
     "params": [
       0,
       0,
@@ -2660,7 +2660,7 @@
     "name": "Rune Circlet",
     "price": 4200,
     "note": "",
-    "description": "[Magic Armor]A mysterious ring engraved with\nancient script.\\r The markings faintly glow,",
+    "description": "[Magic Armor]A mysterious ring engraved with ancient\nscript.\\r The markings faintly glow,",
     "params": [
       0,
       0,
@@ -2703,7 +2703,7 @@
     "name": "Dragon Circlet",
     "price": 6500,
     "note": "",
-    "description": "[Magic Armor]A crown polished from a dragon's\nscales.\\r It is said to grant the",
+    "description": "[Magic Armor] Crown of polished dragon scales. Grants\ndragon-like magic power.",
     "params": [
       0,
       0,
@@ -2756,7 +2756,7 @@
     "name": "Sage's Crown",
     "price": 10000,
     "note": "",
-    "description": "[Magic Armor]A forehead adornment said to have\nbeen used by a great sage.\\r A symbol",
+    "description": "[Magic Armor]A forehead adornment said to have been used\nby a great sage.\\r A symbol",
     "params": [
       0,
       0,
@@ -2830,7 +2830,7 @@
     "name": "Bronze Helm",
     "price": 100,
     "note": "",
-    "description": "[Heavy Armor]A beginner's helmet forged from\nbronze.\\r Its soft luster reflects the pride",
+    "description": "[Heavy Armor]A beginner's helmet forged from bronze.\\r Its\nsoft luster reflects the pride",
     "params": [
       0,
       0,
@@ -2868,7 +2868,7 @@
     "name": "Iron Helm",
     "price": 300,
     "note": "",
-    "description": "[Heavy Armor]A sturdy helmet hammered from a\nsolid block of iron.\\r It remains unshaken",
+    "description": "[Heavy Armor]A sturdy helmet hammered from a solid block\nof iron.\\r It remains unshaken",
     "params": [
       0,
       0,
@@ -2906,7 +2906,7 @@
     "name": "Silver Helm",
     "price": 550,
     "note": "",
-    "description": "[Heavy Armor]A beautiful helmet with a silver\nbase.\\r It is said to repel evil",
+    "description": "[Heavy Armor]A beautiful helmet with a silver base.\\r It\nis said to repel evil",
     "params": [
       0,
       0,
@@ -2944,7 +2944,7 @@
     "name": "Chrome Helm",
     "price": 1300,
     "note": "",
-    "description": "[Heavy Armor]A high-grade helmet meticulously\nforged from steel.\\r A",
+    "description": "[Heavy Armor]A high-grade helmet meticulously forged from\nsteel.\\r A",
     "params": [
       0,
       0,
@@ -2982,7 +2982,7 @@
     "name": "Mithril Helm",
     "price": 2000,
     "note": "",
-    "description": "[Heavy Armor]A legendary helmet made from\nmithril.\\r Lightweight yet capable of",
+    "description": "[Heavy Armor] Legendary helmet made of mithril.\nLightweight yet ultra-durable.",
     "params": [
       0,
       0,
@@ -3030,7 +3030,7 @@
     "name": "Crystal Helm",
     "price": 3000,
     "note": "",
-    "description": "[Heavy Armor]A helmet formed from highly\ntransparent magic crystals.\\r It shimmers,",
+    "description": "[Heavy Armor]A helmet formed from highly transparent magic\ncrystals.\\r It shimmers,",
     "params": [
       0,
       0,
@@ -3068,7 +3068,7 @@
     "name": "Rune Helm",
     "price": 5000,
     "note": "",
-    "description": "[Heavy Armor]A helmet carved with ancient\nrunes.\\r The inscribed runes repel evil and",
+    "description": "[Heavy Armor] Helmet carved with runes that repel evil and\nprotect the wearer.",
     "params": [
       0,
       0,
@@ -3111,7 +3111,7 @@
     "name": "Dragon Helm",
     "price": 7000,
     "note": "",
-    "description": "[Heavy Armor]A helmet refined from a dragon's\nscales.\\r It is said that its",
+    "description": "[Heavy Armor]A helmet refined from a dragon's scales.\\r It\nis said that its",
     "params": [
       0,
       0,
@@ -3164,7 +3164,7 @@
     "name": "Adamant Helm",
     "price": 10000,
     "note": "",
-    "description": "[Heavy Armor]A helmet made from the ultra-hard\nmetal adamantite.\\r It boasts",
+    "description": "[Heavy Armor]A helmet made from the ultra-hard metal\nadamantite.\\r It boasts",
     "params": [
       0,
       0,
@@ -3238,7 +3238,7 @@
     "name": "Guard Stone",
     "price": 500,
     "note": "",
-    "description": "[Accessory]A blue mineral imbued with protective\npower.\\r It calms the hearts of",
+    "description": "[Accessory] Blue mineral imbued with protective power.\nCalms the wearer.",
     "params": [
       0,
       0,
@@ -3276,7 +3276,7 @@
     "name": "Guard Ring",
     "price": 1000,
     "note": "",
-    "description": "[Accessory]A ring set with a small guardian\nstone.\\r When worn, it feels as though an",
+    "description": "[Accessory] Ring set with a guardian stone. Feels like a\nprotective presence.",
     "params": [
       0,
       0,
@@ -3314,7 +3314,7 @@
     "name": "Power Stone",
     "price": 500,
     "note": "",
-    "description": "[Accessory]A crimson pulsing magic stone. The\npower within it ignites the wearer's",
+    "description": "[Accessory]A crimson pulsing magic stone. The power within\nit ignites the wearer's",
     "params": [
       0,
       0,
@@ -3352,7 +3352,7 @@
     "name": "Power Ring",
     "price": 1000,
     "note": "",
-    "description": "[Accessory]A ring worn by warriors seeking\nstrength. It heightens blood flow and",
+    "description": "[Accessory] A ring worn by warriors. Heightens blood flow\nand increases Attack.",
     "params": [
       0,
       0,
@@ -3390,7 +3390,7 @@
     "name": "Magic Stone",
     "price": 500,
     "note": "",
-    "description": "[Accessory]A flawless transparent gem. It\npossesses purifying power that eases demonic",
+    "description": "[Accessory]A flawless transparent gem. It possesses\npurifying power that eases demonic",
     "params": [
       0,
       0,
@@ -3428,7 +3428,7 @@
     "name": "Magic Ring",
     "price": 1000,
     "note": "",
-    "description": "[Accessory]A silver ring that emits a faint glow.\nKnown as a talisman that repels curses",
+    "description": "[Accessory]A silver ring that emits a faint glow. Known as\na talisman that repels curses",
     "params": [
       0,
       0,
@@ -3471,7 +3471,7 @@
     "name": "Poison Guard",
     "price": 500,
     "note": "",
-    "description": "[Accessory]A green stone that absorbs poison.\nCompletely nullifies toxins.",
+    "description": "[Accessory]A green stone that absorbs poison. Completely\nnullifies toxins.",
     "params": [
       0,
       0,
@@ -3509,7 +3509,7 @@
     "name": "Goggles",
     "price": 1000,
     "note": "",
-    "description": "[Accessory]Goggles that negate darkness. They\nallow clear vision even in pitch-black",
+    "description": "[Accessory]Goggles that negate darkness. They allow clear\nvision even in pitch-black",
     "params": [
       0,
       0,
@@ -3547,7 +3547,7 @@
     "name": "Magical Stone",
     "price": 500,
     "note": "",
-    "description": "[Accessory]An amethyst that increases magical\npower. Its radiance resonates with",
+    "description": "[Accessory] Amethyst that increases magic power. Resonates\nwith mana.",
     "params": [
       0,
       0,
@@ -3585,7 +3585,7 @@
     "name": "Magical Ring",
     "price": 1000,
     "note": "",
-    "description": "[Accessory]An ancient ring passed down among\nmages. It regulates the flow of magic,",
+    "description": "[Accessory]An ancient ring passed down among mages. It\nregulates the flow of magic,",
     "params": [
       0,
       0,
@@ -3628,7 +3628,7 @@
     "name": "Shut Silent",
     "price": 500,
     "note": "",
-    "description": "[Accessory]A stone imbued with magic to counter\nthe mage's bane―silence. Nullifies",
+    "description": "[Accessory]A stone imbued with magic to counter the mage's\nbane―silence. Nullifies",
     "params": [
       0,
       0,
@@ -3671,7 +3671,7 @@
     "name": "Shooter Ring",
     "price": 1000,
     "note": "",
-    "description": "[Accessory]A silver ring that sharpens the\nsenses. The tension in the fingertips",
+    "description": "[Accessory] Silver ring that sharpens the senses. Enhances\nprecision and Agility.",
     "params": [
       0,
       0,
@@ -3714,7 +3714,7 @@
     "name": "Visible Goggles",
     "price": 150,
     "note": "",
-    "description": "[Accessory]Goggles fitted with special crystal\nlenses. They pierce illusions,",
+    "description": "[Accessory]Goggles fitted with special crystal lenses.\nThey pierce illusions,",
     "params": [
       0,
       0,
@@ -3757,7 +3757,7 @@
     "name": "Visible Goggles S",
     "price": 1500,
     "note": "",
-    "description": "[Accessory]An upgraded observation goggle. It\ncontrols light to capture even shadows",
+    "description": "[Accessory]An upgraded observation goggle. It controls\nlight to capture even shadows",
     "params": [
       0,
       0,
@@ -3805,7 +3805,7 @@
     "name": "Curse Guard",
     "price": 300,
     "note": "",
-    "description": "[Accessory]Black leather armor that seals curses.\nIt absorbs ominous auras, protecting",
+    "description": "[Accessory]Black leather armor that seals curses. It\nabsorbs ominous auras, protecting",
     "params": [
       0,
       0,
@@ -3853,7 +3853,7 @@
     "name": "Curse Guard S",
     "price": 3000,
     "note": "",
-    "description": "[Accessory]A specially crafted armor with\nreinforced sealing magic. It shrouds the",
+    "description": "[Accessory] Special armor with reinforced sealing magic.\nProtects from curses.",
     "params": [
       0,
       0,
@@ -3901,7 +3901,7 @@
     "name": "Balance Boots",
     "price": 300,
     "note": "",
-    "description": "[Accessory]Combat boots designed for perfect\nbalance. They stabilize posture, allowing",
+    "description": "[Accessory]Combat boots designed for perfect balance. They\nstabilize posture, allowing",
     "params": [
       0,
       0,
@@ -3949,7 +3949,7 @@
     "name": "Balance Boots S",
     "price": 3000,
     "note": "",
-    "description": "[Accessory]Magitek-enhanced boots. A single leap\nfeels as light as the wind. Stun Resist",
+    "description": "[Accessory]Magitek-enhanced boots. A single leap feels as\nlight as the wind. Stun Resist",
     "params": [
       0,
       0,
@@ -4012,7 +4012,7 @@
     "name": "Mental Guard",
     "price": 2000,
     "note": "",
-    "description": "[Accessory]A sapphire talisman that stabilizes\nmental waves. It calms agitation,",
+    "description": "[Accessory] Sapphire talisman that stabilizes mental waves\nand calms agitation.",
     "params": [
       0,
       0,
@@ -4075,7 +4075,7 @@
     "name": "Mental Guard S",
     "price": 5000,
     "note": "",
-    "description": "[Accessory]An enhanced version using high-purity\nblue crystal. It cuts through",
+    "description": "[Accessory]An enhanced version using high-purity blue\ncrystal. It cuts through",
     "params": [
       0,
       0,
@@ -4118,7 +4118,7 @@
     "name": "Enemy Radar",
     "price": 5000,
     "note": "",
-    "description": "[Accessory]A detection device that senses magical\nwaves. It alerts the wearer to enemy",
+    "description": "[Accessory]A detection device that senses magical waves.\nIt alerts the wearer to enemy",
     "params": [
       0,
       0,
@@ -4161,7 +4161,7 @@
     "name": "Warning Bell",
     "price": 1000,
     "note": "",
-    "description": "[Accessory]A small bell that warns of danger. It\nreacts to the slightest tremors,",
+    "description": "[Accessory]A small bell that warns of danger. It reacts to\nthe slightest tremors,",
     "params": [
       0,
       0,
@@ -4204,7 +4204,7 @@
     "name": "Fire Ring",
     "price": 5000,
     "note": "",
-    "description": "[Accessory]A ring infused with crimson flame. It\nresonates with the wearer's pulse,",
+    "description": "[Accessory]A ring infused with crimson flame. It resonates\nwith the wearer's pulse,",
     "params": [
       0,
       0,
@@ -4247,7 +4247,7 @@
     "name": "Ice Ring",
     "price": 5000,
     "note": "",
-    "description": "[Accessory]A ring sealing frozen breath. It fills\nthe wearer's heart with icy silence.",
+    "description": "[Accessory]A ring sealing frozen breath. It fills the\nwearer's heart with icy silence.",
     "params": [
       0,
       0,
@@ -4290,7 +4290,7 @@
     "name": "Thunder Ring",
     "price": 5000,
     "note": "",
-    "description": "[Accessory]A golden ring shaped like lightning.\nIts swift brilliance guides",
+    "description": "[Accessory]A golden ring shaped like lightning. Its swift\nbrilliance guides",
     "params": [
       0,
       0,
@@ -4333,7 +4333,7 @@
     "name": "Water Ring",
     "price": 500,
     "note": "",
-    "description": "[Accessory]A ring of pristine blue. Its flowing\nmagic makes the wearer's movements",
+    "description": "[Accessory]A ring of pristine blue. Its flowing magic\nmakes the wearer's movements",
     "params": [
       0,
       0,
@@ -4376,7 +4376,7 @@
     "name": "Stone Ring",
     "price": 500,
     "note": "",
-    "description": "[Accessory]A ring bearing the blessing of the\nearth. Its steady weight calms the",
+    "description": "[Accessory] Ring bearing the earth's blessing. Its steady\nweight calms the wearer.",
     "params": [
       0,
       0,
@@ -4419,7 +4419,7 @@
     "name": "Wind Ring",
     "price": 500,
     "note": "",
-    "description": "[Accessory]An emerald ring embodying the wind. It\nlightens the wearer's steps,",
+    "description": "[Accessory]An emerald ring embodying the wind. It lightens\nthe wearer's steps,",
     "params": [
       0,
       0,
@@ -4462,7 +4462,7 @@
     "name": "Saint Ring",
     "price": 5000,
     "note": "",
-    "description": "[Accessory]A platinum ring sealing holy light. It\npurges filth, wrapping the wearer",
+    "description": "[Accessory]A platinum ring sealing holy light. It purges\nfilth, wrapping the wearer",
     "params": [
       0,
       0,
@@ -4505,7 +4505,7 @@
     "name": "Shade Ring",
     "price": 5000,
     "note": "",
-    "description": "[Accessory]An obsidian ring harboring dark power.\nIt allows the wearer to melt into",
+    "description": "[Accessory]An obsidian ring harboring dark power. It\nallows the wearer to melt into",
     "params": [
       0,
       0,
@@ -4548,7 +4548,7 @@
     "name": "Medic Ring",
     "price": 1000,
     "note": "",
-    "description": "[Accessory]A ring infused with healing grace.\nWarm light gently mends wounded flesh",
+    "description": "[Accessory]A ring infused with healing grace. Warm light\ngently mends wounded flesh",
     "params": [
       0,
       0,
@@ -4591,7 +4591,7 @@
     "name": "Guts Ring",
     "price": 20000,
     "note": "",
-    "description": "[Accessory]A steel ring symbolizing unyielding\nwill. Even in dire straits, it",
+    "description": "[Accessory]A steel ring symbolizing unyielding will. Even\nin dire straits, it",
     "params": [
       0,
       0,
@@ -4634,7 +4634,7 @@
     "name": "Sorcerer Ring",
     "price": 50000,
     "note": "",
-    "description": "[Accessory]A magic-etched ring that hones skill.\nIt draws out latent potential,",
+    "description": "[Accessory]A magic-etched ring that hones skill. It draws\nout latent potential,",
     "params": [
       0,
       0,
@@ -4702,7 +4702,7 @@
     "name": "Elemental Guard",
     "price": 30000,
     "note": "",
-    "description": "[Accessory]Armor balancing the five great\nelements. It shrouds the wearer in a barrier",
+    "description": "[Accessory]Armor balancing the five great elements. It\nshrouds the wearer in a barrier",
     "params": [
       0,
       0,
@@ -4795,7 +4795,7 @@
     "name": "Safety Guard",
     "price": 25000,
     "note": "",
-    "description": "[Accessory]Armor designed to deploy a defensive\nbarrier in emergencies. It serves",
+    "description": "[Accessory]Armor designed to deploy a defensive barrier in\nemergencies. It serves",
     "params": [
       0,
       0,
@@ -4886,7 +4886,7 @@
       "type": "",
       "variance": ""
     },
-    "description": "[Accessory]An earring sealed with the power of a\nwind spirit. Allows two actions per",
+    "description": "[Accessory]An earring sealed with the power of a wind\nspirit. Allows two actions per",
     "_original": {
       "name": "エアリアル・デュオ",
       "description": "風の精霊の力を封じ込めたイヤリング。\n二回行動が可能になる。"
@@ -4929,7 +4929,7 @@
       "type": "",
       "variance": ""
     },
-    "description": "[Accessory]An accessory that prevents enemies\nfrom spawning in dungeons. Does not",
+    "description": "[Accessory]An accessory that prevents enemies from\nspawning in dungeons. Does not",
     "_original": {
       "name": "フリーパス",
       "description": "装備するとダンジョンに敵が出なくなるアクセサリー。\nボス戦は回避出来ない。装備しないと効果が無い。"
