@@ -4589,6 +4589,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "renovation!"
+              ]
+            },
+            {
               "code": 230,
               "indent": 0,
               "parameters": [
@@ -5450,25 +5457,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I never have time to dry my hair"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/ルーナ通常服",
-                1,
-                0,
-                2,
-                ""
+                "I never have time to dry my hair anyway...!"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "anyway...!"
+                "Just go ahead and chop it off, Lilian.\""
               ]
             },
             {
@@ -5574,6 +5570,13 @@
               "indent": 0,
               "parameters": [
                 "\\SE[3]Luna's hair was chopped off in one go. The short style"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "suited her."
               ]
             },
             {

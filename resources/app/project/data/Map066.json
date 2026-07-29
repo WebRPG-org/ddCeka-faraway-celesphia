@@ -2844,7 +2844,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Inn \"It's 300G for one night. Would you like to"
+                "\\SE[0]Inn \"It's 300G for one night. Would you like to stay?\""
               ]
             },
             {
@@ -3036,6 +3036,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "money...\""
+              ]
+            },
+            {
               "code": 0,
               "indent": 2,
               "parameters": []
@@ -3170,7 +3177,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Inn \"It's 300G for one night. Would you like to"
+                "\\SE[0]Inn \"It's 300G for one night. Would you like to stay?\""
               ]
             },
             {
@@ -3463,6 +3470,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "money...\""
+              ]
+            },
+            {
               "code": 0,
               "indent": 2,
               "parameters": []
@@ -3670,6 +3684,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "loud snoring."
+              ]
+            },
+            {
               "code": 0,
               "indent": 0,
               "parameters": []
@@ -3751,7 +3772,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "again...? Come"
+                "again...? Come on?\""
               ]
             },
             {

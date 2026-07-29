@@ -1575,7 +1575,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "high-quality ore"
+                "high-quality ore mined from the volcanoes around here?\""
               ]
             },
             {
@@ -1739,25 +1739,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "secret in"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "",
-                0,
-                0,
-                2,
-                ""
+                "secret in Eldenia, and apparently they sell dangerous"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Eldenia, and apparently they sell dangerous"
+                "stuff you won't find anywhere else.\""
               ]
             },
             {
@@ -1776,6 +1765,13 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]Adventurer \"Just baseless rumors. I don't buy into that"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "stuff.\""
               ]
             },
             {

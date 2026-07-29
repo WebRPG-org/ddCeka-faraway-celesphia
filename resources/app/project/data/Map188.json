@@ -3835,6 +3835,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "call.\""
+              ]
+            },
+            {
               "code": 221,
               "indent": 0,
               "parameters": []
@@ -4027,17 +4034,6 @@
               "indent": 0,
               "parameters": [
                 "Village) place. She's busy with"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/kyle_normal",
-                0,
-                0,
-                2,
-                ""
               ]
             },
             {
@@ -4238,25 +4234,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "normally, and I accepted normally."
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "ver2/ver2_roze1",
-                7,
-                0,
-                2,
-                ""
+                "normally, and I accepted normally. That's"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "That's"
+                "all.\""
               ]
             },
             {
@@ -4868,7 +4853,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the"
+                "the curse's power."
               ]
             },
             {
@@ -4920,25 +4905,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "pull or slash at it, it won't cut or"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "ver2/ver2_roze1",
-                2,
-                0,
-                2,
-                ""
+                "pull or slash at it, it won't cut or come"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "come"
+                "off.\""
               ]
             },
             {
@@ -5013,25 +4987,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "divine protection, you should be able"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "ver2/ver2_roze1",
-                2,
-                0,
-                2,
-                ""
+                "divine protection, you should be able to,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "to,"
+                "right?\""
               ]
             },
             {
@@ -5130,6 +5093,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"\\C[5]facts\\C[0]\" recognized by the world."
+              ]
+            },
+            {
               "code": 230,
               "indent": 0,
               "parameters": [
@@ -5162,6 +5132,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "of the target."
+              ]
+            },
+            {
               "code": 230,
               "indent": 0,
               "parameters": [
@@ -5187,6 +5164,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "because the ring itself is fixed in place."
+              ]
+            },
+            {
               "code": 101,
               "indent": 0,
               "parameters": [
@@ -5202,6 +5186,13 @@
               "indent": 0,
               "parameters": [
                 "The curse has inscribed a false \"\\C[5]this ring is part of"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "the wearer's body\\C[0]\" into the world."
               ]
             },
             {
@@ -5233,7 +5224,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the ring is treated the same as tearing off a part"
+                "the ring is treated the same as tearing off a part of"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "the body―making it impossible to remove."
               ]
             },
             {
@@ -5265,7 +5263,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the magical power; the rewritten facts themselves"
+                "the magical power; the rewritten facts themselves must"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "be corrected."
               ]
             },
             {
@@ -5290,7 +5295,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "curses―it"
+                "curses―it analyzes their content and reverses their"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "inscriptions."
               ]
             },
             {
@@ -5730,32 +5742,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"If she's a cleric who receives"
+                "\\SE[0][Kyle] \\SE[3]\"As a cleric receiving divine"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "divine revelation, she might be able to"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/kyle_normal",
-                1,
-                0,
-                2,
-                ""
+                "revelations, she might be able to \\C[3]purify\\C[0] it"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\C[3]purify\\C[0] it―or at least know some way to"
+                "or know how to \\C[3]resolve\\C[0] it.\""
               ]
             },
             {
@@ -6263,7 +6264,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "a short"
+                "a short break.\""
               ]
             },
             {
@@ -6704,7 +6705,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "specifically"
+                "specifically asked for a \\C[2]female cleric\\C[0].\""
               ]
             },
             {
@@ -6729,7 +6730,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "has been"
+                "has been overwhelming, so we sent―\""
               ]
             },
             {
@@ -6754,25 +6755,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "couldn't be"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "People4",
-                6,
-                0,
-                2,
-                ""
+                "couldn't be lifted? What was the point of"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "lifted? What was the point of sending"
+                "sending someone else?\""
               ]
             },
             {
@@ -6797,7 +6787,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "an adventurer. I'm not a"
+                "an adventurer. I'm not a specialized"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "cleric.\""
               ]
             },
             {
@@ -6815,57 +6812,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "specialized cleric.\""
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/kyle_normal",
-                1,
-                0,
-                2,
-                ""
+                "\\SE[0][Kyle] \\SE[3]\"For a \\C[3]specialized problem\\C[0], you"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle] \\SE[3]\"If it's something like this"
+                "should have detailed it in the request. That"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\C[3]specialized problem\\C[0], you should have"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/kyle_normal",
-                1,
-                0,
-                2,
-                ""
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "told us the details when making the request."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "That"
+                "way, we could have prepared.\""
               ]
             },
             {
@@ -6890,7 +6851,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "that's what"
+                "that's what you are.\""
               ]
             },
             {
@@ -7082,25 +7043,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "to examine it"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "ver2/ver2_roze1",
-                3,
-                0,
-                2,
-                ""
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "directly.\""
+                "to examine it directly.\""
               ]
             },
             {
@@ -7168,25 +7111,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "sister"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "People4",
-                6,
-                0,
-                2,
-                ""
+                "sister examine it than let this filthy man"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "examine it than let this filthy man"
+                "touch her again and again.\""
               ]
             },
             {
@@ -7238,25 +7170,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "return"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "People4",
-                6,
-                0,
-                2,
-                ""
+                "return as soon as possible―I must proceed"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "as soon as possible―I must proceed"
+                "with the wedding preparations.\""
               ]
             },
             {
@@ -7463,7 +7384,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "leave"
+                "leave the rest to you,\" before leaving."
               ]
             },
             {
@@ -7580,7 +7501,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "to attend to,"
+                "to attend to, I'll at least see you to the village.\""
               ]
             },
             {

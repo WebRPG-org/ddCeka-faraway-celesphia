@@ -1499,7 +1499,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "serves as a"
+                "serves as a \\C[3]signpost\\C[0].\""
               ]
             },
             {
@@ -1518,6 +1518,13 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]Villager \"You should observe your surroundings"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "carefully.\""
               ]
             },
             {

@@ -4140,6 +4140,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "night's stay.\""
+              ]
+            },
+            {
               "code": 102,
               "indent": 0,
               "parameters": [
@@ -4386,7 +4393,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "night,"
+                "night, but"
               ]
             },
             {
@@ -4733,7 +4740,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "bring it up to your"
+                "bring it up to your room, so please wait there.\""
               ]
             },
             {
@@ -4843,6 +4850,13 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]Innkeeper \"Ahh, so busy, so busy! This one and this"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "one...!"
               ]
             },
             {

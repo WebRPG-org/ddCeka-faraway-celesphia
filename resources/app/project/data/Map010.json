@@ -2439,7 +2439,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "brush"
+                "brush across the page, recording today's events."
               ]
             },
             {
@@ -2672,6 +2672,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "tomorrow."
+              ]
+            },
+            {
               "code": 121,
               "indent": 0,
               "parameters": [
@@ -2861,7 +2868,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Guess I'll head straight to the guild and look"
+                "Guess I'll head straight to the guild and look for"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "work."
               ]
             },
             {

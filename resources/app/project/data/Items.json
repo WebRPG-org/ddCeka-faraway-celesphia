@@ -1,3295 +1,3295 @@
 [
-  null,
-  {
-    "id": 1,
-    "animationId": 0,
-    "consumable": true,
-    "description": "",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 0,
-    "itypeId": 1,
-    "name": "-----Recovery Items-----",
-    "note": "",
-    "occasion": 3,
-    "price": 0,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": "0",
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "-----回復系"
+    null,
+    {
+        "id": 1,
+        "animationId": 0,
+        "consumable": true,
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "-----Recovery Items-----",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "-----回復系"
+        }
+    },
+    {
+        "id": 2,
+        "animationId": 41,
+        "consumable": true,
+        "description": "A pale red potion. Heals minor wounds and\nrestores 120 HP.",
+        "effects": [
+            {
+                "code": 11,
+                "dataId": 0,
+                "value1": 0,
+                "value2": 120
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 176,
+        "itypeId": 1,
+        "name": "Potion",
+        "note": "<SE_SubstituteInvalid>",
+        "occasion": 0,
+        "price": 50,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "ポーション",
+            "description": "淡い赤色の薬。小傷を癒しHPを120回復する。"
+        }
+    },
+    {
+        "id": 3,
+        "animationId": 41,
+        "consumable": true,
+        "description": "A highly concentrated potion. Heals deep\nwounds and restores 500 HP.",
+        "effects": [
+            {
+                "code": 11,
+                "dataId": 0,
+                "value1": 0,
+                "value2": 500
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 176,
+        "itypeId": 1,
+        "name": "High Potion",
+        "note": "<SE_SubstituteInvalid>",
+        "occasion": 0,
+        "price": 300,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "ハイポーション",
+            "description": "高濃度の薬液。深い傷も癒しHPを500回復。"
+        }
+    },
+    {
+        "id": 4,
+        "animationId": 41,
+        "consumable": true,
+        "description": "A legendary healing potion. Fully restores\nHP.",
+        "effects": [
+            {
+                "code": 11,
+                "dataId": 0,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 176,
+        "itypeId": 1,
+        "name": "Full Potion",
+        "note": "<SE_SubstituteInvalid>",
+        "occasion": 0,
+        "price": 1000,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "フルポーション",
+            "description": "伝説級の治癒薬。HPを完全に回復させる。"
+        }
+    },
+    {
+        "id": 5,
+        "animationId": 41,
+        "consumable": true,
+        "description": "A dried aromatic herb brewed with honey into\na solid form. Restores 25 MP.",
+        "effects": [
+            {
+                "code": 12,
+                "dataId": 0,
+                "value1": 0,
+                "value2": 25
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 179,
+        "itypeId": 1,
+        "name": "Magic Drop",
+        "note": "<SE_SubstituteInvalid>",
+        "occasion": 0,
+        "price": 200,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "マジックドロップ",
+            "description": "香り高い草を乾かして煎じ、蜜と混ぜて固めたもの。\nMPを25回復する。"
+        }
+    },
+    {
+        "id": 6,
+        "animationId": 41,
+        "consumable": true,
+        "description": "A dried aromatic spirit herb. Restores 100\nMP.",
+        "effects": [
+            {
+                "code": 12,
+                "dataId": 0,
+                "value1": 0,
+                "value2": 100
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 181,
+        "itypeId": 1,
+        "name": "Magic Herb",
+        "note": "<SE_SubstituteInvalid>",
+        "occasion": 0,
+        "price": 500,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "マジックハーブ",
+            "description": "香り高い霊草を乾かしたもの。MPを100回復。"
+        }
+    },
+    {
+        "id": 7,
+        "animationId": 41,
+        "consumable": true,
+        "description": "Water infused with spirit herbs from a\nsacred spring. Fully restores MP.",
+        "effects": [
+            {
+                "code": 12,
+                "dataId": 0,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 180,
+        "itypeId": 1,
+        "name": "Magic Water",
+        "note": "<SE_SubstituteInvalid>",
+        "occasion": 0,
+        "price": 1500,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "マジックウォーター",
+            "description": "聖泉に霊草を溶かした水。\nMPを全回復する。"
+        }
+    },
+    {
+        "id": 8,
+        "animationId": 49,
+        "consumable": true,
+        "description": "Revives a fallen ally with half their max\nHP.",
+        "effects": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 176,
+        "itypeId": 1,
+        "name": "Revive Soul",
+        "note": "<SE_SubstituteInvalid>",
+        "occasion": 0,
+        "price": 500,
+        "repeats": 1,
+        "scope": 9,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "b.mhp / 2",
+            "type": 3,
+            "variance": 20
+        },
+        "_original": {
+            "name": "リバイブソウル",
+            "description": "傷ついた身体に活力を与え、戦闘不能を回復。\nHP半分で復活。"
+        }
+    },
+    {
+        "id": 9,
+        "animationId": 45,
+        "consumable": true,
+        "description": "A neutralizing antidote. Cures poison.",
+        "effects": [
+            {
+                "code": 22,
+                "dataId": 4,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 176,
+        "itypeId": 1,
+        "name": "Antidote",
+        "note": "<SE_SubstituteInvalid>",
+        "occasion": 0,
+        "price": 40,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "アンチポイズン",
+            "description": "毒を中和する薬。毒を治療する。"
+        }
+    },
+    {
+        "id": 10,
+        "animationId": 45,
+        "consumable": true,
+        "description": "A drop of light. A potion that clears\ndarkened vision.",
+        "effects": [
+            {
+                "code": 22,
+                "dataId": 5,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 176,
+        "itypeId": 1,
+        "name": "Eye Drops",
+        "note": "<SE_SubstituteInvalid>",
+        "occasion": 0,
+        "price": 45,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "アンチブラインド",
+            "description": "光の滴。闇に覆われた視界を癒やす薬。"
+        }
+    },
+    {
+        "id": 11,
+        "animationId": 45,
+        "consumable": true,
+        "description": "A throat-clearing elixir. Lifts silence and\nrestores speech.",
+        "effects": [
+            {
+                "code": 22,
+                "dataId": 6,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 176,
+        "itypeId": 1,
+        "name": "Earplugs",
+        "note": "<SE_SubstituteInvalid>",
+        "occasion": 0,
+        "price": 50,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "アンチサイレンス",
+            "description": "喉を清める薬。沈黙を解き声を戻す。"
+        }
+    },
+    {
+        "id": 12,
+        "animationId": 45,
+        "consumable": true,
+        "description": "A chilled aromatic potion. Calms confusion,\ncharm, and rage.",
+        "effects": [
+            {
+                "code": 22,
+                "dataId": 8,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 9,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 7,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 176,
+        "itypeId": 1,
+        "name": "Clarity Tonic",
+        "note": "<SE_SubstituteInvalid>",
+        "occasion": 0,
+        "price": 60,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "アンチコンフューズ",
+            "description": "冷香の薬液。混乱と魅了と激昂を鎮める力を持つ。"
+        }
+    },
+    {
+        "id": 13,
+        "animationId": 46,
+        "consumable": true,
+        "description": "A spirit herb that banishes evil. Cures all\nailments.",
+        "effects": [
+            {
+                "code": 22,
+                "dataId": 4,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 5,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 6,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 7,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 8,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 9,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 10,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 13,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 12,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 11,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 181,
+        "itypeId": 1,
+        "name": "Pure Refine",
+        "note": "<SE_SubstituteInvalid>",
+        "occasion": 0,
+        "price": 350,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "ピュアリファイン",
+            "description": "魔を祓う霊草。全ての異常を癒やす。"
+        }
+    },
+    {
+        "id": 14,
+        "animationId": 41,
+        "consumable": true,
+        "description": "A lesser version of the mythical panacea.\nStill effective. Restores half of max HP and",
+        "effects": [
+            {
+                "code": 11,
+                "dataId": 0,
+                "value1": 0.5,
+                "value2": 0
+            },
+            {
+                "code": 12,
+                "dataId": 0,
+                "value1": 0.5,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 208,
+        "itypeId": 1,
+        "name": "Half Elixir",
+        "note": "<SE_SubstituteInvalid>",
+        "occasion": 0,
+        "price": 3000,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "ハーフエリクサー",
+            "description": "神話の万能薬の少し性能が劣るもの。だが効果はある。\nHPとMPを半分ずつ回復する。"
+        }
+    },
+    {
+        "id": 15,
+        "animationId": 41,
+        "consumable": true,
+        "description": "The mythical panacea. Fully restores HP and\nMP.",
+        "effects": [
+            {
+                "code": 11,
+                "dataId": 0,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 12,
+                "dataId": 0,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 180,
+        "itypeId": 1,
+        "name": "Elixir",
+        "note": "<SE_SubstituteInvalid>",
+        "occasion": 0,
+        "price": 5000,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "エリクサー",
+            "description": "神話の万能薬。HPとMPを完全に回復。"
+        }
+    },
+    {
+        "id": 16,
+        "animationId": 45,
+        "consumable": true,
+        "description": "A neutralizing antidote. Cures paralysis.",
+        "effects": [
+            {
+                "code": 22,
+                "dataId": 12,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 176,
+        "itypeId": 1,
+        "name": "Antiparalysis",
+        "note": "<SE_SubstituteInvalid>",
+        "occasion": 0,
+        "price": 40,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "アンチパラライズ",
+            "description": "麻痺を中和する薬。麻痺を治療する。"
+        }
+    },
+    {
+        "id": 17,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "A highly concentrated spray. Heals deep\nwounds and restores 500 HP to the entire",
+        "effects": [
+            {
+                "code": 11,
+                "dataId": 0,
+                "value1": 0,
+                "value2": 500
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 176,
+        "itypeId": 1,
+        "name": "Area Potion",
+        "note": "<SE_SubstituteInvalid>",
+        "occasion": 0,
+        "price": 1000,
+        "repeats": 1,
+        "scope": 8,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "_original": {
+            "name": "エリアポーション",
+            "description": "高濃度の薬液を散布する。深い傷も癒し、\nパーティ全体のHPを500回復。"
+        }
+    },
+    {
+        "id": 18,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 19,
+        "animationId": 0,
+        "consumable": true,
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "-----Stat Growth Items-----",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "-----能力成長系"
+        }
+    },
+    {
+        "id": 20,
+        "animationId": 51,
+        "consumable": true,
+        "description": "A ripe red fruit. Eating it fills you with\nvitality, increasing max HP by 25.",
+        "effects": [
+            {
+                "code": 42,
+                "dataId": 0,
+                "value1": 25,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 271,
+        "itypeId": 1,
+        "name": "Fruit of Vitality",
+        "note": "",
+        "occasion": 2,
+        "price": 1,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "体力の果実",
+            "description": "赤く熟した果実。食べると生命力が満ち、\n最大HPが25上がる。"
+        }
+    },
+    {
+        "id": 21,
+        "animationId": 51,
+        "consumable": true,
+        "description": "A luminous fruit. Enhances spiritual power,\nincreasing max MP by 10.",
+        "effects": [
+            {
+                "code": 42,
+                "dataId": 1,
+                "value1": 10,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 271,
+        "itypeId": 1,
+        "name": "Fruit of Spirit",
+        "note": "",
+        "occasion": 2,
+        "price": 1,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "霊力の果実",
+            "description": "光を放つ果実。霊的な力を高め、最大MPが10上昇する。"
+        }
+    },
+    {
+        "id": 22,
+        "animationId": 51,
+        "consumable": true,
+        "description": "A fruit brimming with wild energy. Biting\ninto it infuses your arm with fighting",
+        "effects": [
+            {
+                "code": 42,
+                "dataId": 2,
+                "value1": 3,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 271,
+        "itypeId": 1,
+        "name": "Fruit of Power",
+        "note": "",
+        "occasion": 2,
+        "price": 1,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "力の果実",
+            "description": "野性の力を秘めた果実。噛めば腕に覇気が宿り\n攻撃力＋3。"
+        }
+    },
+    {
+        "id": 23,
+        "animationId": 51,
+        "consumable": true,
+        "description": "A hard-shelled fruit. Eating it hardens your\nbody, increasing Defense by 3.",
+        "effects": [
+            {
+                "code": 42,
+                "dataId": 3,
+                "value1": 3,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 271,
+        "itypeId": 1,
+        "name": "Fruit of Protection",
+        "note": "",
+        "occasion": 2,
+        "price": 1,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "守りの果実",
+            "description": "硬い皮の果実。食すと身が硬質化し、\n防御力が3上がる。"
+        }
+    },
+    {
+        "id": 24,
+        "animationId": 51,
+        "consumable": true,
+        "description": "A fruit infused with magical essence.\nSharpens the mind, increasing M. Power by 3.",
+        "effects": [
+            {
+                "code": 42,
+                "dataId": 4,
+                "value1": 3,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 271,
+        "itypeId": 1,
+        "name": "Fruit of Magic",
+        "note": "",
+        "occasion": 2,
+        "price": 1,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "魔力の果実",
+            "description": "魔素を含む果実。精神を研ぎ澄まし、\n魔法力が3上昇する。"
+        }
+    },
+    {
+        "id": 25,
+        "animationId": 51,
+        "consumable": true,
+        "description": "A bitter fruit. Repels magic when consumed,\nincreasing Magic Defense by 3.",
+        "effects": [
+            {
+                "code": 42,
+                "dataId": 5,
+                "value1": 3,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 271,
+        "itypeId": 1,
+        "name": "Fruit of Resistance",
+        "note": "",
+        "occasion": 2,
+        "price": 1,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "抵抗の果実",
+            "description": "苦味を持つ果実。口にすれば魔をはじき、\n魔防＋3。"
+        }
+    },
+    {
+        "id": 26,
+        "animationId": 51,
+        "consumable": true,
+        "description": "A sweet fruit said to bring good fortune.\nEating it increases Luck by 3.",
+        "effects": [
+            {
+                "code": 42,
+                "dataId": 7,
+                "value1": 3,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 271,
+        "itypeId": 1,
+        "name": "Fruit of Fortune",
+        "note": "",
+        "occasion": 2,
+        "price": 1,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "幸運の果実",
+            "description": "幸運が訪れる甘果。食べると運が3上昇する。"
+        }
+    },
+    {
+        "id": 27,
+        "animationId": 51,
+        "consumable": true,
+        "description": "A legendary golden fruit. Eating it boosts\nall stats.",
+        "effects": [
+            {
+                "code": 42,
+                "dataId": 0,
+                "value1": 25,
+                "value2": 0
+            },
+            {
+                "code": 42,
+                "dataId": 1,
+                "value1": 10,
+                "value2": 0
+            },
+            {
+                "code": 42,
+                "dataId": 2,
+                "value1": 3,
+                "value2": 0
+            },
+            {
+                "code": 42,
+                "dataId": 3,
+                "value1": 3,
+                "value2": 0
+            },
+            {
+                "code": 42,
+                "dataId": 4,
+                "value1": 3,
+                "value2": 0
+            },
+            {
+                "code": 42,
+                "dataId": 5,
+                "value1": 3,
+                "value2": 0
+            },
+            {
+                "code": 42,
+                "dataId": 7,
+                "value1": 3,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 271,
+        "itypeId": 1,
+        "name": "Fruit of Miracles",
+        "note": "",
+        "occasion": 2,
+        "price": 500,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "奇跡の果実",
+            "description": "黄金に輝く伝説の果実。食べれば全ての能力が上昇する。"
+        }
+    },
+    {
+        "id": 28,
+        "animationId": 0,
+        "consumable": true,
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "-----Battle Items-----",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "-----戦闘用"
+        }
+    },
+    {
+        "id": 29,
+        "animationId": 66,
+        "consumable": true,
+        "description": "A sphere woven with a fire spell formula.\nThrown at an enemy, it erupts in flames,",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 64,
+        "itypeId": 1,
+        "name": "Blazing Orb",
+        "note": "",
+        "occasion": 1,
+        "price": 300,
+        "repeats": 1,
+        "scope": 1,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": 0,
+            "elementId": 2,
+            "formula": "300 - b.mdf",
+            "type": 1,
+            "variance": 30
+        },
+        "_original": {
+            "name": "爆炎球",
+            "description": "火の術式が編み込まれた玉。相手に投げつけると\n爆炎が巻き起こり、炎属性のダメージを与える"
+        }
+    },
+    {
+        "id": 30,
+        "animationId": 93,
+        "consumable": true,
+        "description": "A sphere woven with a wind spell formula.\nThrown at an enemy, it whips up a gale,",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 69,
+        "itypeId": 1,
+        "name": "Storm Orb",
+        "note": "",
+        "occasion": 1,
+        "price": 500,
+        "repeats": 1,
+        "scope": 2,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": 0,
+            "elementId": 7,
+            "formula": "200 - b.mdf",
+            "type": 1,
+            "variance": 30
+        },
+        "_original": {
+            "name": "暴風球",
+            "description": "風の術式が編み込まれた玉。相手に投げつけると暴風が\n巻き起こり、敵を切り刻む。敵全体に風属性のダメージ"
+        }
+    },
+    {
+        "id": 31,
+        "animationId": 71,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 3,
+            "formula": "200 - b.mdf",
+            "type": 1,
+            "variance": 20
+        },
+        "description": "A sphere woven with an ice spell formula.\nThrown at an enemy, it freezes the",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 65,
+        "itypeId": 1,
+        "name": "Blizzard Orb",
+        "note": "",
+        "occasion": 1,
+        "price": 400,
+        "repeats": 1,
+        "scope": 1,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "_original": {
+            "name": "氷雪球",
+            "description": "氷の術式が編み込まれた玉。相手に投げつけると氷結が\n巻き起こり、敵を凍らせる。氷属性のダメージを与える"
+        }
+    },
+    {
+        "id": 32,
+        "animationId": 78,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 4,
+            "formula": "200 - b.mdf",
+            "type": 1,
+            "variance": 20
+        },
+        "description": "A sphere woven with a lightning spell\nformula. Thrown at an enemy, it crackles",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 66,
+        "itypeId": 1,
+        "name": "Lightning Orb",
+        "note": "",
+        "occasion": 1,
+        "price": 700,
+        "repeats": 1,
+        "scope": 2,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "_original": {
+            "name": "雷撃珠",
+            "description": "雷術式が編み込まれた玉。相手に投げつけると雷撃が\n巻き起こり、敵を感電させる。敵全体に雷属性のダメージ"
+        }
+    },
+    {
+        "id": 33,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 34,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 35,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 36,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 37,
+        "animationId": 0,
+        "consumable": true,
+        "effects": [
+            {
+                "code": 11,
+                "dataId": 0,
+                "value1": 0,
+                "value2": 120
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "-----Key Items-----",
+        "note": "",
+        "occasion": 2,
+        "price": 10,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": 0,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "-----大事なもの"
+        }
+    },
+    {
+        "id": 38,
+        "animationId": 0,
+        "consumable": false,
+        "description": "A permit allowing passage across the\nArseleon Great Bridge. Presenting this",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 190,
+        "itypeId": 2,
+        "name": "Arseleon Great Bridge Pass",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "アーセレオン大橋通行証",
+            "description": "アーセレオン大橋を通行できる許可証。\r\nこれを見せれば大橋を渡る許可がもらえる"
+        }
+    },
+    {
+        "id": 39,
+        "animationId": 0,
+        "consumable": false,
+        "description": "A worn cup found deep within the Kawill\nRuins. It has a line inside―something must",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 226,
+        "itypeId": 2,
+        "name": "Cup",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "杯",
+            "description": "カウィル遺跡の奥深くに鎮座していたボロい杯。中に線が\r\nあり、そこまで何かを溜める必要があるようだが…？"
+        }
+    },
+    {
+        "id": 40,
+        "animationId": 0,
+        "consumable": false,
+        "description": "A ticket granting entry to the Comedy Battle\nTournament. Resale is strictly prohibited.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 193,
+        "itypeId": 2,
+        "name": "Comedy BT Entry Ticket",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "お笑いBT参加チケット",
+            "description": "お笑いバトルトーナメントに参加する権利を持つチケット\n転売は固く禁じられている。"
+        }
+    },
+    {
+        "id": 41,
+        "animationId": 0,
+        "consumable": false,
+        "description": "A certificate proving service to Arseleon.\nWith this, you can obtain a bridge crossing",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 190,
+        "itypeId": 2,
+        "name": "Guild Quest Completion Certificate",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "ギルド任務完了証",
+            "description": "アーセレオンのために働いた証明書。\r\nこれがあれば大橋の通行証を手に入れることが出来る"
+        }
+    },
+    {
+        "id": 42,
+        "animationId": 0,
+        "consumable": true,
+        "description": "A tiny crystal no bigger than a pinky\nfinger. Selling it might fetch a decent",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 300,
+        "itypeId": 2,
+        "name": "Small Crystal",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "小さな水晶",
+            "description": "小指の先ほどの小さな水晶。売れば多少は金になるか？"
+        }
+    },
+    {
+        "id": 43,
+        "animationId": 0,
+        "consumable": true,
+        "description": "What Milee is trying to transport to the\nroyal capital.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 191,
+        "itypeId": 2,
+        "name": "Milee's Secret Letter",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "ミレーの密書",
+            "description": "ミレーが王都に運ぼうとしているもの。"
+        }
+    },
+    {
+        "id": 44,
+        "animationId": 0,
+        "consumable": true,
+        "description": "Read as <Lion Explosion>. A thin iron sphere\ninscribed with a magic circle. When thrown,",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 163,
+        "itypeId": 2,
+        "name": "Thunder Explosion Orb",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "雷音爆珠",
+            "description": "＜らいおんばくじゅ＞と読む。薄い鉄の玉の中に魔法陣が\r\n描かれており、投げると炸裂し大きな音が鳴る（試供品）"
+        }
+    },
+    {
+        "id": 45,
+        "animationId": 0,
+        "consumable": true,
+        "description": "Not an ordinary bird egg―it's a Phoenix egg.\n...Can you even eat it?",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 268,
+        "itypeId": 2,
+        "name": "Large Bird Egg",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "大きな鳥の卵",
+            "description": "普通の鳥ではなくフェニックスの卵。\r\n食べられるのか…？"
+        }
+    },
+    {
+        "id": 46,
+        "animationId": 0,
+        "consumable": true,
+        "description": "A diary I keep every day without fail as a\nhobby. It's not meant to be shown to others;",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 187,
+        "itypeId": 2,
+        "name": "Kyle's Diary",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "カイルの日記",
+            "description": "趣味として毎日欠かさずつけている日記。人に見せるもの\nではなく、自分の記憶を掘り起こすのに使っている。"
+        }
+    },
+    {
+        "id": 47,
+        "animationId": 0,
+        "consumable": true,
+        "description": "A contraceptive worn over the penis. It can\nblock sperm and prevent pregnancy. An",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 208,
+        "itypeId": 1,
+        "name": "Condom",
+        "note": "",
+        "occasion": 3,
+        "price": 20,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "コンドーム",
+            "description": "陰茎に被せて使う避妊具。精子をせき止め妊娠を防ぐことが\n出来る。冒険者の必需品。常に忍ばせておこう"
+        }
+    },
+    {
+        "id": 48,
+        "animationId": 0,
+        "consumable": false,
+        "description": "A legendary treasure said to have been\nhidden by a bandit gang that once ravaged",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 300,
+        "itypeId": 2,
+        "name": "Bandit Gang's Hidden Treasure",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "盗賊団の隠し宝",
+            "description": "その昔ヴァルディーン地方を荒らしまわっていた盗賊団が\n隠したと言われていた秘宝。価値があるのかどうかは不明"
+        }
+    },
+    {
+        "id": 49,
+        "animationId": 0,
+        "consumable": false,
+        "description": "A key someone dropped somewhere. Should I\njust sell it? No one knows what it's for.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 195,
+        "itypeId": 2,
+        "name": "Lost Key",
+        "note": "",
+        "occasion": 3,
+        "price": 1000,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "落とし物の鍵",
+            "description": "どこかで誰かが落とした鍵。勝手に売っていいんだろうか。\nどこで使うものなのかも不明。"
+        }
+    },
+    {
+        "id": 50,
+        "animationId": 0,
+        "consumable": false,
+        "description": "",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 45,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 303,
+        "itypeId": 2,
+        "name": "",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "ログストーン",
+            "description": "特定の村にまで瞬時に戻ることが出来る魔法石。\nこの石には「聖域の森の入り口」が登録されている"
+        }
+    },
+    {
+        "id": 51,
+        "animationId": 0,
+        "consumable": false,
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 190,
+        "itypeId": 2,
+        "name": "",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "白紙の聖符",
+            "description": "呪いを解くために使う清浄な符。呪いをその書き換えられた\n事実まで写す事が出来る。だが、聖域でしか使えない。"
+        }
+    },
+    {
+        "id": 52,
+        "animationId": 0,
+        "consumable": true,
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        }
+    },
+    {
+        "id": 53,
+        "animationId": 0,
+        "consumable": true,
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        }
+    },
+    {
+        "id": 54,
+        "animationId": 0,
+        "consumable": true,
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        }
+    },
+    {
+        "id": 55,
+        "animationId": 0,
+        "consumable": true,
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        }
+    },
+    {
+        "id": 56,
+        "animationId": 0,
+        "consumable": true,
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        }
+    },
+    {
+        "id": 57,
+        "animationId": 0,
+        "consumable": true,
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        }
+    },
+    {
+        "id": 58,
+        "animationId": 0,
+        "consumable": true,
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        }
+    },
+    {
+        "id": 59,
+        "animationId": 0,
+        "consumable": true,
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        }
+    },
+    {
+        "id": 60,
+        "animationId": 0,
+        "consumable": true,
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        }
+    },
+    {
+        "id": 61,
+        "animationId": 0,
+        "consumable": true,
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "--- Collectibles ---",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "--- 収集アイテム ---"
+        }
+    },
+    {
+        "id": 62,
+        "animationId": 0,
+        "consumable": false,
+        "description": "[Sell-Only]Slime jelly. Used in cooking,\ncooling, and various other ways―highly",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 171,
+        "itypeId": 1,
+        "name": "Slime Jelly",
+        "note": "",
+        "occasion": 3,
+        "price": 38,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "スライムゼリー",
+            "description": "【売却専用】スライムから取れるゼリー。食材に冷却にと\n色んな使い方が出来て重宝されている。中は無菌。"
+        }
+    },
+    {
+        "id": 63,
+        "animationId": 0,
+        "consumable": true,
+        "description": "[Sell-Only]Feathers shed by a large crow.\nLightweight and durable, they're popular for",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 288,
+        "itypeId": 1,
+        "name": "Giant Crow Feather",
+        "note": "",
+        "occasion": 3,
+        "price": 42,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "大カラスの羽",
+            "description": "【売却専用】大カラスが落とす羽、軽く、丈夫。\n加工にも使えてそこそこ人気がある。"
+        }
+    },
+    {
+        "id": 64,
+        "animationId": 0,
+        "consumable": true,
+        "description": "[Sell-Only]Fairy scale dust. Used in\nmedicines and the like.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 304,
+        "itypeId": 1,
+        "name": "Fairy Scales",
+        "note": "",
+        "occasion": 3,
+        "price": 47,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "フェアリーの鱗粉",
+            "description": "【売却専用】フェアリーの羽から取れる鱗粉。\n薬などに使われる"
+        }
+    },
+    {
+        "id": 65,
+        "animationId": 0,
+        "consumable": true,
+        "description": "[Sell-Only]Searcher eye parts. A collector's\nitem that sells well.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 302,
+        "itypeId": 1,
+        "name": "Search Eye",
+        "note": "",
+        "occasion": 3,
+        "price": 61,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "サーチアイ",
+            "description": "【売却専用】サーチャーの瞳のパーツ。\n収集品。売れる。"
+        }
+    },
+    {
+        "id": 66,
+        "animationId": 0,
+        "consumable": true,
+        "description": "[Sell-Only]The cloth wrapped around a Ghost.\nFaintly imbued with magical power.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 291,
+        "itypeId": 1,
+        "name": "Ghost Cloth",
+        "note": "",
+        "occasion": 3,
+        "price": 81,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "ゴーストの布",
+            "description": "【売却専用】ゴーストを包んでいる布。\nほのかに魔力を帯びている"
+        }
+    },
+    {
+        "id": 67,
+        "animationId": 0,
+        "consumable": true,
+        "description": "[Sell-Only]The large claw attached to a Rock\nCrab's arm. Said to make excellent broth",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 260,
+        "itypeId": 1,
+        "name": "Rock Crab Claw",
+        "note": "",
+        "occasion": 3,
+        "price": 88,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "ロッククラブの爪",
+            "description": "【売却専用】ロッククラブの腕についている大きな爪。\n鍋でいいダシが取れるらしい。"
+        }
+    },
+    {
+        "id": 68,
+        "animationId": 0,
+        "consumable": true,
+        "description": "[Sell-Only]A ring someone wore. Broken, so\nit can't be equipped. A crafting material.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 145,
+        "itypeId": 1,
+        "name": "Broken Ring",
+        "note": "",
+        "occasion": 3,
+        "price": 78,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "壊れた指輪",
+            "description": "【売却専用】誰かが着けていた指輪。割れているため\n装備することは出来ない。加工品"
+        }
+    },
+    {
+        "id": 69,
+        "animationId": 0,
+        "consumable": true,
+        "description": "[Sell-Only]A broken part. Said to fetch a\nhigh price among collectors.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 306,
+        "itypeId": 1,
+        "name": "Mysterious Part",
+        "note": "",
+        "occasion": 3,
+        "price": 98,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "謎のパーツ",
+            "description": "【売却専用】壊れた部品。\n好事家に高値で売れるらしい。"
+        }
+    },
+    {
+        "id": 70,
+        "animationId": 0,
+        "consumable": true,
+        "description": "[Sell-Only]Exquisitely delicious lobster\ntail. Can also be used for broth, making it",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 291,
+        "itypeId": 1,
+        "name": "Lobster Tail",
+        "note": "",
+        "occasion": 3,
+        "price": 101,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "ロブスターの尻尾",
+            "description": "【売却専用】とっても美味しいロブスターの尻尾。\nダシも取れたりしてスープにしても美味い。"
+        }
+    },
+    {
+        "id": 71,
+        "animationId": 0,
+        "consumable": true,
+        "description": "[Sell-Only]Jelly extracted from a Red Slime.\nEdible, but spicy―best for adults.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 168,
+        "itypeId": 1,
+        "name": "Red Slime Jelly",
+        "note": "",
+        "occasion": 3,
+        "price": 180,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "レッドスライムゼリー",
+            "description": "【売却専用】レッドスライムから取れるゼリー。食材にも\n使えるが辛味があり、大人向け。"
+        }
+    },
+    {
+        "id": 72,
+        "animationId": 0,
+        "consumable": true,
+        "description": "[Sell-Only]Fire Rabbit ears are soft and\nfluffy, used for clothing and decorations.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 291,
+        "itypeId": 1,
+        "name": "Fire Rabbit Ear",
+        "note": "",
+        "occasion": 3,
+        "price": 167,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "ファイアラビットの耳",
+            "description": "【売却専用】ファイアラビットの耳はふわふわとした感触で\n洋服や装飾品に使う。食材には向かない。"
+        }
+    },
+    {
+        "id": 73,
+        "animationId": 0,
+        "consumable": true,
+        "description": "[Sell-Only]The frill of a Frilled Lizard.\nUsed as a material for magical tools.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 288,
+        "itypeId": 1,
+        "name": "Frilled Lizard Frill",
+        "note": "",
+        "occasion": 3,
+        "price": 141,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "エリマキトカゲのエリ",
+            "description": "【売却専用】エリマキトカゲのエリの部分。魔道具の素材に\n使われたりする"
+        }
+    },
+    {
+        "id": 74,
+        "animationId": 0,
+        "consumable": true,
+        "description": "[Sell-Only]The tail of a Salamander. Used as\na catalyst for fire-element magical tools.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 294,
+        "itypeId": 1,
+        "name": "Salamander Tail",
+        "note": "",
+        "occasion": 3,
+        "price": 178,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "サラマンダーの尻尾",
+            "description": "【売却専用】サラマンダーから取れる尻尾の部分。炎系の\n魔道具の触媒に使われる"
+        }
+    },
+    {
+        "id": 75,
+        "animationId": 0,
+        "consumable": false,
+        "description": "[Sell-Only]A red mushroom. Edible and\ncommonly used in households.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 261,
+        "itypeId": 1,
+        "name": "Red Mushroom",
+        "note": "",
+        "occasion": 3,
+        "price": 23,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "赤いキノコ",
+            "description": "【売却専用】赤いキノコ。食用出来るため、一般家庭でも\nよく使われている。"
+        }
+    },
+    {
+        "id": 76,
+        "animationId": 0,
+        "consumable": true,
+        "description": "[Sell-Only]A small white flower.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 184,
+        "itypeId": 1,
+        "name": "White Flower",
+        "note": "",
+        "occasion": 3,
+        "price": 15,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "白い花",
+            "description": "【売却専用】小さな白い花。"
+        }
+    },
+    {
+        "id": 77,
+        "animationId": 0,
+        "consumable": false,
+        "description": "[Sell-Only]A blue mushroom. Also edible.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 261,
+        "itypeId": 1,
+        "name": "Blue Mushroom",
+        "note": "",
+        "occasion": 3,
+        "price": 38,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "青いキノコ",
+            "description": "【売却専用】青いキノコ。これも食用可能。\n"
+        }
+    },
+    {
+        "id": 78,
+        "animationId": 0,
+        "consumable": true,
+        "description": "[Sell-Only]A yellow flower. Can be brewed\ninto medicine.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 184,
+        "itypeId": 1,
+        "name": "Yellow Flower",
+        "note": "",
+        "occasion": 3,
+        "price": 28,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "黄色い花",
+            "description": "【売却専用】黄色い花。煎じて薬の材料にすること\nが出来る。"
+        }
+    },
+    {
+        "id": 79,
+        "animationId": 0,
+        "consumable": true,
+        "description": "[Sell-Only]A red flower. Often used as a\ngift.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 184,
+        "itypeId": 1,
+        "name": "Red Flower",
+        "note": "",
+        "occasion": 3,
+        "price": 32,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "赤い花",
+            "description": "【売却専用】赤い花。贈り物によく使われる。"
+        }
+    },
+    {
+        "id": 80,
+        "animationId": 0,
+        "consumable": true,
+        "description": "[Sell-Only]A brown mushroom. Fragrant and\nhigh-grade. Also edible.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 261,
+        "itypeId": 1,
+        "name": "Brown Mushroom",
+        "note": "",
+        "occasion": 3,
+        "price": 300,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "茶色いキノコ",
+            "description": "【売却専用】茶色いキノコ。香り高く、高級品。\nこれも食用可能。"
+        }
+    },
+    {
+        "id": 81,
+        "animationId": 0,
+        "consumable": true,
+        "description": "[Sell-Only]The fang of a great wolf that\ndwells in Lewin Forest. A rare material,",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 297,
+        "itypeId": 1,
+        "name": "Baldur's Fang",
+        "note": "",
+        "occasion": 3,
+        "price": 1000,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "バルドルの牙",
+            "description": "【売却専用】ルウィンの森に住まう主、大狼の牙。\n貴重な素材のため、高価。"
+        }
+    },
+    {
+        "id": 82,
+        "animationId": 0,
+        "consumable": false,
+        "description": "A beautiful ore once commonly mined in\nCaldoon Coal Mine. Its vibrant red hue makes",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 168,
+        "itypeId": 2,
+        "name": "Scarred",
+        "note": "",
+        "occasion": 3,
+        "price": 1,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "スカーレッド",
+            "description": "カルドーン炭鉱でその昔よく採れた美しい鉱石。\n綺麗な赤色で加工し、アクセサリーなどに使われる。"
+        }
+    },
+    {
+        "id": 83,
+        "animationId": 0,
+        "consumable": true,
+        "description": "[Sell-Only]An ore found in old mine ruins.\nRecommended for smelting or crushing and",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 301,
+        "itypeId": 1,
+        "name": "Small Ore",
+        "note": "",
+        "occasion": 3,
+        "price": 98,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "小さな鉱石",
+            "description": "【売却専用】鉱山跡で採れた鉱石。溶かしたり砕いたり\n加工して使う事が推奨される。鍛冶屋などが重宝。"
+        }
+    },
+    {
+        "id": 84,
+        "animationId": 0,
+        "consumable": true,
+        "description": "[Sell-Only]The bone of a mysterious monster.\nIf not weathered, it can be crafted into",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 298,
+        "itypeId": 1,
+        "name": "Monster Bone",
+        "note": "",
+        "occasion": 3,
+        "price": 89,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "魔物の骨",
+            "description": "【売却専用】謎の魔物の骨。風化していなければ\n加工して工芸品などに使う事が出来る。"
+        }
+    },
+    {
+        "id": 85,
+        "animationId": 0,
+        "consumable": true,
+        "description": "[Sell-Only]The shell that makes up a\nMystileg. Easy to work with and durable.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 268,
+        "itypeId": 1,
+        "name": "Mystileg Shell",
+        "note": "",
+        "occasion": 3,
+        "price": 101,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "ミステレグの殻",
+            "description": "【売却専用】ミステレグを構成している殻。加工しやすく\nそして固い。食器や家具などによく使われる"
+        }
+    },
+    {
+        "id": 86,
+        "animationId": 0,
+        "consumable": true,
+        "description": "[Sell-Only]A sharp kobold fang. Crafted into\nknives and swords.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 294,
+        "itypeId": 1,
+        "name": "Kobold Fang",
+        "note": "",
+        "occasion": 3,
+        "price": 98,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "コボルトの牙",
+            "description": "【売却専用】コボルトの鋭い牙。\n加工してナイフや剣などに使われる。"
+        }
+    },
+    {
+        "id": 87,
+        "animationId": 0,
+        "consumable": true,
+        "description": "[Sell-Only]A fragment of an ancient carving.\nEven something like this has collectors who",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 306,
+        "itypeId": 1,
+        "name": "Ancient Sculpture Fragment",
+        "note": "",
+        "occasion": 3,
+        "price": 37,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "古代の彫刻の破片",
+            "description": "【売却専用】古い彫刻の破片。\nこんなものでも欲しがる好事家はいるものだ。"
+        }
+    },
+    {
+        "id": 88,
+        "animationId": 0,
+        "consumable": true,
+        "description": "[Sell-Only]A helmet once worn by a wandering\nknight. Sticky with something inside―no one",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 132,
+        "itypeId": 1,
+        "name": "Living Statue Helm",
+        "note": "",
+        "occasion": 3,
+        "price": 228,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "リビングスタチューの兜",
+            "description": "【売却専用】彷徨える騎士の兜。\n中は何かでべっとりとしており被りたくはない。"
+        }
+    },
+    {
+        "id": 89,
+        "animationId": 0,
+        "consumable": true,
+        "description": "A large silver cup adorned with decorations.\nNot meant for drinking, but appears to be a",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 180,
+        "itypeId": 2,
+        "name": "Silver Ritual Cup",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "銀の儀式杯",
+            "description": "装飾の施された銀製の大きな杯。実際に何かを飲む用では\n無く、儀式などに使われる神聖なモノのようだ。"
+        }
+    },
+    {
+        "id": 90,
+        "animationId": 0,
+        "consumable": true,
+        "description": "[Sell-Only]A section of a cactus found\nscattered in the desert. Edible and used for",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 183,
+        "itypeId": 1,
+        "name": "Cactus Meat",
+        "note": "",
+        "occasion": 3,
+        "price": 128,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "サボテンの肉",
+            "description": "【売却専用】砂漠に点在するサボテンの一部。\n食用、緊急時の水分補給などに使われる"
+        }
+    },
+    {
+        "id": 91,
+        "animationId": 0,
+        "consumable": true,
+        "description": "[Sell-Only]The core that makes up a Red\nSlime. Imbued with magical power and used in",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 168,
+        "itypeId": 1,
+        "name": "Red Slime Core",
+        "note": "",
+        "occasion": 3,
+        "price": 134,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "レッドスライムの核",
+            "description": "【売却専用】レッドスライムを構成している核。\n魔力を帯びており魔道具精製に使われる。"
+        }
+    },
+    {
+        "id": 92,
+        "animationId": 0,
+        "consumable": true,
+        "description": "A mysterious liquid sealed in an ornate\nbottle. Completely lacking in magical power,",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 176,
+        "itypeId": 2,
+        "name": "Noble Mirage",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        },
+        "_original": {
+            "name": "ノーブル・ミラージュ",
+            "description": "豪華な装飾が施された瓶に謎の液体が入っている。\n魔力は全くなく、味や水分補給以外の効果は無い。"
+        }
+    },
+    {
+        "id": 93,
+        "animationId": 0,
+        "consumable": true,
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        }
+    },
+    {
+        "id": 94,
+        "animationId": 0,
+        "consumable": true,
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        }
+    },
+    {
+        "id": 95,
+        "animationId": 0,
+        "consumable": true,
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        }
+    },
+    {
+        "id": 96,
+        "animationId": 0,
+        "consumable": true,
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        }
+    },
+    {
+        "id": 97,
+        "animationId": 0,
+        "consumable": true,
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        }
+    },
+    {
+        "id": 98,
+        "animationId": 0,
+        "consumable": true,
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        }
+    },
+    {
+        "id": 99,
+        "animationId": 0,
+        "consumable": true,
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        }
+    },
+    {
+        "id": 100,
+        "animationId": 0,
+        "consumable": true,
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0,
+        "params": [],
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": 0,
+            "type": 0,
+            "variance": 20
+        }
     }
-  },
-  {
-    "id": 2,
-    "animationId": 41,
-    "consumable": true,
-    "description": "A pale red potion. Heals minor wounds\nand restores 120 HP.",
-    "effects": [
-      {
-        "code": 11,
-        "dataId": 0,
-        "value1": 0,
-        "value2": 120
-      }
-    ],
-    "hitType": 0,
-    "iconIndex": 176,
-    "itypeId": 1,
-    "name": "Potion",
-    "note": "<SE_SubstituteInvalid>",
-    "occasion": 0,
-    "price": 50,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": "0",
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "ポーション",
-      "description": "淡い赤色の薬。小傷を癒しHPを120回復する。"
-    }
-  },
-  {
-    "id": 3,
-    "animationId": 41,
-    "consumable": true,
-    "description": "A highly concentrated potion. Heals\ndeep wounds and restores 500 HP.",
-    "effects": [
-      {
-        "code": 11,
-        "dataId": 0,
-        "value1": 0,
-        "value2": 500
-      }
-    ],
-    "hitType": 0,
-    "iconIndex": 176,
-    "itypeId": 1,
-    "name": "High Potion",
-    "note": "<SE_SubstituteInvalid>",
-    "occasion": 0,
-    "price": 300,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "ハイポーション",
-      "description": "高濃度の薬液。深い傷も癒しHPを500回復。"
-    }
-  },
-  {
-    "id": 4,
-    "animationId": 41,
-    "consumable": true,
-    "description": "A legendary healing potion. Fully\nrestores HP.",
-    "effects": [
-      {
-        "code": 11,
-        "dataId": 0,
-        "value1": 1,
-        "value2": 0
-      }
-    ],
-    "hitType": 0,
-    "iconIndex": 176,
-    "itypeId": 1,
-    "name": "Full Potion",
-    "note": "<SE_SubstituteInvalid>",
-    "occasion": 0,
-    "price": 1000,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "フルポーション",
-      "description": "伝説級の治癒薬。HPを完全に回復させる。"
-    }
-  },
-  {
-    "id": 5,
-    "animationId": 41,
-    "consumable": true,
-    "description": "A dried aromatic herb brewed with honey\ninto a solid form. Restores 25 MP.",
-    "effects": [
-      {
-        "code": 12,
-        "dataId": 0,
-        "value1": 0,
-        "value2": 25
-      }
-    ],
-    "hitType": 0,
-    "iconIndex": 179,
-    "itypeId": 1,
-    "name": "Magic Drop",
-    "note": "<SE_SubstituteInvalid>",
-    "occasion": 0,
-    "price": 200,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": "0",
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "マジックドロップ",
-      "description": "香り高い草を乾かして煎じ、蜜と混ぜて固めたもの。\nMPを25回復する。"
-    }
-  },
-  {
-    "id": 6,
-    "animationId": 41,
-    "consumable": true,
-    "description": "A dried aromatic spirit herb. Restores\n100 MP.",
-    "effects": [
-      {
-        "code": 12,
-        "dataId": 0,
-        "value1": 0,
-        "value2": 100
-      }
-    ],
-    "hitType": 0,
-    "iconIndex": 181,
-    "itypeId": 1,
-    "name": "Magic Herb",
-    "note": "<SE_SubstituteInvalid>",
-    "occasion": 0,
-    "price": 500,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "マジックハーブ",
-      "description": "香り高い霊草を乾かしたもの。MPを100回復。"
-    }
-  },
-  {
-    "id": 7,
-    "animationId": 41,
-    "consumable": true,
-    "description": "Water infused with spirit herbs from a\nsacred spring. Fully restores MP.",
-    "effects": [
-      {
-        "code": 12,
-        "dataId": 0,
-        "value1": 1,
-        "value2": 0
-      }
-    ],
-    "hitType": 0,
-    "iconIndex": 180,
-    "itypeId": 1,
-    "name": "Magic Water",
-    "note": "<SE_SubstituteInvalid>",
-    "occasion": 0,
-    "price": 1500,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": "0",
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "マジックウォーター",
-      "description": "聖泉に霊草を溶かした水。\nMPを全回復する。"
-    }
-  },
-  {
-    "id": 8,
-    "animationId": 49,
-    "consumable": true,
-    "description": "Revives a fallen ally with half their\nmax HP.",
-    "effects": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value1": 1,
-        "value2": 0
-      }
-    ],
-    "hitType": 0,
-    "iconIndex": 176,
-    "itypeId": 1,
-    "name": "Revive Soul",
-    "note": "<SE_SubstituteInvalid>",
-    "occasion": 0,
-    "price": 500,
-    "repeats": 1,
-    "scope": 9,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": "b.mhp / 2",
-      "type": 3,
-      "variance": 20
-    },
-    "_original": {
-      "name": "リバイブソウル",
-      "description": "傷ついた身体に活力を与え、戦闘不能を回復。\nHP半分で復活。"
-    }
-  },
-  {
-    "id": 9,
-    "animationId": 45,
-    "consumable": true,
-    "description": "A neutralizing antidote. Cures poison.",
-    "effects": [
-      {
-        "code": 22,
-        "dataId": 4,
-        "value1": 1,
-        "value2": 0
-      }
-    ],
-    "hitType": 0,
-    "iconIndex": 176,
-    "itypeId": 1,
-    "name": "Antidote",
-    "note": "<SE_SubstituteInvalid>",
-    "occasion": 0,
-    "price": 40,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": "0",
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "アンチポイズン",
-      "description": "毒を中和する薬。毒を治療する。"
-    }
-  },
-  {
-    "id": 10,
-    "animationId": 45,
-    "consumable": true,
-    "description": "A drop of light. A potion that clears\ndarkened vision.",
-    "effects": [
-      {
-        "code": 22,
-        "dataId": 5,
-        "value1": 1,
-        "value2": 0
-      }
-    ],
-    "hitType": 0,
-    "iconIndex": 176,
-    "itypeId": 1,
-    "name": "Eye Drops",
-    "note": "<SE_SubstituteInvalid>",
-    "occasion": 0,
-    "price": 45,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": "0",
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "アンチブラインド",
-      "description": "光の滴。闇に覆われた視界を癒やす薬。"
-    }
-  },
-  {
-    "id": 11,
-    "animationId": 45,
-    "consumable": true,
-    "description": "A throat-clearing elixir. Lifts silence\nand restores speech.",
-    "effects": [
-      {
-        "code": 22,
-        "dataId": 6,
-        "value1": 1,
-        "value2": 0
-      }
-    ],
-    "hitType": 0,
-    "iconIndex": 176,
-    "itypeId": 1,
-    "name": "Earplugs",
-    "note": "<SE_SubstituteInvalid>",
-    "occasion": 0,
-    "price": 50,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "アンチサイレンス",
-      "description": "喉を清める薬。沈黙を解き声を戻す。"
-    }
-  },
-  {
-    "id": 12,
-    "animationId": 45,
-    "consumable": true,
-    "description": "A chilled aromatic potion. Calms\nconfusion, charm, and rage.",
-    "effects": [
-      {
-        "code": 22,
-        "dataId": 8,
-        "value1": 1,
-        "value2": 0
-      },
-      {
-        "code": 22,
-        "dataId": 9,
-        "value1": 1,
-        "value2": 0
-      },
-      {
-        "code": 22,
-        "dataId": 7,
-        "value1": 1,
-        "value2": 0
-      }
-    ],
-    "hitType": 0,
-    "iconIndex": 176,
-    "itypeId": 1,
-    "name": "Clarity Tonic",
-    "note": "<SE_SubstituteInvalid>",
-    "occasion": 0,
-    "price": 60,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "アンチコンフューズ",
-      "description": "冷香の薬液。混乱と魅了と激昂を鎮める力を持つ。"
-    }
-  },
-  {
-    "id": 13,
-    "animationId": 46,
-    "consumable": true,
-    "description": "A spirit herb that banishes evil. Cures\nall ailments.",
-    "effects": [
-      {
-        "code": 22,
-        "dataId": 4,
-        "value1": 1,
-        "value2": 0
-      },
-      {
-        "code": 22,
-        "dataId": 5,
-        "value1": 1,
-        "value2": 0
-      },
-      {
-        "code": 22,
-        "dataId": 6,
-        "value1": 1,
-        "value2": 0
-      },
-      {
-        "code": 22,
-        "dataId": 7,
-        "value1": 1,
-        "value2": 0
-      },
-      {
-        "code": 22,
-        "dataId": 8,
-        "value1": 1,
-        "value2": 0
-      },
-      {
-        "code": 22,
-        "dataId": 9,
-        "value1": 1,
-        "value2": 0
-      },
-      {
-        "code": 22,
-        "dataId": 10,
-        "value1": 1,
-        "value2": 0
-      },
-      {
-        "code": 22,
-        "dataId": 13,
-        "value1": 1,
-        "value2": 0
-      },
-      {
-        "code": 22,
-        "dataId": 12,
-        "value1": 1,
-        "value2": 0
-      },
-      {
-        "code": 22,
-        "dataId": 11,
-        "value1": 1,
-        "value2": 0
-      }
-    ],
-    "hitType": 0,
-    "iconIndex": 181,
-    "itypeId": 1,
-    "name": "Pure Refine",
-    "note": "<SE_SubstituteInvalid>",
-    "occasion": 0,
-    "price": 350,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "ピュアリファイン",
-      "description": "魔を祓う霊草。全ての異常を癒やす。"
-    }
-  },
-  {
-    "id": 14,
-    "animationId": 41,
-    "consumable": true,
-    "description": "A lesser version of the mythical\npanacea. Still effective. Restores half",
-    "effects": [
-      {
-        "code": 11,
-        "dataId": 0,
-        "value1": 0.5,
-        "value2": 0
-      },
-      {
-        "code": 12,
-        "dataId": 0,
-        "value1": 0.5,
-        "value2": 0
-      }
-    ],
-    "hitType": 0,
-    "iconIndex": 208,
-    "itypeId": 1,
-    "name": "Half Elixir",
-    "note": "<SE_SubstituteInvalid>",
-    "occasion": 0,
-    "price": 3000,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "ハーフエリクサー",
-      "description": "神話の万能薬の少し性能が劣るもの。だが効果はある。\nHPとMPを半分ずつ回復する。"
-    }
-  },
-  {
-    "id": 15,
-    "animationId": 41,
-    "consumable": true,
-    "description": "The mythical panacea. Fully restores HP\nand MP.",
-    "effects": [
-      {
-        "code": 11,
-        "dataId": 0,
-        "value1": 1,
-        "value2": 0
-      },
-      {
-        "code": 12,
-        "dataId": 0,
-        "value1": 1,
-        "value2": 0
-      }
-    ],
-    "hitType": 0,
-    "iconIndex": 180,
-    "itypeId": 1,
-    "name": "Elixir",
-    "note": "<SE_SubstituteInvalid>",
-    "occasion": 0,
-    "price": 5000,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "エリクサー",
-      "description": "神話の万能薬。HPとMPを完全に回復。"
-    }
-  },
-  {
-    "id": 16,
-    "animationId": 45,
-    "consumable": true,
-    "description": "A neutralizing antidote. Cures\nparalysis.",
-    "effects": [
-      {
-        "code": 22,
-        "dataId": 12,
-        "value1": 1,
-        "value2": 0
-      }
-    ],
-    "hitType": 0,
-    "iconIndex": 176,
-    "itypeId": 1,
-    "name": "Antiparalysis",
-    "note": "<SE_SubstituteInvalid>",
-    "occasion": 0,
-    "price": 40,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": "0",
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "アンチパラライズ",
-      "description": "麻痺を中和する薬。麻痺を治療する。"
-    }
-  },
-  {
-    "id": 17,
-    "animationId": 0,
-    "consumable": true,
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": "0",
-      "type": 0,
-      "variance": 20
-    },
-    "description": "A highly concentrated spray. Heals deep\nwounds and restores 500 HP to the",
-    "effects": [
-      {
-        "code": 11,
-        "dataId": 0,
-        "value1": 0,
-        "value2": 500
-      }
-    ],
-    "hitType": 0,
-    "iconIndex": 176,
-    "itypeId": 1,
-    "name": "Area Potion",
-    "note": "<SE_SubstituteInvalid>",
-    "occasion": 0,
-    "price": 1000,
-    "repeats": 1,
-    "scope": 8,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "_original": {
-      "name": "エリアポーション",
-      "description": "高濃度の薬液を散布する。深い傷も癒し、\nパーティ全体のHPを500回復。"
-    }
-  },
-  {
-    "id": 18,
-    "animationId": 0,
-    "consumable": true,
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": "0",
-      "type": 0,
-      "variance": 20
-    },
-    "description": "",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 0,
-    "itypeId": 1,
-    "name": "",
-    "note": "",
-    "occasion": 0,
-    "price": 0,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0
-  },
-  {
-    "id": 19,
-    "animationId": 0,
-    "consumable": true,
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 0,
-    "itypeId": 1,
-    "name": "-----Stat Growth Items-----",
-    "note": "",
-    "occasion": 3,
-    "price": 0,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "-----能力成長系"
-    }
-  },
-  {
-    "id": 20,
-    "animationId": 51,
-    "consumable": true,
-    "description": "A ripe red fruit. Eating it fills you\nwith vitality, increasing max HP by 25.",
-    "effects": [
-      {
-        "code": 42,
-        "dataId": 0,
-        "value1": 25,
-        "value2": 0
-      }
-    ],
-    "hitType": 0,
-    "iconIndex": 271,
-    "itypeId": 1,
-    "name": "Fruit of Vitality",
-    "note": "",
-    "occasion": 2,
-    "price": 1,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "体力の果実",
-      "description": "赤く熟した果実。食べると生命力が満ち、\n最大HPが25上がる。"
-    }
-  },
-  {
-    "id": 21,
-    "animationId": 51,
-    "consumable": true,
-    "description": "A luminous fruit. Enhances spiritual\npower, increasing max MP by 10.",
-    "effects": [
-      {
-        "code": 42,
-        "dataId": 1,
-        "value1": 10,
-        "value2": 0
-      }
-    ],
-    "hitType": 0,
-    "iconIndex": 271,
-    "itypeId": 1,
-    "name": "Fruit of Spirit",
-    "note": "",
-    "occasion": 2,
-    "price": 1,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "霊力の果実",
-      "description": "光を放つ果実。霊的な力を高め、最大MPが10上昇する。"
-    }
-  },
-  {
-    "id": 22,
-    "animationId": 51,
-    "consumable": true,
-    "description": "A fruit brimming with wild energy.\nBiting into it infuses your arm with",
-    "effects": [
-      {
-        "code": 42,
-        "dataId": 2,
-        "value1": 3,
-        "value2": 0
-      }
-    ],
-    "hitType": 0,
-    "iconIndex": 271,
-    "itypeId": 1,
-    "name": "Fruit of Power",
-    "note": "",
-    "occasion": 2,
-    "price": 1,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "力の果実",
-      "description": "野性の力を秘めた果実。噛めば腕に覇気が宿り\n攻撃力＋3。"
-    }
-  },
-  {
-    "id": 23,
-    "animationId": 51,
-    "consumable": true,
-    "description": "A hard-shelled fruit. Eating it hardens\nyour body, increasing Defense by 3.",
-    "effects": [
-      {
-        "code": 42,
-        "dataId": 3,
-        "value1": 3,
-        "value2": 0
-      }
-    ],
-    "hitType": 0,
-    "iconIndex": 271,
-    "itypeId": 1,
-    "name": "Fruit of Protection",
-    "note": "",
-    "occasion": 2,
-    "price": 1,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "守りの果実",
-      "description": "硬い皮の果実。食すと身が硬質化し、\n防御力が3上がる。"
-    }
-  },
-  {
-    "id": 24,
-    "animationId": 51,
-    "consumable": true,
-    "description": "A fruit infused with magical essence.\nSharpens the mind, increasing M. Power",
-    "effects": [
-      {
-        "code": 42,
-        "dataId": 4,
-        "value1": 3,
-        "value2": 0
-      }
-    ],
-    "hitType": 0,
-    "iconIndex": 271,
-    "itypeId": 1,
-    "name": "Fruit of Magic",
-    "note": "",
-    "occasion": 2,
-    "price": 1,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "魔力の果実",
-      "description": "魔素を含む果実。精神を研ぎ澄まし、\n魔法力が3上昇する。"
-    }
-  },
-  {
-    "id": 25,
-    "animationId": 51,
-    "consumable": true,
-    "description": "A bitter fruit. Repels magic when\nconsumed, increasing Magic Defense by",
-    "effects": [
-      {
-        "code": 42,
-        "dataId": 5,
-        "value1": 3,
-        "value2": 0
-      }
-    ],
-    "hitType": 0,
-    "iconIndex": 271,
-    "itypeId": 1,
-    "name": "Fruit of Resistance",
-    "note": "",
-    "occasion": 2,
-    "price": 1,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "抵抗の果実",
-      "description": "苦味を持つ果実。口にすれば魔をはじき、\n魔防＋3。"
-    }
-  },
-  {
-    "id": 26,
-    "animationId": 51,
-    "consumable": true,
-    "description": "A sweet fruit said to bring good\nfortune. Eating it increases Luck by 3.",
-    "effects": [
-      {
-        "code": 42,
-        "dataId": 7,
-        "value1": 3,
-        "value2": 0
-      }
-    ],
-    "hitType": 0,
-    "iconIndex": 271,
-    "itypeId": 1,
-    "name": "Fruit of Fortune",
-    "note": "",
-    "occasion": 2,
-    "price": 1,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "幸運の果実",
-      "description": "幸運が訪れる甘果。食べると運が3上昇する。"
-    }
-  },
-  {
-    "id": 27,
-    "animationId": 51,
-    "consumable": true,
-    "description": "A legendary golden fruit. Eating it\nboosts all stats.",
-    "effects": [
-      {
-        "code": 42,
-        "dataId": 0,
-        "value1": 25,
-        "value2": 0
-      },
-      {
-        "code": 42,
-        "dataId": 1,
-        "value1": 10,
-        "value2": 0
-      },
-      {
-        "code": 42,
-        "dataId": 2,
-        "value1": 3,
-        "value2": 0
-      },
-      {
-        "code": 42,
-        "dataId": 3,
-        "value1": 3,
-        "value2": 0
-      },
-      {
-        "code": 42,
-        "dataId": 4,
-        "value1": 3,
-        "value2": 0
-      },
-      {
-        "code": 42,
-        "dataId": 5,
-        "value1": 3,
-        "value2": 0
-      },
-      {
-        "code": 42,
-        "dataId": 7,
-        "value1": 3,
-        "value2": 0
-      }
-    ],
-    "hitType": 0,
-    "iconIndex": 271,
-    "itypeId": 1,
-    "name": "Fruit of Miracles",
-    "note": "",
-    "occasion": 2,
-    "price": 500,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "奇跡の果実",
-      "description": "黄金に輝く伝説の果実。食べれば全ての能力が上昇する。"
-    }
-  },
-  {
-    "id": 28,
-    "animationId": 0,
-    "consumable": true,
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 0,
-    "itypeId": 1,
-    "name": "-----Battle Items-----",
-    "note": "",
-    "occasion": 3,
-    "price": 0,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "-----戦闘用"
-    }
-  },
-  {
-    "id": 29,
-    "animationId": 66,
-    "consumable": true,
-    "description": "A sphere woven with a fire spell\nformula. Thrown at an enemy, it erupts",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 64,
-    "itypeId": 1,
-    "name": "Blazing Orb",
-    "note": "",
-    "occasion": 1,
-    "price": 300,
-    "repeats": 1,
-    "scope": 1,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": 0,
-      "elementId": 2,
-      "formula": "300 - b.mdf",
-      "type": 1,
-      "variance": 30
-    },
-    "_original": {
-      "name": "爆炎球",
-      "description": "火の術式が編み込まれた玉。相手に投げつけると\n爆炎が巻き起こり、炎属性のダメージを与える"
-    }
-  },
-  {
-    "id": 30,
-    "animationId": 93,
-    "consumable": true,
-    "description": "A sphere woven with a wind spell\nformula. Thrown at an enemy, it whips",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 69,
-    "itypeId": 1,
-    "name": "Storm Orb",
-    "note": "",
-    "occasion": 1,
-    "price": 500,
-    "repeats": 1,
-    "scope": 2,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": 0,
-      "elementId": 7,
-      "formula": "200 - b.mdf",
-      "type": 1,
-      "variance": 30
-    },
-    "_original": {
-      "name": "暴風球",
-      "description": "風の術式が編み込まれた玉。相手に投げつけると暴風が\n巻き起こり、敵を切り刻む。敵全体に風属性のダメージ"
-    }
-  },
-  {
-    "id": 31,
-    "animationId": 71,
-    "consumable": true,
-    "damage": {
-      "critical": false,
-      "elementId": 3,
-      "formula": "200 - b.mdf",
-      "type": 1,
-      "variance": 20
-    },
-    "description": "A sphere woven with an ice spell\nformula. Thrown at an enemy, it freezes",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 65,
-    "itypeId": 1,
-    "name": "Blizzard Orb",
-    "note": "",
-    "occasion": 1,
-    "price": 400,
-    "repeats": 1,
-    "scope": 1,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "_original": {
-      "name": "氷雪球",
-      "description": "氷の術式が編み込まれた玉。相手に投げつけると氷結が\n巻き起こり、敵を凍らせる。氷属性のダメージを与える"
-    }
-  },
-  {
-    "id": 32,
-    "animationId": 78,
-    "consumable": true,
-    "damage": {
-      "critical": false,
-      "elementId": 4,
-      "formula": "200 - b.mdf",
-      "type": 1,
-      "variance": 20
-    },
-    "description": "A sphere woven with a lightning spell\nformula. Thrown at an enemy, it",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 66,
-    "itypeId": 1,
-    "name": "Lightning Orb",
-    "note": "",
-    "occasion": 1,
-    "price": 700,
-    "repeats": 1,
-    "scope": 2,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "_original": {
-      "name": "雷撃珠",
-      "description": "雷術式が編み込まれた玉。相手に投げつけると雷撃が\n巻き起こり、敵を感電させる。敵全体に雷属性のダメージ"
-    }
-  },
-  {
-    "id": 33,
-    "animationId": 0,
-    "consumable": true,
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": "0",
-      "type": 0,
-      "variance": 20
-    },
-    "description": "",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 0,
-    "itypeId": 1,
-    "name": "",
-    "note": "",
-    "occasion": 0,
-    "price": 0,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0
-  },
-  {
-    "id": 34,
-    "animationId": 0,
-    "consumable": true,
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": "0",
-      "type": 0,
-      "variance": 20
-    },
-    "description": "",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 0,
-    "itypeId": 1,
-    "name": "",
-    "note": "",
-    "occasion": 0,
-    "price": 0,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0
-  },
-  {
-    "id": 35,
-    "animationId": 0,
-    "consumable": true,
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": "0",
-      "type": 0,
-      "variance": 20
-    },
-    "description": "",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 0,
-    "itypeId": 1,
-    "name": "",
-    "note": "",
-    "occasion": 0,
-    "price": 0,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0
-  },
-  {
-    "id": 36,
-    "animationId": 0,
-    "consumable": true,
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": "0",
-      "type": 0,
-      "variance": 20
-    },
-    "description": "",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 0,
-    "itypeId": 1,
-    "name": "",
-    "note": "",
-    "occasion": 0,
-    "price": 0,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0
-  },
-  {
-    "id": 37,
-    "animationId": 0,
-    "consumable": true,
-    "effects": [
-      {
-        "code": 11,
-        "dataId": 0,
-        "value1": 0,
-        "value2": 120
-      }
-    ],
-    "hitType": 0,
-    "iconIndex": 0,
-    "itypeId": 1,
-    "name": "-----Key Items-----",
-    "note": "",
-    "occasion": 2,
-    "price": 10,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": 0,
-      "elementId": 0,
-      "formula": "0",
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "-----大事なもの"
-    }
-  },
-  {
-    "id": 38,
-    "animationId": 0,
-    "consumable": false,
-    "description": "A permit allowing passage across the\nArseleon Great Bridge. Presenting this",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 190,
-    "itypeId": 2,
-    "name": "Arseleon Great Bridge Pass",
-    "note": "",
-    "occasion": 3,
-    "price": 0,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "アーセレオン大橋通行証",
-      "description": "アーセレオン大橋を通行できる許可証。\r\nこれを見せれば大橋を渡る許可がもらえる"
-    }
-  },
-  {
-    "id": 39,
-    "animationId": 0,
-    "consumable": false,
-    "description": "A worn cup found deep within the Kawill\nRuins. It has a line inside―something",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 226,
-    "itypeId": 2,
-    "name": "Cup",
-    "note": "",
-    "occasion": 3,
-    "price": 0,
-    "repeats": 1,
-    "scope": 0,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "杯",
-      "description": "カウィル遺跡の奥深くに鎮座していたボロい杯。中に線が\r\nあり、そこまで何かを溜める必要があるようだが…？"
-    }
-  },
-  {
-    "id": 40,
-    "animationId": 0,
-    "consumable": false,
-    "description": "A ticket granting entry to the Comedy\nBattle Tournament. Resale is strictly",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 193,
-    "itypeId": 2,
-    "name": "Comedy BT Entry Ticket",
-    "note": "",
-    "occasion": 3,
-    "price": 0,
-    "repeats": 1,
-    "scope": 0,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "お笑いBT参加チケット",
-      "description": "お笑いバトルトーナメントに参加する権利を持つチケット\n転売は固く禁じられている。"
-    }
-  },
-  {
-    "id": 41,
-    "animationId": 0,
-    "consumable": false,
-    "description": "A certificate proving service to\nArseleon. With this, you can obtain a",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 190,
-    "itypeId": 2,
-    "name": "Guild Quest Completion Certificate",
-    "note": "",
-    "occasion": 3,
-    "price": 0,
-    "repeats": 1,
-    "scope": 0,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "ギルド任務完了証",
-      "description": "アーセレオンのために働いた証明書。\r\nこれがあれば大橋の通行証を手に入れることが出来る"
-    }
-  },
-  {
-    "id": 42,
-    "animationId": 0,
-    "consumable": true,
-    "description": "A tiny crystal no bigger than a pinky\nfinger. Selling it might fetch a decent",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 300,
-    "itypeId": 2,
-    "name": "Small Crystal",
-    "note": "",
-    "occasion": 3,
-    "price": 0,
-    "repeats": 1,
-    "scope": 0,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "小さな水晶",
-      "description": "小指の先ほどの小さな水晶。売れば多少は金になるか？"
-    }
-  },
-  {
-    "id": 43,
-    "animationId": 0,
-    "consumable": true,
-    "description": "What Milee is trying to transport to\nthe royal capital.",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 191,
-    "itypeId": 2,
-    "name": "Milee's Secret Letter",
-    "note": "",
-    "occasion": 3,
-    "price": 0,
-    "repeats": 1,
-    "scope": 0,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "ミレーの密書",
-      "description": "ミレーが王都に運ぼうとしているもの。"
-    }
-  },
-  {
-    "id": 44,
-    "animationId": 0,
-    "consumable": true,
-    "description": "Read as <Lion Explosion>. A thin iron\nsphere inscribed with a magic circle.",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 163,
-    "itypeId": 2,
-    "name": "Thunder Explosion Orb",
-    "note": "",
-    "occasion": 3,
-    "price": 0,
-    "repeats": 1,
-    "scope": 0,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": "0",
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "雷音爆珠",
-      "description": "＜らいおんばくじゅ＞と読む。薄い鉄の玉の中に魔法陣が\r\n描かれており、投げると炸裂し大きな音が鳴る（試供品）"
-    }
-  },
-  {
-    "id": 45,
-    "animationId": 0,
-    "consumable": true,
-    "description": "Not an ordinary bird egg―it's a Phoenix\negg. ...Can you even eat it?",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 268,
-    "itypeId": 2,
-    "name": "Large Bird Egg",
-    "note": "",
-    "occasion": 3,
-    "price": 0,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "大きな鳥の卵",
-      "description": "普通の鳥ではなくフェニックスの卵。\r\n食べられるのか…？"
-    }
-  },
-  {
-    "id": 46,
-    "animationId": 0,
-    "consumable": true,
-    "description": "A diary I keep every day without fail\nas a hobby. It's not meant to be shown",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 187,
-    "itypeId": 2,
-    "name": "Kyle's Diary",
-    "note": "",
-    "occasion": 3,
-    "price": 0,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "カイルの日記",
-      "description": "趣味として毎日欠かさずつけている日記。人に見せるもの\nではなく、自分の記憶を掘り起こすのに使っている。"
-    }
-  },
-  {
-    "id": 47,
-    "animationId": 0,
-    "consumable": true,
-    "description": "A contraceptive worn over the penis. It\ncan block sperm and prevent pregnancy.",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 208,
-    "itypeId": 1,
-    "name": "Condom",
-    "note": "",
-    "occasion": 3,
-    "price": 20,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "コンドーム",
-      "description": "陰茎に被せて使う避妊具。精子をせき止め妊娠を防ぐことが\n出来る。冒険者の必需品。常に忍ばせておこう"
-    }
-  },
-  {
-    "id": 48,
-    "animationId": 0,
-    "consumable": false,
-    "description": "A legendary treasure said to have been\nhidden by a bandit gang that once",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 300,
-    "itypeId": 2,
-    "name": "Bandit Gang's Hidden Treasure",
-    "note": "",
-    "occasion": 3,
-    "price": 0,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": "0",
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "盗賊団の隠し宝",
-      "description": "その昔ヴァルディーン地方を荒らしまわっていた盗賊団が\n隠したと言われていた秘宝。価値があるのかどうかは不明"
-    }
-  },
-  {
-    "id": 49,
-    "animationId": 0,
-    "consumable": false,
-    "description": "A key someone dropped somewhere. Should\nI just sell it? No one knows what it's",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 195,
-    "itypeId": 2,
-    "name": "Lost Key",
-    "note": "",
-    "occasion": 3,
-    "price": 1000,
-    "repeats": 1,
-    "scope": 0,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "落とし物の鍵",
-      "description": "どこかで誰かが落とした鍵。勝手に売っていいんだろうか。\nどこで使うものなのかも不明。"
-    }
-  },
-  {
-    "id": 50,
-    "animationId": 0,
-    "consumable": false,
-    "description": "",
-    "effects": [
-      {
-        "code": 44,
-        "dataId": 45,
-        "value1": 1,
-        "value2": 0
-      }
-    ],
-    "hitType": 0,
-    "iconIndex": 303,
-    "itypeId": 2,
-    "name": "",
-    "note": "",
-    "occasion": 2,
-    "price": 0,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": "0",
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "ログストーン",
-      "description": "特定の村にまで瞬時に戻ることが出来る魔法石。\nこの石には「聖域の森の入り口」が登録されている"
-    }
-  },
-  {
-    "id": 51,
-    "animationId": 0,
-    "consumable": false,
-    "description": "",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 190,
-    "itypeId": 2,
-    "name": "",
-    "note": "",
-    "occasion": 3,
-    "price": 0,
-    "repeats": 1,
-    "scope": 0,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "白紙の聖符",
-      "description": "呪いを解くために使う清浄な符。呪いをその書き換えられた\n事実まで写す事が出来る。だが、聖域でしか使えない。"
-    }
-  },
-  {
-    "id": 52,
-    "animationId": 0,
-    "consumable": true,
-    "description": "",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 0,
-    "itypeId": 1,
-    "name": "",
-    "note": "",
-    "occasion": 0,
-    "price": 0,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    }
-  },
-  {
-    "id": 53,
-    "animationId": 0,
-    "consumable": true,
-    "description": "",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 0,
-    "itypeId": 1,
-    "name": "",
-    "note": "",
-    "occasion": 0,
-    "price": 0,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    }
-  },
-  {
-    "id": 54,
-    "animationId": 0,
-    "consumable": true,
-    "description": "",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 0,
-    "itypeId": 1,
-    "name": "",
-    "note": "",
-    "occasion": 0,
-    "price": 0,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    }
-  },
-  {
-    "id": 55,
-    "animationId": 0,
-    "consumable": true,
-    "description": "",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 0,
-    "itypeId": 1,
-    "name": "",
-    "note": "",
-    "occasion": 0,
-    "price": 0,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    }
-  },
-  {
-    "id": 56,
-    "animationId": 0,
-    "consumable": true,
-    "description": "",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 0,
-    "itypeId": 1,
-    "name": "",
-    "note": "",
-    "occasion": 0,
-    "price": 0,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    }
-  },
-  {
-    "id": 57,
-    "animationId": 0,
-    "consumable": true,
-    "description": "",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 0,
-    "itypeId": 1,
-    "name": "",
-    "note": "",
-    "occasion": 0,
-    "price": 0,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    }
-  },
-  {
-    "id": 58,
-    "animationId": 0,
-    "consumable": true,
-    "description": "",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 0,
-    "itypeId": 1,
-    "name": "",
-    "note": "",
-    "occasion": 0,
-    "price": 0,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    }
-  },
-  {
-    "id": 59,
-    "animationId": 0,
-    "consumable": true,
-    "description": "",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 0,
-    "itypeId": 1,
-    "name": "",
-    "note": "",
-    "occasion": 0,
-    "price": 0,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    }
-  },
-  {
-    "id": 60,
-    "animationId": 0,
-    "consumable": true,
-    "description": "",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 0,
-    "itypeId": 1,
-    "name": "",
-    "note": "",
-    "occasion": 0,
-    "price": 0,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    }
-  },
-  {
-    "id": 61,
-    "animationId": 0,
-    "consumable": true,
-    "description": "",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 0,
-    "itypeId": 1,
-    "name": "--- Collectibles ---",
-    "note": "",
-    "occasion": 0,
-    "price": 0,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "--- 収集アイテム ---"
-    }
-  },
-  {
-    "id": 62,
-    "animationId": 0,
-    "consumable": false,
-    "description": "[Sell-Only]Slime jelly. Used in\ncooking, cooling, and various other",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 171,
-    "itypeId": 1,
-    "name": "Slime Jelly",
-    "note": "",
-    "occasion": 3,
-    "price": 38,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "スライムゼリー",
-      "description": "【売却専用】スライムから取れるゼリー。食材に冷却にと\n色んな使い方が出来て重宝されている。中は無菌。"
-    }
-  },
-  {
-    "id": 63,
-    "animationId": 0,
-    "consumable": true,
-    "description": "[Sell-Only]Feathers shed by a large\ncrow. Lightweight and durable, they're",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 288,
-    "itypeId": 1,
-    "name": "Giant Crow Feather",
-    "note": "",
-    "occasion": 3,
-    "price": 42,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "大カラスの羽",
-      "description": "【売却専用】大カラスが落とす羽、軽く、丈夫。\n加工にも使えてそこそこ人気がある。"
-    }
-  },
-  {
-    "id": 64,
-    "animationId": 0,
-    "consumable": true,
-    "description": "[Sell-Only]Fairy scale dust. Used in\nmedicines and the like.",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 304,
-    "itypeId": 1,
-    "name": "Fairy Scales",
-    "note": "",
-    "occasion": 3,
-    "price": 47,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "フェアリーの鱗粉",
-      "description": "【売却専用】フェアリーの羽から取れる鱗粉。\n薬などに使われる"
-    }
-  },
-  {
-    "id": 65,
-    "animationId": 0,
-    "consumable": true,
-    "description": "[Sell-Only]Searcher eye parts. A\ncollector's item that sells well.",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 302,
-    "itypeId": 1,
-    "name": "Search Eye",
-    "note": "",
-    "occasion": 3,
-    "price": 61,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "サーチアイ",
-      "description": "【売却専用】サーチャーの瞳のパーツ。\n収集品。売れる。"
-    }
-  },
-  {
-    "id": 66,
-    "animationId": 0,
-    "consumable": true,
-    "description": "[Sell-Only]The cloth wrapped around a\nGhost. Faintly imbued with magical",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 291,
-    "itypeId": 1,
-    "name": "Ghost Cloth",
-    "note": "",
-    "occasion": 3,
-    "price": 81,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "ゴーストの布",
-      "description": "【売却専用】ゴーストを包んでいる布。\nほのかに魔力を帯びている"
-    }
-  },
-  {
-    "id": 67,
-    "animationId": 0,
-    "consumable": true,
-    "description": "[Sell-Only]The large claw attached to a\nRock Crab's arm. Said to make excellent",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 260,
-    "itypeId": 1,
-    "name": "Rock Crab Claw",
-    "note": "",
-    "occasion": 3,
-    "price": 88,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "ロッククラブの爪",
-      "description": "【売却専用】ロッククラブの腕についている大きな爪。\n鍋でいいダシが取れるらしい。"
-    }
-  },
-  {
-    "id": 68,
-    "animationId": 0,
-    "consumable": true,
-    "description": "[Sell-Only]A ring someone wore. Broken,\nso it can't be equipped. A crafting",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 145,
-    "itypeId": 1,
-    "name": "Broken Ring",
-    "note": "",
-    "occasion": 3,
-    "price": 78,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "壊れた指輪",
-      "description": "【売却専用】誰かが着けていた指輪。割れているため\n装備することは出来ない。加工品"
-    }
-  },
-  {
-    "id": 69,
-    "animationId": 0,
-    "consumable": true,
-    "description": "[Sell-Only]A broken part. Said to fetch\na high price among collectors.",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 306,
-    "itypeId": 1,
-    "name": "Mysterious Part",
-    "note": "",
-    "occasion": 3,
-    "price": 98,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "謎のパーツ",
-      "description": "【売却専用】壊れた部品。\n好事家に高値で売れるらしい。"
-    }
-  },
-  {
-    "id": 70,
-    "animationId": 0,
-    "consumable": true,
-    "description": "[Sell-Only]Exquisitely delicious\nlobster tail. Can also be used for",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 291,
-    "itypeId": 1,
-    "name": "Lobster Tail",
-    "note": "",
-    "occasion": 3,
-    "price": 101,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "ロブスターの尻尾",
-      "description": "【売却専用】とっても美味しいロブスターの尻尾。\nダシも取れたりしてスープにしても美味い。"
-    }
-  },
-  {
-    "id": 71,
-    "animationId": 0,
-    "consumable": true,
-    "description": "[Sell-Only]Jelly extracted from a Red\nSlime. Edible, but spicy―best for",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 168,
-    "itypeId": 1,
-    "name": "Red Slime Jelly",
-    "note": "",
-    "occasion": 3,
-    "price": 180,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "レッドスライムゼリー",
-      "description": "【売却専用】レッドスライムから取れるゼリー。食材にも\n使えるが辛味があり、大人向け。"
-    }
-  },
-  {
-    "id": 72,
-    "animationId": 0,
-    "consumable": true,
-    "description": "[Sell-Only]Fire Rabbit ears are soft\nand fluffy, used for clothing and",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 291,
-    "itypeId": 1,
-    "name": "Fire Rabbit Ear",
-    "note": "",
-    "occasion": 3,
-    "price": 167,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "ファイアラビットの耳",
-      "description": "【売却専用】ファイアラビットの耳はふわふわとした感触で\n洋服や装飾品に使う。食材には向かない。"
-    }
-  },
-  {
-    "id": 73,
-    "animationId": 0,
-    "consumable": true,
-    "description": "[Sell-Only]The frill of a Frilled\nLizard. Used as a material for magical",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 288,
-    "itypeId": 1,
-    "name": "Frilled Lizard Frill",
-    "note": "",
-    "occasion": 3,
-    "price": 141,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "エリマキトカゲのエリ",
-      "description": "【売却専用】エリマキトカゲのエリの部分。魔道具の素材に\n使われたりする"
-    }
-  },
-  {
-    "id": 74,
-    "animationId": 0,
-    "consumable": true,
-    "description": "[Sell-Only]The tail of a Salamander.\nUsed as a catalyst for fire-element",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 294,
-    "itypeId": 1,
-    "name": "Salamander Tail",
-    "note": "",
-    "occasion": 3,
-    "price": 178,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "サラマンダーの尻尾",
-      "description": "【売却専用】サラマンダーから取れる尻尾の部分。炎系の\n魔道具の触媒に使われる"
-    }
-  },
-  {
-    "id": 75,
-    "animationId": 0,
-    "consumable": false,
-    "description": "[Sell-Only]A red mushroom. Edible and\ncommonly used in households.",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 261,
-    "itypeId": 1,
-    "name": "Red Mushroom",
-    "note": "",
-    "occasion": 3,
-    "price": 23,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "赤いキノコ",
-      "description": "【売却専用】赤いキノコ。食用出来るため、一般家庭でも\nよく使われている。"
-    }
-  },
-  {
-    "id": 76,
-    "animationId": 0,
-    "consumable": true,
-    "description": "[Sell-Only]A small white flower.",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 184,
-    "itypeId": 1,
-    "name": "White Flower",
-    "note": "",
-    "occasion": 3,
-    "price": 15,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "白い花",
-      "description": "【売却専用】小さな白い花。"
-    }
-  },
-  {
-    "id": 77,
-    "animationId": 0,
-    "consumable": false,
-    "description": "[Sell-Only]A blue mushroom. Also\nedible.",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 261,
-    "itypeId": 1,
-    "name": "Blue Mushroom",
-    "note": "",
-    "occasion": 3,
-    "price": 38,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": "0",
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "青いキノコ",
-      "description": "【売却専用】青いキノコ。これも食用可能。\n"
-    }
-  },
-  {
-    "id": 78,
-    "animationId": 0,
-    "consumable": true,
-    "description": "[Sell-Only]A yellow flower. Can be\nbrewed into medicine.",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 184,
-    "itypeId": 1,
-    "name": "Yellow Flower",
-    "note": "",
-    "occasion": 3,
-    "price": 28,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": "0",
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "黄色い花",
-      "description": "【売却専用】黄色い花。煎じて薬の材料にすること\nが出来る。"
-    }
-  },
-  {
-    "id": 79,
-    "animationId": 0,
-    "consumable": true,
-    "description": "[Sell-Only]A red flower. Often used as\na gift.",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 184,
-    "itypeId": 1,
-    "name": "Red Flower",
-    "note": "",
-    "occasion": 3,
-    "price": 32,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "赤い花",
-      "description": "【売却専用】赤い花。贈り物によく使われる。"
-    }
-  },
-  {
-    "id": 80,
-    "animationId": 0,
-    "consumable": true,
-    "description": "[Sell-Only]A brown mushroom. Fragrant\nand high-grade. Also edible.",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 261,
-    "itypeId": 1,
-    "name": "Brown Mushroom",
-    "note": "",
-    "occasion": 3,
-    "price": 300,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "茶色いキノコ",
-      "description": "【売却専用】茶色いキノコ。香り高く、高級品。\nこれも食用可能。"
-    }
-  },
-  {
-    "id": 81,
-    "animationId": 0,
-    "consumable": true,
-    "description": "[Sell-Only]The fang of a great wolf\nthat dwells in Lewin Forest. A rare",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 297,
-    "itypeId": 1,
-    "name": "Baldur's Fang",
-    "note": "",
-    "occasion": 3,
-    "price": 1000,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "バルドルの牙",
-      "description": "【売却専用】ルウィンの森に住まう主、大狼の牙。\n貴重な素材のため、高価。"
-    }
-  },
-  {
-    "id": 82,
-    "animationId": 0,
-    "consumable": false,
-    "description": "A beautiful ore once commonly mined in\nCaldoon Coal Mine. Its vibrant red hue",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 168,
-    "itypeId": 2,
-    "name": "Scarred",
-    "note": "",
-    "occasion": 3,
-    "price": 1,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "スカーレッド",
-      "description": "カルドーン炭鉱でその昔よく採れた美しい鉱石。\n綺麗な赤色で加工し、アクセサリーなどに使われる。"
-    }
-  },
-  {
-    "id": 83,
-    "animationId": 0,
-    "consumable": true,
-    "description": "[Sell-Only]An ore found in old mine\nruins. Recommended for smelting or",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 301,
-    "itypeId": 1,
-    "name": "Small Ore",
-    "note": "",
-    "occasion": 3,
-    "price": 98,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": "0",
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "小さな鉱石",
-      "description": "【売却専用】鉱山跡で採れた鉱石。溶かしたり砕いたり\n加工して使う事が推奨される。鍛冶屋などが重宝。"
-    }
-  },
-  {
-    "id": 84,
-    "animationId": 0,
-    "consumable": true,
-    "description": "[Sell-Only]The bone of a mysterious\nmonster. If not weathered, it can be",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 298,
-    "itypeId": 1,
-    "name": "Monster Bone",
-    "note": "",
-    "occasion": 3,
-    "price": 89,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": "0",
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "魔物の骨",
-      "description": "【売却専用】謎の魔物の骨。風化していなければ\n加工して工芸品などに使う事が出来る。"
-    }
-  },
-  {
-    "id": 85,
-    "animationId": 0,
-    "consumable": true,
-    "description": "[Sell-Only]The shell that makes up a\nMystileg. Easy to work with and",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 268,
-    "itypeId": 1,
-    "name": "Mystileg Shell",
-    "note": "",
-    "occasion": 3,
-    "price": 101,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "ミステレグの殻",
-      "description": "【売却専用】ミステレグを構成している殻。加工しやすく\nそして固い。食器や家具などによく使われる"
-    }
-  },
-  {
-    "id": 86,
-    "animationId": 0,
-    "consumable": true,
-    "description": "[Sell-Only]A sharp kobold fang. Crafted\ninto knives and swords.",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 294,
-    "itypeId": 1,
-    "name": "Kobold Fang",
-    "note": "",
-    "occasion": 3,
-    "price": 98,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "コボルトの牙",
-      "description": "【売却専用】コボルトの鋭い牙。\n加工してナイフや剣などに使われる。"
-    }
-  },
-  {
-    "id": 87,
-    "animationId": 0,
-    "consumable": true,
-    "description": "[Sell-Only]A fragment of an ancient\ncarving. Even something like this has",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 306,
-    "itypeId": 1,
-    "name": "Ancient Sculpture Fragment",
-    "note": "",
-    "occasion": 3,
-    "price": 37,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "古代の彫刻の破片",
-      "description": "【売却専用】古い彫刻の破片。\nこんなものでも欲しがる好事家はいるものだ。"
-    }
-  },
-  {
-    "id": 88,
-    "animationId": 0,
-    "consumable": true,
-    "description": "[Sell-Only]A helmet once worn by a\nwandering knight. Sticky with something",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 132,
-    "itypeId": 1,
-    "name": "Living Statue Helm",
-    "note": "",
-    "occasion": 3,
-    "price": 228,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "リビングスタチューの兜",
-      "description": "【売却専用】彷徨える騎士の兜。\n中は何かでべっとりとしており被りたくはない。"
-    }
-  },
-  {
-    "id": 89,
-    "animationId": 0,
-    "consumable": true,
-    "description": "A large silver cup adorned with\ndecorations. Not meant for drinking,",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 180,
-    "itypeId": 2,
-    "name": "Silver Ritual Cup",
-    "note": "",
-    "occasion": 3,
-    "price": 0,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "銀の儀式杯",
-      "description": "装飾の施された銀製の大きな杯。実際に何かを飲む用では\n無く、儀式などに使われる神聖なモノのようだ。"
-    }
-  },
-  {
-    "id": 90,
-    "animationId": 0,
-    "consumable": true,
-    "description": "[Sell-Only]A section of a cactus found\nscattered in the desert. Edible and",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 183,
-    "itypeId": 1,
-    "name": "Cactus Meat",
-    "note": "",
-    "occasion": 3,
-    "price": 128,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "サボテンの肉",
-      "description": "【売却専用】砂漠に点在するサボテンの一部。\n食用、緊急時の水分補給などに使われる"
-    }
-  },
-  {
-    "id": 91,
-    "animationId": 0,
-    "consumable": true,
-    "description": "[Sell-Only]The core that makes up a Red\nSlime. Imbued with magical power and",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 168,
-    "itypeId": 1,
-    "name": "Red Slime Core",
-    "note": "",
-    "occasion": 3,
-    "price": 134,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "レッドスライムの核",
-      "description": "【売却専用】レッドスライムを構成している核。\n魔力を帯びており魔道具精製に使われる。"
-    }
-  },
-  {
-    "id": 92,
-    "animationId": 0,
-    "consumable": true,
-    "description": "A mysterious liquid sealed in an ornate\nbottle. Completely lacking in magical",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 176,
-    "itypeId": 2,
-    "name": "Noble Mirage",
-    "note": "",
-    "occasion": 3,
-    "price": 0,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    },
-    "_original": {
-      "name": "ノーブル・ミラージュ",
-      "description": "豪華な装飾が施された瓶に謎の液体が入っている。\n魔力は全くなく、味や水分補給以外の効果は無い。"
-    }
-  },
-  {
-    "id": 93,
-    "animationId": 0,
-    "consumable": true,
-    "description": "",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 0,
-    "itypeId": 1,
-    "name": "",
-    "note": "",
-    "occasion": 0,
-    "price": 0,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    }
-  },
-  {
-    "id": 94,
-    "animationId": 0,
-    "consumable": true,
-    "description": "",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 0,
-    "itypeId": 1,
-    "name": "",
-    "note": "",
-    "occasion": 0,
-    "price": 0,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    }
-  },
-  {
-    "id": 95,
-    "animationId": 0,
-    "consumable": true,
-    "description": "",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 0,
-    "itypeId": 1,
-    "name": "",
-    "note": "",
-    "occasion": 0,
-    "price": 0,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    }
-  },
-  {
-    "id": 96,
-    "animationId": 0,
-    "consumable": true,
-    "description": "",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 0,
-    "itypeId": 1,
-    "name": "",
-    "note": "",
-    "occasion": 0,
-    "price": 0,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    }
-  },
-  {
-    "id": 97,
-    "animationId": 0,
-    "consumable": true,
-    "description": "",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 0,
-    "itypeId": 1,
-    "name": "",
-    "note": "",
-    "occasion": 0,
-    "price": 0,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    }
-  },
-  {
-    "id": 98,
-    "animationId": 0,
-    "consumable": true,
-    "description": "",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 0,
-    "itypeId": 1,
-    "name": "",
-    "note": "",
-    "occasion": 0,
-    "price": 0,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    }
-  },
-  {
-    "id": 99,
-    "animationId": 0,
-    "consumable": true,
-    "description": "",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 0,
-    "itypeId": 1,
-    "name": "",
-    "note": "",
-    "occasion": 0,
-    "price": 0,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    }
-  },
-  {
-    "id": 100,
-    "animationId": 0,
-    "consumable": true,
-    "description": "",
-    "effects": [],
-    "hitType": 0,
-    "iconIndex": 0,
-    "itypeId": 1,
-    "name": "",
-    "note": "",
-    "occasion": 0,
-    "price": 0,
-    "repeats": 1,
-    "scope": 7,
-    "speed": 0,
-    "successRate": 100,
-    "tpGain": 0,
-    "params": [],
-    "damage": {
-      "critical": false,
-      "elementId": 0,
-      "formula": 0,
-      "type": 0,
-      "variance": 20
-    }
-  }
 ]

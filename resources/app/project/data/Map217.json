@@ -7010,7 +7010,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you head toward the forest leading to the"
+                "Do you head toward the forest leading to the sacred"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "grounds?"
               ]
             },
             {
@@ -7251,7 +7258,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you head toward the forest leading to the"
+                "Do you head toward the forest leading to the sacred"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "grounds?"
               ]
             },
             {
@@ -7846,6 +7860,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "villagers."
+              ]
+            },
+            {
               "code": 0,
               "indent": 0,
               "parameters": []
@@ -8151,6 +8172,13 @@
               "indent": 0,
               "parameters": [
                 "This isn't the time for that. First, let's heal the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "villagers."
               ]
             },
             {
@@ -8462,6 +8490,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "villagers."
+              ]
+            },
+            {
               "code": 0,
               "indent": 0,
               "parameters": []
@@ -8770,6 +8805,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "villagers."
+              ]
+            },
+            {
               "code": 0,
               "indent": 0,
               "parameters": []
@@ -9075,6 +9117,13 @@
               "indent": 0,
               "parameters": [
                 "This isn't the time for that. First, let's heal the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "villagers."
               ]
             },
             {
@@ -10799,7 +10848,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "just too many"
+                "just too many of them... It was over in a flash...\""
               ]
             },
             {
@@ -10890,6 +10939,13 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]Villager \"Ugh... there's so many of them all of a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "sudden...!\""
               ]
             },
             {
@@ -11728,7 +11784,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "were so many"
+                "were so many monsters... The village could've been"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "wiped out...\""
               ]
             },
             {
@@ -12049,7 +12112,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "losses. If we"
+                "losses. If we had only arrived sooner...!\""
               ]
             },
             {
@@ -12236,7 +12299,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "brink of"
+                "brink of annihilation. Surviving at all might just be a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "blessing.\""
               ]
             },
             {
@@ -12333,7 +12403,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "village. So I'm"
+                "village. So I'm counting on you, Healer.\""
               ]
             },
             {
@@ -12430,7 +12500,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the word. I'll"
+                "the word. I'll help out.\""
               ]
             },
             {
@@ -12602,6 +12672,13 @@
               ]
             },
             {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "patrol...!\""
+              ]
+            },
+            {
               "code": 0,
               "indent": 0,
               "parameters": []
@@ -12689,6 +12766,13 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]Soldier \"Everyone inside is safe. Please check on those"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "outside...!\""
               ]
             },
             {
@@ -13203,25 +13287,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the monsters"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "",
-                0,
-                0,
-                2,
-                ""
+                "the monsters off, but as you can see, it's a mess."
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "off, but as you can see, it's a mess. Please"
+                "Please lend us a hand!\""
               ]
             },
             {

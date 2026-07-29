@@ -4110,7 +4110,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "your body,"
+                "your body, please feel free to use the guest room.\""
               ]
             },
             {
@@ -4186,7 +4186,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "your body,"
+                "your body, please feel free to use the guest rooms.\""
               ]
             },
             {
@@ -4543,25 +4543,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "spell's"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "ver2/ver2_alma1",
-                1,
-                0,
-                2,
-                ""
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "overwrite is being rejected.\""
+                "spell's overwrite is being rejected.\""
               ]
             },
             {
@@ -4586,25 +4568,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "long years\\C[0], or\\C[1] intense resentment\\C[0],"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "ver2/ver2_alma1",
-                1,
-                0,
-                2,
-                ""
+                "long years\\C[0], or\\C[1] intense resentment\\C[0], or even\\C[1]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "or even\\C[1] life itself\\C[0] as a price.\""
+                "life itself\\C[0] as a price.\""
               ]
             },
             {
@@ -4856,7 +4827,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the \\C[3]Sanctuary\\C[0], a pure and sacred"
+                "the \\C[3]Sanctuary\\C[0], a pure and sacred place.\""
               ]
             },
             {
@@ -4874,50 +4845,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "place.\""
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "ver2/ver2_alma1",
-                0,
-                0,
-                2,
-                ""
+                "\\SE[0]Sister Alma \\SE[8]\"The Sanctuary is where holy"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma \\SE[8]\"The Sanctuary is a place where,"
+                "power, prayer, and faith stabilize the very"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "through"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "ver2/ver2_alma1",
-                0,
-                0,
-                2,
-                ""
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "years of prayer, faith, or the"
+                "laws of the world.\""
               ]
             },
             {
@@ -4942,25 +4884,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "overridden by \\C[3]the true facts that"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "ver2/ver2_alma1",
-                0,
-                0,
-                2,
-                ""
+                "overridden by \\C[3]the true facts that should"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "should be\\C[0].\""
+                "be\\C[0].\""
               ]
             },
             {
@@ -5217,7 +5148,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "well see it through. I'll go with"
+                "well see it through. I'll go with you.\""
               ]
             },
             {
@@ -5354,7 +5285,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "even"
+                "even treated to a meal."
               ]
             },
             {
@@ -5778,7 +5709,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "devout side'... Do"
+                "devout side'... Do you know what it means?\""
               ]
             },
             {
@@ -5803,7 +5734,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "may seem, if"
+                "may seem, if you truly believe in it, it becomes"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "precious.\""
               ]
             },
             {
@@ -5822,6 +5760,13 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]Villager \"That's what it means, apparently. What a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "wonderful saying.\""
               ]
             },
             {
@@ -5957,7 +5902,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "starting my"
+                "starting my day.\""
               ]
             },
             {
@@ -6087,6 +6032,13 @@
               "indent": 0,
               "parameters": [
                 "\\SE[0]Child \"I always play the piano here. A sister teaches"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "me.\""
               ]
             },
             {

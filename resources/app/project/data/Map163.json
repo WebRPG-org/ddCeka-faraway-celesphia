@@ -1658,7 +1658,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "pretend the"
+                "pretend the same.\""
               ]
             },
             {
@@ -1696,6 +1696,13 @@
               "indent": 2,
               "parameters": [
                 "\\SE[0]Soldier \"This area is off-limits to anyone not"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "involved.\""
               ]
             },
             {
@@ -1977,7 +1984,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "been repurposed"
+                "been repurposed as a soldier's quarters."
               ]
             },
             {
