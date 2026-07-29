@@ -1,199 +1,181 @@
-/*=============================================================================
- Linandino_Kofi.js
-----------------------------------------------------------------------------
- (C) 2026 Linandino
- English Translation & Support Plugin for RPG Maker MZ / Electron
-=============================================================================*/
+//=============================================================================
+// Linandino_Kofi.js
+//=============================================================================
 
 /*:
- * @plugindesc [v1.0] Custom credit & Ko-Fi support splash screen and title menu option for Linandino's translation patch.
- * @target MZ
+ * @target MV MZ
+ * @plugindesc Custom Credit & Ko-Fi Support Plugin.
  * @author Linandino
  * @url https://ko-fi.com/linandino
  *
  * @help Linandino_Kofi.js
  *
- * This plugin adds:
- * 1. A bootup splash screen crediting Linandino with a Ko-Fi link.
- * 2. A title screen menu option to support the translator on Ko-Fi.
- * 3. A new game welcome message in English.
+ * This plugin displays a custom English translation patch credit splash screen
+ * on bootup, adds a link to Ko-Fi in the title screen, and shows a welcome
+ * message upon starting a new game.
  */
 
-(() => {
-    'use strict';
+(function() {
+    "use strict";
 
-    const KOFI_URL = "https://ko-fi.com/linandino";
-    let _bootSplashShown = false;
+    const kofiUrl = "https://ko-fi.com/linandino";
 
-    // Helper: Universal external URL opener compatible with Electron, NW.js, and Web browsers
-    function openExternalUrl(url) {
-        if (typeof require !== 'undefined') {
-            try {
-                const { shell } = require('electron');
-                if (shell && shell.openExternal) {
-                    shell.openExternal(url);
-                    return;
-                }
-            } catch (e) {}
-            try {
-                const nwGui = require('nw.gui');
-                if (nwGui && nwGui.Shell && nwGui.Shell.openExternal) {
-                    nwGui.Shell.openExternal(url);
-                    return;
-                }
-            } catch (e) {}
-        }
-        if (window.open) {
-            window.open(url, '_blank');
+    function openKofi() {
+        if (typeof require !== 'undefined' && require('nw.gui')) {
+            require('nw.gui').Shell.openExternal(kofiUrl);
+        } else {
+            window.open(kofiUrl, "_blank");
         }
     }
 
-    // =========================================================================
-    // 1. Scene_LinandinoSplash - Bootup Splash Screen
-    // =========================================================================
-    class Scene_LinandinoSplash extends Scene_Base {
-        create() {
-            super.create();
-            this.createBackground();
-            this.createWindow();
-        }
+    //-----------------------------------------------------------------------------
+    // Scene_LinandinoSplash
+    //
+    // The scene class for the custom translation patch splash screen on bootup.
 
-        createBackground() {
-            this._bgSprite = new Sprite();
-            const bitmap = new Bitmap(Graphics.width, Graphics.height);
-            const ctx = bitmap.context;
-            const grad = ctx.createLinearGradient(0, 0, 0, Graphics.height);
-            grad.addColorStop(0, "#120826");
-            grad.addColorStop(0.5, "#1c0d38");
-            grad.addColorStop(1, "#0a0418");
-            ctx.fillStyle = grad;
-            ctx.fillRect(0, 0, Graphics.width, Graphics.height);
-            this._bgSprite.bitmap = bitmap;
-            this.addChild(this._bgSprite);
-        }
-
-        createWindow() {
-            const rect = new Rectangle(
-                (Graphics.width - 760) / 2,
-                (Graphics.height - 440) / 2,
-                760,
-                440
-            );
-            this._splashWindow = new Window_Base(rect);
-            this.addChild(this._splashWindow);
-            this.drawSplashContent();
-        }
-
-        drawSplashContent() {
-            const win = this._splashWindow;
-            win.contents.clear();
-
-            const ctx = win.contents.context;
-            ctx.strokeStyle = "#ffd700";
-            ctx.lineWidth = 2;
-            ctx.strokeRect(10, 10, win.contentsWidth() - 20, win.contentsHeight() - 20);
-
-            let y = 35;
-            win.contents.fontSize = 26;
-            win.changeTextColor("#ffd700"); // Gold
-            win.drawText("=== ENGLISH TRANSLATION PATCH ===", 0, y, win.contentsWidth(), "center");
-
-            y += 50;
-            win.contents.fontSize = 22;
-            win.changeTextColor("#e0b0ff"); // Soft Purple
-            win.drawText("Translated by: Linandino", 0, y, win.contentsWidth(), "center");
-
-            y += 55;
-            win.contents.fontSize = 17;
-            win.changeTextColor("#ffffff"); // White
-            win.drawText("If you enjoy playing this patch, please consider supporting", 0, y, win.contentsWidth(), "center");
-            
-            y += 30;
-            win.drawText("future translation projects on Ko-Fi!", 0, y, win.contentsWidth(), "center");
-
-            y += 55;
-            win.contents.fontSize = 20;
-            win.changeTextColor("#54cbf5"); // Cyan link color
-            win.drawText(KOFI_URL, 0, y, win.contentsWidth(), "center");
-
-            y += 85;
-            win.contents.fontSize = 16;
-            win.changeTextColor("#aaaaaa"); // Gray prompt
-            win.drawText("[ Click anywhere or Press Space/Enter/Z to Start ]", 0, y, win.contentsWidth(), "center");
-        }
-
-        update() {
-            super.update();
-            if (this.isTriggered()) {
-                if (TouchInput.isTriggered()) {
-                    const cx = TouchInput.x;
-                    const cy = TouchInput.y;
-                    if (cy > Graphics.height / 2 && cy < Graphics.height / 2 + 100) {
-                        openExternalUrl(KOFI_URL);
-                    }
-                }
-                SoundManager.playOk();
-                SceneManager.goto(Scene_Title);
-            }
-        }
-
-        isTriggered() {
-            return (
-                Input.isTriggered("ok") ||
-                Input.isTriggered("cancel") ||
-                Input.isTriggered("space") ||
-                TouchInput.isTriggered()
-            );
-        }
+    function Scene_LinandinoSplash() {
+        this.initialize(...arguments);
     }
 
-    window.Scene_LinandinoSplash = Scene_LinandinoSplash;
+    Scene_LinandinoSplash.prototype = Object.create(Scene_Base.prototype);
+    Scene_LinandinoSplash.prototype.constructor = Scene_LinandinoSplash;
 
-    const _Scene_Title_start = Scene_Title.prototype.start;
-    Scene_Title.prototype.start = function() {
-        if (!_bootSplashShown) {
-            _bootSplashShown = true;
-            SceneManager.goto(Scene_LinandinoSplash);
-            return;
-        }
-        _Scene_Title_start.call(this);
+    Scene_LinandinoSplash.prototype.initialize = function() {
+        Scene_Base.prototype.initialize.call(this);
     };
 
-    const _Window_TitleCommand_makeCommandList = Window_TitleCommand.prototype.makeCommandList;
+    Scene_LinandinoSplash.prototype.create = function() {
+        Scene_Base.prototype.create.call(this);
+        this.createBackground();
+        this.createSplashWindow();
+    };
+
+    Scene_LinandinoSplash.prototype.createBackground = function() {
+        this._bgSprite = new Sprite();
+        this._bgSprite.bitmap = new Bitmap(Graphics.width, Graphics.height);
+        this._bgSprite.bitmap.fillAll("#1E112A"); // Dark purple background
+        this.addChild(this._bgSprite);
+    };
+
+    Scene_LinandinoSplash.prototype.createSplashWindow = function() {
+        this._splashSprite = new Sprite();
+        this._splashSprite.bitmap = new Bitmap(Graphics.width, Graphics.height);
+        this.addChild(this._splashSprite);
+
+        const bitmap = this._splashSprite.bitmap;
+
+        // Draw Gold borders
+        bitmap.fillRect(20, 20, Graphics.width - 40, 4, "#D4AF37");
+        bitmap.fillRect(20, Graphics.height - 24, Graphics.width - 40, 4, "#D4AF37");
+        bitmap.fillRect(20, 20, 4, Graphics.height - 40, "#D4AF37");
+        bitmap.fillRect(Graphics.width - 24, 20, 4, Graphics.height - 40, "#D4AF37");
+
+        // Header
+        bitmap.textColor = "#D4AF37";
+        bitmap.fontSize = 32;
+        bitmap.fontFace = "sans-serif";
+        bitmap.drawText("=== ENGLISH TRANSLATION PATCH ===", 0, 100, Graphics.width, 40, "center");
+
+        // Subtitle
+        bitmap.textColor = "#ffffff";
+        bitmap.fontSize = 24;
+        bitmap.drawText("Translated by: Linandino", 0, 180, Graphics.width, 30, "center");
+
+        // Description
+        bitmap.fontSize = 20;
+        bitmap.drawText("If you enjoy playing this patch, please consider", 0, 260, Graphics.width, 30, "center");
+        bitmap.drawText("supporting future translation projects on Ko-Fi!", 0, 300, Graphics.width, 30, "center");
+
+        // Link
+        bitmap.textColor = "#5dbbf2";
+        bitmap.fontSize = 22;
+        bitmap.drawText(kofiUrl, 0, 380, Graphics.width, 30, "center");
+
+        // Prompt
+        bitmap.textColor = "#888888";
+        bitmap.fontSize = 18;
+        bitmap.drawText("[ Click anywhere or Press Space/Enter/Z to Start ]", 0, 480, Graphics.width, 30, "center");
+
+        const urlWidth = bitmap.measureTextWidth(kofiUrl);
+        this._urlRect = {
+            x: (Graphics.width - urlWidth) / 2,
+            y: 380,
+            width: urlWidth,
+            height: 30
+        };
+    };
+
+    Scene_LinandinoSplash.prototype.update = function() {
+        Scene_Base.prototype.update.call(this);
+
+        if (Input.isTriggered("ok") || TouchInput.isTriggered()) {
+            if (TouchInput.isTriggered()) {
+                const tx = TouchInput.x;
+                const ty = TouchInput.y;
+                if (tx >= this._urlRect.x && tx <= this._urlRect.x + this._urlRect.width &&
+                    ty >= this._urlRect.y && ty <= this._urlRect.y + this._urlRect.height) {
+                    openKofi();
+                    TouchInput.clear();
+                    return;
+                }
+            }
+            this.goToTitle();
+        }
+    };
+
+    Scene_LinandinoSplash.prototype.goToTitle = function() {
+        SoundManager.playOk();
+        SceneManager.goto(Scene_Title);
+    };
+
+    //-----------------------------------------------------------------------------
+    // Boot Interception Hook
+    //
+
+    let _Scene_Title_start = Scene_Title.prototype.start;
+    let _hasShownSplash = false;
+
+    Scene_Title.prototype.start = function() {
+        if (!_hasShownSplash) {
+            _hasShownSplash = true;
+            SceneManager.goto(Scene_LinandinoSplash);
+        } else {
+            _Scene_Title_start.call(this);
+        }
+    };
+
+    //-----------------------------------------------------------------------------
+    // Title Menu Commands Hook
+    //
+
+    let _Window_TitleCommand_makeCommandList = Window_TitleCommand.prototype.makeCommandList;
     Window_TitleCommand.prototype.makeCommandList = function() {
         _Window_TitleCommand_makeCommandList.call(this);
-        this.addCommand("Support Translator (Ko-Fi)", "kofiSupport");
+        this.addCommand("Support Translator (Ko-Fi)", "linandinoKofi");
     };
 
-    const _Scene_Title_createCommandWindow = Scene_Title.prototype.createCommandWindow;
+    let _Scene_Title_createCommandWindow = Scene_Title.prototype.createCommandWindow;
     Scene_Title.prototype.createCommandWindow = function() {
         _Scene_Title_createCommandWindow.call(this);
-        this._commandWindow.setHandler("kofiSupport", this.commandKofiSupport.bind(this));
+        this._commandWindow.setHandler("linandinoKofi", this.commandLinandinoKofi.bind(this));
     };
 
-    Scene_Title.prototype.commandKofiSupport = function() {
-        openExternalUrl(KOFI_URL);
+    Scene_Title.prototype.commandLinandinoKofi = function() {
+        openKofi();
         this._commandWindow.activate();
     };
 
-    let _shouldShowWelcomeMessage = false;
+    //-----------------------------------------------------------------------------
+    // Setup New Game Message Hook
+    //
 
-    const _DataManager_setupNewGame = DataManager.setupNewGame;
+    let _DataManager_setupNewGame = DataManager.setupNewGame;
     DataManager.setupNewGame = function() {
         _DataManager_setupNewGame.call(this);
-        _shouldShowWelcomeMessage = true;
-    };
-
-    const _Scene_Map_start = Scene_Map.prototype.start;
-    Scene_Map.prototype.start = function() {
-        _Scene_Map_start.call(this);
-        if (_shouldShowWelcomeMessage) {
-            _shouldShowWelcomeMessage = false;
-            $gameMessage.add("=== English Translation by Linandino ===");
-            $gameMessage.add("Thank you for playing! If you enjoy this patch,");
-            $gameMessage.add("please consider supporting future translations:");
-            $gameMessage.add(KOFI_URL);
-        }
+        $gameMessage.add("=== English Translation by Linandino ===");
+        $gameMessage.add("Thank you for playing! If you enjoy this patch,");
+        $gameMessage.add("please consider supporting future translations on");
+        $gameMessage.add("Ko-Fi: https://ko-fi.com/linandino");
     };
 
 })();

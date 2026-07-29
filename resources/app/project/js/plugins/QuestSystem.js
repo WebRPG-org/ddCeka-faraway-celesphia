@@ -2179,6 +2179,47 @@ var QuestSystem;
         constructor(window) {
             this._window = window;
         }
+        wordWrapText(text, width) {
+            const lines = text.split("\n");
+            const wrappedLines = [];
+            
+            for (const line of lines) {
+                const tokens = line.split(/(\s+)/);
+                let currentLine = "";
+                
+                for (const token of tokens) {
+                    if (!token) continue;
+                    
+                    if (this._window.textWidth(currentLine + token) < width) {
+                        currentLine += token;
+                    } else {
+                        if (/^\s+$/.test(token)) {
+                            if (currentLine) wrappedLines.push(currentLine);
+                            currentLine = "";
+                        } else {
+                            if (this._window.textWidth(token) >= width) {
+                                const chars = token.split("");
+                                for (const char of chars) {
+                                    if (this._window.textWidth(currentLine + char) < width) {
+                                        currentLine += char;
+                                    } else {
+                                        if (currentLine) wrappedLines.push(currentLine);
+                                        currentLine = char;
+                                    }
+                                }
+                            } else {
+                                if (currentLine) wrappedLines.push(currentLine);
+                                currentLine = token;
+                            }
+                        }
+                    }
+                }
+                if (currentLine) {
+                    wrappedLines.push(currentLine);
+                }
+            }
+            return wrappedLines.join("\n");
+        }
         drawIconText(text, iconIndex, x, y, width) {
             return this.drawIconTextByMode(text, iconIndex, x, y, width, "normal");
         }
@@ -2188,27 +2229,7 @@ var QuestSystem;
         drawTextExWrap(text, x, y, width) {
             this._window.resetFontSettings();
             const textState = this._window.createTextState(text, x, y, width);
-            const textArray = textState.text.split("");
-            const outTextArray = [];
-            let begin = 0;
-            let turnPoint = 0;
-            for (let i = 0; i < textArray.length; i++) {
-                outTextArray.push(textArray[i]);
-                const end = begin + turnPoint + 2; // +2 is length and next char.
-                if (textArray[i] === "\n") {
-                    begin += turnPoint;
-                    turnPoint = 1;
-                }
-                else if (this.isTextTurn(textArray, begin, end, width)) {
-                    outTextArray.push("\n");
-                    begin += turnPoint;
-                    turnPoint = 0;
-                }
-                else {
-                    turnPoint++;
-                }
-            }
-            textState.text = outTextArray.join("");
+            textState.text = this.wordWrapText(textState.text, width);
             this._window.processAllText(textState);
             return textState.text.split("\n").length;
         }
@@ -3480,7 +3501,10 @@ var QuestSystem;
                 this._drawDetailPrepared = true;
                 const height = this.height - this._detailStartYPos;
                 const lineHeight = this.itemHeight() + this.padding;
-                const pageSplitter = new PageSplitter(this._questData.detail, height, lineHeight);
+                const width = this.width - this.padding * 2 - 24;
+                const textDrawer = new TextDrawer(this);
+                const wrappedDetail = textDrawer.wordWrapText(this._questData.detail, width);
+                const pageSplitter = new PageSplitter(wrappedDetail, height, lineHeight);
                 this._detailPages = pageSplitter.doSplit();
                 this._maxPage = this._detailPages.length;
             }

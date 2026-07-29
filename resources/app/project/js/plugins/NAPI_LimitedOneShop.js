@@ -183,7 +183,7 @@ Window_ShopBuy.prototype.drawItem = function(index) {
                 this.drawText(this.price(item), rect.x + rect.width - priceWidth,
                             rect.y, priceWidth, 'right');
             }else{
-                this.drawText("売切れ", rect.x + rect.width - priceWidth,
+                this.drawText("Sold Out", rect.x + rect.width - priceWidth,
                             rect.y, priceWidth, 'right');
             }
             this.changePaintOpacity(true);
@@ -200,7 +200,7 @@ Window_ShopBuy.prototype.drawItem = function(index) {
             if($gameSystem._napiLsStockList[shopName][index]>=1){
                 this.drawText(price, priceX, rect.y, priceWidth, 'right');
             }else{
-                this.drawText("売切れ", priceX, rect.y, priceWidth, 'right');
+                this.drawText("Sold Out", priceX, rect.y, priceWidth, 'right');
             }
             this.changePaintOpacity(true);
         }

@@ -1,4 +1,4 @@
-﻿// =============================================================================
+// =============================================================================
 // ABMZ_EnemyBook.js
 // Version: 1.43
 // -----------------------------------------------------------------------------
@@ -1953,9 +1953,9 @@
 (function() {
 	"use strict";
 	var parameters = PluginManager.parameters('ABMZ_EnemyBook');
-	var EnemyBookCommandName = (parameters['EnemyBookCommandName'] || "敵の情報");
+	var EnemyBookCommandName = (parameters['EnemyBookCommandName'] || "Enemy Info");
 	var ShowCommandInBattle = (parameters['ShowCommandInBattle'] == 1) ? true : false;
-	var EnemyBookAllCommandName = (parameters['EnemyBookAllCommandName'] || "図鑑");
+	var EnemyBookAllCommandName = (parameters['EnemyBookAllCommandName'] || "Bestiary");
 	var ShowAllBookCommandInBattle = (parameters['ShowAllBookCommandInBattle'] == 1) ? true : false;
 	var ResisterTiming = Number(parameters['ResisterTiming']);
 	var Achievement = String(parameters['Achievement'] || "");
@@ -2012,23 +2012,23 @@
 	var DispDropItems = (parameters['DispDropItems'] == 1) ? true : false;
 	var dispRates = [];
 	dispRates[1] = (parameters['DispResistElement'] == 1) ? true : false;
-	var ResistElementName = String(parameters['ResistElementName'] || "耐性属性");
+	var ResistElementName = String(parameters['ResistElementName'] || "Resistances");
 	dispRates[0] = (parameters['DispWeakElement'] == 1) ? true : false;
-	var WeakElementName = String(parameters['WeakElementName'] || "弱点属性");
+	var WeakElementName = String(parameters['WeakElementName'] || "Weaknesses");
 	dispRates[3] = (parameters['DispResistState'] == 1) ? true : false;
-	var ResistStateName = String(parameters['ResistStateName'] || "耐性ステート");
+	var ResistStateName = String(parameters['ResistStateName'] || "Resist States");
 	dispRates[2] = (parameters['DispWeakState'] == 1) ? true : false;
-	var WeakStateName = String(parameters['WeakStateName'] || "弱点ステート");
+	var WeakStateName = String(parameters['WeakStateName'] || "Weak States");
 	dispRates[4] = (parameters['DispNoEffectState'] == 1) ? true : false;
-	var NoEffectStateName = String(parameters['NoEffectStateName'] || "無効ステート");
+	var NoEffectStateName = String(parameters['NoEffectStateName'] || "Immune States");
 	var UnknownDropItemIcon = Number(parameters['UnknownDropItemIcon']);
 	if (UnknownDropItemIcon === Number.NaN) UnknownDropItemIcon = 0;
-	var DefeatNumberName = String(parameters['DefeatNumberName'] || "倒した数");
+	var DefeatNumberName = String(parameters['DefeatNumberName'] || "Defeated");
 	var ElementIcons = (parameters['ElementIcons']).split(" ");
 	var a = [0];
 	ElementIcons = a.concat(ElementIcons);
-	var HitRateName = String(parameters['HitRateName'] || "命中率");
-	var EvadeRateName = String(parameters['EvadeRateName'] || "回避率");
+	var HitRateName = String(parameters['HitRateName'] || "Accuracy");
+	var EvadeRateName = String(parameters['EvadeRateName'] || "Evasion");
 
 	if (!Imported) var Imported = {};
 //=============================================================================
