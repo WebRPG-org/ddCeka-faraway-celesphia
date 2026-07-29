@@ -18223,14 +18223,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Wow, elves are truly rare around these eastern borderlands...\""
+                "\\SE[1]\"Wow, elves are truly rare around these eastern"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "...2... ...」"
+                "borderlands...\""
               ]
             },
             {
@@ -18601,6 +18601,16 @@
               ]
             },
             {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
               "code": 401,
               "indent": 0,
               "parameters": [
@@ -18659,14 +18669,24 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "through and get caught, we're definitely"
+                "through and get caught, we're"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                0,
+                0,
+                2
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "going to jail.\""
+                "definitely"
               ]
             },
             {
@@ -23056,7 +23076,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]their efforts at the Kawill Ruins yielding nothing."
+                "\\SE[0]their efforts at the Kawill Ruins yielding"
               ]
             },
             {
@@ -23114,14 +23134,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]She slumped her shoulders and was about to leave the"
+                "\\SE[0]She slumped her shoulders and was about to leave"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "guild when―"
+                "the"
               ]
             },
             {
@@ -23138,14 +23158,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild staff: \"Ah, Luna! Right, right, I have something"
+                "\\SE[0]Guild staff: \"Ah, Luna! Right, right, I have"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "to tell you.\""
+                "something"
               ]
             },
             {
@@ -23179,14 +23199,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild staff: \"I heard you took down a bandit gang the"
+                "\\SE[0]Guild staff: \"I heard you took down a bandit"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "other day.\""
+                "gang the"
               ]
             },
             {
@@ -23220,14 +23240,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild staff: \"Please accept this. The bounty was 10"
+                "\\SE[0]Guild staff: \"Please accept this. The bounty was"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "gold.\""
+                "10"
               ]
             },
             {
@@ -31366,7 +31386,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I'm terribly sorry! We're fully booked at the moment...!"
+                "\"I'm terribly sorry! We're fully booked at the"
               ]
             },
             {
@@ -33309,7 +33329,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "world, but this one's especially huge.\""
+                "world, but this one's especially"
               ]
             },
             {
@@ -33939,14 +33959,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"God's blessing is truly amazing, isn't it? It depends on"
+                "\"God's blessing is truly amazing, isn't it? It"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the amount of magical power,\""
+                "depends on"
               ]
             },
             {
@@ -33996,7 +34016,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Lost blood can't be returned, nor can hunger be...\""
+                "\"Lost blood can't be returned, nor can hunger"
               ]
             },
             {
@@ -34021,7 +34041,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"And once lost, life... cannot be brought back...\""
+                "\"And once lost, life... cannot be brought"
               ]
             },
             {
@@ -34428,7 +34448,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"You have to complete the quests the Guild assigns.\""
+                "\"You have to complete the quests the Guild"
               ]
             },
             {
@@ -34564,14 +34584,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Beautiful, isn't it? The whole city was renovated with the"
+                "\"Beautiful, isn't it? The whole city was"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Merchant House's money.\""
+                "renovated with the"
               ]
             },
             {
@@ -34596,7 +34616,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"The taxes are a bit higher than other towns, but..."
+                "\"The taxes are a bit higher than other towns,"
               ]
             },
             {
@@ -34876,14 +34896,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"If you're heading to the Kawill Ruins, there's something"
+                "\"If you're heading to the Kawill Ruins, there's"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "you should be careful about.\""
+                "something"
               ]
             },
             {
@@ -34908,7 +34928,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Beware of the wandering monster, the \\\"Living Statue.\\\"\""
+                "\"Beware of the wandering monster, the \\\"Living"
               ]
             },
             {
@@ -34933,14 +34953,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It's quite strong―even seasoned adventurers have been"
+                "\"It's quite strong―even seasoned adventurers"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "turned away by it.\""
+                "have been"
               ]
             },
             {
@@ -34965,7 +34985,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"And even if you manage to take it down, it just respawns.\""
+                "\"And even if you manage to take it down, it just"
               ]
             },
             {
@@ -34990,14 +35010,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It's wise to stay away. Unless you're a fool who doesn't"
+                "\"It's wise to stay away. Unless you're a fool"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "value your life, that is.\""
+                "who doesn't"
               ]
             },
             {
@@ -35082,14 +35102,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This is the weapons and armor shop. The performance of the"
+                "\"This is the weapons and armor shop. The"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "weapons and armor around here is"
+                "performance of the"
               ]
             },
             {
@@ -35174,7 +35194,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"The Arseleon Merchant House is up these stairs.\""
+                "\"The Arseleon Merchant House is up these"
               ]
             },
             {
@@ -35259,14 +35279,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"If you have business, please take the stairs and enter"
+                "\"If you have business, please take the stairs"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "inside."
+                "and enter"
               ]
             },
             {
@@ -35351,14 +35371,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"If you have business, please take the stairs and enter"
+                "\"If you have business, please take the stairs"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "inside."
+                "and enter"
               ]
             },
             {
@@ -35443,14 +35463,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"If you have business, please take the stairs and enter"
+                "\"If you have business, please take the stairs"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "inside."
+                "and enter"
               ]
             },
             {
@@ -35535,14 +35555,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"There are a lot of soldiers around here, right? They're all"
+                "\"There are a lot of soldiers around here, right?"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "hired by the Merchant House.\""
+                "They're all"
               ]
             },
             {
@@ -35567,14 +35587,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"The pay's good, so everyone's motivated. That's why the"
+                "\"The pay's good, so everyone's motivated. That's"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "city's"
+                "why the"
               ]
             },
             {
@@ -35659,14 +35679,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I wanna upgrade my gear with mithril here, but it's gonna"
+                "\"I wanna upgrade my gear with mithril here, but"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "cost me"
+                "it's gonna"
               ]
             },
             {
@@ -35776,14 +35796,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"We're the second most numerous race after humans, but even"
+                "\"We're the second most numerous race after"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "so...\""
+                "humans, but even"
               ]
             },
             {
@@ -35808,14 +35828,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Back in the day, we were persecuted, but now that's all in"
+                "\"Back in the day, we were persecuted, but now"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the past.\""
+                "that's all in"
               ]
             },
             {
@@ -35840,14 +35860,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It's a good world now, isn't it? All thanks to the"
+                "\"It's a good world now, isn't it? All thanks to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "sacrifices of our predecessors.\""
+                "the"
               ]
             },
             {
@@ -35932,14 +35952,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"There's a festival coming up soon! There'll be food stalls"
+                "\"There's a festival coming up soon! There'll be"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "and a stage―"
+                "food stalls"
               ]
             },
             {
@@ -35964,7 +35984,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"They're already setting up, so head to the town square!\""
+                "\"They're already setting up, so head to the town"
               ]
             },
             {
@@ -36200,14 +36220,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"this Vegan region as its neighbor, but the monsters are"
+                "\"this Vegan region as its neighbor, but the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "brutal,"
+                "monsters are"
               ]
             },
             {
@@ -36232,14 +36252,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"whereas the royal capital in the Celatus region has far"
+                "\"whereas the royal capital in the Celatus region"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "fewer monsters\""
+                "has far"
               ]
             },
             {
@@ -36405,14 +36425,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"A survey team gathered, opened up the land, and built a"
+                "\"A survey team gathered, opened up the land, and"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "garrison,\""
+                "built a"
               ]
             },
             {
@@ -36437,7 +36457,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"and that's how this place came to be called Vergan Region.\""
+                "\"and that's how this place came to be called"
               ]
             },
             {
