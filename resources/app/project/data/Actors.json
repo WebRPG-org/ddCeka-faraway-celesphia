@@ -1,1 +1,270 @@
-[null,{"id":1,"battlerName":"kyle","characterIndex":0,"characterName":"player_normal","classId":21,"equips":[16,42,62,2,82],"faceIndex":0,"faceName":"player/kyle_normal","traits":[{"code":62,"dataId":3,"value":1},{"code":22,"dataId":0,"value":10}],"initialLevel":7,"maxLevel":99,"name":"Kyle","nickname":"Oracle","note":"R","profile":"Innate Trait: Blessed with divine protection, he became\na healing mage. Finding the life of a priest unsuitable \nfor him, he chose the path of an adventurer.","params":[],"damage":{"critical":"","elementId":"","formula":"","type":"","variance":""}},{"id":2,"battlerName":"runa","characterIndex":2,"characterName":"player_normal","classId":23,"equips":[31,32,0,12,90],"faceIndex":0,"faceName":"player/runa_normal","traits":[{"code":62,"dataId":3,"value":1},{"code":22,"dataId":0,"value":10}],"initialLevel":3,"maxLevel":99,"name":"Luna","nickname":"Lunatic","note":"P","profile":"A mage of the Elven race known as <Lunatic>. He usually\nruns a magical artifact shop with his mother. He set\nout on a journey to save his mother, who is suffering\nfrom an incurable illness.","params":[],"damage":{"critical":"","elementId":"","formula":"","type":"","variance":""}},{"id":3,"battlerName":"lylyan","characterIndex":1,"characterName":"player_normal","classId":22,"equips":[2,32,52,22,0],"faceIndex":0,"faceName":"player/lylyan_normal","traits":[{"code":62,"dataId":3,"value":1},{"code":22,"dataId":0,"value":10},{"code":23,"dataId":5,"value":2}],"initialLevel":5,"maxLevel":99,"name":"Lillian","nickname":"Cavalier","note":"G","profile":"An elf knight known as a \"Cavalier.\" He was once a\nmember of the Knights’ Order but took a leave of\nabsence and set out on a journey with Luna. He is large\nand very strong.","params":[],"damage":{"critical":"","elementId":"","formula":"","type":"","variance":""}},{"id":4,"battlerName":"kyle_child","characterIndex":4,"characterName":"guild_girl","classId":25,"equips":[16,32,72,2,0],"faceIndex":0,"faceName":"player/カイル子供","traits":[{"code":62,"dataId":3,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Kyle","nickname":"Oracle","note":"M","profile":"Innate Trait: Blessed with divine protection, he became\na healing mage. Finding the life of a priest unsuitable \nfor him, he chose the path of an adventurer.","params":[],"damage":{"critical":"","elementId":"","formula":"","type":"","variance":""}},{"id":5,"battlerName":"milee","characterIndex":3,"characterName":"player_normal","classId":24,"equips":[3,33,73,23,98],"faceIndex":0,"faceName":"player/ミレー通常","traits":[{"code":62,"dataId":3,"value":1},{"code":22,"dataId":0,"value":10}],"initialLevel":10,"maxLevel":99,"name":"Millet","nickname":"Cavalier","note":"A","profile":"A knight who had collapsed at the base of a cliff. He\nwas seriously injured, but Kyle’s healing spell saved \nhis life. He is a member of the Long-Eared Tribe and is \ntall.","params":[],"damage":{"critical":"","elementId":"","formula":"","type":"","variance":""}},{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"For the Eldenia Cipher","nickname":"For the Eldenia Cipher","note":"","profile":""},{"id":7,"battlerName":"roze","characterIndex":0,"characterName":"Ero/ver2_chara1","classId":26,"equips":[71,45,0,4,98],"faceIndex":6,"faceName":"ver2/ver2_roze5","traits":[{"code":62,"dataId":3,"value":1},{"code":22,"dataId":0,"value":10}],"initialLevel":12,"maxLevel":99,"name":"Rosé","nickname":"Fang","note":"","profile":"After seeing a certain martial artist, he was inspired\nby the way he fought using only his fists and feet, so\nhe became his disciple. After undergoing rigorous training, \nhe became the martial artist known as <Fang>."}]
+[
+  null,
+  {
+    "id": 1,
+    "battlerName": "kyle",
+    "characterIndex": 0,
+    "characterName": "player_normal",
+    "classId": 21,
+    "equips": [
+      16,
+      42,
+      62,
+      2,
+      82
+    ],
+    "faceIndex": 0,
+    "faceName": "player/kyle_normal",
+    "traits": [
+      {
+        "code": 62,
+        "dataId": 3,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 10
+      }
+    ],
+    "initialLevel": 7,
+    "maxLevel": 99,
+    "name": "Kyle",
+    "nickname": "Oracle",
+    "note": "R",
+    "profile": "Blessed by the gods, he became a Healer <Oracle>.\nHe disliked the priesthood, so he became an adventurer.",
+    "params": [],
+    "damage": {
+      "critical": "",
+      "elementId": "",
+      "formula": "",
+      "type": "",
+      "variance": ""
+    }
+  },
+  {
+    "id": 2,
+    "battlerName": "runa",
+    "characterIndex": 2,
+    "characterName": "player_normal",
+    "classId": 23,
+    "equips": [
+      31,
+      32,
+      0,
+      12,
+      90
+    ],
+    "faceIndex": 0,
+    "faceName": "player/runa_normal",
+    "traits": [
+      {
+        "code": 62,
+        "dataId": 3,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 10
+      }
+    ],
+    "initialLevel": 3,
+    "maxLevel": 99,
+    "name": "Luna",
+    "nickname": "Lunatic",
+    "note": "P",
+    "profile": "An elven Mage <Lunatic> running a shop with her mom.\nShe journeys to find a cure for her mother's illness.",
+    "params": [],
+    "damage": {
+      "critical": "",
+      "elementId": "",
+      "formula": "",
+      "type": "",
+      "variance": ""
+    }
+  },
+  {
+    "id": 3,
+    "battlerName": "lylyan",
+    "characterIndex": 1,
+    "characterName": "player_normal",
+    "classId": 22,
+    "equips": [
+      2,
+      32,
+      52,
+      22,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "player/lylyan_normal",
+    "traits": [
+      {
+        "code": 62,
+        "dataId": 3,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 10
+      },
+      {
+        "code": 23,
+        "dataId": 5,
+        "value": 2
+      }
+    ],
+    "initialLevel": 5,
+    "maxLevel": 99,
+    "name": "Lillian",
+    "nickname": "Cavalier",
+    "note": "G",
+    "profile": "An elven Knight <Cavalier>. Formerly of the Order,\nshe took a leave to travel together with Luna.",
+    "params": [],
+    "damage": {
+      "critical": "",
+      "elementId": "",
+      "formula": "",
+      "type": "",
+      "variance": ""
+    }
+  },
+  {
+    "id": 4,
+    "battlerName": "kyle_child",
+    "characterIndex": 4,
+    "characterName": "guild_girl",
+    "classId": 25,
+    "equips": [
+      16,
+      32,
+      72,
+      2,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "player/カイル子供",
+    "traits": [
+      {
+        "code": 62,
+        "dataId": 3,
+        "value": 1
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Kyle",
+    "nickname": "Oracle",
+    "note": "M",
+    "profile": "Blessed by the gods, he became a Healer <Oracle>.\nHe disliked the priesthood, so he became an adventurer.",
+    "params": [],
+    "damage": {
+      "critical": "",
+      "elementId": "",
+      "formula": "",
+      "type": "",
+      "variance": ""
+    }
+  },
+  {
+    "id": 5,
+    "battlerName": "milee",
+    "characterIndex": 3,
+    "characterName": "player_normal",
+    "classId": 24,
+    "equips": [
+      3,
+      33,
+      73,
+      23,
+      98
+    ],
+    "faceIndex": 0,
+    "faceName": "player/ミレー通常",
+    "traits": [
+      {
+        "code": 62,
+        "dataId": 3,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 10
+      }
+    ],
+    "initialLevel": 10,
+    "maxLevel": 99,
+    "name": "Millet",
+    "nickname": "Cavalier",
+    "note": "A",
+    "profile": "A tall elven knight saved from a cliff by Kyle's\nhealing magic. He now travels with the party.",
+    "params": [],
+    "damage": {
+      "critical": "",
+      "elementId": "",
+      "formula": "",
+      "type": "",
+      "variance": ""
+    }
+  },
+  {
+    "id": 6,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "For the Eldenia Cipher",
+    "nickname": "For the Eldenia Cipher",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 7,
+    "battlerName": "roze",
+    "characterIndex": 0,
+    "characterName": "Ero/ver2_chara1",
+    "classId": 26,
+    "equips": [
+      71,
+      45,
+      0,
+      4,
+      98
+    ],
+    "faceIndex": 6,
+    "faceName": "ver2/ver2_roze5",
+    "traits": [
+      {
+        "code": 62,
+        "dataId": 3,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 10
+      }
+    ],
+    "initialLevel": 12,
+    "maxLevel": 99,
+    "name": "Rosé",
+    "nickname": "Fang",
+    "note": "",
+    "profile": "A Martial Artist <Fang> who fights with fists\nand kicks, trained under a legendary master."
+  }
+]
