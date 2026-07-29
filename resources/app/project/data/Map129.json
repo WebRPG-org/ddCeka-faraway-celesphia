@@ -16,7 +16,7 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Valdeen Desert",
+  "displayName": "Valdine Desert",
   "encounterList": [
     {
       "troopId": 47,
@@ -60088,7 +60088,7 @@
     null,
     {
       "id": 1,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -60255,7 +60255,7 @@
     },
     {
       "id": 2,
-      "name": "ワールドマップへ",
+      "name": "Go to the World Map",
       "note": "",
       "pages": [
         {
@@ -60422,7 +60422,7 @@
     },
     {
       "id": 3,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -60768,7 +60768,7 @@
     },
     {
       "id": 4,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -61114,7 +61114,7 @@
     },
     {
       "id": 5,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -61460,7 +61460,7 @@
     },
     {
       "id": 6,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -61806,7 +61806,7 @@
     },
     {
       "id": 7,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -62152,7 +62152,7 @@
     },
     {
       "id": 8,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -62498,7 +62498,7 @@
     },
     {
       "id": 9,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -62844,7 +62844,7 @@
     },
     {
       "id": 10,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -63190,7 +63190,7 @@
     },
     {
       "id": 11,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -63536,7 +63536,7 @@
     },
     {
       "id": 12,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -63882,7 +63882,7 @@
     },
     {
       "id": 13,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -64228,7 +64228,7 @@
     },
     {
       "id": 14,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -64574,7 +64574,7 @@
     },
     {
       "id": 15,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -64920,7 +64920,7 @@
     },
     {
       "id": 16,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -65266,7 +65266,7 @@
     },
     {
       "id": 17,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -65612,7 +65612,7 @@
     },
     {
       "id": 18,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -65958,7 +65958,7 @@
     },
     {
       "id": 19,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -66304,7 +66304,7 @@
     },
     {
       "id": 20,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -66650,7 +66650,7 @@
     },
     {
       "id": 21,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -66996,7 +66996,7 @@
     },
     {
       "id": 22,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -67342,7 +67342,7 @@
     },
     {
       "id": 23,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -67688,7 +67688,7 @@
     },
     {
       "id": 24,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -68034,7 +68034,7 @@
     },
     {
       "id": 25,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -68380,7 +68380,7 @@
     },
     {
       "id": 26,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -68726,7 +68726,7 @@
     },
     {
       "id": 27,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -69072,7 +69072,7 @@
     },
     {
       "id": 28,
-      "name": "ワープ",
+      "name": "Warp",
       "note": "",
       "pages": [
         {
@@ -69115,7 +69115,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "To the Arseleon Great Bridge (Arseleon side)"
+                "Would you like to travel to the Arceleon Bridge"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "(Arceleon side)? (Round trip available)"
               ]
             },
             {
@@ -69130,10 +69137,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -69141,7 +69144,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -69171,7 +69174,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -69221,7 +69224,7 @@
     null,
     {
       "id": 34,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -69276,7 +69279,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Cactus Meat."
+                "I got some cactus flesh."
               ]
             },
             {
@@ -69428,7 +69431,7 @@
     },
     {
       "id": 35,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -69483,7 +69486,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Cactus Meat."
+                "I got some cactus flesh."
               ]
             },
             {
@@ -69635,7 +69638,7 @@
     },
     {
       "id": 36,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -69690,7 +69693,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Cactus Meat."
+                "I got some cactus flesh."
               ]
             },
             {
@@ -69842,7 +69845,7 @@
     },
     {
       "id": 37,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -69897,7 +69900,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Cactus Meat."
+                "I got some cactus flesh."
               ]
             },
             {
@@ -70049,7 +70052,7 @@
     },
     {
       "id": 38,
-      "name": "通せんぼ",
+      "name": "Blockade",
       "note": "",
       "pages": [
         {
@@ -70160,7 +70163,7 @@
     },
     {
       "id": 39,
-      "name": "通せんぼ",
+      "name": "Blockade",
       "note": "",
       "pages": [
         {
@@ -70271,7 +70274,7 @@
     },
     {
       "id": 40,
-      "name": "メデューサ",
+      "name": "Medusa",
       "note": "",
       "pages": [
         {
@@ -70323,14 +70326,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Someone's here...!\""
+                "\\SE[5] \"There’s someone here…!\""
               ]
             },
             {
@@ -70348,14 +70351,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"No...\""
+                "\\SE[3] \"No…\""
               ]
             },
             {
@@ -70373,14 +70376,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]？？？"
+                "??? "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"U-um, could I have some water, please?\""
+                "\"Excuse me, could I have some water?\""
               ]
             },
             {
@@ -70398,14 +70401,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"U-um, could you show us your face?\""
+                "\\SE[4] \"Um, could you show me your face? If you"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "do, I’ll give you some water.\""
               ]
             },
             {
@@ -70432,14 +70442,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]？？？"
+                "??? "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Wa…wa…wa…! Wa…!\""
+                "\"Water… water… w…! W…!\""
               ]
             },
             {
@@ -70466,14 +70476,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]？？？"
+                "??? "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"F-fresh…so fresh…ssssss…!!\""
+                "\"W-w-w-w-w-w-w…!!\""
               ]
             },
             {
@@ -70515,14 +70525,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]？？？"
+                "??? "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Gh…ga…!!\""
+                "\"Guh… ga…!\""
               ]
             },
             {
@@ -70620,14 +70630,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I never thought it was sentient...\""
+                "\\SE[3] \"I never would have thought it had a mind"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "of its own…\""
               ]
             },
             {
@@ -70645,14 +70662,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"We don't have time to dawdle.\""
+                "\\SE[5] \"We can’t afford to dawdle. Let’s move on.\""
               ]
             },
             {
@@ -70757,7 +70774,7 @@
     },
     {
       "id": 41,
-      "name": "秘宝",
+      "name": "Treasure",
       "note": "",
       "pages": [
         {
@@ -70800,14 +70817,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"...The location the code points to is\""
+                "\\SE[5] \"…The location indicated by the code is…\""
               ]
             },
             {
@@ -70839,14 +70856,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "At the end of the north wind where three thorns stand"
+                "At the far end of the north wind indicated by that"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "tall."
+                "shadow, there is a land where three thorns stand side"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "by side. But only the silent thorn standing on the"
               ]
             },
             {
@@ -70864,7 +70888,39 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Beneath his feet, a small slumber buried in the sand,"
+                "right knows who will truly become the guardian—"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "At his feet, a small slumber sinking into the sand— —it"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "is a treasure that once devoured the dreams of"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "travelers—"
               ]
             },
             {
@@ -70896,21 +70952,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"The three thorns...right at the base of his"
+                "\\SE[5] \"The Three Thorns, at the foot of its right"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "right foot. This is it.\""
+                "hand—right here, isn’t it?\""
               ]
             },
             {
@@ -70928,14 +70984,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Alright, let's dig, Lilian!\""
+                "\\SE[3] \"All right, let’s dig, Lilian!\""
               ]
             },
             {
@@ -70953,14 +71009,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Got it!\""
+                "\\SE[4] \"Got it!\""
               ]
             },
             {
@@ -70995,14 +71051,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Got it...?)"
+                "(Got it…?)"
               ]
             },
             {
@@ -71124,14 +71180,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"A box just appeared.\""
+                "\\SE[3] \"A box just appeared!\""
               ]
             },
             {
@@ -71149,14 +71205,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Let's open it, open sesame~!\""
+                "\\SE[4] \"Let’s open it, open sesame~!\""
               ]
             },
             {
@@ -71353,7 +71409,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Inside was an old book, a decorated knife,"
+                "What emerged was an old book, an ornate knife, , and a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "small amount of old currency."
               ]
             },
             {
@@ -71371,14 +71434,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"W-what...? What do you think?\""
+                "\\SE[4] \"W-What is this…! …What’s going on?\""
               ]
             },
             {
@@ -71396,53 +71459,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"It's just old currency or something"
+                "\\SE[3] \"Old currencies and stuff like that are"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "collectors might want.\""
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/lylyan_normal",
-                5,
-                0,
-                2,
-                ""
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0][Lilian]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]\"This decorated knife has an engraving on"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "it.\""
+                "only really collected by enthusiasts, so I"
               ]
             },
             {
@@ -71460,21 +71491,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"It's an old Eldenia engraving. From the"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "now-defunct Eldenia Kingdom.\""
+                "don’t think they’re worth that much.\""
               ]
             },
             {
@@ -71492,14 +71516,103 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Doesn't that make it valuable?\""
+                "\\SE[4] \"This knife has this decoration. There’s an"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "engraving on it.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                6,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3] \"It’s an ancient Eldenia seal. Looks like"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "it was stolen from the now-defunct Kingdom"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                6,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "of Eldenia.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                5,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"Isn’t that worth something?\""
               ]
             },
             {
@@ -71517,21 +71630,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Stolen goods are supposed to be returned to"
+                "\\SE[3] \"The rule is that stolen goods have to be"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the guild, though...\""
+                "returned to the guild… though you might get"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                5,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "a small reward for it.\""
               ]
             },
             {
@@ -71549,21 +71687,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Looks like that's a no-go. What about Lady"
+                "\\SE[4] \"It doesn’t look like it’s going to work."
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Luna's findings?\""
+                "What about Lady Luna?\""
               ]
             },
             {
@@ -71581,14 +71719,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"I took a look at the old book too, but\""
+                "\\SE[5] \"I took a look through some old books, and"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "this is a code book used by the bandits,"
               ]
             },
             {
@@ -71606,21 +71751,71 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"now that the bandit gang is gone, its value"
+                "isn’t it?\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                5,
+                0,
+                2,
+                ""
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "is purely historical.\""
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"Now that the bandits are gone, I suppose"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "it has no value other than historical"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                5,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "significance, …\""
               ]
             },
             {
@@ -71669,14 +71864,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"D-didn't it just shake?!\""
+                "\\SE[4] \"I-is something shaking!?\""
               ]
             },
             {
@@ -71704,14 +71899,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"LililililililililAaaaaaaaaaa!\""
+                "\\SE[5]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"Li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-li-"
               ]
             },
             {
@@ -71739,14 +71941,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"It's shaking like crazy!\""
+                "\\SE[3] \"It’s shaking like crazy! Look"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "below—something’s coming!\""
               ]
             },
             {
@@ -71795,14 +72004,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Ah, so that's the cause...\""
+                "\\SE[4] \"I see. So that’s why no one was able to"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "get this treasure…\""
               ]
             },
             {
@@ -71820,14 +72036,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"S-so that's why...\""
+                "\\SE[5] \"It's a bit of a slip-up, isn't it... Even"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "though we were a little shaken up...\""
               ]
             },
             {
@@ -71845,14 +72068,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Luna, it's not shaking anymore.\""
+                "\\SE[3] \"Luna, it’s not shaking anymore.\""
               ]
             },
             {
@@ -71882,7 +72105,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Obtained the Bandit Gang's Hidden Treasure"
+                "I got my hands on the bandits' hidden treasure."
               ]
             },
             {

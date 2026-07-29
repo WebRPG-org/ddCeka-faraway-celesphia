@@ -1747,7 +1747,7 @@
     null,
     {
       "id": 1,
-      "name": "ランプ",
+      "name": "Lamp",
       "note": "",
       "pages": [
         {
@@ -1807,7 +1807,7 @@
     },
     {
       "id": 2,
-      "name": "ノエル",
+      "name": "Noel",
       "note": "",
       "pages": [
         {
@@ -1867,7 +1867,7 @@
     },
     {
       "id": 3,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -2386,7 +2386,7 @@
     },
     {
       "id": 4,
-      "name": "リリアン",
+      "name": "Lillian",
       "note": "",
       "pages": [
         {
@@ -2905,7 +2905,7 @@
     },
     {
       "id": 5,
-      "name": "アリア",
+      "name": "Aria",
       "note": "",
       "pages": [
         {
@@ -2965,7 +2965,7 @@
     },
     {
       "id": 6,
-      "name": "カイルの日記",
+      "name": "Kyle's Diary",
       "note": "",
       "pages": [
         {
@@ -3076,7 +3076,7 @@
     },
     {
       "id": 7,
-      "name": "ルーナEND",
+      "name": "Luna END",
       "note": "",
       "pages": [
         {
@@ -3217,7 +3217,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]Eventually, Mother stood up again and turned to us,"
+                "\\SE[5] Eventually, my mother got up and recovered enough to"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "talk with us again."
               ]
             },
             {
@@ -3242,7 +3249,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]and then she spoke these words:"
+                "\\SE[5] And then my mother said,"
               ]
             },
             {
@@ -3281,14 +3288,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel."
+                "\\SE[0] Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[7]\"Tell us about Luna and the others'"
+                "\\SE[7] \"Tell me about Luna and the others’"
               ]
             },
             {
@@ -3408,14 +3415,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]It was then that we first read through Kyle-sama's"
+                "\\SE[5] That was the first time we decided to open Lord Kyle’s"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "diary."
+                "diary ."
               ]
             },
             {
@@ -3440,7 +3447,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]Unable to sort through our hearts, we had always"
+                "\\SE[5] I just couldn't get my thoughts in order, so I simply"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "couldn't bring myself to open it until now."
               ]
             },
             {
@@ -3592,7 +3606,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]found ourselves unable to do so..."
+                "\\SE[5] Everything about Lord Kyle was recorded there."
               ]
             },
             {
@@ -3617,14 +3631,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]Every detail of Kyle-sama's life was recorded within"
+                "\\SE[5] On what date, where did I travel, what did I eat, and"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "its pages―"
+                "what did I think?—"
               ]
             },
             {
@@ -3649,7 +3663,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]where he traveled, what he ate, what he thought..."
+                "\\SE[5] This diary was the very embodiment of Lord Kyle."
               ]
             },
             {
@@ -3674,7 +3688,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]This diary was Kyle-sama himself."
+                "\\SE[5] And it also mentioned our relationship."
               ]
             },
             {
@@ -3699,7 +3713,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]And it also contained stories of us."
+                "\\SE[5] We met in the capital, made our way through the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "forest, went to the village, and fought the band of"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "thieves―――"
               ]
             },
             {
@@ -3724,14 +3752,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]Our meeting in the royal capital, passing through the"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "forest, visiting the village―"
+                "\\SE[5] Our memories of the trip were faithfully recorded."
               ]
             },
             {
@@ -3756,7 +3777,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]our journey together was all carefully written down."
+                "\\SE[5] Lilian and I cried."
               ]
             },
             {
@@ -3781,7 +3802,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]Lilian and I wept."
+                "\\SE[5] I cried out loud."
               ]
             },
             {
@@ -3806,7 +3827,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]We wept aloud."
+                "\\SE[5] The sorrow I thought I had buried in the flow of time"
               ]
             },
             {
@@ -3831,7 +3852,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]The grief we had thought buried by the passage of time"
+                "\\SE[5]—it had resurfaced from the depths of my heart once"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "again."
               ]
             },
             {
@@ -3856,7 +3884,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]rose once more from the depths of our hearts."
+                "\\SE[5] I Want to See Kyle Again"
               ]
             },
             {
@@ -3881,7 +3909,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]I want to see Kyle-sama again."
+                "\\SE[5] I want Mr. Kyle to smile at me one more time"
               ]
             },
             {
@@ -3906,7 +3934,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]I want him to smile at me once more."
+                "\\SE[5] I want Mr. Kyle to hold me one more time—"
               ]
             },
             {
@@ -3931,7 +3959,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]I want him to hold me in his arms again..."
+                "\\SE[5] Those feelings welled up in my heart."
               ]
             },
             {
@@ -3963,14 +3991,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]Luna."
+                "\\SE[5] \"Aaaah! Lord Kyle! Lord Kyle!\""
               ]
             },
             {
@@ -3988,14 +4016,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]Luna."
+                "\\SE[5] \"It’s my fault! It’s all my fault! Back"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "then, I…! Aaaah…!!!\""
               ]
             },
             {
@@ -4034,7 +4069,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"It's all my fault! If only I had... back then, I...!\""
+                "\\SE[5] And on the last page of the diary, the following was"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "written:"
               ]
             },
             {
@@ -4059,7 +4101,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
@@ -4091,14 +4133,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]Kyle."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "flowing—"
+                "\\SE[5] Seeing this, our tears just kept flowing—"
               ]
             },
             {
@@ -4249,7 +4284,7 @@
     },
     {
       "id": 8,
-      "name": "リリアンEND",
+      "name": "Lillian END",
       "note": "",
       "pages": [
         {
@@ -4383,14 +4418,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]Eventually, Noel-sama recovered enough to stand once"
+                "\\SE[4] Eventually, Lord Noel recovered enough to stand up,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "more,"
+                "and was able to hold a conversation."
               ]
             },
             {
@@ -4415,7 +4450,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]and at the gathering, Noel-sama spoke thus:"
+                "\\SE[4] And then, during the gathering, Lord Noel said the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "following:"
               ]
             },
             {
@@ -4440,7 +4482,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
+                "\\SE[0] Noel "
               ]
             },
             {
@@ -4560,7 +4602,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]It was then that we first read Kyle's diary."
+                "\\SE[4] That was the first time we decided to open Kyle's"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "diary."
               ]
             },
             {
@@ -4585,7 +4634,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]Unable to sort through our hearts, we had always"
+                "\\SE[4] I just couldn't get my thoughts in order, so I simply"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "couldn't bring myself to open it until now."
               ]
             },
             {
@@ -4725,7 +4781,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]hesitated to open it."
+                "\\SE[4] There, Kyle's journey up to that point was etched."
               ]
             },
             {
@@ -4750,7 +4806,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]But within its pages lay Kyle's journey―"
+                "\\SE[4] Who I met, who I parted ways with, and what I thought—"
               ]
             },
             {
@@ -4775,7 +4831,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]whom he met, whom he parted from, what he thought―"
+                "\\SE[4] This diary was Kyle himself."
               ]
             },
             {
@@ -4800,7 +4856,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]This diary was Kyle himself."
+                "\\SE[4] And it also mentioned our situation."
               ]
             },
             {
@@ -4825,7 +4881,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]And it also contained our story."
+                "\\SE[4] Meet in the capital, pass through the forest, and go"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "to the village"
               ]
             },
             {
@@ -4850,14 +4913,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]Meeting in the royal capital, passing through the"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "forest, heading to the village,"
+                "\\SE[4] Passing through the coal mine, heading to the ruins…"
               ]
             },
             {
@@ -4882,7 +4938,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]crossing the mines, visiting the ruins..."
+                "\\SE[4] About Grimridge, which the three of us looked up at"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "from the bridge—"
               ]
             },
             {
@@ -4907,14 +4970,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]The memory of Grimridge we three looked up to from the"
+                "\\SE[4] It was recorded there that the three of us had indeed"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "great bridge―"
+                "walked that path."
               ]
             },
             {
@@ -4939,7 +5002,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]Our three lives were truly written there."
+                "\\SE[4] Luna and I both cried."
               ]
             },
             {
@@ -4964,7 +5027,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]Luna-sama and I wept."
+                "\\SE[4] I cried out loud."
               ]
             },
             {
@@ -4989,7 +5052,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]We wept aloud."
+                "The loss of a loved one—whom I thought I had pushed far"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "away at \\SE[4]—"
               ]
             },
             {
@@ -5014,14 +5084,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]The loss of the one we loved, which we had pushed to"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "the distant past,"
+                "\\SE[4] has once again come back to life in all its glory."
               ]
             },
             {
@@ -5046,7 +5109,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]suddenly resurfaced so vividly."
+                "\\SE[4] I Want to See Kyle Again"
               ]
             },
             {
@@ -5071,7 +5134,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]I want to see Kyle again."
+                "\\SE[4] I want to hear Kyle's voice again"
               ]
             },
             {
@@ -5096,7 +5159,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]I want to hear his voice once more."
+                "\\SE[4] I want Kyle to hold me tight one more time—"
               ]
             },
             {
@@ -5121,7 +5184,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]I want him to hold me tightly again―"
+                "\\SE[4] Those feelings welled up in my heart."
               ]
             },
             {
@@ -5153,7 +5216,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
@@ -5178,7 +5241,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
@@ -5231,7 +5294,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]And on the final page of the diary,"
+                "\\SE[4] And on the last page of the diary, it said"
               ]
             },
             {
@@ -5256,7 +5319,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
@@ -5288,7 +5351,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]Our tears would not stop..."
+                "\\SE[4] Our tears never stopped flowing—"
               ]
             },
             {

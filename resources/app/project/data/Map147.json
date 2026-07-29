@@ -4423,7 +4423,7 @@
     null,
     {
       "id": 1,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -4942,7 +4942,7 @@
     },
     {
       "id": 2,
-      "name": "リリアン",
+      "name": "Lillian",
       "note": "",
       "pages": [
         {
@@ -5461,7 +5461,7 @@
     },
     {
       "id": 3,
-      "name": "ルーナEND",
+      "name": "Luna END",
       "note": "",
       "pages": [
         {
@@ -5593,7 +5593,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]I was always so anxious."
+                "\\SE[5] I’ve been feeling anxious the whole time."
               ]
             },
             {
@@ -5618,14 +5618,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]The earth beneath my feet, even the scent of the"
+                "\\SE[5] Even the soil beneath my feet and the scent of the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "wind―everything was different."
+                "wind are different; on such unfamiliar land,"
               ]
             },
             {
@@ -5643,7 +5643,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]A hope no bigger than a grain of sand―"
+                "\\SE[5] A hope as small as a grain of sand— Was the journey to"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "find Ceresphere, truly the right choice?"
               ]
             },
             {
@@ -5668,7 +5675,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]my mother lay bedridden with illness..."
+                "\\SE[5] My mother was bedridden with illness… She grew so weak"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "that I couldn’t even reach her—"
               ]
             },
             {
@@ -5693,7 +5707,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]and I abandoned her side..."
+                "\\SE[5]I left my mother’s side… \\!Is she blaming me?"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\!Couldn’t we have spent those last moments together?"
               ]
             },
             {
@@ -5711,14 +5732,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]Every time I thought of it, my heart ached as if it"
+                "\\SE[5] Every time I thought about it, my heart ached as if it"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "were grinding against itself."
+                "were creaking."
               ]
             },
             {
@@ -5792,7 +5813,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]Lilian... he cast a shadow over my life,"
+                "\\SE[5] Lilian... as if to shake off that shadow of mine,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "cheerfully encouraged me."
               ]
             },
             {
@@ -5817,7 +5845,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]ignoring his own well-being,"
+                "\\SE[5] Without a thought for his own safety, he kept moving"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "forward just to support me"
               ]
             },
             {
@@ -5842,14 +5877,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]and though his kindness touched me... the anxiety"
+                "\\SE[5] Even as I felt that kindness… the anxiety buried deep"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "buried deep in my chest remained."
+                "in my heart never went away."
               ]
             },
             {
@@ -5944,7 +5979,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]It was on that journey that I met Kyle-sama."
+                "\\SE[5]—It was during that journey that I met Lord Kyle."
               ]
             },
             {
@@ -5969,7 +6004,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]The moment he became my ally..."
+                "\\SE[5]The moment he joined our group… I felt like the world"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "looked just a little brighter."
               ]
             },
             {
@@ -5994,7 +6036,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]to me, who had only ever wavered,"
+                "\\SE[5] To me, who was always lost, Lord Kyle showed me a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "clear path."
               ]
             },
             {
@@ -6138,7 +6187,7 @@
     },
     {
       "id": 4,
-      "name": "リリアンEND",
+      "name": "Lillian END",
       "note": "",
       "pages": [
         {
@@ -6258,7 +6307,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]I've been regretting it ever since."
+                "\\SE[4] I’ve been regretting it ever since."
               ]
             },
             {
@@ -6276,7 +6325,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]Ten years ago... I left Kyle behind and went to Elheim."
+                "\\SE[4]10 years ago… I left Kyle behind and returned to"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Elheim—that day."
               ]
             },
             {
@@ -6294,14 +6350,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]I thought living in the human world would be better for"
+                "\\SE[4] \"Kyle’s future will be brighter if he lives in the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "his future..."
+                "human world…\" I told myself that, and turned away."
               ]
             },
             {
@@ -6331,7 +6387,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]But after we parted, all I felt was anxiety."
+                "\\SE[4] But ever since we parted ways, nothing but anxiety has"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "been weighing heavily on my heart."
               ]
             },
             {
@@ -6349,7 +6412,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]Was he being attacked by monsters? Drawn into war?"
+                "\\SE[4] Was I being attacked by monsters, or caught up in a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "battle? Every night, I trembled \\! with a fear that"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "felt like being torn apart by a blade."
               ]
             },
             {
@@ -6367,7 +6444,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]Every time, I thought... no matter what anyone said..."
+                "\\SE[4] Every time that happened, I thought to myself: No"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "matter what anyone said... I should have taken them"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "with me."
               ]
             },
             {
@@ -6392,14 +6483,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]If I had stayed by his side, I could have protected"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "him..."
+                "\"If I'd been on \\SE[4]'s side, I could have protected him...\""
               ]
             },
             {
@@ -6505,14 +6589,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]「...」"
+                "\\SE[5] \"I’ve been anxious the whole time.\""
               ]
             },
             {
@@ -6529,14 +6613,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]「……...、 ...、...、 ...。」"
+                "\\SE[5] \"…The soil beneath my feet, the scent of"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "the wind, and even the color of the sky are"
               ]
             },
             {
@@ -6553,14 +6644,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]「...―― ... 、...……...、 ...。」"
+                "all different— on such unfamiliar land.\""
               ]
             },
             {
@@ -6577,14 +6668,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]「...…… ...。」"
+                "\\SE[5] \"A hope as small as a grain of sand— Was"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "this journey, in which I kept walking to"
               ]
             },
             {
@@ -6601,14 +6699,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]「... ……...。... ...。」"
+                "find Ceresphere, really the right choice…?"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Deep down in my heart,"
               ]
             },
             {
@@ -6625,14 +6730,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]「...、... ...。」"
+                "I had always been afraid.\""
               ]
             },
             {
@@ -6649,14 +6747,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]「Lillian...……... ...、...。」"
+                "\\SE[5] \"My mother was bedridden with illness… and"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "she grew so weak that I couldn’t reach her.\""
               ]
             },
             {
@@ -6673,14 +6778,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]「...、 ...。」"
+                "\\SE[5] \"Is my mother … blaming me for leaving her"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "side? Couldn’t we have spent those final"
               ]
             },
             {
@@ -6697,14 +6809,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]「... ...……...、 ...。」"
+                "moments together?\""
               ]
             },
             {
@@ -6721,14 +6833,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]「……...、 Kyle...。」"
+                "\\SE[5] \"Every time I thought about it, my heart"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "ached as if it were creaking.\""
               ]
             },
             {
@@ -6745,14 +6864,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]「...… …... ...。」"
+                "\\SE[5] \"Lillian… as if to shake off that shadow of"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "mine, cheerfully encouraged me.\""
               ]
             },
             {
@@ -6769,14 +6895,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]「...、 ...。... ...。」"
+                "\\SE[5] \"Without a thought for his own safety, he"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "kept moving forward just to support me.\""
               ]
             },
             {
@@ -6793,14 +6926,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]「...……... 。」"
+                "\\SE[5] \"Even as I felt that kindness… even so, the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "anxiety buried deep in my heart never went"
               ]
             },
             {
@@ -6817,14 +6957,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]「...、...… …...。」"
+                "away.\""
               ]
             },
             {
@@ -6841,14 +6981,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]「...、 ...。」"
+                "\\SE[5] \"...It was during that journey that I met"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Kyle.\""
               ]
             },
             {
@@ -6865,14 +7012,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]「...… …...。」"
+                "\\SE[5] \"The moment he joined our group… … I felt"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "like the world looked just a little"
               ]
             },
             {
@@ -6889,14 +7043,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]「...、... ...……...、 ...。」"
+                "brighter.\""
               ]
             },
             {
@@ -6913,14 +7067,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]「...……... ...、... 。」"
+                "\\SE[5] \"To us, who were always lost, he showed us"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "the way. He gave us the strength to take"
               ]
             },
             {
@@ -6937,14 +7098,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]「Kyle...……... ...、...、... ...。」"
+                "that final step.\""
               ]
             },
             {
@@ -6961,14 +7122,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]「...、...、 ...。」"
+                "\\SE[5] \"And then… the night I was tormented by a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "nightmare, .\""
               ]
             },
             {
@@ -6985,14 +7153,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]「...……...。」"
+                "\\SE[5] \"It was so painful, and I was so scared I"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "couldn’t even breathe… … when I opened my"
               ]
             },
             {
@@ -7009,14 +7184,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]「Kyle...……...、 ...。」"
+                "eyes.\""
               ]
             },
             {
@@ -7033,14 +7208,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]「...、... ...……」"
+                "\\SE[5] \"He gently held my hand, and quietly stayed"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "by my side.\""
               ]
             },
             {
@@ -7057,14 +7239,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]「... ...、...。」"
+                "\\SE[5] \"As if to say, ‘No words are needed…’"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "…leaving only warmth behind.\""
               ]
             },
             {
@@ -7081,14 +7270,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]「...――」"
+                "\\SE[5] \"At that moment, something deep inside my"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "heart seemed to melt away… and before I knew"
               ]
             },
             {
@@ -7105,14 +7301,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]「...。 ...」"
+                "it, I had fallen in love with him.\""
               ]
             },
             {
@@ -7129,21 +7325,28 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]「...」"
+                "\\SE[5] \"But… we weren’t given much time to convey"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "those feelings .\""
               ]
             },
             {
               "code": 101,
               "indent": 0,
               "parameters": [
-                "",
+                "player/runa_normal",
                 0,
                 0,
                 2
@@ -7153,7 +7356,313 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lillian..."
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"Lord Kyle… went to a place far, far away—a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "place we can’t reach— to protect us.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"No matter how much I call out, that gentle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "voice will never come back from where it is"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "now.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"One day… I realized something.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"For the fact that Lord Kyle… left a tiny"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "life inside me.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"That child moves in such a way as to give"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "me strength from within whenever I’m about"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "to collapse…\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"She had a mysterious warmth about her—the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "kind that would quietly stay by your side"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "when you felt lonely.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"Someday, when this child grows up—\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"I think I’ll take him with me. Where that"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "person sleeps—\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
               ]
             },
             {
@@ -7167,630 +7676,6 @@
               "code": 101,
               "indent": 0,
               "parameters": [
-                "player/lylyan_normal",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]Lillian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]「...、...」"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/lylyan_normal",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]Lillian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]「10...……Kyle... ...、...、...」"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/lylyan_normal",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]Lillian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]「... 、...……...、 ...」"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/lylyan_normal",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]Lillian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]「...、 ...」"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/lylyan_normal",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]Lillian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]「...、 ...……...、 ...」"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/lylyan_normal",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]Lillian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]「...。 ...……...、...」"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/lylyan_normal",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]Lillian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]「...、... ...……...」"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/lylyan_normal",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]Lillian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]「...10...…… ...」"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/lylyan_normal",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]Lillian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]「... ...、...… …...」"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/lylyan_normal",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]Lillian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]「...、Kyle... ...」"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/lylyan_normal",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]Lillian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]「...、... ...……...、...」"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/lylyan_normal",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]Lillian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]「...……... ...」"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/lylyan_normal",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]Lillian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]「...。 Kyle...……...、...」"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/lylyan_normal",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]Lillian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]「...、... ...」"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/lylyan_normal",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]Lillian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]「...……... ...」"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/lylyan_normal",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]Lillian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]「...、...、 ...」"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/lylyan_normal",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]Lillian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]「...、 ...、...、...……」"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/lylyan_normal",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]Lillian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]「...、... ...」"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/lylyan_normal",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]Lillian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]「Kyle...… …...」"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/lylyan_normal",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]Lillian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]「...……...、 ...」"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/lylyan_normal",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]Lillian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]「...、...」"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/lylyan_normal",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]Lillian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]「...… …...、...」"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/lylyan_normal",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]Lillian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]「...……...」"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/lylyan_normal",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]Lillian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]「...、...」"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/lylyan_normal",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]Lillian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]「...、...… …...」"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/lylyan_normal",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]Lilian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]\"――I'm coming to see you now, Kyle.\""
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
                 "",
                 0,
                 0,
@@ -7801,7 +7686,956 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]ENDENDEND"
+                "\\SE[0] Lilian (After Organization)"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"I’ve been regretting it ever since.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"Ten years ago… the day I left Kyle behind"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "and returned to Elheim.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"I told myself that if he lived in the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "human world, his future would be brighter…"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "and with that, I turned my back on him.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"But ever since we parted, nothing but"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "anxiety has been weighing heavily on my"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "heart.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"Was I being attacked by monsters? Had I"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "been caught up in a battle? …Every night, I"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "trembled with a fear that felt like being"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "torn apart by a blade.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"Every time that happened, I thought to"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "myself: no matter what anyone said… I should"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "have taken her with me.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"If I’d been there, I could have protected"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "her…\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"And then, 10 years later… The moment we"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "met again\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"Seeing how strong she’d grown, my heart"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "felt like it was on fire… … and I felt tears"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "welling up.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"But Kyle didn’t notice me .\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"If I revealed my name, it would disrupt"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "that person’s peaceful life… Thinking that,"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I couldn’t bring myself to say it.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"No… I didn’t think I had the right to say"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "that.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"I found out later. Kyle… had been"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "searching for me and continuing his"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "journey.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"At that moment, the tears I’d been holding"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "back welled up.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"I never realized… that we cared for each"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "other this much .\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"We fell in love all over again, and were"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "united.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"As if to make up for lost time, we’ll stay"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "close, laugh, and talk together…\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"But that happiness didn’t last long .\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"Kyle shielded us… … and went to a place we"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "can’t reach.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"I just… want to put an end to this life"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "where I’m crushed by regret.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"Do you think I’m a fool?\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"That’s fine with me… … if I could just"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "hear your voice one more time.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"I’ll never… leave you alone again.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"So, this time, I’ll go.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"No matter how dark the night, no matter"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "how deep the despair… … to where that person"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "is.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
               ]
             },
             {
@@ -7838,7 +8672,7 @@
     },
     {
       "id": 5,
-      "name": "リリアンの墓",
+      "name": "Lillian's Grave",
       "note": "",
       "pages": [
         {
@@ -7898,7 +8732,7 @@
     },
     {
       "id": 6,
-      "name": "リリアン回想戻り",
+      "name": "Back to Lilian's Flashback",
       "note": "",
       "pages": [
         {
@@ -8008,7 +8842,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]But that happiness didn't last long."
+                "\\SE[4]However, that happiness did not last long."
               ]
             },
             {
@@ -8026,7 +8860,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]Kyle shielded us... and sent us somewhere beyond reach."
+                "\\SE[4] Kyle shielded us... and went to a place beyond our"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "reach."
               ]
             },
             {
@@ -8068,7 +8909,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]Now... a life crushed under regret..."
+                "\\SE[4] Enough already... I'm putting an end to this life"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "where I'm crushed by regret. \\!"
               ]
             },
             {
@@ -8093,7 +8941,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]Will you call me a fool?"
+                "\\SE[4] Would you call me a fool?"
               ]
             },
             {
@@ -8118,7 +8966,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]I don't care anymore..."
+                "\\SE[4] That's fine with me... If only I could hear your voice"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "one more time"
               ]
             },
             {
@@ -8143,7 +8998,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]I'll never... leave you alone again."
+                "\\SE[4] I'll never... leave you alone again"
               ]
             },
             {
@@ -8206,14 +9061,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"―I'm coming to you now, Kyle.\""
+                "\\SE[4] \"—I’m coming to see you now, Kyle.\""
               ]
             },
             {
@@ -8286,7 +9141,7 @@
     },
     {
       "id": 7,
-      "name": "ルーナ回想戻り",
+      "name": "Back to Luna's Flashback",
       "note": "",
       "pages": [
         {
@@ -8418,7 +9273,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]Lord Kyle... he protects us,"
+                "\\SE[5] Lord Kyle... in order to protect us, he has gone to a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "place far, far away—a place we can never reach."
               ]
             },
             {
@@ -8443,14 +9305,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]no matter how many times I call out to him, that gentle"
+                "\\SE[5] No matter how much I call out, that gentle voice will"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "voice"
+                "never come back from that place."
               ]
             },
             {
@@ -8475,7 +9337,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]still lingers in my mind."
+                "As for \\SE[5], one day... I realized something."
               ]
             },
             {
@@ -8500,7 +9362,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]Lord Kyle... planted a tiny life inside me."
+                "\\SE[5] That Lord Kyle... left a tiny life inside me."
               ]
             },
             {
@@ -8560,14 +9422,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]That child pushes against me from within when I'm about"
+                "\\SE[5] Whenever I feel like I'm about to collapse, that child"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "to fall,"
+                "moves in such a way as to give me strength from"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "within..."
               ]
             },
             {
@@ -8585,7 +9454,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]and quietly comforts me when I'm lonely―"
+                "\\SE[5] It had a "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "mysterious warmth, as if it would quietly stay by my"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "side when I felt lonely."
               ]
             },
             {
@@ -8636,14 +9519,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna."
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5](If Lilian were to find out about this...)"
+                "\\SE[5] (If Lilian knew about this...)"
               ]
             },
             {
@@ -8661,14 +9544,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna."
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5](No, I should stop thinking about \"what ifs\" now.)"
+                "\\SE[5] (Actually, I’d already stopped thinking about"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"what-ifs,\" hadn’t I?)"
               ]
             },
             {
@@ -8686,14 +9576,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna."
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5](Lord Kyle... Lilian...)"
+                "\\SE[5] (Lord Kyle, Lilian……)"
               ]
             },
             {
@@ -8718,7 +9608,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]Someday, when this child grows up―"
+                "\\SE[5] Someday, when this child grows up—"
               ]
             },
             {
@@ -8743,14 +9633,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]I'll take them to"
+                "\\SE[5] I think I'll take him with me. That person is"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "That person is sleeping―――"
+                "sleeping―――"
               ]
             },
             {
@@ -8775,7 +9665,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]the distant Celestial Vale of Valdeen."
+                "\\SE[5]―――To the Valdine of My Memories."
               ]
             },
             {
@@ -8807,7 +9697,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Far-off Celestial Vale of Luna END"
+                "Distant Ceresphere: Luna END"
               ]
             },
             {
@@ -8858,7 +9748,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna's ending flag has been set."
+                "\\SE[0]: The flag for the Luna ending has been set."
               ]
             },
             {
@@ -8892,7 +9782,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Since Lilian's ending has already been viewed,"
+                "Since I've already viewed the Lilian ENDING, I've met"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "the conditions for the True ENDING."
               ]
             },
             {
@@ -8910,14 +9807,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "the \"True End\" option will appear when you view the"
+                "When you view the ending again, the \"True End\" option ("
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "ending again."
+                ") will appear."
               ]
             },
             {
@@ -8935,14 +9832,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Selecting it will let you see the True Ending. *No need"
+                "If you select that option, you'll be able to see the"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "to start a New Game.*"
+                "True Ending. * You don't need to start over from New"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Game."
               ]
             },
             {
@@ -8970,7 +9874,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "If you've also viewed Lilian's ending,"
+                "If you also view the Lilian ENDING, you'll be able to"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "see the True ENDING."
               ]
             },
             {
@@ -8988,14 +9899,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "the \"Lilian End\" option will appear when you view the"
+                "When you view the ending again, the \"Lillian END\""
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "ending again."
+                "option ( ) will appear."
               ]
             },
             {
@@ -9013,14 +9924,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Selecting it will let you see Lilian's ending. *No need"
+                "If you select that option, you'll be able to see the"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "to start a New Game.*"
+                "Lilian ending. * You don't need to start over from New"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Game."
               ]
             },
             {
@@ -9055,14 +9973,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "For those replaying the game, we'll give you a useful"
+                "We’re giving away a useful item ( ) to players who are"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "item as a present."
+                "doing repeat playthroughs."
               ]
             },
             {
@@ -9080,7 +9998,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The password for the treasure chest at the"
+                "Right after the game starts, there is a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "password-protected treasure chest located at , in the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "upper-left corner of the \"Eastern Gate of the Royal"
               ]
             },
             {
@@ -9098,7 +10030,25 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"East Gate Entrance of the Royal Capital\" map\""
+                "Capital\" map."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "The password for that treasure chest is"
               ]
             },
             {
@@ -9128,7 +10078,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]is:"
+                "Q. What was the "
               ]
             },
             {
@@ -9160,14 +10110,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Q. What was the name you used when entering the comedy"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "battle tournament?"
+                "A. Luna and Lilian"
               ]
             },
             {
@@ -9185,7 +10128,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]A. Luna and Lilian"
+                "It will be "
               ]
             },
             {
@@ -9210,7 +10153,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Returning to the title screen."
+                "Back to the title."
               ]
             },
             {

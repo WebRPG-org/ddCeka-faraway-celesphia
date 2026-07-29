@@ -5437,7 +5437,7 @@
     null,
     {
       "id": 1,
-      "name": "下の階へ",
+      "name": "Downstairs",
       "note": "",
       "pages": [
         {
@@ -5516,7 +5516,7 @@
     },
     {
       "id": 2,
-      "name": "前のフロアへ",
+      "name": "Back to the Previous Floor",
       "note": "",
       "pages": [
         {
@@ -5588,7 +5588,7 @@
     },
     {
       "id": 3,
-      "name": "イベント",
+      "name": "Events",
       "note": "",
       "pages": [
         {
@@ -6077,21 +6077,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"S-sorry! I just need to take a quick"
+                "\\SE[4] \"I-I’m sorry! Would it be okay if I took a"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "break―\""
+                "quick break!?\""
               ]
             },
             {
@@ -6109,14 +6109,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Huh?!\""
+                "\\SE[3] \"Huh!?\""
               ]
             },
             {
@@ -6134,14 +6134,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"J-just a second...! T-that...!\""
+                "\\SE[4] \"Um… well…!\""
               ]
             },
             {
@@ -6211,21 +6211,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"You want to pick flowers, don't you? I"
+                "\\SE[5] \"You want to pick some flowers, huh? I get"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "understand.\""
+                "it.\""
               ]
             },
             {
@@ -6362,7 +6362,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]He lowers his shorts and underwear all at once."
+                "\\SE[0] Pull down your shorts and underwear at the same time "
               ]
             },
             {
@@ -6387,14 +6387,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(U-uh... This is a little embarrassing...)"
+                "(Ugh... this is a little embarrassing,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "but...)"
               ]
             },
             {
@@ -6438,14 +6445,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(I-I can't hold it anymore!)"
+                "(I... I've had enough!)"
               ]
             },
             {
@@ -6510,7 +6517,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A powerful stream gushes from his slit."
+                "Gushing forcefully from the slit"
               ]
             },
             {
@@ -6528,7 +6535,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The forceful *shuaa* sound echoes through the air."
+                "A loud \"Shhaaa...\" echoes through the air"
               ]
             },
             {
@@ -6601,21 +6608,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Oh yeah, Luna, you run the magic tool shop,"
+                "\\SE[3] \"Come to think of it, I heard Luna runs a"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "right?\""
+                "magic item shop, ?\""
               ]
             },
             {
@@ -6633,14 +6640,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Yes, the \"Arselia Magic Tool Shop.\"\""
+                "\\SE[5] \"Yes, I run a shop called ‘Arcelia’s Magic"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Items Shop.’\""
               ]
             },
             {
@@ -6658,14 +6672,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"What kind of stuff do you deal in?\""
+                "\\SE[3] \"What kind of stuff do you guys deal in?\""
               ]
             },
             {
@@ -6683,14 +6697,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"From everyday-use magic tools...\""
+                "\\SE[5] \"We carry everything from magical items"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "useful for daily life to those designed for"
               ]
             },
             {
@@ -6708,21 +6729,78 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"...like magic stones for lighting, or tools"
+                "adventurers.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                0,
+                0,
+                2,
+                ""
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "to start fires.\""
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"For example, magic stones used as"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "lighting, magical devices for starting"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "fires, filters for purifying water, and so"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "on…\""
               ]
             },
             {
@@ -6739,14 +6817,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"You make them yourself?\""
+                "\\SE[3] \"Are you going to make it yourself?\""
               ]
             },
             {
@@ -6764,21 +6842,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"I can craft those that match my affinity,"
+                "\\SE[5] \"I make the items that match my attributes"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "yes.\""
+                "myself, but for everything else, I regularly"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "purchase them and sell them.\""
               ]
             },
             {
@@ -6796,14 +6899,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Wait, you can make them too?\""
+                "\\SE[3] \"Huh, can you make Luna, too?\""
               ]
             },
             {
@@ -6821,14 +6924,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Yes, for example...\""
+                "\\SE[5] \"Yes, for example—\""
               ]
             },
             {
@@ -6893,7 +6996,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna pulls a small orb from her pocket."
+                "\\SE[0] Luna took a small orb out of her pocket. "
               ]
             },
             {
@@ -6925,7 +7028,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna pulls a small orb from her pocket."
+                "\\SE[0] Luna took a small orb out of her pocket. "
               ]
             },
             {
@@ -6950,14 +7053,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"What's that?\""
+                "\\SE[3] \"What's that?\""
               ]
             },
             {
@@ -6975,21 +7078,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"This is called the Thunder Explosion Orb"
+                "\\SE[5] \"It’s called the ‘Thunder Sound Exploding"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "<Thunder Explosion Orb>.\""
+                "Bead’ (Raion Bakuju). It’s a magical device"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "for security purposes.\""
               ]
             },
             {
@@ -7007,14 +7135,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"For security?\""
+                "\\SE[3] \"For security?\""
               ]
             },
             {
@@ -7032,21 +7160,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"If you press this switch and throw it, the"
+                "\\SE[5] \"If you press this switch and then throw"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "orb will...\""
+                "it, this orb will explode and make a"
               ]
             },
             {
@@ -7064,14 +7192,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Most monsters dislike loud noises, so...\""
+                "tremendous noise.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"Monsters often dislike loud noises, so"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "they get startled and run away.\""
               ]
             },
             {
@@ -7089,14 +7249,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Huh, that's amazing. This'll come in"
+                "\\SE[3] \"Wow, that’s amazing. This is really"
               ]
             },
             {
@@ -7121,14 +7281,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Want to try it out?\""
+                "\\SE[5] \"Want to give it a try?\""
               ]
             },
             {
@@ -7172,14 +7332,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Yeah, I'll take one.\""
+                "\\SE[3] \"Yeah, I guess I’ll take one. How much is"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "it?\""
               ]
             },
             {
@@ -7197,14 +7364,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna shakes her head slightly and places the orb in"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Kyle's hand."
+                "\\SE[0] Luna shook her head slightly and gently placed the bead in Kyle's hand "
               ]
             },
             {
@@ -7222,21 +7382,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Since this is a free sample, I won't charge"
+                "\\SE[5] \"Since this is a trial, I won’t charge you"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "you for the first one.\""
+                "for the first one.\""
               ]
             },
             {
@@ -7254,14 +7414,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Really? Then I'll happily take it.\""
+                "\\SE[3] \"Is that okay? Well, I’ll gladly take it"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "then.\""
               ]
             },
             {
@@ -7291,7 +7458,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle received the Thunder Explosion Orb from Luna."
+                "\\SE[0] I received a Thunder Sound Exploding Bead from Luna."
               ]
             },
             {
@@ -7349,14 +7516,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Sorry to keep you waiting! Now, let's go!\""
+                "\\SE[4] \"Sorry to keep you waiting! Let’s go!\""
               ]
             },
             {
@@ -7392,14 +7559,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(It was really close this time...)"
+                "(That was really cutting it close...)"
               ]
             },
             {
@@ -7550,7 +7717,7 @@
     },
     {
       "id": 4,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -7967,7 +8134,7 @@
     },
     {
       "id": 5,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -8384,7 +8551,7 @@
     },
     {
       "id": 6,
-      "name": "リリアン",
+      "name": "Lillian",
       "note": "",
       "pages": [
         {
@@ -8801,7 +8968,7 @@
     },
     {
       "id": 7,
-      "name": "おしっこ",
+      "name": "Pee",
       "note": "",
       "pages": [
         {
@@ -8844,14 +9011,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Hey, wait a second! What are you doing?\""
+                "\\SE[4] \"H-hey! What are you doing?!\""
               ]
             },
             {
@@ -8869,14 +9036,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"There's nothing there!\""
+                "\\SE[4] \"There’s nothing there!\""
               ]
             },
             {
@@ -8911,7 +9078,7 @@
     },
     {
       "id": 8,
-      "name": "銀の儀式杯",
+      "name": "Silver Ceremonial Cup",
       "note": "",
       "pages": [
         {
@@ -8963,14 +9130,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Ah...! Found it!\""
+                "\\SE[5] \"Oh…! I found it!\""
               ]
             },
             {
@@ -9059,7 +9226,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Obtained the Silver Ritual Cup."
+                "I obtained the Silver Ritual Cup"
               ]
             },
             {
@@ -9087,14 +9254,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Alright. Let's take it to the guild.\""
+                "\\SE[3] \"All right. Let’s take this to the guild.\""
               ]
             },
             {
@@ -9112,14 +9279,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Wait! Something's coming!\""
+                "\\SE[4] \"Wait! Something’s coming!\""
               ]
             },
             {
@@ -9189,14 +9356,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Ah, that startled me.\""
+                "\\SE[4] \"Oh, that gave me a start.\""
               ]
             },
             {
@@ -9214,14 +9381,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Let's get the hell out of here.\""
+                "\\SE[5] \"Shall we get this over with?\""
               ]
             },
             {
@@ -9239,7 +9406,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Head straight outside?"
+                "Should we all go outside at once?"
               ]
             },
             {
@@ -9254,10 +9421,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -9265,7 +9428,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -9311,7 +9474,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {

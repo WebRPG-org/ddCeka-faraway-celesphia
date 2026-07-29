@@ -5930,14 +5930,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It looks like they're in the middle of a business deal."
+                "It looks like they're in the middle of a business"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'd better not go in."
+                "meeting. I'd better not go inside."
               ]
             },
             {
@@ -6015,14 +6015,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It looks like they're in the middle of a business deal."
+                "It looks like they're in the middle of a business"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'd better not go in."
+                "meeting. I'd better not go inside."
               ]
             },
             {
@@ -6100,7 +6100,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]The door is locked."
+                "The door is locked."
               ]
             },
             {
@@ -6135,7 +6135,7 @@
     },
     {
       "id": 4,
-      "name": "2Fへ",
+      "name": "To the 2nd Floor",
       "note": "",
       "pages": [
         {
@@ -6257,21 +6257,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Sigh... I wanted them to buy it for as much as"
+                ": \"Sigh... I want to sell it for as much as possible,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "possible,\""
+                "but that requires some negotiating skills...\""
               ]
             },
             {
@@ -6289,21 +6289,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "but they told me, \\\"You'll get a good price from you,"
+                ": \"Someone told me, ‘You’ll definitely pay a high price"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\\"Kun\\\"\\\"."
+                "for it,’ but what does that mean...?\""
               ]
             },
             {
@@ -6381,14 +6381,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer"
+                "Male Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Have you been asked about the Goddess Crystal too?\""
+                ": \"Have you been asked about the Goddess Crystal, too?\""
               ]
             },
             {
@@ -6403,10 +6403,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -6414,7 +6410,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -6432,21 +6428,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"I've never seen one myself, but it seems like a"
+                ": \"I've never seen one myself, but it seems to be a"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "crystal brimming with incredible magical power.\""
+                "crystal that holds tremendous magical power. They say"
               ]
             },
             {
@@ -6464,21 +6460,71 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"I wonder who'd even buy something like that... A lone"
+                "its power is strong enough to shatter mountains.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "adventurer wouldn't...\""
+                "Adventurer "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                ": \"I wonder if anyone would actually buy something like"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "that... As an individual, you'd just end up with more"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Adventurer "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "than you can handle, right?\""
               ]
             },
             {
@@ -6491,7 +6537,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -6509,14 +6555,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Well, never mind. Don't worry about it.\""
+                ": \"That's fine, then. Don't worry about it.\""
               ]
             },
             {
@@ -6604,21 +6650,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Arseleon Private Guard"
+                "Arseon Private Guards "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Is your business decided? If it isn't decided yet,"
+                ": \"Have you decided on a business deal yet? If not,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "then\""
+                "please consult with us at the counter on the first"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Arseon Private Guards "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "floor first.\""
               ]
             },
             {
@@ -6696,21 +6767,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Arseleon Private Guard"
+                "Arseon Private Security "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"If you spot any suspicious persons or objects, report"
+                ": \"If you spot any suspicious individuals or objects,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "them to us, the private guards immediately.\""
+                "please contact us.\""
               ]
             },
             {
@@ -6745,7 +6816,7 @@
     },
     {
       "id": 9,
-      "name": "エリスエッチEV",
+      "name": "Elis H EV",
       "note": "",
       "pages": [
         {
@@ -6800,7 +6871,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Play \"Eris's Resolution\"?"
+                "Would you like to play \"Eris's Resolution\"? *This"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "content contains graphic material. Please refrain from"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "watching if you are sensitive to such content."
               ]
             },
             {
@@ -6815,10 +6900,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -6826,7 +6907,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -6864,7 +6945,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {

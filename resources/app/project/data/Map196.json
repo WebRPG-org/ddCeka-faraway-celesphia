@@ -5323,7 +5323,7 @@
     null,
     {
       "id": 1,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -5497,7 +5497,7 @@
     },
     {
       "id": 2,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -5671,7 +5671,7 @@
     },
     {
       "id": 3,
-      "name": "侵入不可",
+      "name": "No Entry",
       "note": "",
       "pages": [
         {
@@ -5731,7 +5731,7 @@
     },
     {
       "id": 4,
-      "name": "侵入不可",
+      "name": "No Entry",
       "note": "",
       "pages": [
         {
@@ -5791,7 +5791,7 @@
     },
     {
       "id": 5,
-      "name": "侵入不可",
+      "name": "No Entry",
       "note": "",
       "pages": [
         {
@@ -5851,7 +5851,7 @@
     },
     {
       "id": 6,
-      "name": "侵入不可",
+      "name": "No Entry",
       "note": "",
       "pages": [
         {
@@ -5911,7 +5911,7 @@
     },
     {
       "id": 7,
-      "name": "ロゼイベント5",
+      "name": "Rosé Event 5",
       "note": "",
       "pages": [
         {
@@ -5954,14 +5954,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose Event (6/12)"
+                "Rosé Event (June 12) "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Play \"Aching...?\""
+                "\"A twinge…?\" . Do you want to play this?"
               ]
             },
             {
@@ -5976,10 +5976,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -5987,7 +5983,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -6013,7 +6009,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -6566,21 +6562,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Rose, you're really strong. I didn't"
+                "\\SE[3]: \"Rose, you’re really strong. I never would"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "recognize you at first.\""
+                "have guessed.\""
               ]
             },
             {
@@ -6598,21 +6594,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Hehe. This is the result of my rigorous"
+                "\\SE[1] \"Heh heh. This is also the result of my"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "training. Praise me more, okay?♡\""
+                "rigorous training. Praise me some more ♡\""
               ]
             },
             {
@@ -6630,14 +6626,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Yeah, yeah, amazing.\""
+                "\\SE[3]: \"Wow, that's amazing!\""
               ]
             },
             {
@@ -6655,14 +6651,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Stop acting like you're not even trying!\""
+                "\\SE[1] \"Stop being so half-hearted~\""
               ]
             },
             {
@@ -6773,21 +6769,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Are you okay...? I mean, does it still"
+                "\\SE[3]: \"Are you okay physically...? I mean, that"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "hurt?\""
+                "tingling sensation...\""
               ]
             },
             {
@@ -6814,14 +6810,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Yeah...it might still throb a little...\""
+                "\\SE[1] \"Ah, I think I might be feeling a little"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "queasy…\""
               ]
             },
             {
@@ -6839,14 +6842,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Huh?\""
+                "\\SE[3] \"Eh?\""
               ]
             },
             {
@@ -6946,14 +6949,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Come on...let's kiss, okay?\""
+                "\\SE[1] \"Hey, wanna kiss…?\""
               ]
             },
             {
@@ -6971,14 +6974,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"！\""
+                "\\SE[3] \"!\""
               ]
             },
             {
@@ -7076,14 +7079,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Mmh...♡\""
+                "\\SE[1] \"Hmm...♡\""
               ]
             },
             {
@@ -7101,14 +7104,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Chu...♡Nn...hmm...♡\""
+                "\\SE[1] \"Chu…♡ Mmm…♡\""
               ]
             },
             {
@@ -7204,14 +7207,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"W-was it really throbbing just now?\""
+                "\\SE[3] \"W-was that really a tingling sensation"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "just now?\""
               ]
             },
             {
@@ -7229,14 +7239,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"It was throbbing...it was throbbing.\""
+                "\\SE[1] \"It was throbbing, it was throbbing\""
               ]
             },
             {
@@ -7438,7 +7448,7 @@
     },
     {
       "id": 8,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -7957,7 +7967,7 @@
     },
     {
       "id": 9,
-      "name": "ロゼ",
+      "name": "Rosé",
       "note": "",
       "pages": [
         {
@@ -8170,7 +8180,7 @@
     },
     {
       "id": 10,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -8516,7 +8526,7 @@
     },
     {
       "id": 11,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -8862,7 +8872,7 @@
     },
     {
       "id": 12,
-      "name": "宝箱（ファイアブロウ）",
+      "name": "Treasure Chest (Fire Blow)",
       "note": "",
       "pages": [
         {
@@ -9023,7 +9033,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Fire Blow!"
+                "I got a Fire Blow!"
               ]
             },
             {

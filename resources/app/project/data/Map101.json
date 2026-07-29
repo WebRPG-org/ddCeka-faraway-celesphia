@@ -1747,7 +1747,7 @@
     null,
     {
       "id": 1,
-      "name": "ノエル",
+      "name": "Noel",
       "note": "",
       "pages": [
         {
@@ -1909,7 +1909,7 @@
     },
     {
       "id": 2,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -2428,7 +2428,7 @@
     },
     {
       "id": 3,
-      "name": "アリア",
+      "name": "Aria",
       "note": "",
       "pages": [
         {
@@ -2539,7 +2539,7 @@
     },
     {
       "id": 4,
-      "name": "リリアン",
+      "name": "Lillian",
       "note": "",
       "pages": [
         {
@@ -3058,7 +3058,7 @@
     },
     {
       "id": 5,
-      "name": "ルーナEND",
+      "name": "Luna END",
       "note": "",
       "pages": [
         {
@@ -3718,7 +3718,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]When we returned to Elheim,"
+                "\\SE[5] When we returned to Elheim, our mother was"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "already in critical condition."
               ]
             },
             {
@@ -3771,14 +3778,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]I quickly brewed a healing potion from Celesphia's"
+                "\\SE[5] I immediately made a potion from the petals of the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "petals,"
+                "Ceresphere and gave it to my mother."
               ]
             },
             {
@@ -3803,7 +3810,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]and before my eyes, the purple bruises faded away"
+                "\\SE[5] Before long, the purple bruise began to fade, and her"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "mother began to recover."
               ]
             },
             {
@@ -4054,7 +4068,7 @@
     },
     {
       "id": 6,
-      "name": "リリアンEND",
+      "name": "Lillian END",
       "note": "",
       "pages": [
         {
@@ -4702,7 +4716,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]When we arrived in Elheim,"
+                "\\SE[4] By the time we arrived in Elheim, Lord Noel was"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "already in critical condition."
               ]
             },
             {
@@ -4762,7 +4783,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]Lady Luna immediately brewed Celesphia's elixir,"
+                "\\SE[4] Lady Luna immediately prepared the Celesphere Elixir"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "and gave it to Lady Noel,"
               ]
             },
             {
@@ -4787,7 +4815,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]and the purple bruises faded away before our eyes."
+                "\\SE[4] The purple bruise faded before our very eyes, and Lady"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Noelle began to recover."
               ]
             },
             {
@@ -5038,7 +5073,7 @@
     },
     {
       "id": 7,
-      "name": "トゥルーEND",
+      "name": "True Ending",
       "note": "",
       "pages": [
         {
@@ -5387,7 +5422,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
@@ -6187,7 +6222,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Aria"
+                "Aria "
               ]
             },
             {
@@ -6212,7 +6247,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
@@ -6268,14 +6303,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Aria"
+                "Aria "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"The doctor says he doesn't have much time left...\""
+                ": \"The doctor says I don't have much time left...\""
               ]
             },
             {
@@ -6293,7 +6328,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
@@ -6327,7 +6362,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel"
+                "\\SE[0] Noel "
               ]
             },
             {
@@ -6352,7 +6387,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
@@ -6377,7 +6412,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel"
+                "\\SE[0] Noelle "
               ]
             },
             {
@@ -6418,7 +6453,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
@@ -6450,7 +6485,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel"
+                "\\SE[0] Noelle "
               ]
             },
             {
@@ -6482,7 +6517,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
@@ -6507,7 +6542,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel"
+                "\\SE[0] Noel "
               ]
             },
             {
@@ -6539,7 +6574,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel"
+                "\\SE[0] Noel "
               ]
             },
             {
@@ -6564,14 +6599,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"！\""
+                "\\SE[5] \"!\""
               ]
             },
             {
@@ -6589,7 +6624,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
@@ -6628,7 +6663,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
@@ -6705,14 +6740,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Aria"
+                "Aria "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Lilian, who is this person...?\""
+                ": \"Lillian, who is this person…?\""
               ]
             },
             {
@@ -6730,7 +6765,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
@@ -6762,14 +6797,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"The greatest in this world―!\""
+                "\\SE[4] \"I am the best—\\! \\C[3] healer <Oracle> \\C[0] in this"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "world.\""
               ]
             },
             {
@@ -6834,14 +6876,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]I pulled this from my pouch. It was once inherited"
+                "\\SE[0] I took the "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "from Milee."
+                "pendant—which I had once inherited from Mille—out of my"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "pouch."
               ]
             },
             {
@@ -6859,7 +6908,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]And the tip is attached to a bead made of wood."
+                "\\SE[0] And I split the wooden bead accessory "
               ]
             },
             {
@@ -6957,14 +7006,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Then, from inside, something no bigger than the tip of"
+                "When I pressed \\SE[0], a tiny crystal—no bigger than the tip"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "my pinky..."
+                "of my little finger—popped out from inside."
               ]
             },
             {
@@ -7026,14 +7075,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Th-That's... Could it be?\""
+                "\\SE[4] \"W-Wait… you don’t mean…\""
               ]
             },
             {
@@ -7051,14 +7100,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"A Goddess Crystal?!\""
+                "\\SE[5] \"Goddess Crystal!?\""
               ]
             },
             {
@@ -7125,7 +7174,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Goddess Crystal―"
+                "\\SE[0] Goddess Crystal――"
               ]
             },
             {
@@ -7143,14 +7192,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]A crystal that traps a woman with high magical power"
+                "This crystal is created using a method in which a woman"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "inside,"
+                "with strong magical power is sealed inside the crystal"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "(\\SE[0]), and then, from the outside, several people work"
               ]
             },
             {
@@ -7168,7 +7224,32 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]where her magic repeatedly reflects within,"
+                "together for three days and three nights to infuse it"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "with magical power ( ) before sealing it ( )."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Magical power continued to be scattered back and forth within the crystal, "
               ]
             },
             {
@@ -7193,7 +7274,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]until it eventually accumulates enough power to"
+                "\\SE[0] It is said that, ultimately, it can generate enough magical power to "
               ]
             },
             {
@@ -7258,14 +7339,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]destroy an entire kingdom. And he swallowed that"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "crystal without hesitation."
+                "\\SE[0] He swallowed the crystal without hesitation."
               ]
             },
             {
@@ -7283,14 +7357,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Lord Kyle! You mustn't!\""
+                "\\SE[5] \"Lord Kyle! You mustn’t!\""
               ]
             },
             {
@@ -7308,14 +7382,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Kyle!\""
+                "\\SE[4] \"Kyle!\""
               ]
             },
             {
@@ -7364,14 +7438,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Magic erupts from deep within his body, growing"
+                "\\SE[0] I can feel magical power exploding from deep within my body, and I can sense it "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "stronger and stronger..."
+                "growing stronger and stronger."
               ]
             },
             {
@@ -7389,21 +7463,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Luna, Lilian. I... I want to give both of"
+                "\\SE[3] \"Luna, Lilian. You two have saved my life"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "you\""
+                "twice.\""
               ]
             },
             {
@@ -7421,14 +7495,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"So now's the time! I'll return that favor!\""
+                "\\SE[3] \"That’s why now, more than ever! I’m going"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "to repay that debt!\""
               ]
             },
             {
@@ -7468,7 +7549,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Pouring all my magic power into both hands, in my mind"
+                "\\SE[0] Channeling all my magical power into both hands, I formulate the "
               ]
             },
             {
@@ -7531,7 +7612,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\\{\"\\C[3]Full Recovery Spell <Heal>\\C[0]\\}!!\"\\}"
+                "\\SE[3]\\{ \"\\C[3] Maximum Healing Spell <Heal> \\C[0]\\}!!\" \\}"
               ]
             },
             {
@@ -7661,7 +7742,7 @@
     },
     {
       "id": 8,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {

@@ -7237,7 +7237,7 @@
     null,
     {
       "id": 1,
-      "name": "滝つぼ",
+      "name": "Waterfall Pool",
       "note": "",
       "pages": [
         {
@@ -7279,14 +7279,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Hey, Lilian.\""
+                "\\SE[3] \"Hey, Lilian.\""
               ]
             },
             {
@@ -7303,7 +7303,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
@@ -7327,38 +7327,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I've been thinking about this for a while,\""
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/lylyan_normal",
-                0,
-                0,
-                2
+                "\\SE[3] \"I’ve been wondering about this for a"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]\"Oh, that thing again, huh?\""
+                "while, but even though Lilian is older, why"
               ]
             },
             {
@@ -7375,14 +7358,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Isn't Lilian actually older than you?\""
+                "does she call Luna ‘Lady Luna’?\""
               ]
             },
             {
@@ -7399,76 +7382,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Well, in terms of age, yes, but in"
+                "\\SE[4] \"Oh, is that what you mean? Well, I suppose"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "reality...\""
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/lylyan_normal",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0][Lilian]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]\"I lost my family when my village was"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "attacked by demons...\""
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/lylyan_normal",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0][Lilian]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]\"I was away on a mission at the time...\""
+                "you’d think so.\""
               ]
             },
             {
@@ -7485,14 +7413,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"……\""
+                "\\SE[3] \"Isn’t Lilian her older sister, ?\""
               ]
             },
             {
@@ -7509,21 +7437,107 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Kyle, you know about the Elf Union system,"
+                "\\SE[4] \"Yes, that’s true in terms of age, but"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "right?\""
+                "actually ...\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"My village was attacked by demons, and I"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "lost my entire family —I have no one left.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"I was away on a mission myself… . By the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "time I received the news and rushed back,"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "the village had already been destroyed …\""
               ]
             },
             {
@@ -7540,14 +7554,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"The Elf Union...\""
+                "\\SE[3] \"……\""
               ]
             },
             {
@@ -7564,69 +7578,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Yes. It was where I was taken in.\""
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/lylyan_normal",
-                0,
-                0,
-                2
+                "\\SE[4] \"Kyle, are you familiar with the Elf Union"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]\"To me, it was salvation.\""
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/lylyan_normal",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0][Lilian]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]\"...So, I consider the Belmule household my"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "family now.\""
+                "system?\""
               ]
             },
             {
@@ -7643,21 +7609,45 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"...And that's why you use \"-sama\" with Luna"
+                "\\SE[3] \"The Elf Union… a system where elves who’ve"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "too, huh?\""
+                "lost their families in accidents or war are"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "taken in by other families, wasn’t it?\""
               ]
             },
             {
@@ -7674,14 +7664,217 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0]Lillian"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Heh, I'm an only child, you see.\""
+                "\\SE[4]\"Yes. When I was looking for a place to"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "stay, the Bermure family warmly welcomed me."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]Lillian"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "My stepmother—who is Lady Luna’s aunt—"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "told me, ‘We’d like to welcome you as part"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "of our family.’\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"For me, it was a salvation. I gained a new"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "family and a place to call home again.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"...That’s why I want to always treat the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "members of the Bermure family with respect.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3] \"…So that’s why you add ‘-sama’ to Luna’s"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "name, too.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"Hehe, I’m an only child, but , it feels"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "like I’ve gained a cute little sister, and"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I’m so happy.\""
               ]
             },
             {
@@ -7698,21 +7891,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian] smiled."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4] \"Hehe, I’m an only child, but , it feels like I’ve"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "gained a cute little sister, and I’m so happy.\""
+                "\\SE[0] Lilian smiled."
               ]
             },
             {
@@ -7729,45 +7908,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I see... That makes sense. With that kind"
+                "\\SE[3] \"I see… Given those circumstances, that"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "of background,\""
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]The night was gentle, the firelight flickering softly"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "as their conversation continued."
+                "makes sense.\""
               ]
             }
           ],
@@ -7797,7 +7952,7 @@
     },
     {
       "id": 2,
-      "name": "滝つぼ",
+      "name": "Waterfall Pool",
       "note": "",
       "pages": [
         {
@@ -7857,7 +8012,7 @@
     },
     {
       "id": 3,
-      "name": "テント",
+      "name": "Tent",
       "note": "",
       "pages": [
         {
@@ -7917,7 +8072,7 @@
     },
     {
       "id": 4,
-      "name": "テント",
+      "name": "Tent",
       "note": "",
       "pages": [
         {
@@ -7977,7 +8132,7 @@
     },
     {
       "id": 5,
-      "name": "テント",
+      "name": "Tent",
       "note": "",
       "pages": [
         {
@@ -8037,7 +8192,7 @@
     },
     {
       "id": 6,
-      "name": "テント",
+      "name": "Tent",
       "note": "",
       "pages": [
         {
@@ -8097,7 +8252,7 @@
     },
     {
       "id": 7,
-      "name": "テント",
+      "name": "Tent",
       "note": "",
       "pages": [
         {
@@ -8157,7 +8312,7 @@
     },
     {
       "id": 8,
-      "name": "テント",
+      "name": "Tent",
       "note": "",
       "pages": [
         {
@@ -8217,7 +8372,7 @@
     },
     {
       "id": 9,
-      "name": "テント",
+      "name": "Tent",
       "note": "",
       "pages": [
         {
@@ -8277,7 +8432,7 @@
     },
     {
       "id": 10,
-      "name": "テント",
+      "name": "Tent",
       "note": "",
       "pages": [
         {
@@ -8337,7 +8492,7 @@
     },
     {
       "id": 11,
-      "name": "テント",
+      "name": "Tent",
       "note": "",
       "pages": [
         {
@@ -8397,7 +8552,7 @@
     },
     {
       "id": 12,
-      "name": "焚き火",
+      "name": "Campfire",
       "note": "",
       "pages": [
         {
@@ -8508,7 +8663,7 @@
     },
     {
       "id": 13,
-      "name": "自動イベント",
+      "name": "Automatic Events",
       "note": "",
       "pages": [
         {
@@ -8699,7 +8854,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "※This event has already been viewed. Skip it?"
+                "*You've already viewed this event. Would you like to"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "skip it?"
               ]
             },
             {
@@ -8714,10 +8876,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -8725,7 +8883,7 @@
               "indent": 1,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -8847,7 +9005,7 @@
               "indent": 1,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -9587,14 +9745,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"It's getting pretty dark out.\""
+                "\\SE[4] \"It’s getting pretty dark, isn’t it?\""
               ]
             },
             {
@@ -9611,14 +9769,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"We set out just after noon.\""
+                "\\SE[3] \"We set out just after noon, after all. I"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "guess the sun will be setting by now.\""
               ]
             },
             {
@@ -9666,14 +9831,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"How much farther until we're out of the"
+                "\\SE[5] \"How much longer until we get out of the"
               ]
             },
             {
@@ -9697,14 +9862,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Roughly another half.\""
+                "\\SE[3] \"We’re about halfway there.\""
               ]
             },
             {
@@ -9721,21 +9886,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"It doesn't look like we'll be getting"
+                "\\SE[4] \"It looks like it'll be hard to get out of"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "through it all at once.\""
+                "here all at once.\""
               ]
             },
             {
@@ -9779,14 +9944,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Should we make camp?\""
+                "\\SE[5] \"Shall we set up camp? Let’s find a place"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "where we can relax.\""
               ]
             },
             {
@@ -9955,14 +10127,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"How about here?\""
+                "\\SE[4] \"How about here? We can have the cliff"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "behind us, and there’s a stream nearby.\""
               ]
             },
             {
@@ -9979,14 +10158,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Yes, this is a good spot.\""
+                "\\SE[5] \"Yeah, this is a nice spot. Let’s make this"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "our spot.\""
               ]
             },
             {
@@ -10214,14 +10400,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]They gathered around the campfire, the crackling of"
+                "\\SE[0] As we gather around the campfire, the crackling sound of the logs "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the logs filling the air."
+                "echoes through the quiet forest."
               ]
             },
             {
@@ -10239,14 +10425,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]The flickering firelight danced, casting the"
+                "\\SE[0] The flickering light of the fire cast the travelers' shadows "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "travelers' shadows."
+                "onto the ground."
               ]
             },
             {
@@ -10318,14 +10504,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "She held her palm over the wound, concentrating her"
+                "He held his palm over the wound and focused his magical"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "magic."
+                "power."
               ]
             },
             {
@@ -10343,21 +10529,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"...It's amazing, isn't it? The blessing of"
+                "\\SE[5] \"…It’s truly amazing, isn’t it, this thing"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the gods.\""
+                "called divine protection?\""
               ]
             },
             {
@@ -10374,14 +10560,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]The scraped wound that had bled red during battle now"
+                "\\SE[0] The wound, which had turned red from bleeding after being scraped during combat, "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "healed cleanly."
+                "closed up in the blink of an eye."
               ]
             },
             {
@@ -10413,14 +10599,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]A healer known as an Oracle is essentially no"
+                "\\SE[0] A Healer <Oracle> is, so to speak, virtually synonymous with a doctor. "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "different from a doctor."
+                "Like a doctor, they possess certain latent skills."
               ]
             },
             {
@@ -10438,14 +10624,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]They can even \\C[2]sense the state of their"
+                "\\SE[0] That's \\C[2], which lets you know the other person's"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "patient\\C[0]."
+                "status, \\C[0]."
               ]
             },
             {
@@ -10463,14 +10649,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Whether they're poisoned, have a sore back, old"
+                "\\SE[0] Whether you're suffering from poisoning, have a sore back, or have an old injury, "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "injuries, and so on."
+                "I can tell exactly what's wrong with your body as if I"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "could see it with my own eyes."
               ]
             },
             {
@@ -10488,7 +10681,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]In truth, something not known to the general public is"
+                "\\SE[0]—Although this isn't widely known, "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "allows you to discover this characteristic."
               ]
             },
             {
@@ -10506,7 +10706,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]the <something> is"
+                "\\SE[0] <Something> refers to "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\C[2] whether or not one has had sexual intercourse \\C[0]"
               ]
             },
             {
@@ -10538,7 +10745,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna Virginity status:---! \\!"
+                "\\SE[0] Luna's sexual experience―――\\!"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\C[2] None\\C[0]"
               ]
             },
             {
@@ -10556,21 +10770,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0](Hmm... Luna's a virgin. Well, that was to"
+                "\\SE[0] (Hmm... So Luna's a virgin. Well, just as I"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "be expected.)"
+                "expected.)"
               ]
             },
             {
@@ -10588,14 +10802,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Either she's not interested in sex, or she's still"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "innocent."
+                "\\SE[0]: Not interested in sex, or inexperienced?"
               ]
             },
             {
@@ -10700,14 +10907,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"There we go... You're all better now.\""
+                "\\SE[3] \"All right… I’m okay now.\""
               ]
             },
             {
@@ -10725,14 +10932,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Thank you very much.\""
+                "\\SE[5] \"Thank you\""
               ]
             },
             {
@@ -10776,14 +10983,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Next is Lilian.\""
+                "\\SE[3] \"Next is Lilian\""
               ]
             },
             {
@@ -10845,14 +11052,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Understood.\""
+                "\\SE[4] \"Yes\""
               ]
             },
             {
@@ -10948,7 +11155,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian's sexual experience――― \\!"
+                "\\SE[0] Lilian Sexual Experience―――\\!"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\C[2] Yes \\C[0]"
               ]
             },
             {
@@ -10966,21 +11180,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Well, judging by her appearance and age,"
+                "(Well, judging by how old he looks, he’s"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "she's probably had some experience.)"
+                "probably been through a lot.)"
               ]
             },
             {
@@ -11084,14 +11298,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"That should do it.\""
+                "\\SE[3] \"That’ll do,\" he said."
               ]
             },
             {
@@ -11109,14 +11323,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Thank you, Kyle.\""
+                "\\SE[4] \"Thank you, Kyle.\""
               ]
             },
             {
@@ -11222,7 +11436,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle took out dried pork from his bag"
+                "\\SE[0] Kyle took some dried pork out of his pocket, "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "lightly seared it over the fire, and put it in his"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "mouth."
               ]
             },
             {
@@ -11240,14 +11468,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"...\"(staring intently)\""
+                "\\SE[4] \"……\" (staring intently)"
               ]
             },
             {
@@ -11273,14 +11501,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"...You want some, Lilian?\""
+                "\\SE[3] \"...Do you want some, Lilian?\""
               ]
             },
             {
@@ -11297,14 +11525,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Y-yes! I'll have some!\""
+                "\\SE[4] \"O-okay, I’m going to eat now!\""
               ]
             },
             {
@@ -11500,7 +11728,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"………\""
               ]
             },
             {
@@ -11518,14 +11753,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna stared blankly at the campfire, dozing off"
+                "\\SE[0] Luna stared at the campfire, dozing off as she "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "slightly."
+                "began to row the boat."
               ]
             },
             {
@@ -11573,14 +11808,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Lady Luna, we'll keep watch, so\""
+                "\\SE[4] \"Lady Luna, we’ll keep watch, so why don’t"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "you get some rest?\""
               ]
             },
             {
@@ -11607,14 +11849,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"...Yes, please do.\""
+                "\\SE[5] \"…Yes, I’ll do that. Good night, Lilian,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Lord Kyle.\""
               ]
             },
             {
@@ -11834,14 +12083,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"You carry a tent around, huh?\""
+                "\\SE[3] \"So you were actually carrying a tent"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "around.\""
               ]
             },
             {
@@ -11859,14 +12115,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Yes, it gets quite cold at night.\""
+                "\\SE[4] \"Yes, it does get cold at night, after all."
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "It wouldn’t be necessary for a short trip,"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/リリアン顔通常服",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "though…\""
               ]
             },
             {
@@ -11883,14 +12171,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"How long have you been traveling?\""
+                "\\SE[3] \"How long have you been traveling?\""
               ]
             },
             {
@@ -11908,14 +12196,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Ninety-one days today.\""
+                "\\SE[4] \"Today is the 91st day.\""
               ]
             },
             {
@@ -11932,14 +12220,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Wow... Where did you come from?\""
+                "\\SE[3] \"That’s another thing…! Where did that come"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "from?\""
               ]
             },
             {
@@ -11957,14 +12252,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"From Gram District in Elheim.\""
+                "\\SE[4] \"This is the Gram District of Elheim.\""
               ]
             },
             {
@@ -11982,14 +12277,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Wait, Elheim...?\""
+                "\\SE[3] \"Wait a minute, Elheim… Isn’t that across"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "the continent?\""
               ]
             },
             {
@@ -12007,14 +12309,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Yes, we crossed the sea.\""
+                "\\SE[4] \"Yes, I’ve crossed the sea.\""
               ]
             },
             {
@@ -12032,7 +12334,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Elheim――that was far to the east of the royal capital,"
+                "\\SE[0] Elheim—it is an elven kingdom located at the center of the Alveria Continent, which stretches far to the east of the capital, across the "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "sea."
               ]
             },
             {
@@ -12049,14 +12358,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"That must have been tough on the way here.\""
+                "\\SE[3] \"That must have been a rough trip, huh?\""
               ]
             },
             {
@@ -12074,166 +12383,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Yes... especially since it was Lady Luna's"
+                "\\SE[4] \"Well… especially since it was Lady Luna’s"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "first time on a ship.\""
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/kyle_normal",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0][Kyle]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"Wait, isn't Luna not an adventurer?\""
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/リリアン顔通常服",
-                0,
-                0,
-                2,
-                ""
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0][Lilian]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]\"Yes. Normally, she runs a magic tool shop.\""
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/リリアン顔通常服",
-                0,
-                0,
-                2,
-                ""
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0][Lilian]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]\"With Lady Luna's mother, Noel-sama, the two"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "of them...\""
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/リリアン顔通常服",
-                6,
-                0,
-                2,
-                ""
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0][Lilian]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]\"Noel-sama fell ill, and after that, Lady"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Luna...\""
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/リリアン顔通常服",
-                6,
-                0,
-                2,
-                ""
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0][Lilian]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]\"During the day, she opens the shop, and at"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "night, she nurses her mother.\""
+                "first time on a boat, she looked like she"
               ]
             },
             {
@@ -12251,21 +12415,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Ever since Noel-sama became completely"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "bedridden...\""
+                "was really suffering…\""
               ]
             },
             {
@@ -12282,14 +12439,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I see... So how's her mother doing now?\""
+                "\\SE[3] \"Isn’t Luna an adventurer to begin with?\""
               ]
             },
             {
@@ -12307,21 +12464,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"My stepmother is Noel-sama's older sister,"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "so...\""
+                "\\SE[4] \"Yes. I usually run a magical items shop.\""
               ]
             },
             {
@@ -12339,46 +12489,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"When we received word that Noel-sama had"
+                "\\SE[4] \"Luna-sama’s mother, Noel-sama, and I were"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "fallen ill...\""
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/kyle_normal",
-                0,
-                0,
-                2,
-                ""
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0][Kyle]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"And then she set out for \\C[3]Celesphia\\C[0] to...\""
+                "running the place together, but—\""
               ]
             },
             {
@@ -12396,21 +12521,110 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Yes... The doctors said there was nothing"
+                "\\SE[4] \"It seems Lady Noelle fell ill, and after"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "more they could do, so...\""
+                "that, Lady Luna was the one keeping the shop"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/リリアン顔通常服",
+                6,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "running on her own.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/リリアン顔通常服",
+                6,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"I run the shop during the day and take"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "care of my mother at night. It seems she was"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/リリアン顔通常服",
+                6,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "still able to move around when her symptoms"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "were milder…\""
               ]
             },
             {
@@ -12428,21 +12642,330 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"I found her just as she was about to leave"
+                "\\SE[4] \"Ever since Lord Noel became completely"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "on her own journey.\""
+                "immobilized, I don’t think he’s been able to"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/リリアン顔通常服",
+                5,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "sleep much… \""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3] \"I see… How is that mother doing now?\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/リリアン顔通常服",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"My mother-in-law is Lady Noelle’s older"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "sister, and she’s currently taking care of"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/リリアン顔通常服",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "her.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/リリアン顔通常服",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"Upon receiving word that Lady Luna’s"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "mother had fallen ill, I rushed over there"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/リリアン顔通常服",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "with my stepmother.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3] \"And so \\C[3] I decided to go get Ceresphere \\C[0] .\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/リリアン顔通常服",
+                6,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"Well… the doctor said there was nothing"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "more they could do, so Lady Luna couldn’t"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/リリアン顔通常服",
+                6,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "sit still.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/リリアン顔通常服",
+                5,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"I found you just as you were about to set"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "out on your journey alone, and I sort of"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/リリアン顔通常服",
+                5,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "forced my way along with you, which is how"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "we ended up here.\""
               ]
             },
             {
@@ -12569,14 +13092,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Lilian, you're talking too much.\""
+                "\\SE[5] \"Lilian, you talk too much.\""
               ]
             },
             {
@@ -12643,14 +13166,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Lady Luna, you're already awake?\""
+                "\\SE[4] \"Lady Luna, are you awake already? You"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "could have slept a little longer…\""
               ]
             },
             {
@@ -12668,14 +13198,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"No, I've heard enough.\""
+                "\\SE[5] \"No, that’s enough.\""
               ]
             },
             {
@@ -12811,7 +13341,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]It seemed she hadn't slept for an hour..."
+                "\\SE[0] It seems I hadn't slept for even an hour..."
               ]
             },
             {
@@ -12829,14 +13359,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Luna, how about this?\""
+                "\\SE[3] \"Luna, what do you think of this?\""
               ]
             },
             {
@@ -12889,7 +13419,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle warmed some cow's milk and"
+                "\\SE[0] Kyle offered a drink made of warmed cow's milk with "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "a little honey drizzled on top."
               ]
             },
             {
@@ -12942,14 +13479,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"It's delicious... It warms me right up.\""
+                "\\SE[5] \"It’s delicious… it really warms me up.\""
               ]
             },
             {
@@ -13071,21 +13608,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Kyle-sama, why did you become an"
+                "\\SE[5] \"Why is Lord Kyle an adventurer…? If he has"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "adventurer...? If it's divine protection"
+                "the blessing of the gods, couldn’t he become"
               ]
             },
             {
@@ -13103,39 +13640,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "you\""
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/ルーナ通常服",
-                0,
-                0,
-                2,
-                ""
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0][Luna]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "seek,"
+                "a priest right away…?\""
               ]
             },
             {
@@ -13153,14 +13665,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]then becoming a cleric or joining the church would be"
+                "\\SE[0] Being a clergyman means becoming a member of a church, and "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the way to go, right?\""
+                "it is said that one’s food, clothing, and shelter are"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "provided by the state, ensuring a secure life."
               ]
             },
             {
@@ -13186,14 +13705,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I just don't like all that stiff stuff.\""
+                "\\SE[3] \"I’m not really into that kind of stuff.\""
               ]
             },
             {
@@ -13210,21 +13729,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Well, I lost both my parents when I was a"
+                "\\SE[3] \"Well, I lost both my parents when I was a"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "kid.\""
+                "kid…\""
               ]
             },
             {
@@ -13241,14 +13760,45 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I refused to go to the orphanage,\""
+                "\\SE[3] \"I turned down the chance to go to an"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "orphanage, and ended up living on my own—and"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "that’s how I became an adventurer.\""
               ]
             },
             {
@@ -13266,14 +13816,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Was it an accident or an illness...?\""
+                "\\SE[5] \"Could it be an accident or an illness…?\""
               ]
             },
             {
@@ -13291,21 +13841,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"No, it was a monster attack. The whole"
+                "\\SE[3] \"No, it was a monster attack. That’s why"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "village was wiped out.\""
+                "the whole village was wiped out. It happens"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "all the time.\""
               ]
             },
             {
@@ -13366,21 +13941,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"I see... That must have been... hard to"
+                "\\SE[5] \"I see... Well... I'm sorry for asking you"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "talk about.\""
+                "something so hard to talk about.\""
               ]
             },
             {
@@ -13398,14 +13973,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"It was over a dozen years ago now.\""
+                "\\SE[3] \"That was over ten years ago, so don’t"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "worry about it.\""
               ]
             },
             {
@@ -13423,21 +14005,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"If you didn't go to the orphanage, how did"
+                "\\SE[4] \"If you didn’t go to an orphanage, how did"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "you...\""
+                "you get by?\""
               ]
             },
             {
@@ -13455,21 +14037,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Ah, I learned magic control from my parents"
+                "\\SE[3] \"Ah, my parents taught me how to control my"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "when I was little.\""
+                "magical power from a young age.\""
               ]
             },
             {
@@ -13487,21 +14069,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"So I could already use magic even back"
+                "\\SE[3] \"That’s why, ever since I was little, I’ve"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "then.\""
+                "already been able to use magic pretty well,\""
               ]
             },
             {
@@ -13519,14 +14101,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Whenever I found an injured adventurer,\""
+                "\\SE[3] \"Whenever I found an adventurer who looked"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "like they were injured, I’d say, ‘I’ll heal"
               ]
             },
             {
@@ -13544,14 +14133,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Eventually, word spread about me.\""
+                "that wound for 30 gold,’ and that’s how I"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "earned my travel money.\""
               ]
             },
             {
@@ -13569,21 +14165,78 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"In the end, I just sat in a corner of the"
+                "\\SE[3] \"Before I knew it, the rumor had spread,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "guild,\""
+                "and they started coming over on their own.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3] \"In the end, I was just sitting in the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "corner of the guild and waiting, and I was"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "making a decent amount of money.\""
               ]
             },
             {
@@ -13619,21 +14272,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"If you keep doing that, the guild staff"
+                "\\SE[4] \"If you keep doing that, won’t the guild"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "will\""
+                "members take notice?\""
               ]
             },
             {
@@ -13651,14 +14304,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"That's where this comes in.\""
+                "\\SE[3] \"That’s this.\""
               ]
             },
             {
@@ -13675,7 +14328,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]He slipped his hand into his sleeve."
+                "\\SE[0] With that, he slipped his hand under his sleeve."
               ]
             },
             {
@@ -13711,14 +14364,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Well, I guess you could say...\""
+                "\\SE[4] \"How should I put it…\""
               ]
             },
             {
@@ -13736,14 +14389,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Hehe, you're quite resourceful, aren't"
+                "\\SE[5] \"Hehe, you’re quite the tough one, aren’t"
               ]
             },
             {
@@ -13768,21 +14421,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Right? I think I did pretty well for"
+                "\\SE[3] \"Right? I have to say, I did a pretty good"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "myself.\""
+                "job there.\""
               ]
             },
             {
@@ -13800,21 +14453,53 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"And that's how I started talking with"
+                "\\SE[3] \"So I started talking with the adventurer a"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "adventurers more often.\""
+                "lot, and he asked me, ‘Why don’t you come"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "along on my next adventure?’ That’s when I"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "started going on adventures myself.\""
               ]
             },
             {
@@ -13832,14 +14517,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Looks like that suited you better.\""
+                "\\SE[4] \"That suits you better,\""
               ]
             },
             {
@@ -13857,14 +14542,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Well, I guess you could say...\""
+                "\\SE[3] \"That’s exactly it.\""
               ]
             },
             {
@@ -13882,21 +14567,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I'd heard about Luna, but I hadn't heard"
+                "\\SE[3] \"I’ve heard about Luna, but tell me about"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "about you, Lilian.\""
+                "Lilian too, .\""
               ]
             },
             {
@@ -13923,14 +14608,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Huh? Me?\""
+                "\\SE[4] \"Huh? Me?\""
               ]
             },
             {
@@ -13948,21 +14633,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Your swordsmanship isn't exactly ordinary,"
+                "\\SE[3] \"With a sword technique like that, you’re"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "is it?\""
+                "no ordinary person, are you?\""
               ]
             },
             {
@@ -13980,14 +14665,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"No, I used to belong to the Knight Order.\""
+                "\\SE[4] \"Yes, I used to be a member of the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Knights.\""
               ]
             },
             {
@@ -14004,21 +14696,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"But there aren't any wars going on anymore,"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "right?\""
+                "\\SE[3] \"There aren’t any wars anymore, right?\""
               ]
             },
             {
@@ -14036,21 +14721,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Yes, the conflicts between races have"
+                "\\SE[4] \"Yes, the conflicts between races are a"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "ended,\""
+                "thing of the distant past; these days, it’s"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/リリアン顔通常服",
+                6,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "mostly about hunting monsters.\""
               ]
             },
             {
@@ -14068,21 +14778,53 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"so I was stationed in various regions,"
+                "\\SE[4] \"We’re stationed in various regions,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "patrolling and dealing with monsters.\""
+                "patrolling the area, driving away monsters,"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/リリアン顔通常服",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "and helping with the development of those"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "regions.\""
               ]
             },
             {
@@ -14109,14 +14851,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Ugh, sounds tough.\""
+                "\\SE[3] \"Wow, that’s a tough one.\""
               ]
             },
             {
@@ -14134,21 +14876,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"No, if you only swing a sword all day, you"
+                "\\SE[4] \"No, if I just keep swinging my sword all"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "start to lose yourself.\""
+                "the time, I’ll lose sight of who I am.\""
               ]
             },
             {
@@ -14166,14 +14908,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Working with the earth grounds you.\""
+                "\\SE[4] \"I really like working with soil because it"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "lets me take a fresh look at myself.\""
               ]
             },
             {
@@ -14190,14 +14939,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Why the Knight Order, though?\""
+                "\\SE[3] \"Why join the Knights?\""
               ]
             },
             {
@@ -14215,14 +14964,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"I don't have much magical power,\""
+                "\\SE[4] \"My magical power wasn’t very strong, so I"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "couldn’t use magic.\""
               ]
             },
             {
@@ -14240,21 +14996,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"so instead, I was scouted for my physical"
+                "\\SE[4] \"I don’t know if you can call it ‘in"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "strength.\""
+                "exchange,’ but since I was bigger than most"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/リリアン顔通常服",
+                6,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "people, I was scouted.\""
               ]
             },
             {
@@ -14271,14 +15052,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Scouted?\""
+                "\\SE[3] \"Scout?\""
               ]
             },
             {
@@ -14296,21 +15077,53 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Yes. Most elves have high magical"
+                "\\SE[4] \"Yes, many elves have high magical power,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "affinity,\""
+                "and while there are plenty of rear-line"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/リリアン顔通常服",
+                6,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "classes, we have a chronic shortage of"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "front-line classes.\""
               ]
             },
             {
@@ -14328,21 +15141,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"but I was valued for my size, strength, and"
+                "\\SE[4] \"The Knights’ Order recruits people who are"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "endurance.\""
+                "physically large or strong, among other"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/リリアン顔通常服",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "qualities, as candidates.\""
               ]
             },
             {
@@ -14360,14 +15198,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"So you took advantage of that, huh?\""
+                "\\SE[3] \"So that’s where you got on, huh?\""
               ]
             },
             {
@@ -14385,21 +15223,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Yes. I didn't have any particular"
+                "\\SE[4] \"Yeah. I didn’t really have anything I"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "ambitions, anyway.\""
+                "wanted to do anyway.\""
               ]
             },
             {
@@ -14426,14 +15264,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"T-That's why Lilian...\""
+                "\\SE[5] \"S-So that’s why Lilian \\C[2] became a knight"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "<Cavalier> \\C[0]…?\""
               ]
             },
             {
@@ -14451,14 +15296,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Huh?! Didn't I mention that already?\""
+                "\\SE[4] \"Huh!? Oh, right—didn’t I mention that?\""
               ]
             },
             {
@@ -14476,21 +15321,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"I didn't hear about it... I just assumed"
+                "\\SE[5] \"I didn’t hear that… I was sure you’d"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "you volunteered.\""
+                "become a \\C[2] knight <Cavalier> \\C[0] of your own"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/ルーナ通常服",
+                5,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "free will.\""
               ]
             },
             {
@@ -14517,14 +15387,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Well, it was when I was 15, so...\""
+                "\\SE[4] \"Well, it was when I was 15, so… I might"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "not have mentioned it.\""
               ]
             },
             {
@@ -14542,21 +15419,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"And you're wearing such light armor for a"
+                "\\SE[3] \"For a knight, he’s dressed awfully"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "knight...\""
+                "lightly…\""
               ]
             },
             {
@@ -14574,21 +15451,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"We left in a hurry, so I only brought"
+                "\\SE[4] \"I left in such a hurry that I only brought"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "self-defense gear...\""
+                "this inexpensive sword for self-defense…\""
               ]
             },
             {
@@ -14606,14 +15483,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"I-I'm sorry... Lilian.\""
+                "\\SE[5] \"I’m, I’m sorry… Lilian. I never thought"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "you’d actually follow me all the way here…\""
               ]
             },
             {
@@ -14631,14 +15515,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"It's fine! Armor's just for show anyway!\""
+                "\\SE[4] \"No, equipment is just for show! I don’t"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "need it at all!\""
               ]
             },
             {
@@ -14666,14 +15557,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Come to think of it, Luna and Lilian―\""
+                "\\SE[3] \"Come to think of it, Luna and Lilian are"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "both —how old are they?\""
               ]
             },
             {
@@ -14691,14 +15589,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"I'm 22.\""
+                "\\SE[4] \"I'm 22.\""
               ]
             },
             {
@@ -14716,14 +15614,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"I'm 18. How old are you, Kyle-sama?\""
+                "\\SE[5] \"I’m 18. How old are you, Kyle-sama ?\""
               ]
             },
             {
@@ -14741,21 +15639,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I'm 22 too. Uh, let me think for a"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "second...\""
+                "\\SE[3] \"I’m 22, too. Um, hold on a sec…\""
               ]
             },
             {
@@ -14787,7 +15678,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]He paused for a reason."
+                "\\SE[0] There’s a reason I paused here. "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Elves count their age differently than humans do."
               ]
             },
             {
@@ -14805,14 +15703,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Elves age extremely slowly, and their growth follows"
+                "\\SE[0] Elves age very slowly, and their growth is similarly slow. It is said to be "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the same pattern."
+                "about 3 to 4 times slower than that of humans \\C[3]."
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Therefore, elves celebrate their birthdays every \\C[3]1,000"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Elves age very slowly, and their growth is similarly slow. It is said to be "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "days \\C[0] and turn \\C[3] one \\C[0] year older."
               ]
             },
             {
@@ -14844,14 +15774,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"If I divide 18,000 by 365...\""
+                "\\SE[3] \"If you divide 18,000 by 365…\""
               ]
             },
             {
@@ -14878,14 +15808,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"！？\""
+                "\\SE[3] \"!?\""
               ]
             },
             {
@@ -14903,14 +15833,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Luna's 50?!\""
+                "\\SE[3] \"Luna’s 50!?\""
               ]
             },
             {
@@ -14937,14 +15867,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"H-How rude! I'm 18!\""
+                "\\SE[5] \"H-How rude! I’m 18!\""
               ]
             },
             {
@@ -14971,21 +15901,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Luna-sama, you're still young compared to"
+                "\\SE[4] \"It’s still okay for Lady Luna, but I’m 60"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "some...\""
+                "in human years…\""
               ]
             },
             {
@@ -15131,7 +16061,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]The three of them burst into laughter."
+                "\\SE[0] The three of them burst out laughing"
               ]
             },
             {
@@ -15148,7 +16078,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Talking about an elf's age is a classic."
+                "\\SE[0] The \"Elf's Age\" conversation is a surefire hit."
               ]
             },
             {
@@ -15268,14 +16198,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Mffa...\""
+                "\\SE[4] \"Huh...\""
               ]
             },
             {
@@ -15293,14 +16223,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Mffa...\""
+                "\\SE[5] \"Huh...\""
               ]
             },
             {
@@ -15318,14 +16248,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I'll keep watch here, so you two...\""
+                "\\SE[3] \"I’ll keep watch here, so why don’t the two"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "of you go get some rest first?\""
               ]
             },
             {
@@ -15343,14 +16280,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"...Should we just give in here?\""
+                "\\SE[5] \"…Maybe we should just go with the flow"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "here.\""
               ]
             },
             {
@@ -15368,14 +16312,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"I-I'm sorry...please take care of me...\""
+                "\\SE[4] \"I’m sorry, I look forward to working with"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "you…\""
               ]
             },
             {
@@ -15634,21 +16585,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0](...What a pair of troublemakers."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Seriously.)"
+                "\\SE[0] (…What a bunch of interesting guys, really)"
               ]
             },
             {
@@ -15666,14 +16610,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0](But don't be careless, Kyle Lovane."
+                "\\SE[0] (But you're being careless, Kyle Rovan. You"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "never know what might happen. Stay alert.)"
               ]
             },
             {
@@ -15886,14 +16837,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(If you trust people, they'll betray you.)"
+                "(If you trust people, they'll betray you)"
               ]
             },
             {
@@ -15911,21 +16862,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(I won't be exploited―I'll be the one doing"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "the exploiting.)"
+                "(From the Exploited to the Exploiter)"
               ]
             },
             {
@@ -15943,14 +16887,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Yes, that's what I decided in my heart.)"
+                "(Yeah, I thought I'd made up my mind)"
               ]
             },
             {
@@ -16051,14 +16995,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"………\""
+                "\\SE[3] \"………\""
               ]
             },
             {
@@ -16307,14 +17251,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Ahh... Sorry, Kyle.\""
+                "\\SE[4] \"Whoa... Sorry, Kyle. I'll take over watch"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "duty.\""
               ]
             },
             {
@@ -16332,14 +17283,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Yeah, thanks. I think I'll turn in soon.\""
+                "\\SE[3] \"Oh, thanks. I think I’ll go to bed soon.\""
               ]
             },
             {
@@ -16357,21 +17308,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Oh, right. There's something I've been"
+                "\\SE[3] \"Oh, right. There’s something I’ve been"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "wondering.\""
+                "wondering about.\""
               ]
             },
             {
@@ -16398,14 +17349,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Lilian's older than me, so why...\""
+                "\\SE[3] \"Lillian is older than her, so why does"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Luna call her ‘Lady Luna’?\""
               ]
             },
             {
@@ -16423,14 +17381,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Ah, you mean that, do you?\""
+                "\\SE[4] \"Oh, you mean that? Well, I suppose you’d"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "think so.\""
               ]
             },
             {
@@ -16448,14 +17413,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Shouldn't Lilian be the older sister?\""
+                "\\SE[3] \"Isn’t Lilian her older sister?\""
               ]
             },
             {
@@ -16473,46 +17438,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Well, in terms of age, yes...\""
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/リリアン顔通常服",
-                6,
-                0,
-                2,
-                ""
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0][Lilian]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]\"I lost my family when my village was"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "attacked by demons,\""
+                "\\SE[4] \"Well, age-wise, that’s true, but…\""
               ]
             },
             {
@@ -16530,14 +17463,85 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"and I was away on a mission at the time...\""
+                "\\SE[4] \"My village was attacked by demons, and I"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "lost my entire family— I have no one left.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/リリアン顔通常服",
+                6,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"I was away on a mission myself… By the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "time I received the news and rushed back,"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/リリアン顔通常服",
+                6,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "the village had already been completely"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "destroyed…\""
               ]
             },
             {
@@ -16555,14 +17559,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"……\""
+                "\\SE[3] \"……\""
               ]
             },
             {
@@ -16580,14 +17584,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Kyle, you're part of the \\C[3]Elf Union\\C[0], which\""
+                "\\SE[4] \"Kyle, are you familiar with the \\C[3] Elf Union"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\C[0] system?\""
               ]
             },
             {
@@ -16614,14 +17625,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"The Elf Union?\""
+                "\\SE[3] \"Elf Union?\""
               ]
             },
             {
@@ -16639,21 +17650,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"The \\C[3]Elf Union\\C[0] takes in those who've lost"
+                "\\SE[4] \"\\C[3] The Elf Union \\C[0] is for elves who have lost"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "their families or homes\""
+                "their families in accidents or battles,\""
               ]
             },
             {
@@ -16671,21 +17682,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"to accidents or war and gives them a new"
+                "\\SE[4] \"It’s an elf custom known as , where other"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "place to belong.\""
+                "families and communities take them in.\""
               ]
             },
             {
@@ -16703,46 +17714,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"When I lost everything―my family, my home,"
+                "\\SE[4] \"When I had lost my family, my loved ones,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "my village―\""
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/リリアン顔通常服",
-                2,
-                0,
-                2,
-                ""
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0][Lilian]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]\"it was Lady Luna who appeared before me.\""
+                "and my hometown, and was at a loss, crushed"
               ]
             },
             {
@@ -16760,14 +17746,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"And she said this to me.\""
+                "by despair—\""
               ]
             },
             {
@@ -16785,14 +17771,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"'Let's be family together,' she said.\""
+                "\\SE[4] \"It was Lady Luna who appeared before me.\""
               ]
             },
             {
@@ -16810,21 +17796,39 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Apparently, the neighboring village had"
+                "\\SE[4] \"And then she said,\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/リリアン顔通常服",
+                2,
+                0,
+                2,
+                ""
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "been wiped out,\""
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"‘Let’s become a family,’\" she said."
               ]
             },
             {
@@ -16842,21 +17846,53 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]and she had been searching everywhere for"
+                "\\SE[4] \"I heard that a nearby village had been"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "someone.\""
+                "destroyed, and that there were survivors,\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/リリアン顔通常服",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"I hear she’s been searching all over the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "place.\""
               ]
             },
             {
@@ -16874,14 +17910,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Did you already know her beforehand?\""
+                "\\SE[3] \"Did you two know each other before?\""
               ]
             },
             {
@@ -16899,21 +17935,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"No, not at all. We met for the first time"
+                "\\SE[4] \"No, not at all. That was the first time"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "then.\""
+                "we’d met.\""
               ]
             },
             {
@@ -16931,14 +17967,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Huh?! But why...?\""
+                "\\SE[3] \"What?! Then why…!?\""
               ]
             },
             {
@@ -16956,14 +17992,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Hehehe, I asked her the exact same thing.\""
+                "\\SE[4] \"Hehehe, I was asked exactly the same"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "thing.\""
               ]
             },
             {
@@ -16981,21 +18024,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Lady Luna helps anyone in need who stands"
+                "\\SE[4] \"If Lady Luna sees someone in trouble right"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "before her.\""
+                "in front of her, she’ll lend a helping hand."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/リリアン顔通常服",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "That’s just the kind of person she is.\""
               ]
             },
             {
@@ -17013,14 +18081,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Lilian's family name... I think it was...\""
+                "\\SE[3] \"I’m pretty sure Lilian’s last name is…\""
               ]
             },
             {
@@ -17038,14 +18106,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Yes, she's Lady Noel's―\""
+                "\\SE[4] \"Yes, Lady Aria-Bermure—\\C[2], who is the older"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "sister of Lady Noel, Lady Luna’s mother—"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/リリアン顔通常服",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "took me in.\""
               ]
             },
             {
@@ -17063,14 +18163,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"At that time, Lady Aria was...\""
+                "\\SE[4] \"Around that time, Lady Aria had lost her"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "husband… and she had no children.\""
               ]
             },
             {
@@ -17088,14 +18195,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"To me, that was salvation.\""
+                "\\SE[4] \"For me, it was a salvation. I gained a new"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "family and a place to call home again.\""
               ]
             },
             {
@@ -17113,21 +18227,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"So I owe everything to Lady Luna and her"
+                "\\SE[4] \"That’s why I want to treat Lady Luna and"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "family.\""
+                "her family with respect at all times.\""
               ]
             },
             {
@@ -17145,21 +18259,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"...And so, you feel the same way toward"
+                "\\SE[3] \"…So that’s why you add ‘-sama’ to Luna’s"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Luna too?\""
+                "name too, .\""
               ]
             },
             {
@@ -17177,14 +18291,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Hehe, I'm an only child, but suddenly...\""
+                "\\SE[4] \"Hehe, I’m an only child, but it felt like"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I suddenly got a cute little sister, and I"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/リリアン顔通常服",
+                2,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "was so happy.\""
               ]
             },
             {
@@ -17211,14 +18357,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I see... With that kind of background,\""
+                "\\SE[3] \"I see… Given those circumstances, that"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "makes sense.\""
               ]
             },
             {
@@ -17236,14 +18389,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Then I'll take a short rest.\""
+                "\\SE[3] \"Well then, I’m going to get some rest."
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Good night, Lilian.\""
               ]
             },
             {
@@ -17261,14 +18421,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Yes, goodnight, Kyle.\""
+                "\\SE[4] \"Yes, good night, Kyle.\""
               ]
             },
             {
@@ -17555,14 +18715,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"S-sorry...! I was the last one, wasn't I?\""
+                "\\SE[5] \"S-sorry…! I was the very last one, wasn’t"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I?\""
               ]
             },
             {
@@ -17580,14 +18747,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Good morning, Lady Luna.\""
+                "\\SE[4] \"Good morning, Lady Luna.\""
               ]
             },
             {
@@ -17605,14 +18772,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Good morning, Luna.\""
+                "\\SE[3] \"Good morning, Luna\""
               ]
             },
             {
@@ -17630,14 +18797,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Did you sleep well after such a long time?\""
+                "\\SE[4] \"Didn’t you get a good night’s sleep for"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "the first time in a while?\""
               ]
             },
             {
@@ -17655,14 +18829,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Y-yes! I'm full of energy!\""
+                "\\SE[5] \"Y-yes! I’m full of energy!\""
               ]
             },
             {
@@ -17680,21 +18854,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Alright, let's go. We'll be out of the"
+                "\\SE[3] \"All right, let’s go. We’ll make it out of"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "forest today.\""
+                "the forest today.\""
               ]
             },
             {
@@ -17934,7 +19108,7 @@
     },
     {
       "id": 14,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -18147,7 +19321,7 @@
     },
     {
       "id": 15,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -18258,7 +19432,7 @@
     },
     {
       "id": 16,
-      "name": "リリアン",
+      "name": "Lillian",
       "note": "",
       "pages": [
         {
@@ -18369,7 +19543,7 @@
     },
     {
       "id": 17,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -18485,7 +19659,7 @@
     },
     {
       "id": 18,
-      "name": "丸太左",
+      "name": "Maruta Left",
       "note": "",
       "pages": [
         {
@@ -18545,7 +19719,7 @@
     },
     {
       "id": 19,
-      "name": "丸太",
+      "name": "Log",
       "note": "",
       "pages": [
         {
@@ -18605,7 +19779,7 @@
     },
     {
       "id": 20,
-      "name": "丸太",
+      "name": "Log",
       "note": "",
       "pages": [
         {
@@ -18672,7 +19846,7 @@
     },
     {
       "id": 21,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {

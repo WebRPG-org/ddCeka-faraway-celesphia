@@ -1363,7 +1363,7 @@
     null,
     {
       "id": 1,
-      "name": "外に出る",
+      "name": "Go outside",
       "note": "",
       "pages": [
         {
@@ -1449,7 +1449,7 @@
     },
     {
       "id": 2,
-      "name": "村人",
+      "name": "Villager",
       "note": "",
       "pages": [
         {
@@ -1492,21 +1492,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Villager"
+                "Villager "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I'm still recovering from the injuries I got when the"
+                ": \"The injuries I sustained when I was attacked by"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "monster attacked me.\""
+                "monsters haven't healed yet, so I'm recuperating.\""
               ]
             },
             {
@@ -1541,7 +1541,7 @@
     },
     {
       "id": 3,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -1606,7 +1606,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained a Full Potion."
+                "I got a Full Potion"
               ]
             },
             {

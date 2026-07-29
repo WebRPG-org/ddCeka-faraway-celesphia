@@ -2371,7 +2371,7 @@
     },
     {
       "id": 11,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -2482,7 +2482,7 @@
     },
     {
       "id": 12,
-      "name": "自動イベント",
+      "name": "Automatic Events",
       "note": "",
       "pages": [
         {
@@ -2831,14 +2831,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Horse Owner"
+                "Horse Owner "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"All aboard―choo choo!\""
+                ": \"Let's go~\""
               ]
             },
             {
@@ -2896,21 +2896,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Next stop's the royal capital… been two"
+                "(So next is the capital... It's been two"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "years since I was last there.)"
+                "years.)"
               ]
             },
             {
@@ -2935,7 +2935,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The rhythmic clatter of the wheels fills the air,"
+                "I can feel the "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "carriage moving forward, making a steady, clattering"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "sound."
               ]
             },
             {
@@ -3048,14 +3062,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "and inside the carriage, passengers huddle together"
+                "Inside the carriage, passengers huddle together"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "with their luggage,"
+                "alongside their luggage, each spending their time as"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "they please."
               ]
             },
             {
@@ -3115,7 +3136,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm \\C[3]Kyle\\C[0]. \\C[3]Kyle Lovran\\C[0]"
+                "My name is \\C[3] Kyle \\C[0]. \\C[3] Kyle = Rowen \\C[0]"
               ]
             },
             {
@@ -3133,7 +3154,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "a wanderer with no guild or party to call my own,"
+                "I play as a \\C[2] Healer <Oracle> \\C[0] who isn't affiliated with"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "any specific guild or party—a free agent."
               ]
             },
             {
@@ -3151,14 +3179,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "born with some rare \\C[2]<Divine Blessing>\\C[0] or whatever they"
+                "Born with the rare \\C[2] <Divine Protection> \\C[0], they are able"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "call it,"
+                "to heal wounds, dispel poison, and keep people on the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "brink of death alive."
               ]
             },
             {
@@ -3183,7 +3218,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "and this life as an adventurer, free to roam the world―"
+                "I believe that this life as an adventurer—traveling the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "world and living freely—is the way of life that suits"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "me best."
               ]
             },
             {
@@ -3201,14 +3250,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "that's reason enough. This world is vast, with people"
+                "The world is vast; beyond the mountain ranges live"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "beyond the mountains who have beast ears,"
+                "people with beast-like ears, and across the sea lies"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "the land of the beautiful long-eared people."
               ]
             },
             {
@@ -3226,7 +3282,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "and that alone is enough to keep me traveling."
+                "That alone is reason enough to keep traveling."
               ]
             },
             {
@@ -3251,14 +3307,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "No matter how far I go, the horizon always stretches"
+                "No matter how far you go, there’s always more beyond"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "on."
+                "the horizon. There are towns you’ve never seen, and"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "morning air you’ve never breathed."
               ]
             },
             {
@@ -3276,14 +3339,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Outside the window, the morning mist slowly lifts,"
+                "Outside the window, the morning mist is slowly"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "revealing the light."
+                "clearing. A vast plain stretches out in the light, and"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "in the distance, a flock of birds flew away in an arc."
               ]
             },
             {
@@ -3301,7 +3371,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Next stop: the capital, after so long."
+                "Next up is the capital—it’s been a while. Until then, I"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "think I’ll just relax for a bit―――"
               ]
             },
             {
@@ -3463,7 +3540,7 @@
     },
     {
       "id": 13,
-      "name": "馬車揺れ",
+      "name": "The Carriage Sways",
       "note": "",
       "pages": [
         {

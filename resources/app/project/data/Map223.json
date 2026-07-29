@@ -3187,7 +3187,7 @@
     null,
     {
       "id": 1,
-      "name": "ロゼ",
+      "name": "Rosé",
       "note": "",
       "pages": [
         {
@@ -3247,7 +3247,7 @@
     },
     {
       "id": 2,
-      "name": "ジルベルト",
+      "name": "Gilberto",
       "note": "",
       "pages": [
         {
@@ -3307,7 +3307,7 @@
     },
     {
       "id": 3,
-      "name": "メイド",
+      "name": "Maid",
       "note": "",
       "pages": [
         {
@@ -3367,7 +3367,7 @@
     },
     {
       "id": 4,
-      "name": "執事",
+      "name": "Butler",
       "note": "",
       "pages": [
         {
@@ -3427,7 +3427,7 @@
     },
     {
       "id": 5,
-      "name": "自動",
+      "name": "Automatic",
       "note": "",
       "pages": [
         {
@@ -3543,21 +3543,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"I do. Normally. Since we're getting"
+                "\\SE[1] \"Sure, I do. It’s totally normal. I’m"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "married.\""
+                "getting married, after all.\""
               ]
             },
             {
@@ -3575,21 +3575,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"You know? Nobles have butlers or maids"
+                "\\SE[1]: \"Did you know? Aristocrats do it while"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "watching over them while they... do it.\""
+                "being watched over by butlers, maids, and .\""
               ]
             },
             {
@@ -3607,14 +3607,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Huh? Really?\""
+                "\\SE[3] \"Huh, is that so...?\""
               ]
             },
             {
@@ -3632,21 +3632,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"They stay on standby to quickly dress you"
+                "\\SE[1] \"I heard they wait around to help you get"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "afterward or wipe your body.\""
+                "dressed or wipe you down right after it’s"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_roze4",
+                7,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Rosé "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "over.\""
               ]
             },
             {
@@ -3664,21 +3689,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Oh, so it's really just about making a"
+                "\\SE[3]: \"Oh, so it's just about having kids,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "baby...?\""
+                "then?\""
               ]
             },
             {
@@ -3696,21 +3721,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Well, yeah. It's more like a task than"
+                "\\SE[1]: \"Well, I guess that’s just how it is. It"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "something fun.\""
+                "feels more like a chore than something fun.\""
               ]
             },
             {
@@ -3728,21 +3753,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"So... what did you do then? About, uh..."
+                "\\SE[3]: \"What did you do… back then? I mean, did"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "underwear? Did you keep it on?\""
+                "you… keep your underwear on…?\""
               ]
             },
             {
@@ -3795,14 +3820,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"I told you, I can just pull it aside.\""
+                "\\SE[1] \"I-I told you, , that we can shift it,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "didn’t I?\""
               ]
             },
             {
@@ -3820,14 +3852,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Pull it aside and... join.\""
+                "\\SE[1] \"Slide it over and combine!\""
               ]
             },
             {
@@ -3845,14 +3877,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Didn't anyone say anything to you?\""
+                "\\SE[3] \"W-didn’t anyone say anything to you?\""
               ]
             },
             {
@@ -3870,21 +3902,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"I told them in advance, but seeing it"
+                "\\SE[1]: \"I told you so, but —seeing it with my own"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "firsthand still grossed them out...\""
+                "eyes really freaked me out…\""
               ]
             },
             {
@@ -3902,21 +3934,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"It, uh... wouldn't get hard easily... took"
+                "\\SE[1] \"It… it took a while to get hard… I had a"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "a bit of effort.\""
+                "bit of a hard time with it.\""
               ]
             },
             {
@@ -3934,14 +3966,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I... see.\""
+                "\\SE[3]: \"I-I see. So that’s how it was.\""
               ]
             },
             {
@@ -4019,7 +4051,7 @@
     },
     {
       "id": 6,
-      "name": "灯り",
+      "name": "Light",
       "note": "",
       "pages": [
         {
@@ -4086,7 +4118,7 @@
     },
     {
       "id": 7,
-      "name": "灯り",
+      "name": "Light",
       "note": "",
       "pages": [
         {

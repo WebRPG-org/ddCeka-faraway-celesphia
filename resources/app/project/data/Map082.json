@@ -23773,7 +23773,7 @@
     },
     {
       "id": 36,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -23828,7 +23828,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Once you go past this point, there's no turning back."
+                "Once you go any further from here, there’s no turning"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "back."
               ]
             },
             {
@@ -23846,7 +23853,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Are you ready?"
+                "Are you ready?"
               ]
             },
             {
@@ -23861,10 +23868,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -23872,7 +23875,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -23911,7 +23914,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -24051,7 +24054,7 @@
     },
     {
       "id": 37,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -24218,7 +24221,7 @@
     },
     {
       "id": 38,
-      "name": "自動EV",
+      "name": "Autonomous EV",
       "note": "",
       "pages": [
         {
@@ -24280,21 +24283,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"It's so hot! Moving through this must be"
+                "\\SE[4] \"It’s so hot! It’s going to be hard to keep"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "difficult...!\""
+                "going in this heat…!\""
               ]
             },
             {
@@ -24312,14 +24315,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Let's use my \\C[2]Field Barrier\\C[0] to get through.\""
+                "\\SE[3] \"Let’s use my \\C[2] field barrier \\C[0] to move"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "forward. It should help reduce the heat.\""
               ]
             },
             {
@@ -24337,14 +24347,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Be careful with your MP, Kyle-sama.\""
+                "\\SE[5] \"Please be careful with your MP, Lord"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Kyle.\""
               ]
             },
             {
@@ -24448,7 +24465,7 @@
     },
     {
       "id": 39,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -24794,7 +24811,7 @@
     },
     {
       "id": 40,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -25140,7 +25157,7 @@
     },
     {
       "id": 41,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -25486,7 +25503,7 @@
     },
     {
       "id": 42,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -25832,7 +25849,7 @@
     },
     {
       "id": 43,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -26178,7 +26195,7 @@
     },
     {
       "id": 44,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -26524,7 +26541,7 @@
     },
     {
       "id": 45,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -26870,7 +26887,7 @@
     },
     {
       "id": 46,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -27216,7 +27233,7 @@
     },
     {
       "id": 47,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -27562,7 +27579,7 @@
     },
     {
       "id": 48,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -27908,7 +27925,7 @@
     },
     {
       "id": 49,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -28254,7 +28271,7 @@
     },
     {
       "id": 50,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -28309,7 +28326,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained three Revive Souls."
+                "I got three Revive Souls."
               ]
             },
             {
@@ -28413,7 +28430,7 @@
     },
     {
       "id": 51,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -28468,7 +28485,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained an Elixir."
+                "I got the elixir."
               ]
             },
             {
@@ -28572,7 +28589,7 @@
     },
     {
       "id": 52,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -28627,7 +28644,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained a Full Potion."
+                "I got a Full Potion"
               ]
             },
             {
@@ -28731,7 +28748,7 @@
     },
     {
       "id": 53,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -28786,7 +28803,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Magic Water."
+                "I got some Magic Water"
               ]
             },
             {
@@ -28890,7 +28907,7 @@
     },
     {
       "id": 54,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -28945,7 +28962,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained an Elixir."
+                "I got the elixir."
               ]
             },
             {

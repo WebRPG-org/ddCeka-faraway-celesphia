@@ -3787,7 +3787,7 @@
     null,
     {
       "id": 1,
-      "name": "ヴァルグリード",
+      "name": "Vargreed",
       "note": "",
       "pages": [
         {
@@ -3898,7 +3898,7 @@
     },
     {
       "id": 2,
-      "name": "セレスフィア",
+      "name": "Ceresphere",
       "note": "",
       "pages": [
         {
@@ -3920,7 +3920,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "flower_chip_Celesphia",
+            "characterName": "flower_chip_selesphia",
             "direction": 2,
             "pattern": 1,
             "characterIndex": 0
@@ -3958,7 +3958,7 @@
     },
     {
       "id": 3,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -4171,7 +4171,7 @@
     },
     {
       "id": 4,
-      "name": "リリアン",
+      "name": "Lillian",
       "note": "",
       "pages": [
         {
@@ -4384,7 +4384,7 @@
     },
     {
       "id": 5,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -4597,7 +4597,7 @@
     },
     {
       "id": 6,
-      "name": "イベント",
+      "name": "Events",
       "note": "",
       "pages": [
         {
@@ -4762,14 +4762,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Uh...uuuh...\""
+                "\\SE[3] \"U… uu…\""
               ]
             },
             {
@@ -4919,14 +4919,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"A-are everyone alright?\""
+                "\\SE[3] \"I-is everyone okay?\""
               ]
             },
             {
@@ -5029,14 +5029,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Yeah...somehow.\""
+                "\\SE[5] \"Yeah... I guess so.\""
               ]
             },
             {
@@ -5054,14 +5054,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"What about Celesphia?!\",\""
+                "\\SE[4] \"What about Ceresphere!?\""
               ]
             },
             {
@@ -5144,14 +5144,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Over there!\""
+                "\\SE[4] \"Over there!\""
               ]
             },
             {
@@ -5189,21 +5189,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Alright, let's grab it quick and get out of"
+                "\\SE[3] \"All right, let’s pick it up quickly and"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "here.\""
+                "get out of here.\""
               ]
             },
             {
@@ -7085,14 +7085,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"A-A black dragon...!\""
+                "\\SE[5] \"A b-black dragon…!\""
               ]
             },
             {
@@ -7110,14 +7110,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"O-oh my...!\""
+                "\\SE[4] \"Whoa, that’s huge…!\""
               ]
             },
             {
@@ -7135,14 +7135,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"……！！！\""
+                "\\SE[3] \"……!!!\""
               ]
             },
             {
@@ -7289,21 +7289,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"...So it wasn't just some drunk's tall"
+                "\\SE[3] \"…So it wasn’t just some drunk’s tall tale"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "tale...!\""
+                "after all…!\""
               ]
             },
             {
@@ -7563,7 +7563,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Skip battle?"
+                "Would you like to skip the battle?"
               ]
             },
             {
@@ -7578,10 +7578,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -7589,7 +7585,7 @@
               "indent": 1,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -7602,7 +7598,7 @@
               "indent": 1,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -7838,7 +7834,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Gogogogogo"
+                "Gogogogogo"
               ]
             },
             {
@@ -7856,14 +7852,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Ugh... the eruption again...!)"
+                "(Ugh... another eruption...!)"
               ]
             },
             {

@@ -3983,7 +3983,7 @@
     },
     {
       "id": 4,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -4150,7 +4150,7 @@
     },
     {
       "id": 5,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -4317,7 +4317,7 @@
     },
     {
       "id": 6,
-      "name": "宝箱（エレメンタルガード）",
+      "name": "Treasure Chest (Elemental Guard)",
       "note": "",
       "pages": [
         {
@@ -4478,7 +4478,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Elemental Guard!"
+                "I got the Elemental Guard!"
               ]
             },
             {
@@ -4615,7 +4615,7 @@
     },
     {
       "id": 7,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -4961,7 +4961,7 @@
     },
     {
       "id": 8,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -5307,7 +5307,7 @@
     },
     {
       "id": 9,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -5653,7 +5653,7 @@
     },
     {
       "id": 10,
-      "name": "ドラゴン",
+      "name": "Dragon",
       "note": "",
       "pages": [
         {
@@ -5696,14 +5696,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]The battle begins."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Are you ready?"
+                "A battle is about to begin. Are you ready?"
               ]
             },
             {
@@ -5718,10 +5711,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -5729,7 +5718,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -5786,7 +5775,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -5865,14 +5854,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Hah... hah... damn it...\""
+                "\\SE[3] \"Haa… haa… haa… Damn it, how many dragons"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "are there…!\""
               ]
             },
             {
@@ -5890,14 +5886,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Lady Luna, are you alright?\""
+                "\\SE[4] \"Lady Luna, are you all right?\""
               ]
             },
             {
@@ -5915,14 +5911,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Yes, I'm fine. All the way to Celesphia\""
+                "\\SE[4] \"Yes, I’m fine. We’re just a little bit"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "away from Ceresphere…! Let’s keep going…!\""
               ]
             },
             {

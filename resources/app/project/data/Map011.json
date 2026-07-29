@@ -3493,7 +3493,7 @@
     null,
     {
       "id": 1,
-      "name": "ランタン",
+      "name": "Lantern",
       "note": "",
       "pages": [
         {
@@ -3553,7 +3553,7 @@
     },
     {
       "id": 2,
-      "name": "ランタン",
+      "name": "Lantern",
       "note": "",
       "pages": [
         {
@@ -3613,7 +3613,7 @@
     },
     {
       "id": 3,
-      "name": "職員",
+      "name": "Staff",
       "note": "",
       "pages": [
         {
@@ -3673,7 +3673,7 @@
     },
     {
       "id": 4,
-      "name": "職員",
+      "name": "Staff",
       "note": "",
       "pages": [
         {
@@ -3733,7 +3733,7 @@
     },
     {
       "id": 5,
-      "name": "職員",
+      "name": "Staff",
       "note": "",
       "pages": [
         {
@@ -9088,7 +9088,7 @@
     },
     {
       "id": 56,
-      "name": "群衆",
+      "name": "Crowd",
       "note": "",
       "pages": [
         {
@@ -9199,7 +9199,7 @@
     },
     {
       "id": 57,
-      "name": "群衆2",
+      "name": "Crowd 2",
       "note": "",
       "pages": [
         {
@@ -9310,7 +9310,7 @@
     },
     {
       "id": 58,
-      "name": "群衆3",
+      "name": "Crowd 3",
       "note": "",
       "pages": [
         {
@@ -9421,7 +9421,7 @@
     },
     {
       "id": 59,
-      "name": "群衆4",
+      "name": "Crowd 4",
       "note": "",
       "pages": [
         {
@@ -9643,7 +9643,7 @@
     },
     {
       "id": 61,
-      "name": "群衆4",
+      "name": "Crowd 4",
       "note": "",
       "pages": [
         {
@@ -10642,7 +10642,7 @@
     },
     {
       "id": 70,
-      "name": "自動イベント",
+      "name": "Automatic Events",
       "note": "",
       "pages": [
         {
@@ -10868,7 +10868,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]―――Royal Capital Guild―――"
+                "―――The Royal Capital Guild―――"
               ]
             },
             {
@@ -12174,21 +12174,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Well, well... looks like business is"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "booming.)"
+                "(Oh boy... this is a huge success.)"
               ]
             },
             {
@@ -12206,14 +12199,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "In the guild, jobs are generally taken on a first-come,"
+                "Getting a job through the guild is basically"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "first-served basis."
+                "first-come, first-served."
               ]
             },
             {
@@ -12231,14 +12224,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Requests submitted to the guild are listed on the quest"
+                "Requests submitted to the guild are posted on the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "sheet,"
+                "bulletin board as quest sheets and ."
               ]
             },
             {
@@ -12256,7 +12249,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "and adventurers take them to the reception desk."
+                "Take it to the reception desk; if they accept it ( ),"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "you'll get the job."
               ]
             },
             {
@@ -12274,14 +12274,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The easy, safe jobs with good pay are snapped up in no"
+                "Jobs that are easy, safe, and well-paying fill up in no"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "time,"
+                "time."
               ]
             },
             {
@@ -12299,14 +12299,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "so everyone scrambles to get there early in the"
+                "That's why everyone is so eager to gather at the guild"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "morning."
+                "this early in the morning, just like this:"
               ]
             },
             {
@@ -12324,21 +12324,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Well, if I could just join some random"
+                "(Well, I was hoping I could join some casual"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "monster-slaying party..."
+                "monster-hunting party or something , but…)"
               ]
             },
             {
@@ -12356,21 +12356,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0](Diving into that crowd is gonna be"
+                "\\SE[0] (Jumping into that looks like it might"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "rough...)"
+                "break my bones... Hmm?)"
               ]
             },
             {
@@ -12568,7 +12568,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]She's no taller than the width of Kyle's chest."
+                "\\SE[0] She was a petite woman, standing only as tall as Kyle's chest. "
               ]
             },
             {
@@ -12586,14 +12586,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]What immediately catches the eye is her long, pointed"
+                "\\SE[0] The first thing that catches your eye are their long, pointed ears. "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "ears."
+                "This race is commonly referred to as \"elves.\""
               ]
             },
             {
@@ -12611,14 +12611,39 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "However, the term \"elf\" once carried a derogatory"
+                "However, the term \"Elf\" has a history of being used in"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "connotation."
+                "a derogatory manner, and it is now considered polite to"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "refer to them as the \"Long-Eared Tribe,\" a subgroup of"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "the human race."
               ]
             },
             {
@@ -12761,14 +12786,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Ah, hello there.\""
+                "\\SE[3] \"Hey, hello. Did you come to the guild to"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "look for a job?\""
               ]
             },
             {
@@ -12821,14 +12853,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]？？？"
+                "\\SE[0]??? "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Y-yes... that's right.\""
+                "\\SE[5] \"Oh… yes… that’s right.\""
               ]
             },
             {
@@ -12845,14 +12877,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Money? Or are you gathering materials?\""
+                "\\SE[3] \"Money? Or gathering materials?\""
               ]
             },
             {
@@ -12870,14 +12902,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]？？？"
+                "\\SE[0]??? "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"...\\C[2]A quest to go to the \\C[0]Valdeen region.\""
+                "\\SE[5] \"…I’m looking for a quest to go to \\C[2] the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Valdine Region \\C[0]…\""
               ]
             },
             {
@@ -12895,14 +12934,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"\\C[2]Valdeen\\C[0]...\""
+                "\\SE[3] \"\\C[2] Valdine \\C[0] Hmm…\""
               ]
             },
             {
@@ -12960,14 +12999,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\C[2]The Valdeen region\\C[0] lies at the eastern edge"
+                "\\SE[0]\\C[2] The Valdine Region \\C[0] lies at the easternmost edge of this area. "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "of the continent."
+                "It is a wilderness and desert region, and it is said to"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "be home to many ferocious monsters."
               ]
             },
             {
@@ -12999,14 +13045,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]？？？"
+                "\\SE[0]??? "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Yes... I really need to go there...\""
+                "\\SE[5] \"Yes, I really want to go…\""
               ]
             },
             {
@@ -13111,14 +13157,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Why Valdeen?\""
+                "\\SE[3] \"Why Valdine?\""
               ]
             },
             {
@@ -13136,14 +13182,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]？？？"
+                "\\SE[0]??? "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Actually, my mother has fallen ill.\""
+                "\\SE[5] \"Actually, my mother is sick.\""
               ]
             },
             {
@@ -13161,14 +13207,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Ill?\""
+                "\\SE[3] \"Sick?\""
               ]
             },
             {
@@ -13186,14 +13232,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]？？？"
+                "\\SE[0]??? "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"It's called \\C[2]Dark Blight\\C[0]...\""
+                "\\SE[5] \"\\C[2] A disease known as the ‘Dark Miasma’"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "<Yami no Shōka> \\C[0]…\""
               ]
             },
             {
@@ -13286,7 +13339,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\C[2]Dark Blight\\C[0]―"
+                "\\SE[0]\\C[2] Curse of Darkness <Yami no Shōka> \\C[0]――"
               ]
             },
             {
@@ -13318,14 +13371,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]When afflicted by this disease, one's mana becomes"
+                "\\SE[0] When afflicted by this disease, the mana within the body becomes tainted by darkness, and "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "tainted by darkness."
+                "purple lacerations and miasma-like marks appear all"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "over the body."
               ]
             },
             {
@@ -13343,14 +13403,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]There are very few known treatments, and they're"
+                "\\SE[0] Treatment options are extremely limited, and treatment is difficult. "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "difficult to obtain."
+                "This is a disease that is almost certain to be fatal if"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "contracted today."
               ]
             },
             {
@@ -13413,14 +13480,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"So you're looking for a cure?\""
+                "\\SE[3] \"To find that cure?\""
               ]
             },
             {
@@ -13438,14 +13505,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]？？？"
+                "\\SE[0]??? "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Yes... It's in the Valdeen region.\""
+                "\\SE[5] \"Yes… \\C[3] Grimridge, the Sacred Peak, \\C[0] in the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Valdine region.\""
               ]
             },
             {
@@ -13463,21 +13537,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]？？？"
+                "\\SE[0]???"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"The sacred herb that blooms there is called"
+                "\\SE[5] \"They say that if there’s a spiritual herb"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\C[1]Celesphia\\C[0], and\""
+                "called \\C[1] Ceresphia \\C[0] growing there, it can"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]???"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "cure any illness…\""
               ]
             },
             {
@@ -13495,14 +13594,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"So you're heading to Valdeen...\""
+                "\\SE[3] \"So, in Valdine…\""
               ]
             },
             {
@@ -13854,21 +13953,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]？？？"
+                "\\SE[0]??? "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Lady Luna, I apologize for keeping you"
+                "\\SE[4] \"Lady Luna, I’m terribly sorry to have kept"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "waiting.\""
+                "you waiting. I ran into some trouble"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                6,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0]??? "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "registering the quest at the capital…\""
               ]
             },
             {
@@ -13917,7 +14041,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]The girl called Luna"
+                "\\SE[0] The Girl Called Luna "
               ]
             },
             {
@@ -13993,14 +14117,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]The knight called Lilian"
+                "\\SE[0] The Knight Called Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"...Lady Luna, who is this person?\""
+                "\\SE[4] \"…Lady Luna, who is this gentleman…?\""
               ]
             },
             {
@@ -14018,21 +14142,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Oh, right, I haven't introduced myself"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "yet.\""
+                "\\SE[3] \"Oh, I haven’t introduced myself yet.\""
               ]
             },
             {
@@ -14059,14 +14176,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I'm \\C[2]Kyle Lovane\\C[0].\""
+                "\\SE[3] \"\\C[2] Kyle = Rowen \\C[0]. I’m a healing mage"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "<Oracle>.\""
               ]
             },
             {
@@ -14150,14 +14274,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"I am \\C[2]Luna Arselia\\C[0].\""
+                "\\SE[5] \"My name is \\C[2] Luna Alseria \\C[0]. I am a Mystic,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "and my elements are Ice and Lightning.\""
               ]
             },
             {
@@ -14189,7 +14320,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\C[3]Dual-attribute\\C[0]! That's quite rare."
+                "\\SE[0]\\C[3], two attributes, \\C[0]! That's quite rare."
               ]
             },
             {
@@ -14207,7 +14338,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]In this world, most humans (and demi-humans) have"
+                "\\SE[0] In this world, all humans (including demi-humans) "
               ]
             },
             {
@@ -14239,7 +14370,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]In this world, most humans (and demi-humans) have"
+                "\\SE[0] In this world, all humans (including demi-humans) "
               ]
             },
             {
@@ -14271,7 +14402,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]those with \\C[3]two colors\\C[0] are very rare."
+                "\\SE[0] This is \\C[3] two colors \\C[0]. A person with these is very rare and is considered a so-called "
               ]
             },
             {
@@ -14303,14 +14434,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Though the strength of their mana determines what they"
+                "\\SE[0]—While whether you can use it or not depends on the level of your magic power, "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "can use."
+                "—this is an absolute fact."
               ]
             },
             {
@@ -14436,14 +14567,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"I'm \\C[2]Lilian Vermill\\C[0].\""
+                "\\SE[4] \"\\C[2] I am Lilian-Bermure \\C[0]. I am with Lady"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Luna.\""
               ]
             },
             {
@@ -14461,14 +14599,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Luna, Lilian, please take care of me.\""
+                "\\SE[3] \"Luna, Lilian, I’m counting on you. Could"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "this quest be in the Valdine region…?\""
               ]
             },
             {
@@ -14486,14 +14631,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Yes. To the Valdeen region...\""
+                "\\SE[4] \"Yes. I’d like to go to the Valdine region"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                ", but I was thinking that just the two of us"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                6,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "might not be enough…\""
               ]
             },
             {
@@ -14511,21 +14688,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Would you like to participate in a quest,"
+                "\\SE[4] \"We're looking for someone to join us on a"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "or perhaps...\""
+                "quest or to accompany us.\""
               ]
             },
             {
@@ -14543,14 +14720,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"May I see?\""
+                "\\SE[3] \"May I take a look?\""
               ]
             },
             {
@@ -14568,14 +14745,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Of course. I was about to post this.\""
+                "\\SE[4] \"Here you go. This is the quest sheet I was"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "about to post.\""
               ]
             },
             {
@@ -14739,7 +14923,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Destination: Valdeen Region"
+                "\\SE[0] Destination: Valdine Region "
               ]
             },
             {
@@ -14858,14 +15042,53 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"...500 gold is a bit cheap, isn't it?\""
+                "\\SE[3] \"…Isn’t 500 gold a little too cheap? You"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "won’t be able to attract any seasoned"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                5,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "adventurers unless you offer at least"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "3,000…\""
               ]
             },
             {
@@ -14883,7 +15106,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Valdeen is at the eastern edge of the kingdom."
+                "\\SE[0] Valdine lies at the eastern edge. "
               ]
             },
             {
@@ -14933,21 +15156,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"We've nearly run out of funds for the"
+                "\\SE[5] \"I’ve spent all my money on the trip to the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "journey to the capital...\""
+                "capital… I can’t afford any more…\""
               ]
             },
             {
@@ -14965,14 +15188,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"You can't make bricks without straw, huh.\""
+                "\\SE[3] \"You can’t spend what you don’t have, huh?"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "How about working in the capital for a"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "little while—\""
               ]
             },
             {
@@ -14990,14 +15245,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"No, we have no more time to spare...\""
+                "\\SE[5] \"No, there’s not a moment to spare… I want"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "to set out right away…\""
               ]
             },
             {
@@ -15015,14 +15277,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Is the situation that dire...?\""
+                "\\SE[3] \"Is this a situation that leaves no room"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "for complacency…?\""
               ]
             },
             {
@@ -15040,14 +15309,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"The doctor gave her only half a year...\""
+                "\\SE[5] \"The doctor said I have six months left…\""
               ]
             },
             {
@@ -15065,14 +15334,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Even if we reach the capital in a month, that's two"
+                "\\SE[0] Even if I could get there in a month, the round trip"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "months round trip."
+                "would take two months."
               ]
             },
             {
@@ -15090,7 +15359,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]From there, we still have to get to Luna's mother."
+                "\\SE[0] From there, I have to make my way back to Luna’s mother’s place. "
               ]
             },
             {
@@ -15115,21 +15384,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"...Excuse me. I'll post this on the quest"
+                "\\SE[4] \"…Excuse me. I’m going to post this on the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "board.\""
+                "quest board.\""
               ]
             },
             {
@@ -15447,7 +15716,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]The crowd frowns, their faces twisting in displeasure."
+                "\\SE[0] The crowd is frowning and grimacing."
               ]
             },
             {
@@ -15465,14 +15734,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]A thankless quest, no one will apply―it'll just end up"
+                "\\SE[0]: Quests that aren't worth the effort; "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "in the trash."
+                ": Quests that nobody signs up for and end up in the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "trash—so-called \"junk quests.\""
               ]
             },
             {
@@ -15490,21 +15766,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Kyle, have you ever been to the Valdeen"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Region?\""
+                "\\SE[4] \"Has Kyle ever been to the Valdine region?\""
               ]
             },
             {
@@ -15522,14 +15791,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Yeah, once.\""
+                "\\SE[3] \"Ah, there’s just one.\""
               ]
             },
             {
@@ -15547,21 +15816,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"One person died. Over ten others were"
+                "\\SE[3] \"One person died. It was a large party of"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "injured.\""
+                "more than 10 people, but…\""
               ]
             },
             {
@@ -15588,21 +15857,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"...So it really is as harsh as the rumors"
+                "\\SE[4] \"…So, as I suspected… this really is a"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "say.\""
+                "harsh region, just as the rumors say.\""
               ]
             },
             {
@@ -15620,21 +15889,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Yeah. But it's still in the Valdeen"
+                "\\SE[3] \"Ah. Even so, it’s only as far as the town"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Region.\""
+                "of Erednia in the Valdine region.\""
               ]
             },
             {
@@ -15652,14 +15921,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Even deeper, to \\C[3]Mt. Grimridge\\C[0],\""
+                "\\SE[3] \"I’ve never \\C[3] gone all the way to the sacred"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "peak of Grimridge \\C[0], which lies even further"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                5,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "beyond.\""
               ]
             },
             {
@@ -15696,7 +15997,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]As they talk,"
+                "\\SE[0] Meanwhile,"
               ]
             },
             {
@@ -15714,7 +16015,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "everyone makes their choice of quests,"
+                "Once everyone has chosen their quests, the adventurers"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "set off to earn their daily bread."
               ]
             },
             {
@@ -15732,7 +16040,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "one by one leaving the guildhall."
+                "One by one, they leave the guild"
               ]
             },
             {
@@ -15791,14 +16099,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0](...I've lost my job too, but"
+                "\\SE[0] (…I’ve lost my job too, but I guess today’s"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "okay. I’ll take the day off.)"
               ]
             },
             {
@@ -15816,14 +16131,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"...Lilian.\""
+                "\\SE[5] \"…Lilian\""
               ]
             },
             {
@@ -15841,14 +16156,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Yes?\""
+                "\\SE[4] \"Yes\""
               ]
             },
             {
@@ -15866,14 +16181,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Please pack our things.\""
+                "\\SE[5] \"Please pack your bags. We’re heading to"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Valdine.\""
               ]
             },
             {
@@ -15900,14 +16222,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Understood.\""
+                "\\SE[4] \"Understood.\""
               ]
             },
             {
@@ -16190,14 +16512,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Hey, wait a second!\""
+                "\\SE[3] \"Hey, wait a minute! Are you two planning"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "to go to Valdine all by yourselves?\""
               ]
             },
             {
@@ -16277,14 +16606,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Yes, thank you for your help.\""
+                "\\SE[5] \"Yes, thank you for everything. If the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "goddess Fortuna guides us, let’s meet"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "again.\""
               ]
             },
             {
@@ -16302,14 +16663,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian."
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Then, I'll be going.\""
+                "\\SE[4] \"Well then, I’ll be going now. Take care…"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Kyle\""
               ]
             },
             {
@@ -16473,14 +16841,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Aah, come on!\""
+                "\\SE[3] \"Aaaah, come on!\""
               ]
             },
             {
@@ -16832,14 +17200,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Fine, I'll take the quest.\""
+                "\\SE[3] \"Got it. I’ll take this quest. We should"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "probably have a guide, right?\""
               ]
             },
             {
@@ -16875,14 +17250,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Kyle-sama!\""
+                "\\SE[5] \"Lord Kyle!\""
               ]
             },
             {
@@ -16900,14 +17275,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"But only as far as Eldenia.\""
+                "\\SE[3] \"But only as far as Eldenia, I’m not going"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "any further than that. Got it?\""
               ]
             },
             {
@@ -16925,21 +17307,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"I couldn't ask for more... Thank you so"
+                "\\SE[4] \"I couldn’t have asked for more—thank you"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "much...!\""
+                "so much…! Kyle…!\""
               ]
             },
             {
@@ -16957,14 +17339,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I'll bring the luggage. Give me two hours.\""
+                "\\SE[3] \"I’ll bring the luggage. Give me two hours."
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Let’s meet outside the East Gate.\""
               ]
             },
             {
@@ -16982,14 +17371,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"...Yes!\""
+                "\\SE[5] \"…Yes!\""
               ]
             },
             {
@@ -17100,7 +17489,7 @@
     },
     {
       "id": 71,
-      "name": "群衆5",
+      "name": "Crowd 5",
       "note": "",
       "pages": [
         {
@@ -17211,7 +17600,7 @@
     },
     {
       "id": 72,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -17424,7 +17813,7 @@
     },
     {
       "id": 73,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -17535,7 +17924,7 @@
     },
     {
       "id": 74,
-      "name": "リリアン",
+      "name": "Lillian",
       "note": "",
       "pages": [
         {
@@ -17646,7 +18035,7 @@
     },
     {
       "id": 75,
-      "name": "クエストシート",
+      "name": "Quest Sheet",
       "note": "",
       "pages": [
         {
@@ -17706,7 +18095,7 @@
     },
     {
       "id": 76,
-      "name": "雷信鳥",
+      "name": "Thunderbird",
       "note": "",
       "pages": [
         {
@@ -17749,21 +18138,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Thunderbird＜Thunderbird＞―――"
+                "Thunderbird <Raishincho>――― A bird created by magic;"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A bird created by magic; although it appears to be a"
+                "although it appears to be a living creature, its true"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "living creature, its true form is composed of magical"
+                "form is composed of magical energy. Touching it will"
               ]
             },
             {
@@ -17781,21 +18170,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Thunderbird＜Thunderbird＞―――"
+                "result in a mild electric shock, so care must be taken"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "energy. Touching it will result in a mild electric"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "shock, so care must be taken not to touch it directly."
+                "not to touch it directly."
               ]
             },
             {
@@ -17813,14 +18195,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The Thunderbird can travel between designated areas at"
+                "Thunder Messengers can travel at ultra-high speeds"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "ultra-high speeds, using its velocity to"
+                "across designated routes and use that speed to carry"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "small messages. Using the Central Guild as a relay"
               ]
             },
             {
@@ -17838,7 +18227,64 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The fare is 10 gold per trip, and anyone can use it."
+                "point, a system is in place to ensure that messages are"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "reliably delivered to guilds throughout the region."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "The fee is 10 gold per use, and anyone can use this"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "service. Received messages are stored with each guild,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "and guild members can retrieve them by requesting them"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "when needed."
               ]
             },
             {
@@ -17873,7 +18319,7 @@
     },
     {
       "id": 77,
-      "name": "ENDINGリリアン回想自動",
+      "name": "ENDING: Lilian's Flashback (Automatic)",
       "note": "",
       "pages": [
         {
@@ -18007,7 +18453,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]And then, ten years later..."
+                "\\SE[4] And then, ten years later… The moment we met in the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "capital."
               ]
             },
             {
@@ -18025,7 +18478,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]At the moment we met in the royal capital,"
+                "\\SE[4] Seeing how strong and grown-up he had become, my heart"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "grew so hot it felt like it was on fire … and tears"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "welled up in my eyes."
               ]
             },
             {
@@ -18050,7 +18517,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]I saw his strong, grown-up figure and my heart burned."
+                "\\SE[4] But Kyle didn't notice me."
               ]
             },
             {
@@ -18068,7 +18535,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]But Kyle didn't recognize me at all."
+                "\\SE[4] If I revealed my name, it would shatter Kyle’s"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "peaceful life… Thinking that, I couldn’t bring myself"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "to say it."
               ]
             },
             {
@@ -18086,14 +18567,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]If I told him who I was, it would ruin his quiet"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "life... No... I don't even have the right to say it."
+                "\\SE[4] No... I didn't think I had the right to say that."
               ]
             },
             {

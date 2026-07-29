@@ -1465,7 +1465,7 @@
     null,
     {
       "id": 1,
-      "name": "イゾルダ",
+      "name": "Isolde",
       "note": "",
       "pages": [
         {
@@ -1576,7 +1576,7 @@
     },
     {
       "id": 2,
-      "name": "妹",
+      "name": "Little Sister",
       "note": "",
       "pages": [
         {
@@ -1687,7 +1687,7 @@
     },
     {
       "id": 3,
-      "name": "レイナード",
+      "name": "Reynard",
       "note": "",
       "pages": [
         {
@@ -1798,7 +1798,7 @@
     },
     {
       "id": 4,
-      "name": "血液1右",
+      "name": "Blood 1 Right",
       "note": "",
       "pages": [
         {
@@ -1858,7 +1858,7 @@
     },
     {
       "id": 5,
-      "name": "血液1左",
+      "name": "Blood 1 Left",
       "note": "",
       "pages": [
         {
@@ -1918,7 +1918,7 @@
     },
     {
       "id": 6,
-      "name": "血液2",
+      "name": "Blood 2",
       "note": "",
       "pages": [
         {
@@ -1978,7 +1978,7 @@
     },
     {
       "id": 7,
-      "name": "自動",
+      "name": "Automatic",
       "note": "",
       "pages": [
         {
@@ -2135,7 +2135,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]Isolde flew into a rage."
+                "\\SE[2]—Isolde was furious."
               ]
             },
             {
@@ -2553,7 +2553,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]Before she knew it, her hand was around her sister's"
+                "\\SE[2] And before I knew it, I had my hand around my sister’s"
               ]
             },
             {
@@ -2855,14 +2855,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]But from behind her, Reynard's sword pierced Isolde's"
+                "It was \\SE[2], but from behind him, Reynard’s sword pierced"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "stomach."
+                "Isolde’s abdomen."
               ]
             },
             {
@@ -3078,14 +3078,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]As she collapsed, Isolde still looked up at Reynard and"
+                "\\SE[2] Even as she collapsed, Isolde looked up at Reynard and"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "asked,"
+                "asked."
               ]
             },
             {
@@ -3117,14 +3117,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Isolde"
+                "Isolde "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Hey... Did you... ever love me... at all?\""
+                "\\SE[2] \"Hey… did you… ever… like… me…?\""
               ]
             },
             {
@@ -3156,14 +3156,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]Reynard answered. There was no love. He had only wanted"
+                "\\SE[2] Reynard replied, \"There was no love. I just wanted to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "to play with her―that was all."
+                "have some fun.\" And—"
               ]
             },
             {
@@ -3212,7 +3212,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]At that moment, something inside Isolde shattered."
+                "\\SE[2] At that moment, something inside Isolde snapped."
               ]
             },
             {
@@ -3335,14 +3335,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]With the last of her strength, Isolde reached for"
+                "\\SE[2] Summoning her last ounce of strength, Isolde reached"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Reynard's neck and drove her blade into his throat."
+                "out toward Reynard’s neck and stabbed him in the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "throat."
               ]
             },
             {
@@ -3388,14 +3395,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Isolde"
+                "Isolde "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"……………\""
+                "\\SE[2] \"……………\""
               ]
             },
             {

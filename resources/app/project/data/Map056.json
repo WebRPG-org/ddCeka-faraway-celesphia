@@ -1501,7 +1501,7 @@
     },
     {
       "id": 3,
-      "name": "外へ",
+      "name": "Outside",
       "note": "",
       "pages": [
         {
@@ -1573,7 +1573,7 @@
     },
     {
       "id": 4,
-      "name": "宝箱（ミスリルベスト）",
+      "name": "Treasure Chest (Mithril Vest)",
       "note": "",
       "pages": [
         {
@@ -1734,7 +1734,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained the Mithril Vest!"
+                "I got a mithril vest!"
               ]
             },
             {
@@ -1820,7 +1820,7 @@
     },
     {
       "id": 5,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {

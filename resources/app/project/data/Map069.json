@@ -1423,7 +1423,7 @@
     },
     {
       "id": 2,
-      "name": "アイテム屋",
+      "name": "Item Shop",
       "note": "",
       "pages": [
         {
@@ -1466,14 +1466,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Item Shop"
+                "Tool Shop "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Welcome! We have a variety of items in stock.\""
+                ": \"Welcome! We carry a wide variety of tools.\""
               ]
             },
             {
@@ -1582,14 +1582,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Item Shop"
+                "Shopkeeper "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Please come again! Feel free to visit anytime.\""
+                ": \"See you again soon! Come visit anytime.\""
               ]
             },
             {
@@ -1667,21 +1667,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Grimridge is at a high elevation, so climbing it will"
+                ": \"Grimridge is at a high altitude, so the climb is"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "be long and treacherous.\""
+                "long and steep.\""
               ]
             },
             {
@@ -1699,21 +1699,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Think about the long battle ahead and prepare"
+                ": \"Keep in mind that this could be a long battle, so"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "thoroughly.\""
+                "make sure to prepare plenty of Items.\""
               ]
             },
             {

@@ -4837,7 +4837,7 @@
     null,
     {
       "id": 1,
-      "name": "ドア",
+      "name": "Door",
       "note": "",
       "pages": [
         {
@@ -4880,7 +4880,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]The door is firmly shut."
+                "The door is firmly shut."
               ]
             },
             {
@@ -5182,7 +5182,7 @@
     },
     {
       "id": 2,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -5225,7 +5225,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Return to the world map?"
+                "Would you like to return to the world map?"
               ]
             },
             {
@@ -5240,10 +5240,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -5251,7 +5247,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -5276,7 +5272,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -5416,7 +5412,7 @@
     },
     {
       "id": 3,
-      "name": "階段",
+      "name": "Stairs",
       "note": "",
       "pages": [
         {
@@ -5500,7 +5496,7 @@
     },
     {
       "id": 4,
-      "name": "たまご",
+      "name": "Egg",
       "note": "",
       "pages": [
         {
@@ -5543,14 +5539,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"This one?\""
+                "\\SE[3] \"Is this it?\""
               ]
             },
             {
@@ -5568,21 +5564,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Wow... It's huge... How many omelets could"
+                "\\SE[4] \"It’s huge… I wonder how many omelets we"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "this make?\""
+                "could make with this?\""
               ]
             },
             {
@@ -5600,14 +5596,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Shh... Quietly... I hear something!\""
+                "\\SE[5] \"Shh… Be quiet… I hear something…!\""
               ]
             },
             {
@@ -5646,14 +5642,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Wh-what kind of voice is that?\""
+                "\\SE[3] \"W-what’s that voice?\""
               ]
             },
             {
@@ -5671,14 +5667,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"It's getting closer!\""
+                "\\SE[4] \"It's getting closer!\""
               ]
             },
             {
@@ -5708,14 +5704,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Everyone! Get ready!\""
+                "\\SE[5] \"Everyone! Get ready! Something’s coming!\""
               ]
             },
             {
@@ -5757,14 +5753,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Hah...hah... So this is what it's about...\""
+                "\\SE[4] \"Haa, haa… So that’s what it was all"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "about…\""
               ]
             },
             {
@@ -5782,14 +5785,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Nothing good ever comes for free...\""
+                "\\SE[3] \"I guess there’s always a catch to a deal"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "that sounds too good to be true…\""
               ]
             },
             {
@@ -5807,14 +5817,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Let's just take it and go...\""
+                "\\SE[5] \"Should we just take it for now...?\""
               ]
             },
             {
@@ -5913,7 +5923,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained a Large Bird Egg."
+                "I got a large bird's egg."
               ]
             },
             {
@@ -5931,14 +5941,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Whoa!\""
+                "\\SE[3] \"Whoa!\""
               ]
             },
             {
@@ -5956,21 +5966,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"This is heavy...! Be careful not to drop"
+                "\\SE[5] \"This is heavy...! Let's be careful not to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "it.\""
+                "drop it as we carry it.\""
               ]
             },
             {
@@ -6075,7 +6085,7 @@
     },
     {
       "id": 5,
-      "name": "侵入不可",
+      "name": "No Entry",
       "note": "",
       "pages": [
         {
@@ -6135,7 +6145,7 @@
     },
     {
       "id": 6,
-      "name": "侵入不可",
+      "name": "No Entry",
       "note": "",
       "pages": [
         {
@@ -6195,7 +6205,7 @@
     },
     {
       "id": 7,
-      "name": "侵入不可",
+      "name": "No Entry",
       "note": "",
       "pages": [
         {
@@ -6255,7 +6265,7 @@
     },
     {
       "id": 8,
-      "name": "下までワープ",
+      "name": "Warp to the bottom",
       "note": "",
       "pages": [
         {
@@ -6298,7 +6308,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you want to return all the way down at once?"
+                "Should we go all the way back down in one go?"
               ]
             },
             {
@@ -6313,10 +6323,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -6324,7 +6330,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -6349,7 +6355,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {

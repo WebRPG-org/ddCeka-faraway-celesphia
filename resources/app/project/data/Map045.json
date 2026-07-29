@@ -3037,7 +3037,7 @@
     null,
     {
       "id": 1,
-      "name": "店員",
+      "name": "Store Clerk",
       "note": "",
       "pages": [
         {
@@ -3097,7 +3097,7 @@
     },
     {
       "id": 2,
-      "name": "ランプ",
+      "name": "Lamp",
       "note": "",
       "pages": [
         {
@@ -3157,7 +3157,7 @@
     },
     {
       "id": 3,
-      "name": "ランプ",
+      "name": "Lamp",
       "note": "",
       "pages": [
         {
@@ -3217,7 +3217,7 @@
     },
     {
       "id": 4,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -3384,7 +3384,7 @@
     },
     {
       "id": 5,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -3903,7 +3903,7 @@
     },
     {
       "id": 6,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -4422,7 +4422,7 @@
     },
     {
       "id": 7,
-      "name": "リリアン",
+      "name": "Lillian",
       "note": "",
       "pages": [
         {
@@ -4941,7 +4941,7 @@
     },
     {
       "id": 8,
-      "name": "お笑いEV",
+      "name": "Comedy EV",
       "note": "",
       "pages": [
         {
@@ -5036,14 +5036,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"So... you two are comedians?\""
+                "\\SE[3] \"So… do the two of you even know what"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "comedy is?\""
               ]
             },
             {
@@ -5061,14 +5068,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Uh, well...\""
+                "\\SE[4] \"Uh, um…\""
               ]
             },
             {
@@ -5086,14 +5093,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"I don't know...\""
+                "\\SE[5] \"I don't know...\""
               ]
             },
             {
@@ -5120,14 +5127,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Kyle... tell us.\""
+                "\\SE[4] \"Kailu… tell me.\""
               ]
             },
             {
@@ -5145,14 +5152,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"What is a comedian?\""
+                "\\SE[5] \"What is comedy?\""
               ]
             },
             {
@@ -5170,21 +5177,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"A comedian is someone who performs in front"
+                "\\SE[3] \"Comedy is about performing acts in front"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "of an audience.\""
+                "of an audience or making people laugh"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "through skits and the like.\""
               ]
             },
             {
@@ -5202,14 +5234,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"So like street performers?\""
+                "\\SE[4] \"So I guess I’m a street performer? If I"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "start practicing juggling now…\""
               ]
             },
             {
@@ -5227,14 +5266,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Well, yeah, that's one way... Wait?\""
+                "\\SE[3] \"W-well, I guess that’s one way to look at"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "it… Hmm?\""
               ]
             },
             {
@@ -5278,7 +5324,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Qualifications for the Comedy Battle Tournament"
+                "\\SE[0] Eligibility Requirements for the Comedy Battle Tournament "
               ]
             },
             {
@@ -5310,7 +5356,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Qualifications for the Comedy Battle Tournament"
+                "\\SE[0] Eligibility Requirements for the Comedy Battle Tournament "
               ]
             },
             {
@@ -5349,14 +5395,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Wait, only manzai...?! \""
+                "\\SE[3] \"W-Wait… just manzai…!?\""
               ]
             },
             {
@@ -5383,14 +5429,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"What is manzai?\""
+                "\\SE[5] \"What is manzai?\""
               ]
             },
             {
@@ -5408,21 +5454,53 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"It's a comedic back-and-forth or exchange"
+                "\\SE[3] \"A type of play that makes the audience"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "of words,\""
+                "laugh through comical exchanges and banter."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "It generally takes the form of a series of"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "dialogues.\""
               ]
             },
             {
@@ -5449,14 +5527,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"S-so like a dialogue play...?\""
+                "\\SE[4] \"W-Wait, a dialogue scene…?\""
               ]
             },
             {
@@ -5474,21 +5552,53 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"It's usually done by a pair, with one"
+                "\\SE[3] \"It’s usually done in pairs, where one"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "person...\""
+                "person tells a funny story, and the other"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "responds with a funny retort—that’s the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "general idea.\""
               ]
             },
             {
@@ -5506,14 +5616,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"You're quite knowledgeable, Kyle-sama.\""
+                "\\SE[5] \"You really know your stuff, Lord Kyle.\""
               ]
             },
             {
@@ -5545,7 +5655,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]I've seen quite a few plays around."
+                "\\SE[0] I really like theater and go see plays all over the place. "
               ]
             },
             {
@@ -5584,14 +5694,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Well, I've seen my fair share.\""
+                "\\SE[3] \"Well, I guess, sort of...\""
               ]
             },
             {
@@ -5618,21 +5728,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Alright, then let's do manzai together―me"
+                "\\SE[4] \"All right, then Kyle and I will do a"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "and Kyle.\""
+                "comedy routine…\""
               ]
             },
             {
@@ -5674,14 +5784,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"No.\""
+                "\\SE[3] \"No way\""
               ]
             },
             {
@@ -5717,14 +5827,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"It'll be Luna and Lilian performing.\""
+                "\\SE[3] \"It’ll be Luna and Lilian.\""
               ]
             },
             {
@@ -5760,14 +5870,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"W-why?! I don't care about myself, but...\""
+                "\\SE[4] \"W-Why!? I don’t know about me, but Lady"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Luna is such a stick-in-the-mud that she"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                3,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "can’t even tell a joke!?\""
               ]
             },
             {
@@ -5792,14 +5934,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"L-Lilian?! That's going too far!\""
+                "\\SE[5] \"L-Lillian!? I don’t think it’s gone that"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "far, though!?\""
               ]
             },
             {
@@ -5817,14 +5966,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Exactly.\""
+                "\\SE[3] \"That’s exactly why.\""
               ]
             },
             {
@@ -5842,14 +5991,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Huh?!\""
+                "\\SE[4] \"Huh!?\""
               ]
             },
             {
@@ -5867,21 +6016,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"The funniest people are the ones who say"
+                "\\SE[3] \"‘People who don’t look like they would say"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the most unexpected things.\""
+                "something funny actually do’\" \"This one’s"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                2,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "the funniest.\""
               ]
             },
             {
@@ -5906,14 +6080,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"B-but...can I really...do this...?\""
+                "\\SE[5] \"B-but… can I really do this…?\""
               ]
             },
             {
@@ -5931,21 +6105,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"We need to get to Valdeen as soon as"
+                "\\SE[3] \"You want to get to Valdine as soon as"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "possible.\""
+                "possible, don’t you?\""
               ]
             },
             {
@@ -5972,14 +6146,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"B-but what are we supposed to talk about?\""
+                "\\SE[4] \"B-but what am I supposed to say?\""
               ]
             },
             {
@@ -6018,21 +6192,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I'll come up with material for the two of"
+                "\\SE[3] \"I’ll come up with some material for the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "you.\""
+                "two of you.\""
               ]
             },
             {
@@ -6068,21 +6242,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"If we're doing this, we're doing it for"
+                "\\SE[3] \"If we’re going to do this, we’re going to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "real―all three of us.\""
+                "go all out—the three of us.\""
               ]
             },
             {
@@ -6100,14 +6274,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"The Comedy Battle Tournament's...\""
+                "\\SE[3] \"Let's go for the top spot in the Comedy"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Battle Tournament!\""
               ]
             },
             {
@@ -6143,14 +6324,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"O-oh!\""
+                "\\SE[4] \"Oh, oh!\""
               ]
             },
             {
@@ -6168,14 +6349,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"O-oh...?\""
+                "\\SE[5] \"Oh...?\""
               ]
             },
             {
@@ -6262,21 +6443,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"The comedy live show will be held in the"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "square.\""
+                "\\SE[3] \"The comedy show takes place in the plaza.\""
               ]
             },
             {
@@ -6323,21 +6497,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Once we're ready, let's head to the"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "square.\""
+                "\\SE[3] \"Let's go to the plaza when you're ready.\""
               ]
             },
             {
@@ -6382,9 +6549,8 @@
                 1,
                 0,
                 4,
-                "\"　Go to the plaza and participate in the comedy battle\""
-              ],
-              "_original": "\"　広場に行きお笑いバトルに参加しよう\""
+                "\"　Let's go to the plaza and join the comedy battle!\""
+              ]
             },
             {
               "code": 123,
@@ -6477,7 +6643,7 @@
     },
     {
       "id": 9,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -6537,7 +6703,7 @@
     },
     {
       "id": 10,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -6597,7 +6763,7 @@
     },
     {
       "id": 11,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -6657,7 +6823,7 @@
     },
     {
       "id": 12,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -6717,7 +6883,7 @@
     },
     {
       "id": 13,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -6777,7 +6943,7 @@
     },
     {
       "id": 14,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -6837,7 +7003,7 @@
     },
     {
       "id": 15,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -6897,7 +7063,7 @@
     },
     {
       "id": 16,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -6957,7 +7123,7 @@
     },
     {
       "id": 17,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -7017,7 +7183,7 @@
     },
     {
       "id": 18,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -7077,7 +7243,7 @@
     },
     {
       "id": 19,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -7137,7 +7303,7 @@
     },
     {
       "id": 20,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -7197,7 +7363,7 @@
     },
     {
       "id": 21,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -7257,7 +7423,7 @@
     },
     {
       "id": 22,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -7317,7 +7483,7 @@
     },
     {
       "id": 23,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -7377,7 +7543,7 @@
     },
     {
       "id": 24,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -7437,7 +7603,7 @@
     },
     {
       "id": 25,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -7497,7 +7663,7 @@
     },
     {
       "id": 26,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -7557,7 +7723,7 @@
     },
     {
       "id": 27,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -7617,7 +7783,7 @@
     },
     {
       "id": 28,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -7677,7 +7843,7 @@
     },
     {
       "id": 29,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -7737,7 +7903,7 @@
     },
     {
       "id": 30,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -7797,7 +7963,7 @@
     },
     {
       "id": 31,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -7857,7 +8023,7 @@
     },
     {
       "id": 32,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -7917,7 +8083,7 @@
     },
     {
       "id": 33,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -7977,7 +8143,7 @@
     },
     {
       "id": 34,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -8037,7 +8203,7 @@
     },
     {
       "id": 35,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {

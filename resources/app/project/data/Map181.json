@@ -1747,7 +1747,7 @@
     null,
     {
       "id": 1,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -2266,7 +2266,7 @@
     },
     {
       "id": 2,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -2785,7 +2785,7 @@
     },
     {
       "id": 3,
-      "name": "リリアン",
+      "name": "Lillian",
       "note": "",
       "pages": [
         {
@@ -3304,7 +3304,7 @@
     },
     {
       "id": 4,
-      "name": "ノエル",
+      "name": "Noel",
       "note": "",
       "pages": [
         {
@@ -3517,7 +3517,7 @@
     },
     {
       "id": 5,
-      "name": "アリア",
+      "name": "Aria",
       "note": "",
       "pages": [
         {
@@ -3577,7 +3577,7 @@
     },
     {
       "id": 6,
-      "name": "v2.0開始イベント",
+      "name": "v2.0 Launch Event",
       "note": "",
       "pages": [
         {
@@ -3854,14 +3854,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\\C[2]Noel (Arselia)\\C[0] was saved from that day on, I lost my"
+                "\\SE[3]\\C[2] Noelle-Arcelia \\C[0] From the day I saved her, I lost my"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "magic power."
+                "magical power."
               ]
             },
             {
@@ -3879,14 +3879,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]Luna and Lilian were sad, but I didn't regret a thing."
+                "\\SE[3] Both Luna and Lilian were sad, but I had no regrets. I"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'd saved someone precious―that was enough."
+                "was able to save someone I cared about—that was enough"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "for me."
               ]
             },
             {

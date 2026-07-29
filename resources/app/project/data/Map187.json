@@ -5077,7 +5077,7 @@
     null,
     {
       "id": 1,
-      "name": "自動イベント",
+      "name": "Automatic Events",
       "note": "",
       "pages": [
         {
@@ -5350,21 +5350,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]The second floor, once overflowing with clutter, now"
+                "The second floor, which had been overflowing with \\SE[3]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "had more than enough spacious room for the family to"
+                "things, became a spacious area— —large enough to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "grow―"
+                "accommodate a growing family—"
               ]
             },
             {
@@ -5418,14 +5418,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]and even a dedicated research room for Luna's personal"
+                "\\SE[3] And then, I even set up a research room dedicated to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "magical tools was created―"
+                "studying Luna's magical artifacts――"
               ]
             },
             {
@@ -5543,7 +5543,7 @@
     },
     {
       "id": 2,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -6062,7 +6062,7 @@
     },
     {
       "id": 3,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -6632,7 +6632,7 @@
     },
     {
       "id": 4,
-      "name": "リリアン",
+      "name": "Lillian",
       "note": "",
       "pages": [
         {
@@ -7151,7 +7151,7 @@
     },
     {
       "id": 5,
-      "name": "妊娠イベ",
+      "name": "Pregnancy Event",
       "note": "",
       "pages": [
         {
@@ -7338,14 +7338,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"K-Kyle-sama! That...!\""
+                "\\SE[5]: \"M-My Lord Kyle. Um…!\""
               ]
             },
             {
@@ -7390,14 +7390,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]As her body settled down, Luna began to show signs of"
+                "\\SE[3] Just as things were starting to calm down, a change"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "change."
+                "occurred in Luna's body."
               ]
             },
             {
@@ -7415,14 +7415,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\\C[2]Pregnancy\\C[0] had already taken root―it seems it had begun"
+                "\\SE[3]\\C[2] She was \\C[0] pregnant. \\! It seems she had already been"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "during that journey."
+                "carrying the child since that trip."
               ]
             },
             {
@@ -7471,14 +7471,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "Lillian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Ah, th-this...! Kyle... I... I also...!\""
+                "\\SE[4] \"Uh, um…! Kyle… I—!\""
               ]
             },
             {
@@ -7505,14 +7505,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"...Understood. Let's do our best.\""
+                "\\SE[3]: \"…I get it. Let’s do our best.\""
               ]
             },
             {
@@ -7752,7 +7752,7 @@
                 "SEループ開始",
                 {
                   "id": "loop1",
-                  "name": "dlc/ピストン音2/ピストン2_4wet(下位置)",
+                  "name": "dlc/Piston Sound 2/Piston 2_4wet (Lower Position)",
                   "volume": "90",
                   "pitch": "100",
                   "pan": "0"
@@ -7770,7 +7770,7 @@
               "code": 657,
               "indent": 0,
               "parameters": [
-                "SE名 = dlc/ピストン音2/ピストン2_4wet(下位置)"
+                "SE名 = dlc/Piston Sound 2/Piston 2_4wet (Lower Position)"
               ]
             },
             {
@@ -7861,7 +7861,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]Lilian also wanted a child, so"
+                "\"\\SE[3] Lilian also wants \\C[2] a child \\C[0],\" they said."
               ]
             },
             {
@@ -7879,14 +7879,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]I poured every ounce of my seed into making babies,"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "quite literally."
+                "\\SE[3] I literally gave it my all to have a child."
               ]
             },
             {
@@ -8133,21 +8126,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Kyle-sama, please do your best with"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Lilian...!\""
+                "\\SE[5] \"Lord Kyle, Lilian, please do your best…!\""
               ]
             },
             {
@@ -8165,14 +8151,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "Lillian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Ahh♡ Ahh♡ Ahh♡ Kyle...!\""
+                "\\SE[4] \"Ah♡ Ah♡ Ah♡ Kyle…!\""
               ]
             },
             {
@@ -8317,7 +8303,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Thump♡ Thump♡ Thump♡"
+                "Thump♡ Thump♡ Thump♡"
               ]
             },
             {
@@ -8335,7 +8321,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I spilled myself inside her again and again."
+                "I came inside Lilian over and over again."
               ]
             },
             {
@@ -8422,7 +8408,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]And thanks to that effort,"
+                "Thanks to those efforts,"
               ]
             },
             {
@@ -8585,7 +8571,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]I was able to grant Lilian her own bundle of joy."
+                "I was able to grant \\SE[3] to Lilian as well, along with \\C[2] and"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\C[0]."
               ]
             },
             {
@@ -8897,7 +8890,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]They gave birth around the same time."
+                "\\SE[3] The two women gave birth at almost the same time."
               ]
             },
             {
@@ -8915,7 +8908,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]Luna's child was a \\C[2]girl\\C[0], and they named her \\C[2]Celes\\C[0]."
+                "\\SE[3] The child I had with Luna was \\C[2] a girl \\C[0], and I named"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "her \\C[2] Ceres \\C[0]."
               ]
             },
             {
@@ -8933,7 +8933,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]Lilian's child was a \\C[2]boy\\C[0], and they named him \\C[2]Tior\\C[0]."
+                "\\SE[3] The child I had with Lilian was \\C[2] a boy, \\C[0], whom I named"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\C[2] Teor \\C[0]."
               ]
             },
             {
@@ -9417,7 +9424,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]The next few years were nothing short of utter chaos."
+                "\\SE[3] The next few years can be summed up in one word:"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "chaos."
               ]
             },
             {
@@ -9435,14 +9449,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]I could go on forever if I told you everything, so I'll"
+                "\\SE[3] If I went into detail, I’d never stop talking, so I’ll"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "skip the details."
+                "skip that part."
               ]
             },
             {
@@ -9562,7 +9576,7 @@
     },
     {
       "id": 6,
-      "name": "明かり",
+      "name": "Light",
       "note": "",
       "pages": [
         {
@@ -9629,7 +9643,7 @@
     },
     {
       "id": 7,
-      "name": "明かり",
+      "name": "Light",
       "note": "",
       "pages": [
         {
@@ -9696,7 +9710,7 @@
     },
     {
       "id": 8,
-      "name": "子供ベット表示",
+      "name": "Children's Beds Display",
       "note": "",
       "pages": [
         {
@@ -9756,7 +9770,7 @@
     },
     {
       "id": 9,
-      "name": "子供ベット表示",
+      "name": "Children's Beds Display",
       "note": "",
       "pages": [
         {
@@ -9816,7 +9830,7 @@
     },
     {
       "id": 10,
-      "name": "子供ベット表示",
+      "name": "Children's Beds Display",
       "note": "",
       "pages": [
         {
@@ -9876,7 +9890,7 @@
     },
     {
       "id": 11,
-      "name": "子供ベット表示",
+      "name": "Children's Beds Display",
       "note": "",
       "pages": [
         {
@@ -9936,7 +9950,7 @@
     },
     {
       "id": 12,
-      "name": "子供ベット表示",
+      "name": "Children's Beds Display",
       "note": "",
       "pages": [
         {
@@ -9996,7 +10010,7 @@
     },
     {
       "id": 13,
-      "name": "子供ベット表示",
+      "name": "Children's Beds Display",
       "note": "",
       "pages": [
         {
@@ -10056,7 +10070,7 @@
     },
     {
       "id": 14,
-      "name": "セレス",
+      "name": "Ceres",
       "note": "",
       "pages": [
         {
@@ -10269,7 +10283,7 @@
     },
     {
       "id": 15,
-      "name": "ティオル",
+      "name": "Theol",
       "note": "",
       "pages": [
         {
@@ -10482,7 +10496,7 @@
     },
     {
       "id": 16,
-      "name": "ノエル",
+      "name": "Noel",
       "note": "",
       "pages": [
         {
@@ -10695,7 +10709,7 @@
     },
     {
       "id": 17,
-      "name": "アリア",
+      "name": "Aria",
       "note": "",
       "pages": [
         {
@@ -10755,7 +10769,7 @@
     },
     {
       "id": 18,
-      "name": "妊娠イベ",
+      "name": "Pregnancy Event",
       "note": "",
       "pages": [
         {
@@ -11068,14 +11082,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"U-um…Kyle-sama…♡\""
+                "\\SE[5] \"Um... Lord Kyle...♡\""
               ]
             },
             {
@@ -11102,14 +11116,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"W-what about…a second child?\""
+                "\\SE[5]: \"H-huh... a second one... what do you"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "think?\""
               ]
             },
             {
@@ -11127,14 +11148,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "Lillian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"M-me too…! I want one!\""
+                "\\SE[4] \"W-wait, me too…! I want one!\""
               ]
             },
             {
@@ -11198,7 +11219,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]But reality wasn't so kind."
+                "\\SE[3], but in reality, things didn't go quite that smoothly."
               ]
             },
             {
@@ -11223,14 +11244,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]Child-rearing was centered around Luna and my"
+                "\\SE[3] Luna and her mother-in-law take the lead in raising"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "mother-in-law, while Lilian had her knightly duties."
+                "the children, while Lilian has her duties with the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Knights."
               ]
             },
             {
@@ -11255,14 +11283,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]I'd leave early for deliveries, and some days wouldn't"
+                "\\SE[3] I work as a delivery driver, so I leave home early in"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "get home until late."
+                "the morning, and sometimes I don't get home until late."
               ]
             },
             {
@@ -11287,7 +11315,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]Days of passing each other in the house dragged on…"
+                "\\SE[3] Days of passing each other by went on and on—"
               ]
             },
             {

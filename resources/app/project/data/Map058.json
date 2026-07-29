@@ -1379,7 +1379,7 @@
     null,
     {
       "id": 1,
-      "name": "外へ",
+      "name": "Outside",
       "note": "",
       "pages": [
         {
@@ -1451,7 +1451,7 @@
     },
     {
       "id": 2,
-      "name": "宝箱（3000Ｇ）",
+      "name": "Treasure Chest (3,000G)",
       "note": "",
       "pages": [
         {
@@ -1611,7 +1611,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained 3000\\G!"
+                "I got the 3000\\G!"
               ]
             },
             {
@@ -1697,7 +1697,7 @@
     },
     {
       "id": 3,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {

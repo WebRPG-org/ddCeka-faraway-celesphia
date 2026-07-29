@@ -5077,7 +5077,7 @@
     null,
     {
       "id": 1,
-      "name": "タオル",
+      "name": "Towel",
       "note": "",
       "pages": [
         {
@@ -5137,7 +5137,7 @@
     },
     {
       "id": 2,
-      "name": "床に敷く",
+      "name": "Lay on the floor",
       "note": "",
       "pages": [
         {
@@ -5197,7 +5197,7 @@
     },
     {
       "id": 3,
-      "name": "床に敷く",
+      "name": "Lay on the floor",
       "note": "",
       "pages": [
         {
@@ -5257,7 +5257,7 @@
     },
     {
       "id": 4,
-      "name": "床に敷く",
+      "name": "Lay on the floor",
       "note": "",
       "pages": [
         {
@@ -5317,7 +5317,7 @@
     },
     {
       "id": 5,
-      "name": "床に敷く",
+      "name": "Lay on the floor",
       "note": "",
       "pages": [
         {
@@ -5377,7 +5377,7 @@
     },
     {
       "id": 6,
-      "name": "床に敷く",
+      "name": "Lay on the floor",
       "note": "",
       "pages": [
         {
@@ -5437,7 +5437,7 @@
     },
     {
       "id": 7,
-      "name": "床に敷く",
+      "name": "Lay on the floor",
       "note": "",
       "pages": [
         {
@@ -5497,7 +5497,7 @@
     },
     {
       "id": 8,
-      "name": "床に敷く",
+      "name": "Lay on the floor",
       "note": "",
       "pages": [
         {
@@ -5557,7 +5557,7 @@
     },
     {
       "id": 9,
-      "name": "床に敷く",
+      "name": "Lay on the floor",
       "note": "",
       "pages": [
         {
@@ -5617,7 +5617,7 @@
     },
     {
       "id": 10,
-      "name": "床に敷く",
+      "name": "Lay on the floor",
       "note": "",
       "pages": [
         {
@@ -5677,7 +5677,7 @@
     },
     {
       "id": 11,
-      "name": "湯気",
+      "name": "Steam",
       "note": "",
       "pages": [
         {
@@ -5737,7 +5737,7 @@
     },
     {
       "id": 12,
-      "name": "湯気",
+      "name": "Steam",
       "note": "",
       "pages": [
         {
@@ -5797,7 +5797,7 @@
     },
     {
       "id": 13,
-      "name": "明かり",
+      "name": "Light",
       "note": "",
       "pages": [
         {
@@ -5864,7 +5864,7 @@
     },
     {
       "id": 14,
-      "name": "明かり",
+      "name": "Light",
       "note": "",
       "pages": [
         {
@@ -5931,7 +5931,7 @@
     },
     {
       "id": 15,
-      "name": "ノエルH",
+      "name": "Noel H",
       "note": "",
       "pages": [
         {
@@ -6194,14 +6194,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Ahh... I feel refreshed...\""
+                "\\SE[3]: \"Ah... I'm coming back to life...\""
               ]
             },
             {
@@ -6219,7 +6219,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "After a long day, nothing beats a nice bath to unwind."
+                "There's nothing like a bath to soothe the day's"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "fatigue."
               ]
             },
             {
@@ -6237,14 +6244,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The still water's surface reflected the soft, hazy glow"
+                "The perfectly still surface of the water quietly"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "of the lanterns."
+                "reflects the dim light ."
               ]
             },
             {
@@ -6764,14 +6771,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"W-What?! Mother?!\""
+                "\\SE[3] \"W-Wait, Mom!?\""
               ]
             },
             {
@@ -6903,14 +6910,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel]"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"You've worked hard today, Kyle-sama.\""
+                "\\SE[2]: \"Thank you for your hard work today, Mr."
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Kyle.\""
               ]
             },
             {
@@ -6928,7 +6942,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Noel stood in the steam, her body wrapped only in a"
+                "Noel stood in the steam, wrapped in nothing but a"
               ]
             },
             {
@@ -6953,14 +6967,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"W-Why are you... in the bath?\""
+                "\\SE[3]: \"W-why are you in the bath…?\""
               ]
             },
             {
@@ -6978,21 +6992,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel]"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Heehee... I thought I'd give Kyle-sama a"
+                "\\SE[2] \"Hehe, I thought I’d rub Lord Kyle’s back"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "nice back rub. Did I startle you?\""
+                "for a change. Did I surprise you?\""
               ]
             },
             {
@@ -7010,14 +7024,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"N-No... I mean, yeah...\""
+                "\\SE[3]: \"N-no... well...\""
               ]
             },
             {
@@ -7399,21 +7413,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Noel scooped up rich lather in her hands and gently"
+                "Noel lathered her hands with rich foam, ran her fingers"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "massaged Kyle's hair, washing his head with tender"
+                "through Kyle's hair, and gently washed it as if"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "care."
+                "massaging his entire head."
               ]
             },
             {
@@ -7431,14 +7445,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel]"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"How's the pressure, Kyle-sama?\""
+                "\\SE[2]: \"Lord Kyle, how’s your strength holding"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "up?\""
               ]
             },
             {
@@ -7456,14 +7477,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Y-Yeah... it's perfect...\""
+                "\\SE[3]: \"Ah, ah... That's just right...\""
               ]
             },
             {
@@ -7481,21 +7502,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel]"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Heehee... I'm glad to hear that. How's work"
+                "\\SE[2]: \"Hehe… I’m glad to hear that. How have you"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "been lately?\""
+                "been lately? How’s work going?\""
               ]
             },
             {
@@ -7513,21 +7534,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I've gotten used to it quite a bit. I even"
+                "\\SE[3]: \"I’ve gotten pretty used to it. I picked"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "picked up something new today.\""
+                "up one new thing today, too.\""
               ]
             },
             {
@@ -7545,46 +7566,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel]"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Oh my, how exciting. But...\""
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/カイル顔裸",
-                5,
-                0,
-                2,
-                ""
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0][Kyle]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[3]\"Luna just has to take everything apart the"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "second she sees something new... It's like\""
+                "\\SE[2] \"Oh, I’m looking forward to that, but…\""
               ]
             },
             {
@@ -7602,14 +7591,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "she can't help but figure out how it works.\""
+                "\\SE[3]: \"That Luna—whenever she sees something"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "new, she just has to take it apart… She’s"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/カイル顔裸",
+                5,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "curious about how things are put together.\""
               ]
             },
             {
@@ -7627,21 +7648,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel]"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Heehee. She's always been like that. Always"
+                "\\SE[2]: \"Hehehe. You’ve always been like that. You"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "breaking things apart. Some things never\""
+                "always end up taking things apart right"
               ]
             },
             {
@@ -7659,14 +7680,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel]"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "change.\""
+                "away. You never change, do you?\""
               ]
             },
             {
@@ -7684,14 +7705,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Noel's fingertips kneaded Kyle's scalp with astonishing"
+                "Noel's fingertips, which gently massage her scalp, are"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "softness."
+                "surprisingly soft."
               ]
             },
             {
@@ -7709,14 +7730,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Every time she shifted, the sweet scent of her body"
+                "Every now and then, whenever she moved, a sweet scent—a"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "mingled with the soap's fragrance wafted over him."
+                "blend of soap and —would waft over from right behind"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "her."
               ]
             },
             {
@@ -7734,21 +7762,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Are Tiol and Celes causing you any"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "trouble?\""
+                "\\SE[3]: \"Are Theol and Ceres causing any trouble?\""
               ]
             },
             {
@@ -7766,46 +7787,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel]"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Oh, not at all. They're so lively. The"
+                "\\SE[2] \"Oh, it’s fine. It’s so lively. Just the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "other day, they even caught a hundred\""
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "ver2/ver2_noel1",
-                0,
-                0,
-                2,
-                ""
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0][Noel]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "crayfish!\""
+                "other day, I caught 100 crayfish.\""
               ]
             },
             {
@@ -7874,14 +7870,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel]"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Now, let me wash your back...\""
+                "\\SE[2] \"Okay, next I’ll wash your back…\""
               ]
             },
             {
@@ -8015,14 +8011,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Something impossibly soft and warm pressed against his"
+                "Something incredibly soft and warm was pressed against"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "back."
+                "my back."
               ]
             },
             {
@@ -8040,14 +8036,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"H-Hey...! M-Mom...?!\""
+                "\\SE[3] \"!…W-Wait, my mother-in-law…!?\""
               ]
             },
             {
@@ -8065,21 +8061,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"You mustn't move, Kyle-sama. Think of this"
+                "\\SE[2] \"Please don’t move, Lord Kyle. Please think"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "as Elven traditional gratitude... or\""
+                "of this as… a traditional elven ritual of"
               ]
             },
             {
@@ -8097,14 +8093,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "something like that.\""
+                "thanks, if you will.\""
               ]
             },
             {
@@ -8116,7 +8112,7 @@
                 "SEループ開始",
                 {
                   "id": "loop1",
-                  "name": "dlc/くちゅ音(手コキ・手マンetc)/水系くちゅ",
+                  "name": "DLC / Slurping Sounds (Handjobs, Fingering, etc.) / Water-Based Slurping",
                   "volume": "150",
                   "pitch": "100",
                   "pan": "0"
@@ -8134,7 +8130,7 @@
               "code": 657,
               "indent": 0,
               "parameters": [
-                "SE名 = dlc/くちゅ音(手コキ・手マンetc)/水系くちゅ"
+                "SE名 = DLC / Slurping Sounds (Handjobs, Fingering, etc.) / Water-Based Slurping"
               ]
             },
             {
@@ -8192,7 +8188,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Nuchu... nuchu... nuchu..."
+                "Squish… squish… squish……"
               ]
             },
             {
@@ -8210,14 +8206,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"G-Gratitude...?!\""
+                "\\SE[3] \"T-thank you… or something…!?\""
               ]
             },
             {
@@ -8235,21 +8231,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"I still haven't properly thanked you for"
+                "\\SE[2]: \"I haven’t thanked Lord Kyle yet for"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "saving me, Kyle-sama.\""
+                "saving me, have I?\""
               ]
             },
             {
@@ -8267,14 +8263,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Please, let me serve you like this...\""
+                "\\SE[2]: \"Please, let me continue to serve you just"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "as I am...\""
               ]
             },
             {
@@ -8292,14 +8295,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Noel coated her body in thick soap and pressed it"
+                "Noel lathered her body generously with soap and rubbed"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "tightly against Kyle's back."
+                "it firmly against Kyle's back."
               ]
             },
             {
@@ -8317,21 +8320,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Every time she twisted her body, the plump mounds'"
+                "Every time she writhed, the suppleness of her full"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "elasticity and the smoothness of her abdomen caressed"
+                "breasts and the smooth texture of her abdomen caressed"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Kyle's back."
+                "Kyle’s back."
               ]
             },
             {
@@ -8349,14 +8352,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Uah... Ahh...\""
+                "\\SE[3] \"Ugh... Ah...\""
               ]
             },
             {
@@ -8374,14 +8377,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Does it feel good, Kyle-sama?\""
+                "\\SE[2]: \"Does that feel good, Lord Kyle?\""
               ]
             },
             {
@@ -8399,7 +8402,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Nyuru... nyuru... nyuru..."
+                "Squish, squish, squish……"
               ]
             },
             {
@@ -8417,14 +8420,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The bubbles between their skin turned into the most"
+                "Between their skin, the bubbles turn , like the most"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "luxurious, slimy mucus."
+                "exquisite, slippery mucus."
               ]
             },
             {
@@ -8442,14 +8445,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Mm... Kyle-sama's back is so big and"
+                "\\SE[2] \"Hmm... Lord Kyle's back is so broad and"
               ]
             },
             {
@@ -8474,14 +8477,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "With a breathy voice, Noel moved her body in circular"
+                "With a voice tinged with a sigh, Noel moved her body in"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "motions."
+                "a circular motion."
               ]
             },
             {
@@ -8499,14 +8502,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Their skin, pressed together through the mucus, rubbed"
+                "The skin pressed tightly together, rubbing against each"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "against each other with obscene sounds―\"juppu, juppu.\""
+                "other through the mucus, making a \"slurp, slurp\" lewd"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "sound."
               ]
             },
             {
@@ -8524,21 +8534,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Because Kyle couldn't see, the raw sensuality of the"
+                "Precisely because Kyle can’t see it, the raw, visceral"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "flesh pressed against his back was emphasized to the"
+                "nature of the body pressed against his back is"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "extreme."
+                "emphasized to the utmost."
               ]
             },
             {
@@ -8556,14 +8566,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Fufu... I'll make you even cleaner.\""
+                "\\SE[2]: \"Hehe... I'll make you even more"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "beautiful.\""
               ]
             },
             {
@@ -8581,14 +8598,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Noel increased the pressure, rubbing her abundant chest"
+                "Noel pressed herself even closer, rubbing her full"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "against Kyle's nape and buttocks."
+                "breasts against Kyle's neck and buttocks."
               ]
             },
             {
@@ -8606,14 +8623,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The obscene stimulation and the slimy mucus sensation"
+                "Faced with those incredibly erotic caresses and the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "made it impossible for Kyle to resist his urges."
+                "sensation of the slippery mucus, Kyle had no way of"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "resisting."
               ]
             },
             {
@@ -8716,14 +8740,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"My... it's grown so big...♡\""
+                "\\SE[2] \"Well... you've gotten so big... ♡\""
               ]
             },
             {
@@ -8741,14 +8765,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"！\""
+                "\\SE[3] \"!\""
               ]
             },
             {
@@ -8821,7 +8845,7 @@
                 "SEループ開始",
                 {
                   "id": "loop1",
-                  "name": "dlc/手コキ/手コキ2（低速）",
+                  "name": "DLC/Handjob/Handjob 2 (Slow)",
                   "volume": "90",
                   "pitch": "100",
                   "pan": "0"
@@ -8839,7 +8863,7 @@
               "code": 657,
               "indent": 0,
               "parameters": [
-                "SE名 = dlc/手コキ/手コキ2（低速）"
+                "SE名 = DLC/Handjob/Handjob 2 (Slow)"
               ]
             },
             {
@@ -8885,7 +8909,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Nyurun... nyurun... nyurun...!"
+                "Squish... squish... squish......!"
               ]
             },
             {
@@ -9132,14 +9156,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Gently, a soft, soapy female body slid over his rigid"
+                "Her soft, slippery body, covered in soap, gently"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "spear, caressing it."
+                "caresses my stiff, rigid shaft."
               ]
             },
             {
@@ -9157,21 +9181,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Could it be... Kyle-sama hasn't been"
+                "\\SE[2]: \"Could it be… Lord Kyle, haven’t you been"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "relieved recently?\""
+                "feeling a little off lately?\""
               ]
             },
             {
@@ -9189,14 +9213,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Ah... Uh, well...\""
+                "\\SE[3] \"Ah... um, well...\""
               ]
             },
             {
@@ -9214,7 +9238,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Caught off guard, Kyle stammered."
+                "Caught off guard, Kyle was at a loss for words."
               ]
             },
             {
@@ -9232,14 +9256,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Between work keeping them busy, he hadn't had time to"
+                "Not only am I unable to find the time to nurture my"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "nurture their love,"
+                "relationship with the two of them because of work, but—"
               ]
             },
             {
@@ -9257,14 +9281,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "let alone spare a moment to take care of his own urges"
+                "I didn't have even "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "as a man."
+                "a shred of leeway to take care of my needs as a man."
               ]
             },
             {
@@ -9282,21 +9306,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "With a direct hit, Noel's thighs―slick and soapy―rubbed"
+                "Noel rubbed her slick "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "against Kyle's blushing face as her sweet breath"
+                "thigh against Kyle’s leg as he blushed, caught off"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "whispered in his ear."
+                "guard, and her sweet breath whispered in his ear."
               ]
             },
             {
@@ -9314,21 +9338,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Fufu... You've been so busy, you haven't"
+                "\\SE[2] \"Hehe… You’ve been so busy that you haven’t"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "even had time to take care of yourself,"
+                "even had time to take care of yourself, have"
               ]
             },
             {
@@ -9346,32 +9370,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "have\""
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "ver2/ver2_noel1",
-                0,
-                0,
-                2,
-                ""
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]Noel"
+                "Noel "
               ]
             },
             {
@@ -9670,14 +9669,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Now, Kyle-sama,\""
+                "\\SE[2] \"Hey, Lord Kyle,\""
               ]
             },
             {
@@ -9787,21 +9786,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"if it pleases you... would you like to find"
+                "\\SE[2] \"If you don’t mind… would you like to let"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "some relief with me?\""
+                "off some steam with me?\""
               ]
             },
             {
@@ -9819,21 +9818,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Let me serve you more deeply... as thanks"
+                "\\SE[2] \"To you, who saved my life, please let me"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "for saving my life...♡\""
+                "serve you even more deeply...♡\""
               ]
             },
             {
@@ -9851,14 +9850,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Noel gazed at him with a drenched, lustful look,"
+                "Noel stared intently with her glistening eyes and"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "enticing Kyle with her seductive allure."
+                "seductively enticed Kyle."
               ]
             },
             {
@@ -10255,14 +10254,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Come... Kyle-sama...!\""
+                "\\SE[2]: \"Come... Lord Kyle...!\""
               ]
             },
             {
@@ -10280,14 +10279,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Her glistening white skin, slick with steam and"
+                "The white skin, drenched in steam and mucus, glistened"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "moisture, shimmered under the ceiling light."
+                "lustrously in the light from the ceiling."
               ]
             },
             {
@@ -10470,21 +10469,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Drawn in, Kyle leaned down and wrapped his arms around"
+                "Kyle leaned in as if drawn to her, and Noelle wrapped"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "her, and Noel embraced him back with her supple, white"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "arms."
+                "her white, supple arms around his neck."
               ]
             },
             {
@@ -10502,21 +10494,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Holding him gently to her chest, she lifted her hips"
+                "Gently holding Kyle close to her chest, Noel lifted her"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "slightly, guiding his throbbing length slowly into her"
+                "hips slightly and slowly guided Kyle’s hot, throbbing"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "depths."
+                "member deep inside her."
               ]
             },
             {
@@ -10534,14 +10526,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Nn... Kyle-sama... please...♡\""
+                "\\SE[2] \"Mmm... Lord Kyle... Please... ♡\""
               ]
             },
             {
@@ -10559,14 +10551,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Ah...! Mother...-san...!\""
+                "\\SE[3] \"Ah... Mom...!\""
               ]
             },
             {
@@ -10584,14 +10576,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Aah... now... call me by my name...♡\""
+                "\\SE[2] \"Ahh… Just call me by my name for now…♡\""
               ]
             },
             {
@@ -10651,21 +10643,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "At the moment of full connection, Kyle felt an"
+                "The moment they were fully joined, Kyle felt the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "overwhelming warmth envelop him, and he couldn't hold"
+                "overwhelming warmth of her body enveloping him, and he"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "back a moan."
+                "couldn't help but let out a gasp."
               ]
             },
             {
@@ -10683,14 +10675,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Aah... hah...♡\""
+                "\\SE[2] \"Ahh... hmm... ♡\""
               ]
             },
             {
@@ -10708,21 +10700,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Noel, too, welcomed him fully after so long, letting"
+                "Noel, who had embraced every part of Kyle, also quietly"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "out a quiet breath of joy and awe at their passionate"
+                "let out a sigh—a mixture of joy and awe—at their first"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "reunion."
+                "passionate encounter in a long time."
               ]
             },
             {
@@ -10740,14 +10732,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The heat and pulse of their bodies sent shivers through"
+                "The heat and heartbeats of each other, shaking our"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "them both."
+                "bodies to the core."
               ]
             },
             {
@@ -10819,14 +10811,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "In the steam, they clung to each other, pressing their"
+                "Amid the steam, the two longed for each other intensely"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "skin closer still."
+                "and pressed their bodies even closer together."
               ]
             },
             {
@@ -10869,7 +10861,7 @@
                 "SEループ開始",
                 {
                   "id": "loop1",
-                  "name": "dlc/ピストン音2/ピストン2_3wet(下位置)",
+                  "name": "dlc/Piston Sound 2/Piston 2_3wet (Lower Position)",
                   "volume": "100",
                   "pitch": "100",
                   "pan": "0"
@@ -10887,7 +10879,7 @@
               "code": 657,
               "indent": 0,
               "parameters": [
-                "SE名 = dlc/ピストン音2/ピストン2_3wet(下位置)"
+                "SE名 = dlc/Piston Sound 2/Piston 2_3wet (Lower Position)"
               ]
             },
             {
@@ -10938,7 +10930,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Nuryu... nuryu... nuryu..."
+                "Squish... squish... squish......"
               ]
             },
             {
@@ -11185,14 +11177,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Hah... hah...! Noel...-san... u-ah...!\""
+                "\\SE[3] \"Haa…! Haa…! Noelle…-san… Uh… Ah…!\""
               ]
             },
             {
@@ -11210,14 +11202,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Kyle gave in to his raging impulse, thrusting his hips"
+                "Driven by a raging impulse, Kyle thrusts his hips"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "fiercely."
+                "violently."
               ]
             },
             {
@@ -11235,21 +11227,39 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "With every impact, their bodies collided violently, the"
+                "With every thrust of his hips, their bodies collided"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "wet sounds of flesh and slick fluids echoing through"
+                "violently, and the sounds of flesh slapping against"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the bathhouse."
+                "flesh and the squelching of slippery mucus echoed"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "throughout the shower area."
               ]
             },
             {
@@ -11267,21 +11277,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"A, aah...! Kyle-sama... it's... too"
+                "\\SE[2]: \"Ah, aahh…! Lord Kyle… , that’s… just too…"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "much...♡\""
+                "much… ♡\""
               ]
             },
             {
@@ -11299,14 +11309,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Noel dug her nails into Kyle's back, her body trembling"
+                "Noel dug her nails into Kyle's back and shuddered with"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "from the intense pleasure."
+                "the intense pleasure it brought her."
               ]
             },
             {
@@ -11324,14 +11334,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The overwhelming ecstasy surged from their joined hips"
+                "A sensation so intense it makes my mind go completely"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "up her spine and into her mind."
+                "blank shoots from the junction of my hips up my spine"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "and straight into my brain."
               ]
             },
             {
@@ -11349,7 +11366,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "She savored that peak of bliss for only a moment―"
+                "But I was only able to savor that supreme pleasure for"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "a brief moment."
               ]
             },
             {
@@ -11367,14 +11391,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "before a searing heat rose from deep within Kyle,"
+                "A hot mass—signaling the limit—wells up from deep"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "signaling his limit."
+                "within Kyle’s body, where it had been building up for"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "so long."
               ]
             },
             {
@@ -11410,7 +11441,7 @@
                 "SEループ開始",
                 {
                   "id": "loop1",
-                  "name": "dlc/ピストン音2/ピストン2_5wet(下位置)",
+                  "name": "dlc/Piston Sound 2/Piston 2_5wet (Lower Position)",
                   "volume": "100",
                   "pitch": "100",
                   "pan": "0"
@@ -11428,7 +11459,7 @@
               "code": 657,
               "indent": 0,
               "parameters": [
-                "SE名 = dlc/ピストン音2/ピストン2_5wet(下位置)"
+                "SE名 = dlc/Piston Sound 2/Piston 2_5wet (Lower Position)"
               ]
             },
             {
@@ -11846,21 +11877,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Guh... Noel-san... I can't... hold back..."
+                "\\SE[3]: \"Ugh... Noel... I can't... hold it"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm gonna cum...!\""
+                "anymore... I'm gonna come...!\""
               ]
             },
             {
@@ -11878,21 +11909,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"It's fine...ah! Just release everything"
+                "\\SE[2] \"It’s okay… please… just let it all out"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "inside me...please...!\""
+                "inside me…!\""
               ]
             },
             {
@@ -11910,21 +11941,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"An Elf's fertile period is so short... I'm"
+                "\\SE[2] \"Elves have such a short fertile window…"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "already past the age where I can easily\""
+                "I’m almost past the age where I can have"
               ]
             },
             {
@@ -11942,14 +11973,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "conceive...!\""
+                "children…!\""
               ]
             },
             {
@@ -11967,7 +11998,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Those words erased the last shred of Kyle's restraint."
+                "Those words wiped out what little sanity Kyle had left."
               ]
             },
             {
@@ -12188,14 +12219,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Deep within Noel, the hottest place of all, hot seed"
+                "Deep within Noel, in its hottest place, hot life force"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "spurted out in thick, forceful pulses."
+                "surges forth vigorously."
               ]
             },
             {
@@ -12213,14 +12244,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Ah... aaaah...!\""
+                "\\SE[3] \"Ah... aaaah...\""
               ]
             },
             {
@@ -12238,14 +12269,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "White-hot desire erupted from deep within Kyle again"
+                "The white desire bursting from the depths of Kyle"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "and again."
+                "explodes over and over again"
               ]
             },
             {
@@ -12263,14 +12294,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"♡♡♡\""
+                "\\SE[2] \"♡♡♡\""
               ]
             },
             {
@@ -12288,14 +12319,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Noel accepted every inch of him, her face alight with"
+                "Noel accepted everything about Kyle, and as the heat"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "bliss as his heat filled her from within."
+                "filled her from within, a look of ecstasy spread across"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "her face."
               ]
             },
             {
@@ -12363,21 +12401,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "As Kyle slowly pulled out, the white seed that had"
+                "As Kyle slowly pulled out, the white lust that had"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "filled her dripped thickly from their joined flesh,"
+                "filled Noel’s insides oozed out from where they were"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "sliding down her thighs and pooling onto the floor."
+                "joined, trickling down her thighs and onto the floor."
               ]
             },
             {
@@ -12395,7 +12433,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3] \"Haa... haa...\""
               ]
             },
             {
@@ -12413,14 +12458,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"♡♡♡\""
+                "\\SE[2] \"♡♡♡\""
               ]
             },
             {
@@ -12473,14 +12518,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Still panting, Kyle was surprised to find his arousal"
+                "Still breathing heavily, Kyle was surprised to find"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "hadn't faded in the slightest."
+                "that his crotch was still hard."
               ]
             },
             {
@@ -12498,14 +12543,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Was it the years of abstinence? His hardness still"
+                "Perhaps because of years of abstinence, his erection"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "hadn't softened at all."
+                "hadn't yet subsided."
               ]
             },
             {
@@ -12523,21 +12568,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Fufu... Of course, I'll be your partner as"
+                "\\SE[2] \"Hehe, of course—I’ll be happy to play with"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "many times as you like♡\""
+                "you as many times as you like ♡\""
               ]
             },
             {
@@ -12624,14 +12669,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "With that, Noel turned her back on the spread-out"
+                "With that, Noel turned her back to on the pile of"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "towels, slowly assuming a four-legged position."
+                "towels and slowly got down on all fours."
               ]
             },
             {
@@ -12649,14 +12694,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "She arched her back high, presenting her softest, most"
+                "She thrust her hips high into the air, exposing her"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "vulnerable place to Kyle, her gaze heavy with desire."
+                "most delicate part to Kyle, and when she turned to look"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "back, her eyes were glistening with passion."
               ]
             },
             {
@@ -12674,21 +12726,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Come now, Kyle-sama... This time, please"
+                "\\SE[2] \"Now then, Lord Kyle… This time, please"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "thrust deep inside me...♡\""
+                "thrust deep inside me from this angle… ♡\""
               ]
             },
             {
@@ -12801,7 +12853,7 @@
                 "SEループ開始",
                 {
                   "id": "loop1",
-                  "name": "dlc/ピストン/ピストンA肌がぶつかり合う（速い）20回",
+                  "name": "dlc/Piston/Piston A: Skin-to-Skin Collisions (Fast) 20 Times",
                   "volume": "70",
                   "pitch": "100",
                   "pan": "0"
@@ -12819,7 +12871,7 @@
               "code": 657,
               "indent": 0,
               "parameters": [
-                "SE名 = dlc/ピストン/ピストンA肌がぶつかり合う（速い）20回"
+                "SE名 = dlc/Piston/Piston A: Skin-to-Skin Collisions (Fast) 20 Times"
               ]
             },
             {
@@ -12877,21 +12929,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Kyle grabbed Noel's hips with both hands and, with a"
+                "Kyle grabbed Noel's hips with both hands as she got"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "single powerful motion, buried himself to the hilt in"
+                "down on all fours, and , driven by uncontrollable"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "her depths."
+                "passion, thrust himself deep inside her in one swift"
               ]
             },
             {
@@ -12909,14 +12961,32 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Without pause, Kyle gave in to his primal instincts,"
+                "motion."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "slamming into her with brutal force."
+                "Without a moment's pause, Kyle, driven by his animal"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "instincts, pounded his hips fiercely."
               ]
             },
             {
@@ -13163,14 +13233,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Nn...! Ah, the deepest... part...! It's"
+                "\\SE[2] \"Hmm...! Ah, deep inside...! It's"
               ]
             },
             {
@@ -13195,21 +13265,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Each time he withdrew and thrust back in, the impact"
+                "With each thrust in and out, as she absorbed the fierce"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "made Noel's rear end ripple with a rhythmic \"pah!"
+                "impact, Noelle’s buttocks made a rhythmic, sensual"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "pah!♡\" sound."
+                "\"smack♡smack♡\" sound."
               ]
             },
             {
@@ -13227,21 +13297,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It wasn't just rough―changing the angle meant Kyle's"
+                "It wasn't just intense. The change in angle caused"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "hard length repeatedly struck Noel's pleasure center"
+                "Kyle's solid mass to stimulate Noelle's pleasure center"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "with devastating precision."
+                "over and over again, as if gouging into it."
               ]
             },
             {
@@ -13259,14 +13329,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Noel thrashed her head, drool dripping as she writhed"
+                "Noel tosses her head back, drooling as she writhes in"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "in ecstasy."
+                "ecstasy."
               ]
             },
             {
@@ -13284,14 +13354,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Pounded relentlessly from behind, waves of climax shook"
+                "As she was relentlessly attacked from behind, waves of"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "her, each one rattling her brain."
+                "climaxes—as if her brain were being shaken"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "directly—swept over her again and again."
               ]
             },
             {
@@ -13555,21 +13632,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Ah, a-ah...! I'm... I'm cumming...!"
+                "\\SE[2] \"Ah, ah...! I'm... I'm going to...!"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ahh...!\""
+                "Ahhh...!\""
               ]
             },
             {
@@ -13634,21 +13711,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "At her limit, Noel's body arched backward, her inner"
+                "Noel’s body, having reached its limit, arched backward,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "walls clamping down on Kyle's length as if trying to"
+                "and the inner walls of squeezed Kyle so tightly it felt"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "tear it apart."
+                "as if they would tear him apart."
               ]
             },
             {
@@ -13666,14 +13743,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The moment she came hard without restraint, Kyle"
+                "At the very moment she couldn't hold back any longer"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "reached his own climax at the same time."
+                "and climaxed intensely, Kyle also reached his limit."
               ]
             },
             {
@@ -13691,21 +13768,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Noel...san! Second round... I'm gonna"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "cum...!\""
+                "\\SE[3] \"Noel... I'm... gonna... come... again!\""
               ]
             },
             {
@@ -13871,14 +13941,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Kyle let out a muffled groan, pumping his second hot"
+                "Kyle let out another muffled groan and forcefully"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "release deep into Noel's core."
+                "released his second hot climax deep inside Noel."
               ]
             },
             {
@@ -13896,14 +13966,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The heat of his seed spreading through her body left"
+                "As the heat of life pulsed through her body, Noel lost"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Noel completely limp, collapsing onto the towels."
+                "all her strength and collapsed onto the towel."
               ]
             },
             {
@@ -14182,14 +14252,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Haa... haa...\""
+                "\\SE[3] \"Haa… haa…\""
               ]
             },
             {
@@ -14263,14 +14333,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel]"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Kyle-sama... nnh♡\""
+                "\\SE[2] \"Lord Kyle... mmm♡\""
               ]
             },
             {
@@ -14288,14 +14358,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "She pressed a wet, searing kiss onto Kyle's lips. After"
+                "She pressed a wet, passionate kiss against Kyle's lips."
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "their tongues tangled in a deep, passionate embrace,"
+                "After a deep, lingering embrace in which their tongues"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "entwined,"
               ]
             },
             {
@@ -14471,14 +14548,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"N-Noel-san...?!\""
+                "\\SE[3] \"N-Noel…!?\""
               ]
             },
             {
@@ -14496,21 +14573,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel]"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Hehe, Kyle-sama... it's still so hot and..."
+                "\\SE[2]: \"Hehe, Lord Kyle, it’s still so hot here…"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "full of energy here...♡\""
+                "I’m doing just fine♡\""
               ]
             },
             {
@@ -14528,14 +14605,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Even after two climaxes, Kyle's spear hadn't fully"
+                "Even after two climaxes, Kyle’s spear still hasn’t"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "softened, still standing tall and throbbing."
+                "fully softened; it stands there, still sweet and hot."
               ]
             },
             {
@@ -14553,14 +14630,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Noel guided his tip to her dripping folds, then slowly"
+                "Noel positioned her private parts against the tip, then"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "lowered herself onto him."
+                "slowly lowered herself onto it."
               ]
             },
             {
@@ -14578,14 +14655,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The slick, Slime-coated heat was swallowed once more"
+                "The hot mass, protected by a slimy mucus, was swallowed"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "into Noel's depths."
+                "up once again into Noel’s ."
               ]
             },
             {
@@ -14632,7 +14709,7 @@
                 "SEループ開始",
                 {
                   "id": "loop1",
-                  "name": "dlc/ピストン音2/ピストン2_4wet(下位置)",
+                  "name": "dlc/Piston Sound 2/Piston 2_4wet (Lower Position)",
                   "volume": "100",
                   "pitch": "100",
                   "pan": "0"
@@ -14650,7 +14727,7 @@
               "code": 657,
               "indent": 0,
               "parameters": [
-                "SE名 = dlc/ピストン音2/ピストン2_4wet(下位置)"
+                "SE名 = dlc/Piston Sound 2/Piston 2_4wet (Lower Position)"
               ]
             },
             {
@@ -14708,21 +14785,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel]"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Ahh♡ Ahnn♡ Kyle-sama...! It feels... so"
+                "\\SE[2] \"Ah♡ Ahh♡ Lord Kyle…! It feels so good… It"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "good... too good...! Nn, nn\""
+                "feels way too good…! Mmm, mmm\""
               ]
             },
             {
@@ -14969,21 +15046,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The unrelenting weight of her bouncy body pounding down"
+                "The weight of that supple body slamming down on me"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "from above, and the slick, clenching walls squeezing"
+                "relentlessly from above, and the sensually tight inner"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "him tight."
+                "walls."
               ]
             },
             {
@@ -15001,14 +15078,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He was consumed by the raging torrent of pleasure"
+                "I’m swept away by a torrential flood of intense"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "thrusting up from below."
+                "pleasure surging up from below."
               ]
             },
             {
@@ -15026,14 +15103,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "From deep within her, where she'd already reached her"
+                "From deep within my body—which should have reached its"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "limit, the last remnants of desire surged up rapidly."
+                "limit—a mass of final desire surges upward rapidly."
               ]
             },
             {
@@ -15051,14 +15128,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Noel...! Again... I'm gonna...!\""
+                "\\SE[3] \"Noel…! Not again… I…!\""
               ]
             },
             {
@@ -15076,21 +15153,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel]"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"It's okay...! Fill me up, all of it..."
+                "\\SE[2] \"Okay...! Please release it all—every last"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "everything... please...♡\""
+                "bit—deep inside me... ♡\""
               ]
             },
             {
@@ -15440,14 +15517,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The moment Noel slammed her hips down hard, Kyle"
+                "The moment Noelle slammed her hips down hard, Kyle"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "unleashed his last remaining heat deep inside her."
+                "released his last, fiery breath of life into her."
               ]
             },
             {
@@ -15465,14 +15542,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But even after his release finished, Noel didn't"
+                "However, even after Kyle had finished releasing"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "stop―she kept grinding her hips against him."
+                "himself, Noel continued to sway her hips, paying no"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "attention to ."
               ]
             },
             {
@@ -15490,14 +15574,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Using the overflowing warmth as lubricant, she rubbed"
+                "Using the gushing hot liquid as lubricant, it rubs"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "herself against him even faster."
+                "itself against the surface while increasing its speed"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "even further."
               ]
             },
             {
@@ -15558,21 +15649,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel]"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"A, a, aahh...! I'm gonna... I'm gonna"
+                "\\SE[2]: \"Ah, ah, aaaah…! I’m—I’m going to come…!"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "cum...! Kyle-sama...!!\""
+                "Lord Kyle…!!\""
               ]
             },
             {
@@ -15897,14 +15988,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Noel trembled violently, her body wracked by the most"
+                "Noel's body shook violently as she reached the most"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "intense climax of the day."
+                "intense orgasm of the day."
               ]
             },
             {
@@ -15922,14 +16013,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Completely spent, Noel collapsed weakly onto Kyle's"
+                "Having reached complete climax, Noelle collapsed limply"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "chest, her face flushed with blissful satisfaction."
+                "onto Kyle’s chest, her face still etched with an"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "expression of blissful satisfaction."
               ]
             },
             {
@@ -16215,14 +16313,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Noel...san, um... thank you.\""
+                "\\SE[3]: \"Noel... um... Thank you.\""
               ]
             },
             {
@@ -16240,21 +16338,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel]"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Hehe... It's I who should thank you,"
+                "\\SE[2]: \"Hehe… The pleasure is all mine, Lord"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Kyle-sama. For indulging my selfishness...\""
+                "Kyle. Thank you so much for indulging my"
               ]
             },
             {
@@ -16272,46 +16370,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel]"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "thank you.\""
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "ver2/ver2_noel1",
-                1,
-                0,
-                2,
-                ""
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0][Noel]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[2]\"Thanks to you, I'm filled to my very"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "core... Hehe, it seems I've taken much more\""
+                "whims.\""
               ]
             },
             {
@@ -16329,14 +16395,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel]"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "than you.\""
+                "\\SE[2] \"Thanks to you, I feel completely fulfilled"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "right down to my core… Hehe, it seems I’m"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_noel1",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Noel "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "the one who got the most out of this.\""
               ]
             },
             {
@@ -16562,21 +16660,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel]"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Well then, Kyle-sama, I'll take my leave"
+                "\\SE[2] \"Well then, Lord Kyle, I’ll take my leave"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "now. Please rest well.\""
+                "now. Please get some rest.\""
               ]
             },
             {
@@ -16816,14 +16914,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Left alone, Kyle soaked in the quiet bath, still"
+                "Left alone, Kyle stood in the silent bathtub,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "faintly surrounded by Noel's sweet scent"
+                "surrounded by the faint, lingering sweet scent of"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Noelle, and"
               ]
             },
             {
@@ -16841,14 +16946,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "and basking in the lingering, exquisite afterglow deep"
+                "As I basked in the exquisite afterglow lingering deep"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "within his body as the night grew deeper."
+                "within my body, I quietly savored the night as it"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "deepened."
               ]
             },
             {
@@ -16970,7 +17082,7 @@
     },
     {
       "id": 16,
-      "name": "カイルかご",
+      "name": "Kyle Basket",
       "note": "",
       "pages": [
         {
@@ -17081,7 +17193,7 @@
     },
     {
       "id": 17,
-      "name": "ノエルかご",
+      "name": "Noel Basket",
       "note": "",
       "pages": [
         {
@@ -17192,7 +17304,7 @@
     },
     {
       "id": 18,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -17711,7 +17823,7 @@
     },
     {
       "id": 19,
-      "name": "自動イベント",
+      "name": "Automatic Events",
       "note": "",
       "pages": [
         {
@@ -17894,21 +18006,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]And the bath, which had only been a small tub where"
+                "\\SE[3]And the bathroom, where we had no choice but to wash"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "they could wash themselves with a little bucket, was"
+                "ourselves with a small bucket— has been transformed"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "reborn as a large wooden tub big enough for everyone to"
+                "into a large bathtub where we can all soak up to our"
               ]
             },
             {
@@ -17926,7 +18038,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "soak up to their shoulders."
+                "shoulders."
               ]
             },
             {
@@ -18046,7 +18158,7 @@
     },
     {
       "id": 20,
-      "name": "ノエル",
+      "name": "Noel",
       "note": "",
       "pages": [
         {
@@ -18259,7 +18371,7 @@
     },
     {
       "id": 21,
-      "name": "サンプル置き場",
+      "name": "Sample Storage Area",
       "note": "",
       "pages": [
         {
@@ -18302,7 +18414,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]// Mini Window"
+                "// Mini Window"
               ]
             },
             {
@@ -18381,7 +18493,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "// Standing Illustration (Big Window)"
+                "// Character Art (Large Window)"
               ]
             },
             {

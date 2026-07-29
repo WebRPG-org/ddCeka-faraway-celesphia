@@ -5617,7 +5617,7 @@
     null,
     {
       "id": 1,
-      "name": "群衆1",
+      "name": "Crowd 1",
       "note": "",
       "pages": [
         {
@@ -5677,7 +5677,7 @@
     },
     {
       "id": 2,
-      "name": "最前群衆左",
+      "name": "Front Row, Left Side of the Crowd",
       "note": "",
       "pages": [
         {
@@ -5737,7 +5737,7 @@
     },
     {
       "id": 3,
-      "name": "最前正面群衆",
+      "name": "Front-Row Crowd",
       "note": "",
       "pages": [
         {
@@ -5797,7 +5797,7 @@
     },
     {
       "id": 4,
-      "name": "最前群衆右",
+      "name": "Front Row, Right Side of the Crowd",
       "note": "",
       "pages": [
         {
@@ -5857,7 +5857,7 @@
     },
     {
       "id": 5,
-      "name": "群衆5",
+      "name": "Crowd 5",
       "note": "",
       "pages": [
         {
@@ -5917,7 +5917,7 @@
     },
     {
       "id": 6,
-      "name": "群衆6",
+      "name": "Crowd 6",
       "note": "",
       "pages": [
         {
@@ -5977,7 +5977,7 @@
     },
     {
       "id": 7,
-      "name": "二列目群衆左",
+      "name": "Second Row, Crowd on the Left",
       "note": "",
       "pages": [
         {
@@ -6037,7 +6037,7 @@
     },
     {
       "id": 8,
-      "name": "正面二列目群衆",
+      "name": "The crowd in the second row from the front",
       "note": "",
       "pages": [
         {
@@ -6097,7 +6097,7 @@
     },
     {
       "id": 9,
-      "name": "二列目群衆右",
+      "name": "Second row, crowd on the right",
       "note": "",
       "pages": [
         {
@@ -6157,7 +6157,7 @@
     },
     {
       "id": 10,
-      "name": "群衆10",
+      "name": "Crowd 10",
       "note": "",
       "pages": [
         {
@@ -6217,7 +6217,7 @@
     },
     {
       "id": 11,
-      "name": "群衆11",
+      "name": "Crowd 11",
       "note": "",
       "pages": [
         {
@@ -6277,7 +6277,7 @@
     },
     {
       "id": 12,
-      "name": "群衆12",
+      "name": "Crowd 12",
       "note": "",
       "pages": [
         {
@@ -6337,7 +6337,7 @@
     },
     {
       "id": 13,
-      "name": "群衆13",
+      "name": "Crowd 13",
       "note": "",
       "pages": [
         {
@@ -6397,7 +6397,7 @@
     },
     {
       "id": 14,
-      "name": "群衆14",
+      "name": "Crowd 14",
       "note": "",
       "pages": [
         {
@@ -6457,7 +6457,7 @@
     },
     {
       "id": 15,
-      "name": "憲兵",
+      "name": "Military Police",
       "note": "",
       "pages": [
         {
@@ -6500,21 +6500,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Military Police"
+                "Military Police "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This area is residential. Anyone who isn't a resident"
+                ": \"This is the residential district. Entry is"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "of Arseleon\""
+                "prohibited to anyone other than residents of Arserion.\""
               ]
             },
             {
@@ -6549,7 +6549,7 @@
     },
     {
       "id": 16,
-      "name": "群衆16",
+      "name": "Crowd 16",
       "note": "",
       "pages": [
         {
@@ -6609,7 +6609,7 @@
     },
     {
       "id": 17,
-      "name": "群衆17",
+      "name": "Crowd 17",
       "note": "",
       "pages": [
         {
@@ -6669,7 +6669,7 @@
     },
     {
       "id": 18,
-      "name": "群衆18",
+      "name": "Crowd 18",
       "note": "",
       "pages": [
         {
@@ -6729,7 +6729,7 @@
     },
     {
       "id": 19,
-      "name": "群衆19",
+      "name": "Crowd 19",
       "note": "",
       "pages": [
         {
@@ -6789,7 +6789,7 @@
     },
     {
       "id": 20,
-      "name": "群衆20",
+      "name": "Crowd 20",
       "note": "",
       "pages": [
         {
@@ -6849,7 +6849,7 @@
     },
     {
       "id": 21,
-      "name": "群衆21",
+      "name": "Crowd 21",
       "note": "",
       "pages": [
         {
@@ -6909,7 +6909,7 @@
     },
     {
       "id": 22,
-      "name": "店主",
+      "name": "Store Owner",
       "note": "",
       "pages": [
         {
@@ -6952,14 +6952,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Stall"
+                "Food Stall "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Welcome! How about some fresh vegetables?\""
+                ": \"Welcome! How about some fresh vegetables? They’re a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "huge hit with everyone, from the Long-Eared Tribe to"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Food Stall "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "the Beast-Eared Tribe!\""
               ]
             },
             {
@@ -6994,7 +7026,7 @@
     },
     {
       "id": 23,
-      "name": "店員",
+      "name": "Store Clerk",
       "note": "",
       "pages": [
         {
@@ -7037,14 +7069,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Stall"
+                "Food Stall "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Welcome! Got some rare stuff in today!\""
+                ": \"Welcome! We’ve got some rare items in stock!\""
               ]
             },
             {
@@ -7110,7 +7142,7 @@
     },
     {
       "id": 24,
-      "name": "店員",
+      "name": "Store Clerk",
       "note": "",
       "pages": [
         {
@@ -7153,14 +7185,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Stall"
+                "Food Stall "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Welcome! Fresh fruit to refresh your weariness!\""
+                ": \"Welcome! Fresh fruit will help you recharge! Be sure"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "to give it a try!\""
               ]
             },
             {
@@ -7195,7 +7234,7 @@
     },
     {
       "id": 25,
-      "name": "店員",
+      "name": "Store Clerk",
       "note": "",
       "pages": [
         {
@@ -7238,14 +7277,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Stall"
+                "Food Stall "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Welcome! Fresh fish here!\""
+                ": \"Come on in! We’ve got fresh fish!\""
               ]
             },
             {
@@ -7280,7 +7319,7 @@
     },
     {
       "id": 26,
-      "name": "店員",
+      "name": "Store Clerk",
       "note": "",
       "pages": [
         {
@@ -7323,7 +7362,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Stall"
+                "Food Stall "
               ]
             },
             {
@@ -7348,14 +7387,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Looks like they're so absorbed in their work they"
+                "He seems to be so absorbed in his work that he hasn't"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "haven't noticed me."
+                "noticed us."
               ]
             },
             {
@@ -7441,14 +7480,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Stall"
+                "Food Stall "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ah... I'm sorry... I didn't notice... \""
+                ": \"Oh… I’m sorry… I didn’t realize…\""
               ]
             },
             {
@@ -7525,14 +7564,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Stall"
+                "Food Stall "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Welcome...\""
+                ": \"Welcome...\""
               ]
             },
             {
@@ -7620,14 +7659,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Stall"
+                "Food Stall "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Thank you very much...\""
+                ": \"Thank you...\""
               ]
             },
             {
@@ -7696,14 +7735,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Stall"
+                "Food Stall "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Welcome...\""
+                ": \"Welcome...\""
               ]
             },
             {
@@ -7762,14 +7801,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Stall"
+                "Food Stall "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Thank you very much...\""
+                ": \"Thank you...\""
               ]
             },
             {
@@ -7804,7 +7843,7 @@
     },
     {
       "id": 27,
-      "name": "店員",
+      "name": "Store Clerk",
       "note": "",
       "pages": [
         {
@@ -7847,21 +7886,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Stall"
+                "Food Stall "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hey there, traveler. Feel free to take a look around"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "if you'd like.\""
+                ": \"Hey, traveler. Come check this out if you’d like.\""
               ]
             },
             {
@@ -7927,7 +7959,7 @@
     },
     {
       "id": 28,
-      "name": "店員",
+      "name": "Store Clerk",
       "note": "",
       "pages": [
         {
@@ -7970,14 +8002,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Stall"
+                "Food Stall "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hello, I come from across the sea.\""
+                ": \"Hello, I’ve come all the way from across the sea. I"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "might just have some rare items here!\""
               ]
             },
             {
@@ -8026,14 +8065,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Stall"
+                "Food Stall "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Come again!\""
+                "\"See you again!\""
               ]
             },
             {
@@ -8068,7 +8107,7 @@
     },
     {
       "id": 29,
-      "name": "店員",
+      "name": "Store Clerk",
       "note": "",
       "pages": [
         {
@@ -8111,21 +8150,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Stall"
+                "Street Stall "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"How about a wooden doll? Ward off evil, a child's"
+                ": \"How about some wooden dolls? They ward off evil"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "toy...!\""
+                "spirits and make great toys for kids…!\""
               ]
             },
             {
@@ -8160,7 +8199,7 @@
     },
     {
       "id": 30,
-      "name": "店員",
+      "name": "Store Clerk",
       "note": "",
       "pages": [
         {
@@ -8203,21 +8242,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Stall"
+                "Food Stall "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"...Welcome. These are effective against Rage and"
+                ": \"…Welcome. Mental Guard is effective against effects"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Charm, you know,\""
+                "like Rage and Charm, . It’s not 100% effective,"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Food Stall "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "though.\""
               ]
             },
             {
@@ -8283,7 +8347,7 @@
     },
     {
       "id": 31,
-      "name": "ノーブル店員",
+      "name": "Noble Store Clerk",
       "note": "",
       "pages": [
         {
@@ -8326,21 +8390,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Stall"
+                "Food Stall "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Welcome! Perfect for snacking on the go―a mixed nut"
+                ": \"Welcome! The perfect assortment of nuts for eating"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "assortment with wood nuts!\""
+                "on the go~!\""
               ]
             },
             {
@@ -8485,14 +8549,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"...It doesn't exist, huh.\""
+                "\\SE[3] \"...I guess not.\""
               ]
             },
             {
@@ -8510,14 +8574,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"...Well, I guess it doesn't.\""
+                "\\SE[4] \"…Well, I guess not, huh?\""
               ]
             },
             {
@@ -8535,21 +8599,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"...We haven't checked that stall over there"
+                "\\SE[5] \"…We haven’t been to that stall over there"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "yet.\""
+                "yet, have we? Let’s go check it out.\""
               ]
             },
             {
@@ -8804,21 +8868,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Excuse me, do you have something called"
+                "\\SE[5] \"Excuse me, do you happen to carry a"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Noble Mirage?\""
+                "medicine called ‘Noble Mirage’ ?\""
               ]
             },
             {
@@ -8836,14 +8900,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Stall"
+                "\\SE[0] Street Stall "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yeah. I do.\""
+                "\"Oh, yes, we have it.\""
               ]
             },
             {
@@ -8887,14 +8951,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Huh?!\""
+                "\\SE[3] \"Huh?!\""
               ]
             },
             {
@@ -8911,14 +8975,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"R-Really?!\""
+                "\\SE[4] \"R-Really!?\""
               ]
             },
             {
@@ -8936,14 +9000,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"...Would it be possible to see it?\""
+                "\\SE[5] \"...Would it be possible for me to take a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "look?\""
               ]
             },
             {
@@ -8961,14 +9032,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Stall"
+                "\\SE[0] Street Stall "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Here, take a look.\""
+                "\"Here, this is it.\""
               ]
             },
             {
@@ -9033,14 +9104,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Wow, it's pretty heavy-duty looking.\""
+                "\\SE[4] \"Oh, it feels quite substantial.\""
               ]
             },
             {
@@ -9058,14 +9129,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"May I hold it?\""
+                "\\SE[5] \"Can I pick it up?\""
               ]
             },
             {
@@ -9083,14 +9154,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Stall"
+                "\\SE[0] Street Stall "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yeah, go ahead.\""
+                "\"Oh, sure.\""
               ]
             },
             {
@@ -9147,21 +9218,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]A small decorative vial that fits in the palm of a"
+                "\\SE[0] A small decorative bottle about the size of a palm. It features feather decorations and what look like magical symbols "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "hand. It has feather decorations and what looks like a"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "spell formula."
+                "inscribed on it, giving it an authentic appearance."
               ]
             },
             {
@@ -9179,7 +9243,39 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]The label reads \"Noble Mirage\","
+                "The label at \\SE[0] reads \"Noble Mirage,\" and there is some"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "kind of liquid inside the bottle at . The color of the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "bottle is shown at , but the color of the liquid cannot"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "be determined."
               ]
             },
             {
@@ -9210,7 +9306,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna takes the vial and examines it closely."
+                "\\SE[0] Luna picks up the bottle and examines it closely."
               ]
             },
             {
@@ -9237,14 +9333,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"……\""
+                "\\SE[5] \"...\""
               ]
             },
             {
@@ -9262,14 +9358,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"...Uh, this is a fake, right?\""
+                "\\SE[5] \"…Um, this is a fake, right?\""
               ]
             },
             {
@@ -9367,14 +9463,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Huh?\""
+                "\\SE[4] \"Huh?\""
               ]
             },
             {
@@ -9392,21 +9488,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"There's no magic in it at all. The contents"
+                "\\SE[5] \"There’s absolutely no magic power here."
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "aren't\""
+                "It’s just plain water… or maybe something"
               ]
             },
             {
@@ -9424,21 +9520,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"something strong enough to change a"
+                "sweetened.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                5,
+                0,
+                2,
+                ""
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "person's appearance,\""
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"Something powerful enough to change a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "person’s appearance is, well…\""
               ]
             },
             {
@@ -9500,14 +9621,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Stall"
+                "\\SE[0] Street Stall "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"……\""
+                "\"...\""
               ]
             },
             {
@@ -9525,14 +9646,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Stall"
+                "\\SE[0] Street Stall "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"...Miss. That's the real thing.\""
+                "\"…Hey, kid. That’s the ‘real thing,’ you know.\""
               ]
             },
             {
@@ -9550,14 +9671,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Huh?\""
+                "\\SE[3] \"Huh?\""
               ]
             },
             {
@@ -9575,14 +9696,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Stall"
+                "\\SE[0] Street Stall "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I said it's the real thing. You get what I mean?\""
+                "\"I told you it was the real thing. Do you get it?\""
               ]
             },
             {
@@ -9634,14 +9755,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"…An assumption, huh?\""
+                "\\SE[5] \"…Is that just a misconception?\""
               ]
             },
             {
@@ -9659,21 +9780,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Stall"
+                "\\SE[0] Street Stall "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yeah. That's right. If you think it's 'so,' then it is"
+                "\"Ah. That’s right. If you think it’s ‘like that,’ then"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "'so.'\""
+                "it’s ‘like that.’ That’s just how it is, isn’t it? Men,"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Street Stall "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I mean.\""
               ]
             },
             {
@@ -9691,14 +9837,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"…You're right about that.\""
+                "\\SE[3] \"…Exactly.\""
               ]
             },
             {
@@ -9716,14 +9862,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Stall"
+                "\\SE[0] Street Vendor "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"So, what'll it be? 10,000 gold.\""
+                "\"So, what are you going to do? It’s 10,000 gold.\""
               ]
             },
             {
@@ -9775,14 +9921,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"That's expensive!\""
+                "\\SE[4] \"That’s expensive!\""
               ]
             },
             {
@@ -9800,21 +9946,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"There's nothing inside, right? Give us a"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "discount.\""
+                "\\SE[3] \"It’s empty, right? Give me a discount.\""
               ]
             },
             {
@@ -9832,21 +9971,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Stall"
+                "\\SE[0] Street Vendor "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"You dumbass! This bottle took a lot of work to make,"
+                "\"You idiot! It’s a lot of work to make this bottle, you"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "ya know? Gaahhahaha!\""
+                "know? Ha ha ha!\""
               ]
             },
             {
@@ -9864,14 +10003,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Stall"
+                "\\SE[0] Street Vendor "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Well, if you already know there's nothing inside,\""
+                "\"Well, now that you know what’s inside, I guess I’ve"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "got no choice. How about half the price—\\C[2]5000G\\C[0]?\""
               ]
             },
             {
@@ -9933,7 +10079,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Will you pay 5,000G and buy the Noble Mirage?"
+                "Would you pay 5,000G to buy the Noble Mirage?"
               ]
             },
             {
@@ -9974,10 +10120,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -9985,7 +10127,7 @@
               "indent": 1,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -10002,14 +10144,14 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[5]\"……Yes, please.\""
+                "\\SE[5] \"...Please.\""
               ]
             },
             {
@@ -10027,14 +10169,14 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]\\Se[0]Stall"
+                "\\SE[0] Street Stall "
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\"Heh! Thanks for your patronage!\""
+                "\"Hehe! Thanks for coming by!\""
               ]
             },
             {
@@ -10083,7 +10225,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]Obtained Noble Mirage"
+                "I got the Noble Mirage."
               ]
             },
             {
@@ -10104,7 +10246,7 @@
               "indent": 1,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -10122,14 +10264,21 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]\\Se[0]Stall"
+                "\\SE[0] Street Vendor "
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\"What the… Well, come back if you ever want it.\""
+                "\"What's up... Well, come back if you end up wanting"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "one.\""
               ]
             },
             {
@@ -10175,21 +10324,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]\\Se[0]Stall"
+                "\\SE[0] Street Vendor "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"What the… No money, huh? Well, come back if you ever"
+                "\"What’s the deal… Don’t have any money? Well, come back"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "want it.\""
+                "if you ever want one.\""
               ]
             },
             {
@@ -10333,7 +10482,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Will you pay 5,000G to buy the Noble Mirage?"
+                "Would you pay 5,000G to buy the Noble Mirage?"
               ]
             },
             {
@@ -10348,10 +10497,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -10359,7 +10504,7 @@
               "indent": 1,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -10376,14 +10521,14 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[5]\"...Please.\""
+                "\\SE[5] \"...Please.\""
               ]
             },
             {
@@ -10401,14 +10546,14 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]\\Se[0]Stall"
+                "\\SE[0] Street Stall "
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\"Hehe! Thanks a bunch!\""
+                "\"Hehe! Thanks for coming by!\""
               ]
             },
             {
@@ -10457,7 +10602,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]Obtained the Noble Mirage."
+                "I got the Noble Mirage."
               ]
             },
             {
@@ -10478,7 +10623,7 @@
               "indent": 1,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -10496,14 +10641,21 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]\\Se[0]Stall"
+                "\\SE[0] Street Vendor "
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\"Huh? Well, come back if you want it again.\""
+                "\"What's up... Well, come back if you end up wanting"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "one.\""
               ]
             },
             {
@@ -10541,21 +10693,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]\\Se[0]Stall"
+                "\\SE[0] Street Vendor "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Huh? You don't have the cash? Well, come back if you"
+                "\"What’s the deal… Don’t have any money? Well, come back"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "want it again.\""
+                "if you ever want one.\""
               ]
             },
             {
@@ -10634,14 +10786,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Stall"
+                "Food Stall "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yeah, yeah, keep the Noble Mirage a secret\""
+                ": \"Oh, right—please keep Noble Mirage a secret ! It’s"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "just a joke item. Thanks!\""
               ]
             },
             {
@@ -10676,7 +10835,7 @@
     },
     {
       "id": 32,
-      "name": "店員",
+      "name": "Store Clerk",
       "note": "",
       "pages": [
         {
@@ -10719,14 +10878,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Stall"
+                "Stall "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Welcome! You might just find a hidden treasure here!\""
+                ": \"Welcome! You might find a real bargain here! Come"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "take a look, come take a look~\""
               ]
             },
             {
@@ -10772,7 +10938,7 @@
     },
     {
       "id": 33,
-      "name": "店員",
+      "name": "Store Clerk",
       "note": "",
       "pages": [
         {
@@ -10815,14 +10981,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Stall"
+                "Food Stall "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"How about some manjuu as a souvenir?\""
+                ": \"How about some manju as a souvenir?\""
               ]
             },
             {
@@ -10857,7 +11023,7 @@
     },
     {
       "id": 34,
-      "name": "店員",
+      "name": "Store Clerk",
       "note": "",
       "pages": [
         {
@@ -10900,14 +11066,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Stall"
+                "Food Stall "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Welcome! How about some souvenirs?\""
+                ": \"Welcome! How about some souvenirs?\""
               ]
             },
             {
@@ -10942,7 +11108,7 @@
     },
     {
       "id": 35,
-      "name": "お笑い開始EV",
+      "name": "Comedy Start EV",
       "note": "",
       "pages": [
         {
@@ -10985,14 +11151,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"The comedy battle tournament starts"
+                "\\SE[3] \"The Comedy Battle Tournament starts"
               ]
             },
             {
@@ -11017,21 +11183,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I'll practice like my life depends on it"
+                "\\SE[3] \"Until then, I’m going to practice like my"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "until then.\""
+                "life depends on it.\""
               ]
             },
             {
@@ -11049,14 +11215,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Are you ready?\""
+                "\\SE[3] \"Are you ready?\""
               ]
             },
             {
@@ -11071,10 +11237,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -11082,7 +11244,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -11110,21 +11272,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[4]\"Kyle, have you even prepared your"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "material?\""
+                "\\SE[4] \"Kyle, do you actually have a joke ready?\""
               ]
             },
             {
@@ -11142,21 +11297,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[3]\"Of course. I've got the perfect routine all"
+                "\\SE[3] \"Of course. I’ve got the perfect material"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "set up.\""
+                "ready. I’m really proud of this one.\""
               ]
             },
             {
@@ -11174,14 +11329,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[5]\"We don't have much time―let's practice!\""
+                "\\SE[5] \"We don't have time—let's practice!\""
               ]
             },
             {
@@ -11219,7 +11374,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -11315,7 +11470,7 @@
     },
     {
       "id": 36,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -11482,7 +11637,7 @@
     },
     {
       "id": 37,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -11649,7 +11804,7 @@
     },
     {
       "id": 38,
-      "name": "憲兵",
+      "name": "Military Police",
       "note": "",
       "pages": [
         {
@@ -11692,21 +11847,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Military Police"
+                "Military Police "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This area is residential. Anyone who isn't a resident"
+                ": \"This is the residential district. Entry is"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "of Arseleon\""
+                "prohibited to anyone other than residents of Arserion.\""
               ]
             },
             {
@@ -11741,7 +11896,7 @@
     },
     {
       "id": 39,
-      "name": "お笑いバトルEV",
+      "name": "Comedy Battle EV",
       "note": "",
       "pages": [
         {
@@ -11887,14 +12042,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Emcee"
+                "Host "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Now, next up―an assassin from the outside world!!\""
+                ": \"And now, next up—an assassin from the outside"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "world!!\""
               ]
             },
             {
@@ -11912,21 +12074,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Emcee"
+                "Host "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"The golden and silver flashes cleave through the"
+                ": \"A flash of gold and silver tears through the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "night's darkness!!\""
+                "darkness of the night!!\""
               ]
             },
             {
@@ -11944,14 +12106,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Emcee"
+                "Host "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Luna and Lilian!!\""
+                ": \"Luna and Lilian!!!\""
               ]
             },
             {
@@ -12348,14 +12510,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Both"
+                "\\SE[0] Two people "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"\"Yes, hello there!\"\""
+                "\\SE[4] \"‘Hi, everyone!’\""
               ]
             },
             {
@@ -12464,14 +12626,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"It's Luna!\""
+                "\\SE[5] \"With Luna!\""
               ]
             },
             {
@@ -12528,14 +12690,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"And Lilian!\""
+                "\\SE[4] \"With Lilian!\""
               ]
             },
             {
@@ -12623,14 +12785,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]The Two"
+                "\\SE[0] Two people "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"We're Luna and Lilian!\""
+                "\"We’re Luna and Lilian~, nice to meet you!\""
               ]
             },
             {
@@ -13418,21 +13580,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Actually, we've been trying to learn"
+                "\\SE[4] \"Actually, I’ve been thinking lately that"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "cooking recently,\""
+                "I’d like to learn how to cook…\""
               ]
             },
             {
@@ -13450,14 +13612,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Oh my, out of the blue like this...\""
+                "\\SE[5] \"Oh my, that came out of nowhere… What’s"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "wrong?\""
               ]
             },
             {
@@ -13484,14 +13653,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Out of the blue? That's not really...\""
+                "\\SE[4] \"People don’t really say ‘out of the blue’"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "that often…\""
               ]
             },
             {
@@ -13509,21 +13685,53 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"We don't usually cook, so we thought we'd"
+                "\\SE[4] \"I don’t usually cook, so I thought I’d"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "give it a try!\""
+                "give it a try and see how it goes. Lady"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/リリアン顔通常服",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Luna, do you have a specialty dish or"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "anything like that?\""
               ]
             },
             {
@@ -13580,14 +13788,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"A specialty dish? Of course we have one.\""
+                "\\SE[5] \"Do you have a specialty dish? Of course I"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "do! It’s ‘Water Cuisine’!\""
               ]
             },
             {
@@ -13614,14 +13829,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Huh? Water cooking? What's that?\""
+                "\\SE[4] \"Huh? Water-based dishes? What are those?\""
               ]
             },
             {
@@ -13639,14 +13854,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"It's boiling water to make hot water.\""
+                "\\SE[5] \"It means boiling water to make hot water.\""
               ]
             },
             {
@@ -13683,14 +13898,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Anyone can do that, though!\"\\SE[0] \\|\""
+                "\\SE[4] \"Anyone can do that!\" \\SE[0] \\|"
               ]
             },
             {
@@ -13708,21 +13923,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Oh dear, it's a very important skill, you"
+                "\\SE[5] \"Oh my, that’s a very important skill,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "know?\""
+                "isn’t it? Without it, I couldn’t even make"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/ルーナ通常服",
+                4,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "soup, let alone serve tea.\""
               ]
             },
             {
@@ -13740,14 +13980,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"It is important, but...\""
+                "\\SE[4] \"That’s certainly important, but… can you"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "really call that cooking?\""
               ]
             },
             {
@@ -13765,21 +14012,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Lilian, do you have a dish you'd like to"
+                "\\SE[5] \"Lillian, is there any dish you’d like to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "make?\""
+                "make? \""
               ]
             },
             {
@@ -13840,21 +14087,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Hmm... I think I'll start with something"
+                "\\SE[4] \"That’s true… I guess I’ll start with"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "simple...\""
+                "something simple… I’d like to try making an"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/リリアン顔通常服",
+                4,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "omelet!\""
               ]
             },
             {
@@ -13881,14 +14153,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"An omelet? Then we'll need some eggs.\""
+                "\\SE[5] \"An omelet? In that case, shall we start by"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "cracking the eggs ?\""
               ]
             },
             {
@@ -13906,14 +14185,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Okay, first let's crack some eggs!♪\""
+                "\\SE[4] \"Okay, let’s start by cracking the egg♪\""
               ]
             },
             {
@@ -14033,14 +14312,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Then take this.\""
+                "\\SE[5] \"Here, please take this.\""
               ]
             },
             {
@@ -14105,21 +14384,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Ah, the wooden rod used to roll out the"
+                "\\SE[4] \"Ah, so this is a wooden stick for rolling"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "dough...\""
+                "out dough… —but why are you holding this?\""
               ]
             },
             {
@@ -14208,14 +14487,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Then, here we go!\""
+                "\\SE[5] \"All right, here we go!\""
               ]
             },
             {
@@ -14275,7 +14554,7 @@
               "indent": 0,
               "parameters": [
                 [
-                  "What the hell?!",
+                  "What the heck!",
                   "Wait a minute!",
                   "Strike!"
                 ],
@@ -14283,11 +14562,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "なんでやねん！",
-                "ちょっと待って！",
-                "ストラーイク！"
               ]
             },
             {
@@ -14295,7 +14569,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "なんでやねん！"
+                "What the heck!"
               ]
             },
             {
@@ -14320,21 +14594,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[4]\"Whoa, you're going straight for the"
+                "\\SE[4] \"Hey, why the heck am I suddenly the"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "pitcher?!\""
+                "pitcher, ?!\" \\SE[0] \\|"
               ]
             },
             {
@@ -14401,7 +14675,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "ちょっと待って！"
+                "Wait a minute!"
               ]
             },
             {
@@ -14449,14 +14723,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[4]\"Wait, hold on a second!\""
+                "\\SE[4] \"W-wait a second! You’re not actually going"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "to throw it, are you!?\" \\SE[0] \\|"
               ]
             },
             {
@@ -14469,7 +14750,7 @@
               "indent": 0,
               "parameters": [
                 2,
-                "ストラーイク！"
+                "Strike!"
               ]
             },
             {
@@ -14494,14 +14775,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[4]\"Strike!!\" (strikes an umpire's pose)\""
+                "\\SE[4] \"Strike!!\" (Referee's pose) \\SE[0] \\|"
               ]
             },
             {
@@ -14638,21 +14919,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"If you do that, the eggs are gonna go"
+                "\\SE[4] \"If you do that, the egg will go *bang* and"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*splat*!\""
+                "splatter all over the place! The shells and"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/リリアン裸2",
+                3,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "everything will be all over the house!\""
               ]
             },
             {
@@ -14732,14 +15038,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"This is...\\C[2]the ultimate home egg roll!\\C[0]\""
+                "\\SE[4] \"This is exactly… \\C[2] Home Egg <Ran> \\C[0] What"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "the…\""
               ]
             },
             {
@@ -14842,14 +15155,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Uh, the cracked eggs go here.\""
+                "\\SE[5] \"Um, here’s the cracked egg.\""
               ]
             },
             {
@@ -14939,14 +15252,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Hey, say something already!\""
+                "\\SE[4] \"Hey, say something! We’re a comedy duo,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "aren’t we!? Give me some comebacks!\" \\SE[0] \\|"
               ]
             },
             {
@@ -14964,14 +15284,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Soy sauce.\""
+                "\\SE[5] \"Soy Sauce\""
               ]
             },
             {
@@ -15005,14 +15325,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Soy sauce?!\""
+                "\\SE[4] \"Soy sauce!?\""
               ]
             },
             {
@@ -15030,14 +15350,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Sesame oil.\""
+                "\\SE[5] \"Sesame Oil\""
               ]
             },
             {
@@ -15071,14 +15391,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Sesame oil?!\""
+                "\\SE[4] \"Sesame oil!?\""
               ]
             },
             {
@@ -15096,14 +15416,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"A dash of seven-flavor chili pepper.\""
+                "\\SE[5] \"A pinch of shichimi chili pepper\""
               ]
             },
             {
@@ -15202,14 +15522,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Wait, is this right?!\""
+                "\\SE[4] \"Wait a second! Is that right?\""
               ]
             },
             {
@@ -15227,21 +15547,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"And then pour it over the rice when it's"
+                "\\SE[5] \"Then pour it over the rice, and it’s"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "done.\""
+                "done!\""
               ]
             },
             {
@@ -15250,18 +15570,13 @@
               "parameters": [
                 [
                   "That's an omelet!",
-                  "That's a tamagoyaki!",
-                  "That's egg over rice!"
+                  "That's a rolled omelet!",
+                  "That's rice with raw egg!"
                 ],
                 1,
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "それオムレツ！",
-                "それ卵焼き！",
-                "それ卵かけご飯！"
               ]
             },
             {
@@ -15269,7 +15584,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "それオムレツ！"
+                "That's an omelet!"
               ]
             },
             {
@@ -15294,14 +15609,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[4]\"That's... an omelet!... Wait, no.\""
+                "\\SE[4] \"That’s an omelet! …Or not.\""
               ]
             },
             {
@@ -15373,14 +15688,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[5]\"What are you making an omelet for?\""
+                "\\SE[5] \"What are you going to do with an omelet?\""
               ]
             },
             {
@@ -15405,21 +15720,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[4]\"No, I was gonna teach you how to make an"
+                "\\SE[4] \"No, this is where you’re supposed to teach"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "omelet,\""
+                "me how to make an omelet, right? !\""
               ]
             },
             {
@@ -15432,7 +15747,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "それ卵焼き！"
+                "That's a rolled omelet!"
               ]
             },
             {
@@ -15457,14 +15772,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[4]\"but this is just tamagoyaki!\""
+                "\\SE[4] \"Isn’t that a rolled omelet?!\""
               ]
             },
             {
@@ -15543,14 +15858,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[5]\"No! It's tamagoyaki!\""
+                "\\SE[5] \"That’s not it! It’s rice with raw egg!\""
               ]
             },
             {
@@ -15563,7 +15878,7 @@
               "indent": 0,
               "parameters": [
                 2,
-                "それ卵かけご飯！"
+                "That's rice with raw egg!"
               ]
             },
             {
@@ -15611,14 +15926,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0]Lillian"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[4]\"That's tamagoyaki, isn't it?!\""
+                "\\SE[4]\"That's just rice with raw egg! Where's the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "omelet!?\"\\SE[0]\\|"
               ]
             },
             {
@@ -15677,14 +15999,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"This is a proper dish too.\""
+                "\\SE[5] \"This is a fine dish, too.\""
               ]
             },
             {
@@ -15711,14 +16033,53 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Where?! Even if someone is aiming high,\""
+                "\\SE[4] \"What do you mean by that!? Sure, there"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "might be some people who are aiming high…"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/リリアン顔通常服",
+                5,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "but generally speaking, it’s not about"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "cooking!\""
               ]
             },
             {
@@ -15745,14 +16106,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Then how do you make it a proper dish?!\""
+                "\\SE[5] \"So, how do I make this into a meal!?\""
               ]
             },
             {
@@ -15779,7 +16140,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
@@ -15811,7 +16172,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
@@ -15843,7 +16204,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
@@ -15880,7 +16241,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
@@ -15912,7 +16273,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
@@ -15937,7 +16298,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
@@ -15959,19 +16320,14 @@
               "indent": 0,
               "parameters": [
                 [
-                  "This isn't helping at all!",
+                  "This isn't good practice!",
                   "Use a knife instead!",
-                  "Then I can relax, right?"
+                  "That's reassuring!"
                 ],
                 1,
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "練習にならない！",
-                "ナイフで代用！",
-                "なら安心ですね！"
               ]
             },
             {
@@ -15979,7 +16335,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "練習にならない！"
+                "This isn't good practice!"
               ]
             },
             {
@@ -16027,7 +16383,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
@@ -16047,7 +16403,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "ナイフで代用！"
+                "Use a knife instead!"
               ]
             },
             {
@@ -16072,7 +16428,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
@@ -16104,7 +16460,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
@@ -16142,7 +16498,7 @@
               "indent": 0,
               "parameters": [
                 2,
-                "なら安心ですね！"
+                "That's reassuring!"
               ]
             },
             {
@@ -16167,7 +16523,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
@@ -16192,7 +16548,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
@@ -16224,7 +16580,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
@@ -16256,7 +16612,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
@@ -16291,7 +16647,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
@@ -16323,7 +16679,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
@@ -16355,7 +16711,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
@@ -16380,7 +16736,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
@@ -16412,7 +16768,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
@@ -16451,7 +16807,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
@@ -16483,7 +16839,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
@@ -16515,7 +16871,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
@@ -16547,7 +16903,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
@@ -16654,7 +17010,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
@@ -16811,7 +17167,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
@@ -16843,7 +17199,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
@@ -16868,7 +17224,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
@@ -16900,14 +17256,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Here.\""
+                "\\SE[4] \"Yes\""
               ]
             },
             {
@@ -16968,7 +17324,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
@@ -17000,7 +17356,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
@@ -17025,7 +17381,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
@@ -17139,7 +17495,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
@@ -17190,7 +17546,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
@@ -17222,7 +17578,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
@@ -17247,7 +17603,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
@@ -17272,14 +17628,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"I'll prepare the 'water'.\""
+                "\\SE[5] \"I'll get some 'water' ready.\""
               ]
             },
             {
@@ -17381,21 +17737,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"So in the end, I'm stuck with the water"
+                "\\SE[4] \"So you’re in charge of water after all!"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "duty! I give up!\""
+                "Fine, whatever!\""
               ]
             },
             {
@@ -17483,14 +17839,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Two People"
+                "The two of them "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Thank you very much~\""
+                "\"Thank you so much~\""
               ]
             },
             {
@@ -18502,7 +18858,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
@@ -18538,14 +18894,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]\\Se[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "(There was a response... How is it...?!)"
+                "(I felt a tug… What do you think…!?)"
               ]
             },
             {
@@ -18584,21 +18940,21 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]\\Se[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "(Well, I think it was pretty good... How is"
+                "(Well, I think it's okay... what do you"
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "it?)"
+                "think?)"
               ]
             },
             {
@@ -18626,14 +18982,14 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]\\Se[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "(Maybe it was no good...)"
+                "(This might not work...)"
               ]
             },
             {
@@ -18749,7 +19105,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The results of the Comedy Battle Tournament are..."
+                "The results of the comedy battle tournament are..."
               ]
             },
             {
@@ -18767,7 +19123,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Out of 10 pairs,"
+                "Out of 10 groups"
               ]
             },
             {
@@ -18808,7 +19164,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]\\C[2]4th place\\C[0]"
+                "The 4th bit of \\C[2] was \\C[0]."
               ]
             },
             {
@@ -18826,14 +19182,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "If they had been in the top 3, they would have advanced"
+                "If they had finished in the top three, they would have"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "to the finals,"
+                "advanced to the finals, but they narrowly missed out."
               ]
             },
             {
@@ -18872,14 +19228,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "but they received the Judges' Special Prize and earned"
+                "However, I received \\C[2]10000G\\C[0] in prize money for the"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\C[2]10,000G\\C[0]."
+                "Judges' Special Award."
               ]
             },
             {
@@ -18930,7 +19286,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]\\C[2]6th place\\C[0]"
+                "Bit \\C[2]6 was \\C[0]"
               ]
             },
             {
@@ -18969,14 +19325,14 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "but they received the Judges' Special Prize and earned"
+                "However, I received \\C[2]3000G\\C[0] in prize money for the"
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\C[2]3,000G\\C[0]."
+                "Judges' Special Award."
               ]
             },
             {
@@ -19016,7 +19372,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]\\C[2]9th place\\C[0]"
+                "Bit \\C[2]9 was \\C[0]"
               ]
             },
             {
@@ -19219,21 +19575,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I'm sorry... If only I hadn't flubbed my"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "lines...\""
+                "\\SE[3] \"I’m sorry… If only I hadn’t stumbled…\""
               ]
             },
             {
@@ -19251,21 +19600,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"No... I just didn't deliver my jokes quite"
+                "\\SE[3] \"No… I kind of skipped ahead a bit with the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "right.\""
+                "joke…\""
               ]
             },
             {
@@ -19283,21 +19632,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I'm sorry... It seems my material was too"
+                "\\SE[3] \"I’m sorry… I guess my joke wasn’t very"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "weak...\""
+                "funny…\""
               ]
             },
             {
@@ -19342,21 +19691,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"W-well, when things go like this, let's"
+                "\\SE[4] \"W-Well, in times like this, let’s just"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "just drink!\""
+                "have a drink!\""
               ]
             },
             {
@@ -19374,14 +19723,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Y-yeah! I want to drink!\""
+                "\\SE[3] \"Y-yeah! I’d love to have a drink!\""
               ]
             },
             {
@@ -19399,14 +19748,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Alright, let's have a post-mortem!\""
+                "\\SE[3] \"All right, time for a debrief!\""
               ]
             },
             {
@@ -19480,7 +19829,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Save progress?"
+                "Do you want to save?"
               ]
             },
             {
@@ -19495,10 +19844,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -19506,7 +19851,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -19524,7 +19869,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -19666,7 +20011,7 @@
     },
     {
       "id": 40,
-      "name": "ライバル",
+      "name": "Rival",
       "note": "",
       "pages": [
         {
@@ -19726,7 +20071,7 @@
     },
     {
       "id": 41,
-      "name": "ライバル",
+      "name": "Rival",
       "note": "",
       "pages": [
         {
@@ -19786,7 +20131,7 @@
     },
     {
       "id": 42,
-      "name": "ライバル",
+      "name": "Rival",
       "note": "",
       "pages": [
         {
@@ -19846,7 +20191,7 @@
     },
     {
       "id": 43,
-      "name": "ライバル",
+      "name": "Rival",
       "note": "",
       "pages": [
         {
@@ -19906,7 +20251,7 @@
     },
     {
       "id": 44,
-      "name": "ライバル",
+      "name": "Rival",
       "note": "",
       "pages": [
         {
@@ -19966,7 +20311,7 @@
     },
     {
       "id": 45,
-      "name": "ライバル",
+      "name": "Rival",
       "note": "",
       "pages": [
         {
@@ -20026,7 +20371,7 @@
     },
     {
       "id": 46,
-      "name": "ライバル",
+      "name": "Rival",
       "note": "",
       "pages": [
         {
@@ -20086,7 +20431,7 @@
     },
     {
       "id": 47,
-      "name": "ライバル",
+      "name": "Rival",
       "note": "",
       "pages": [
         {
@@ -20146,7 +20491,7 @@
     },
     {
       "id": 48,
-      "name": "ライバル",
+      "name": "Rival",
       "note": "",
       "pages": [
         {
@@ -20206,7 +20551,7 @@
     },
     {
       "id": 49,
-      "name": "ライバル",
+      "name": "Rival",
       "note": "",
       "pages": [
         {
@@ -20266,7 +20611,7 @@
     },
     {
       "id": 50,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -20785,7 +21130,7 @@
     },
     {
       "id": 51,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -21304,7 +21649,7 @@
     },
     {
       "id": 52,
-      "name": "リリアン",
+      "name": "Lillian",
       "note": "",
       "pages": [
         {
@@ -21823,7 +22168,7 @@
     },
     {
       "id": 53,
-      "name": "群衆20",
+      "name": "Crowd 20",
       "note": "",
       "pages": [
         {
@@ -21883,7 +22228,7 @@
     },
     {
       "id": 54,
-      "name": "群衆21",
+      "name": "Crowd 21",
       "note": "",
       "pages": [
         {
@@ -21943,7 +22288,7 @@
     },
     {
       "id": 55,
-      "name": "群衆17",
+      "name": "Crowd 17",
       "note": "",
       "pages": [
         {
@@ -22003,7 +22348,7 @@
     },
     {
       "id": 56,
-      "name": "群衆19",
+      "name": "Crowd 19",
       "note": "",
       "pages": [
         {
@@ -22063,7 +22408,7 @@
     },
     {
       "id": 57,
-      "name": "群衆21",
+      "name": "Crowd 21",
       "note": "",
       "pages": [
         {
@@ -22123,7 +22468,7 @@
     },
     {
       "id": 58,
-      "name": "群衆17",
+      "name": "Crowd 17",
       "note": "",
       "pages": [
         {
@@ -22183,7 +22528,7 @@
     },
     {
       "id": 59,
-      "name": "群衆19",
+      "name": "Crowd 19",
       "note": "",
       "pages": [
         {
@@ -22243,7 +22588,7 @@
     },
     {
       "id": 60,
-      "name": "群衆14",
+      "name": "Crowd 14",
       "note": "",
       "pages": [
         {
@@ -22303,7 +22648,7 @@
     },
     {
       "id": 61,
-      "name": "歌手",
+      "name": "Singer",
       "note": "",
       "pages": [
         {
@@ -22406,14 +22751,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Child"
+                "Child "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yay!\""
+                ": \"Yay!\""
               ]
             },
             {
@@ -22724,14 +23069,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Child"
+                "Child "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"So it was just water after all! Heh heh!\""
+                ": \"So it’s just water after all! Hahaha!\""
               ]
             },
             {
@@ -23000,14 +23345,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Child"
+                "Child "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yay!\""
+                ": \"Yay!\""
               ]
             },
             {
@@ -23318,14 +23663,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Child"
+                "Child "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I'll prepare the water!\""
+                ": \"I'll get the water!\""
               ]
             },
             {
@@ -23594,14 +23939,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hey, I just found a key.\""
+                ": \"Hey, I just found a key. I don't know what it's for,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "though.\""
               ]
             },
             {
@@ -23619,21 +23971,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Since I'm not from this town, I left it with a street"
+                ": \"I’m not from around here, so I left it with the guy"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "vendor.\""
+                "at the food stall. , go ask him.\""
               ]
             },
             {
@@ -23762,14 +24114,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Townsperson"
+                "A local resident "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I love looking outside from here.\""
+                ": \"I like looking out from here.\""
               ]
             },
             {
@@ -23847,21 +24199,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Townsperson"
+                "A passerby "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"That one's nice too, and this one's hard to throw"
+                ": \"That one’s nice, but I can’t bring myself to pass up"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "away...mutter, mutter\""
+                "this one either… mumbled to herself\""
               ]
             },
             {
@@ -23939,21 +24291,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Just walking around the stalls makes me lose track of"
+                ": \"Just walking around looking at the food stalls makes"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "time.\""
+                "me lose track of time.\""
               ]
             },
             {
@@ -24082,14 +24434,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Man, if only I had some money... I guess I'll have to"
+                ": \"If I had the money, I'd buy it... Guess I'll have to"
               ]
             },
             {
@@ -24225,14 +24577,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Huh? W-What? I'm a woman...?\""
+                ": \"Huh? Wait... I'm a girl, though...\""
               ]
             },
             {
@@ -24361,21 +24713,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"U-um… Are you alone? A-ah… I didn't mean anything by"
+                ": \"Um... are you here alone? Oh... yes, I'm not"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "that…\""
+                "mistaken...\""
               ]
             },
             {
@@ -24513,21 +24865,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Private Soldier"
+                "Private Security Guard "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"On the day of the festival, this place gets packed"
+                ": \"On the day of the festival, this place will be"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "with people like this.\""
+                "packed with people. We're keeping a close watch.\""
               ]
             },
             {
@@ -24656,21 +25008,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Beastman"
+                "Beastman "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Is it true that the winner of the comedy tournament"
+                ": \"Is it true that the prize money for winning the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "gets 100,000 gold?\""
+                "comedy tournament is 100,000 gold?\""
               ]
             },
             {
@@ -24799,21 +25151,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Townsperson"
+                "City Resident "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hunters from all over the continent are flocking here"
+                ": \"I heard comedy duos from all over the continent are"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "for that bounty\""
+                "entering the contest just for the prize money.\""
               ]
             },
             {

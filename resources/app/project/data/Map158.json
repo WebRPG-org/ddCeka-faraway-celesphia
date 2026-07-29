@@ -2468,7 +2468,7 @@
     null,
     {
       "id": 1,
-      "name": "階段",
+      "name": "Stairs",
       "note": "",
       "pages": [
         {
@@ -2552,7 +2552,7 @@
     },
     {
       "id": 2,
-      "name": "階段",
+      "name": "Stairs",
       "note": "",
       "pages": [
         {
@@ -2636,7 +2636,7 @@
     },
     {
       "id": 3,
-      "name": "ボス前回復",
+      "name": "Healing Before the Boss Fight",
       "note": "",
       "pages": [
         {
@@ -2679,14 +2679,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Restore all HP/MP?"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "(once only)"
+                "Do you want to fully restore your HP/MP? (once only)"
               ]
             },
             {
@@ -2701,10 +2694,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -2712,7 +2701,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -2750,7 +2739,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Fully recovered."
+                "I've fully recovered."
               ]
             },
             {
@@ -2771,7 +2760,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -2867,7 +2856,7 @@
     },
     {
       "id": 4,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -3213,7 +3202,7 @@
     },
     {
       "id": 5,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -3559,7 +3548,7 @@
     },
     {
       "id": 6,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -3905,7 +3894,7 @@
     },
     {
       "id": 7,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -3960,7 +3949,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Eye Drops."
+                "I got an anti-blind."
               ]
             },
             {
@@ -4115,7 +4104,7 @@
     },
     {
       "id": 8,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -4170,7 +4159,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained a High Potion."
+                "I got a High Potion."
               ]
             },
             {
@@ -4325,7 +4314,7 @@
     },
     {
       "id": 9,
-      "name": "宝箱（ブリガンダイン）",
+      "name": "Treasure Chest (Brigandine)",
       "note": "",
       "pages": [
         {
@@ -4486,7 +4475,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Brigandine!"
+                "I got the Brigandine!"
               ]
             },
             {

@@ -4117,7 +4117,7 @@
     null,
     {
       "id": 1,
-      "name": "セレス",
+      "name": "Ceres",
       "note": "",
       "pages": [
         {
@@ -4177,7 +4177,7 @@
     },
     {
       "id": 2,
-      "name": "イベント",
+      "name": "Events",
       "note": "",
       "pages": [
         {
@@ -4795,14 +4795,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]？？？"
+                "\\SE[0]???"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"What, already worn out?\""
+                "\\SE[5] \"What, are you already worn out? I wonder if someone"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "raised in the royal family even walks on tiptoes.\""
               ]
             },
             {
@@ -4829,21 +4836,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]？？？"
+                "\\SE[0]??? "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Hah...hah...\\C[2]Celestia\\C[0], you're the one who's gone"
+                "\\SE[1] \"Haa… haa… \\C[2] Ceres \\C[0], why don’t you go back to the wild?"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "feral.\""
+                "You’d make a perfect wife for a monkey.\""
               ]
             },
             {
@@ -4861,14 +4868,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Celestia"
+                "\\SE[0] Ceres "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"If you have the energy to talk back,\""
+                "\\SE[5] \"If you have the energy to respond, it looks like"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "we’re still okay. I’m relieved. \\C[2] Anastasia \\C[0]\""
               ]
             },
             {
@@ -4886,21 +4900,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Anastasia"
+                "\\SE[0] Anastasia "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"So...is it really out there? That so-called"
+                "\\SE[1] \"So… is it really out there ahead? That \\C[3] ‘stone that"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "'\\C[3]rainbow-shining stone\\C[0]' you mentioned.\""
+                "glows in rainbow colors’ \\C[0] or whatever it’s called?\""
               ]
             },
             {
@@ -5393,14 +5407,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Celestia"
+                "\\SE[0] Ceres "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Yes. According to \\C[3]my father's diary\\C[0],\""
+                "\\SE[5] \"Yes. \\C[3] According to Father’s diary \\C[0], he saw it at the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "ruins further back here.\""
               ]
             },
             {
@@ -5418,21 +5439,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Celestia"
+                "\\SE[0] Ceres "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"though it's just a large sculpture now, so we can't"
+                "\\SE[5] \"It was just a large sculpture, though, so it seems I"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "take it with us.\""
+                "couldn’t take it home.\""
               ]
             },
             {
@@ -5450,14 +5471,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Anastasia"
+                "\\SE[0] Anastasia "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"That's what Tior-kun was talking about...\""
+                "\\SE[1] \"That’s what \\C[2] Teor \\C[0] said…\""
               ]
             },
             {
@@ -5475,14 +5496,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Celestia"
+                "\\SE[0] Ceres "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Exactly. The '\\C[1]Philosopher's Stone\\C[0].' In theory,\""
+                "\\SE[5] \"That’s right. ‘\\C[1] Philosopher’s Stone \\C[0].’ In theory, it"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "should serve as a medium capable of significantly"
               ]
             },
             {
@@ -5500,14 +5528,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Anastasia"
+                "\\SE[0] Ceres "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"The \\C[2]Goddess Crystal\\C[0]...\""
+                "amplifying and focusing magical power.\""
               ]
             },
             {
@@ -5525,14 +5553,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Celestia"
+                "\\SE[0] Anastasia "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Yes. With that, we can make it. And then\""
+                "\\SE[1] \"\\C[2] The Goddess Crystal \\C[0], is that right…?\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Ceres "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"Yes, with that, I can make it. And amplify Tiol’s"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "magical power—\""
               ]
             },
             {
@@ -5588,21 +5648,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Anastasia"
+                "\\SE[0] Anastasia "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"'\\C[3]Magic beyond human understanding\\C[0]'... is that what it"
+                "\\SE[1] \"‘\\C[3] Magic that transcends human understanding \\C[0],’ is"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "does?\""
+                "that right?\""
               ]
             },
             {
@@ -5620,14 +5680,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Celestia"
+                "\\SE[0] Ceres "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Revive the dead, control time... among other things.\""
+                "\\SE[5] \"Like bringing people back to life or controlling"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "time, right?\""
               ]
             },
             {
@@ -5645,21 +5712,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Anastasia"
+                "\\SE[0] Anastasia "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"What a pain. \\C[2]All-element magic\\C[0] like that―only one"
+                "\\SE[1] \"That must be tough—\\C[2] having a younger brother who’s"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "person in the world can do it.\""
+                "such a rare genius, the only one in the world with \\C[0] all"
               ]
             },
             {
@@ -5677,21 +5744,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Celestia"
+                "\\SE[0] Anastasia "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"A zero-magic all-element mage is just a waste of a"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "treasure, really.\""
+                "attributes,\""
               ]
             },
             {
@@ -5709,21 +5769,78 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Celestia"
+                "\\SE[0] Ceres "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"That's why we're making the magic-amplifying device,"
+                "\\SE[5] \"Having all attributes with zero magic power is"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the Goddess Crystal, in this godforsaken backwater―\""
+                "nothing short of a total waste of potential, isn’t it?\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Ceres "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"So, that’s why I’ve come all the way out to this"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "remote area —to create a magic amplification device,"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Ceres "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "the Goddess Crystal.\""
               ]
             },
             {
@@ -6108,21 +6225,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Anastasia"
+                "\\SE[0] Anastasia "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"The Goddess Crystal was never meant to be used by"
+                "\\SE[1] \"To begin with, the Goddess Crystal isn’t meant to be"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "humans in the first place.\""
+                "used on humans, is it? It’s supposed to be used as the"
               ]
             },
             {
@@ -6139,14 +6256,45 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Celestia"
+                "\\SE[0] Anastasia "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Oh? Someone's used it before, apparently.\""
+                "base material for magical artifacts…\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Ceres "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"Oh, it seems he’s used it before. I haven’t seen it"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "myself, though.\""
               ]
             },
             {
@@ -6173,14 +6321,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Anastasia"
+                "\\SE[0] Anastasia "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"That person is an absolute idiot...\""
+                "\\SE[1] \"That person is an absolute idiot… Their body will"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "explode from the inside…\""
               ]
             },
             {
@@ -6197,21 +6352,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Anastasia"
+                "\\SE[0] Anastasia "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Sigh... I just want to get back to the Academy and"
+                "\\SE[1] \"Sigh... I just want to get back to the Academy and"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "take a hot bath already.\""
+                "take a bath ...\""
               ]
             },
             {
@@ -6229,14 +6384,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Celestia"
+                "\\SE[0] Ceres "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Same here. Soak in a steaming hot bath,\""
+                "\\SE[5] \"I agree. I’d love to take a hot bath and just lounge"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "around at my usual library…\""
               ]
             },
             {
@@ -6261,21 +6423,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Seles"
+                "\\SE[0] Ceres "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Hey―! You're late! Hurry up or I'll turn you into"
+                "\\SE[5] \"Heyyyy!! You’re so slow! Hurry up or I’ll turn you"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "firewood!\""
+                "into firewood!\""
               ]
             },
             {
@@ -6304,14 +6466,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]？？？"
+                "\\SE[0]??? "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\"J-just a second!\""
+                "\\SE[0] \"W-Wait a minute!\""
               ]
             },
             {
@@ -6794,7 +6956,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]――― Distant Celesphia END ―――"
+                "―――The Distant Ceresphere: The End―――"
               ]
             },
             {
@@ -6824,7 +6986,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Since you've cleared the True End,"
+                "Since you've cleared the True Ending, Flashback Mode is"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "now unlocked."
               ]
             },
             {
@@ -6842,14 +7011,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I truly thank you for playing up to this point."
+                "Thank you so much, "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "――Yorunagi"
+                ", for playing this far. —Yorunagi"
               ]
             },
             {
@@ -6916,7 +7085,7 @@
     },
     {
       "id": 3,
-      "name": "アナ",
+      "name": "Ana",
       "note": "",
       "pages": [
         {
@@ -6976,7 +7145,7 @@
     },
     {
       "id": 4,
-      "name": "愛",
+      "name": "Love",
       "note": "",
       "pages": [
         {

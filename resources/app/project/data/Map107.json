@@ -3769,7 +3769,7 @@
     },
     {
       "id": 6,
-      "name": "お姉さん",
+      "name": "Big Sister",
       "note": "",
       "pages": [
         {
@@ -3829,7 +3829,7 @@
     },
     {
       "id": 7,
-      "name": "カイル(子供)",
+      "name": "Kyle (child)",
       "note": "",
       "pages": [
         {
@@ -3889,7 +3889,7 @@
     },
     {
       "id": 8,
-      "name": "荷物",
+      "name": "Luggage",
       "note": "",
       "pages": [
         {
@@ -3911,7 +3911,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "flower_chip_Celesphia",
+            "characterName": "flower_chip_selesphia",
             "direction": 2,
             "pattern": 2,
             "characterIndex": 1
@@ -4000,7 +4000,7 @@
     },
     {
       "id": 9,
-      "name": "自動",
+      "name": "Automatic",
       "note": "",
       "pages": [
         {
@@ -4076,7 +4076,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle (boy)"
+                "Kyle (boy) "
               ]
             },
             {
@@ -4150,14 +4150,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Misabel"
+                "Misabel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Thank you, Kyle, always.\""
+                ": \"Kyle, thanks as always.\""
               ]
             },
             {
@@ -4175,14 +4175,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle (boy)"
+                "Kyle (boy) "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It's okay. This is all I can do, after all.\""
+                ": \"It's okay. This is all I can do, after all.\""
               ]
             },
             {
@@ -4200,14 +4200,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Misabel"
+                "Misabel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Here, take this.\""
+                ": \"Here you go.\""
               ]
             },
             {
@@ -4246,7 +4246,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle (boy)"
+                "Kyle (boy) "
               ]
             },
             {
@@ -4271,21 +4271,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Misabel"
+                "Misabel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It's fine, it's fine! You're always taking care of"
+                ": \"It’s okay, it’s okay! You’ve always been so kind to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "me.\""
+                "me. , just go ahead and do it.\""
               ]
             },
             {
@@ -4312,7 +4312,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle (boy)"
+                "Kyle (boy) "
               ]
             },
             {
@@ -4337,14 +4337,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Misabel"
+                "Misabel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hey, Kyle. Why don't you have dinner at my place?\""
+                "\"Hey, Kyle. Why don’t you come over for dinner? I made"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "a little extra.\""
               ]
             },
             {
@@ -4362,7 +4369,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle (boy)"
+                "Kyle (boy) "
               ]
             },
             {
@@ -4387,14 +4394,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Misabel"
+                "Misabel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Don't be shy. Come on, let's go!\""
+                ": \"Don’t be shy. Come on, let’s go!\""
               ]
             },
             {

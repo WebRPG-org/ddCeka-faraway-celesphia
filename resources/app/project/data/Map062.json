@@ -16,7 +16,7 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Arseleon Great Bridge",
+  "displayName": "Arcelion Bridge",
   "encounterList": [],
   "encounterStep": 30,
   "height": 17,
@@ -1771,7 +1771,7 @@
     null,
     {
       "id": 1,
-      "name": "兵隊",
+      "name": "Soldier",
       "note": "",
       "pages": [
         {
@@ -1814,14 +1814,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Arseleon Private Guard"
+                "Arseon Private Guard "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This is the Great Bridge of Arseleon.\""
+                ": \"This is the Arseon Bridge. You need a pass to"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "cross.\""
               ]
             },
             {
@@ -1856,7 +1863,7 @@
     },
     {
       "id": 2,
-      "name": "兵隊",
+      "name": "Soldier",
       "note": "",
       "pages": [
         {
@@ -1899,14 +1906,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Arseleon Private Guard"
+                "Arseon Private Guard "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This is the Great Bridge of Arseleon.\""
+                ": \"This is the Arseon Bridge. You need a pass to"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "cross.\""
               ]
             },
             {
@@ -1941,7 +1955,7 @@
     },
     {
       "id": 3,
-      "name": "通行禁止",
+      "name": "No Entry",
       "note": "",
       "pages": [
         {
@@ -1984,14 +1998,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Arseleon Private Guard"
+                "Arcelion Private Guard "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Let me see your pass... If you don't have one,\""
+                ": \"Please show me your pass... If you don't have one,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "please contact the Arcelion Trading Company at .\""
               ]
             },
             {
@@ -2125,14 +2146,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Arseleon Private Guard"
+                "Arseon's Personal Guard "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Let me see your pass... Ah, thank you.\""
+                ": \"May I see your pass... Yes, thank you. Have a safe"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "trip.\""
               ]
             },
             {
@@ -2167,7 +2195,7 @@
     },
     {
       "id": 4,
-      "name": "ワールドマップへ",
+      "name": "Go to the World Map",
       "note": "",
       "pages": [
         {
@@ -2334,7 +2362,7 @@
     },
     {
       "id": 5,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -2501,7 +2529,7 @@
     },
     {
       "id": 6,
-      "name": "看板",
+      "name": "Sign",
       "note": "",
       "pages": [
         {
@@ -2544,7 +2572,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]---Arseleon Great Bridge---"
+                "——Acerion Bridge——"
               ]
             },
             {
@@ -2562,14 +2590,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "To pass through, you need the \\C[1]Arseleon Great Bridge"
+                "To pass through, you need the \\C[1] Arcelion Bridge Pass \\C[0]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Pass\\C[0]."
+                "and ."
               ]
             },
             {
@@ -2587,7 +2615,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "For details, inquire at the \\C[2]Arseleon Merchant House\\C[0]."
+                "For more information, please contact \\C[2] Arcelion Trading"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Company \\C[0] at . -- Arcelion Trading Company --"
               ]
             },
             {
@@ -2622,7 +2657,7 @@
     },
     {
       "id": 7,
-      "name": "商人",
+      "name": "Merchant",
       "note": "",
       "pages": [
         {
@@ -2665,14 +2700,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Merchant"
+                "Merchant "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"That's a huge load, huh? Imported from Eldenia.\""
+                ": \"Pretty impressive cargo, huh? It's imported from"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Eldenia.\""
               ]
             },
             {
@@ -2690,21 +2732,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Merchant"
+                "Merchant "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Spices, exotic fruits―everything's selling for top"
+                ": \"Spices and rare fruits—they’re all fetching high"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "dollar.\""
+                "prices. It’s a perfect business opportunity.\""
               ]
             },
             {
@@ -2739,7 +2781,7 @@
     },
     {
       "id": 8,
-      "name": "冒険者",
+      "name": "Adventurer",
       "note": "",
       "pages": [
         {
@@ -2782,21 +2824,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"You can get it at the \\C[1]Arseleon Merchant House\\C[0] if you"
+                ": \"\\C[1] I hear you can get it if you go to the Arselion"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "go there.\""
+                "Trading Company \\C[0]. Well, let’s head to Arselion for"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Adventurer "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "now…\""
               ]
             },
             {
@@ -2831,7 +2898,7 @@
     },
     {
       "id": 9,
-      "name": "冒険者",
+      "name": "Adventurer",
       "note": "",
       "pages": [
         {
@@ -2874,14 +2941,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I wasn't told I'd need a \\C[1]pass\\C[0] to get through...\""
+                ": \"I didn't hear anything about needing a \\C[1] pass \\C[0] to get"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "through...\""
               ]
             },
             {
@@ -2916,7 +2990,7 @@
     },
     {
       "id": 10,
-      "name": "火",
+      "name": "Fire",
       "note": "",
       "pages": [
         {
@@ -2976,7 +3050,7 @@
     },
     {
       "id": 11,
-      "name": "火",
+      "name": "Fire",
       "note": "",
       "pages": [
         {
@@ -3036,7 +3110,7 @@
     },
     {
       "id": 12,
-      "name": "商人",
+      "name": "Merchant",
       "note": "",
       "pages": [
         {
@@ -3079,14 +3153,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Merchant"
+                "Merchant "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Eldenia gets really hot. Be careful not to get"
+                ": \"It's really hot in Eldenia. Be careful not to get"
               ]
             },
             {
@@ -3128,7 +3202,7 @@
     },
     {
       "id": 13,
-      "name": "犬",
+      "name": "Dog",
       "note": "",
       "pages": [
         {
@@ -3171,14 +3245,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Watchdog"
+                "Guard Dog "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hah... hah... hah...\""
+                ": \"Ha, ha, ha…\""
               ]
             },
             {
@@ -3196,14 +3270,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Arseleon Private Guard"
+                "Arserion's Personal Guard : \"He's cute, isn't he? His"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Cute, right? His name's Arthur.\""
+                "name is Arthur.\""
               ]
             },
             {
@@ -3247,7 +3321,7 @@
     },
     {
       "id": 14,
-      "name": "ワープ",
+      "name": "Warp",
       "note": "",
       "pages": [
         {
@@ -3290,14 +3364,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]To the Valdeen Desert"
+                "Would you like to travel to the Valdine Desert? (Round"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Round trip available)"
+                "trip available)"
               ]
             },
             {
@@ -3312,10 +3386,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -3323,7 +3393,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -3353,7 +3423,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {

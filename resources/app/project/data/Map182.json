@@ -2077,7 +2077,7 @@
     null,
     {
       "id": 1,
-      "name": "ドア",
+      "name": "Door",
       "note": "",
       "pages": [
         {
@@ -2137,7 +2137,7 @@
     },
     {
       "id": 2,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -2656,7 +2656,7 @@
     },
     {
       "id": 3,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -3226,7 +3226,7 @@
     },
     {
       "id": 4,
-      "name": "リリアン",
+      "name": "Lillian",
       "note": "",
       "pages": [
         {
@@ -3745,7 +3745,7 @@
     },
     {
       "id": 5,
-      "name": "ノエル",
+      "name": "Noel",
       "note": "",
       "pages": [
         {
@@ -3958,7 +3958,7 @@
     },
     {
       "id": 6,
-      "name": "自動イベント",
+      "name": "Automatic Events",
       "note": "",
       "pages": [
         {
@@ -4271,7 +4271,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"\"\"Done―!\"\"\""
+                "\"\"\"\"I did it——!!\"\"\"\""
               ]
             },
             {
@@ -4585,14 +4585,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]All that hard work paid off―I pulled off a dramatic"
+                "\\SE[3] Thanks to all our hard work, we succeeded in carrying"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "renovation!"
+                "out a dramatic renovation."
               ]
             },
             {
@@ -4731,7 +4731,7 @@
     },
     {
       "id": 7,
-      "name": "髪切りイベント",
+      "name": "Haircut Event",
       "note": "",
       "pages": [
         {
@@ -5425,21 +5425,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "Lillian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"A-are you sure...? After all this time"
+                "\\SE[4]: \"I-is that really okay…? I worked so hard"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "growing it out...\""
+                "to grow it this long…\""
               ]
             },
             {
@@ -5457,21 +5457,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"I don't mind. With raising the kids, I"
+                "\\SE[5] \"That’s fine. With all the childcare, I"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "never have time to dry my hair anyway...!\""
+                "hardly ever have time to dry my hair…!"
               ]
             },
             {
@@ -5489,14 +5489,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Just go ahead and chop it off, Lilian.\""
+                "Please cut it all off! Lilian\""
               ]
             },
             {
@@ -5514,14 +5514,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "Lillian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"O-okay...! I'll do it!\""
+                "\\SE[4]: \"O-okay…! I’ll go!\""
               ]
             },
             {
@@ -5608,14 +5608,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]Luna's hair was chopped off in one go. The short style"
+                "\\SE[3] Luna cut her hair really short. It looks good on her,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "suited her."
+                "even short."
               ]
             },
             {
@@ -5717,7 +5717,7 @@
     },
     {
       "id": 8,
-      "name": "セレス",
+      "name": "Ceres",
       "note": "",
       "pages": [
         {
@@ -5930,7 +5930,7 @@
     },
     {
       "id": 9,
-      "name": "ティオル",
+      "name": "Theol",
       "note": "",
       "pages": [
         {

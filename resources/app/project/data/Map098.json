@@ -6960,7 +6960,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Which ending would you like to play?"
+                "Which ending would you like to watch?"
               ]
             },
             {
@@ -6968,19 +6968,14 @@
               "indent": 2,
               "parameters": [
                 [
-                  "True End",
-                  "Luna End",
-                  "Lilian End"
+                  "True Ending",
+                  "Luna END",
+                  "Lillian END"
                 ],
                 -1,
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "トゥルーEND",
-                "ルーナEND",
-                "リリアンEND"
               ]
             },
             {
@@ -6988,7 +6983,7 @@
               "indent": 2,
               "parameters": [
                 0,
-                "トゥルーEND"
+                "True Ending"
               ]
             },
             {
@@ -7010,7 +7005,7 @@
               "indent": 2,
               "parameters": [
                 1,
-                "ルーナEND"
+                "Luna END"
               ]
             },
             {
@@ -7041,7 +7036,7 @@
               "indent": 2,
               "parameters": [
                 2,
-                "リリアンEND"
+                "Lillian END"
               ]
             },
             {
@@ -7097,7 +7092,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Which ending would you like to play?"
+                "Which ending would you like to watch?"
               ]
             },
             {
@@ -7105,17 +7100,13 @@
               "indent": 2,
               "parameters": [
                 [
-                  "Lilian Ending",
-                  "Luna Ending"
+                  "Lillian END",
+                  "Luna END"
                 ],
                 -1,
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "リリアンEND",
-                "ルーナEND"
               ]
             },
             {
@@ -7123,7 +7114,7 @@
               "indent": 2,
               "parameters": [
                 0,
-                "リリアンEND"
+                "Lillian END"
               ]
             },
             {
@@ -7154,7 +7145,7 @@
               "indent": 2,
               "parameters": [
                 1,
-                "ルーナEND"
+                "Luna END"
               ]
             },
             {
@@ -7229,7 +7220,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Which ending would you like to play?"
+                "Which ending would you like to watch?"
               ]
             },
             {
@@ -7237,17 +7228,13 @@
               "indent": 2,
               "parameters": [
                 [
-                  "Luna Ending",
-                  "Lilian Ending"
+                  "Luna END",
+                  "Lillian END"
                 ],
                 -1,
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "ルーナEND",
-                "リリアンEND"
               ]
             },
             {
@@ -7255,7 +7242,7 @@
               "indent": 2,
               "parameters": [
                 0,
-                "ルーナEND"
+                "Luna END"
               ]
             },
             {
@@ -7286,7 +7273,7 @@
               "indent": 2,
               "parameters": [
                 1,
-                "リリアンEND"
+                "Lillian END"
               ]
             },
             {

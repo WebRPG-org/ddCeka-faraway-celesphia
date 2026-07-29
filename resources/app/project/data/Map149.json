@@ -9541,7 +9541,7 @@
     null,
     {
       "id": 1,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -9601,7 +9601,7 @@
     },
     {
       "id": 2,
-      "name": "荷台",
+      "name": "Cargo bed",
       "note": "",
       "pages": [
         {
@@ -9623,7 +9623,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "flower_chip_Celesphia",
+            "characterName": "flower_chip_selesphia",
             "direction": 4,
             "pattern": 1,
             "characterIndex": 2
@@ -9661,7 +9661,7 @@
     },
     {
       "id": 3,
-      "name": "自動EV",
+      "name": "Autonomous EV",
       "note": "",
       "pages": [
         {
@@ -9760,7 +9760,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]――――――"
+                "――――――"
               ]
             },
             {
@@ -9778,7 +9778,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]――――"
+                "――――"
               ]
             },
             {
@@ -9796,7 +9796,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]――"
+                "――"
               ]
             },
             {
@@ -9814,7 +9814,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]After that,"
+                "\\SE[0] Then"
               ]
             },
             {
@@ -9832,7 +9832,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]several years passed."
+                "\\SE[0] Several years have passed."
               ]
             },
             {
@@ -10212,14 +10212,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]I walked down the cobblestone streets of Gram"
+                "\\SE[0] I was walking along the cobblestone street in Gram Ward. "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "District."
+                "The truck bed was almost empty, and I was moving"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "forward while feeling a slightly dusty breeze on my"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] I was walking along the cobblestone street in Gram Ward. "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "face."
               ]
             },
             {
@@ -10833,7 +10865,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle Lovran, the adventurer. By now,"
+                "\\SE[0] Adventurer Kyle-Rovan. That name has now been removed from the "
               ]
             },
             {
@@ -10858,7 +10890,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]his name was known far and wide..."
+                "\\SE[0] As the price for using the Goddess Crystal, "
               ]
             },
             {

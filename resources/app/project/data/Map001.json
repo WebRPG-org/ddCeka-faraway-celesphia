@@ -29437,7 +29437,7 @@
     null,
     {
       "id": 1,
-      "name": "見えない通行止め",
+      "name": "Invisible Road Closure",
       "note": "",
       "pages": [
         {
@@ -29497,7 +29497,7 @@
     },
     {
       "id": 2,
-      "name": "見えない通行止め",
+      "name": "Invisible Road Closure",
       "note": "",
       "pages": [
         {
@@ -29557,7 +29557,7 @@
     },
     {
       "id": 3,
-      "name": "見えない通行止め",
+      "name": "Invisible Road Closure",
       "note": "",
       "pages": [
         {
@@ -29617,7 +29617,7 @@
     },
     {
       "id": 4,
-      "name": "馬車荷台",
+      "name": "Horse-drawn cart bed",
       "note": "",
       "pages": [
         {
@@ -29677,7 +29677,7 @@
     },
     {
       "id": 5,
-      "name": "馬車前",
+      "name": "In front of the carriage",
       "note": "",
       "pages": [
         {
@@ -29737,7 +29737,7 @@
     },
     {
       "id": 6,
-      "name": "OP_馬車移動自動",
+      "name": "OP_Automatic Carriage Movement",
       "note": "",
       "pages": [
         {
@@ -30336,7 +30336,7 @@
     },
     {
       "id": 7,
-      "name": "ルウィンの森",
+      "name": "Luwin Forest",
       "note": "",
       "pages": [
         {
@@ -30386,7 +30386,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you want to enter Lewin Forest?"
+                "Would you like to enter Lewin Forest?"
               ]
             },
             {
@@ -30401,10 +30401,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -30412,7 +30408,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -30450,7 +30446,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -30495,7 +30491,7 @@
     },
     {
       "id": 8,
-      "name": "ルウィンの森",
+      "name": "Luwin Forest",
       "note": "",
       "pages": [
         {
@@ -30545,7 +30541,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you want to enter Lewin Forest?"
+                "Would you like to enter Lewin Forest?"
               ]
             },
             {
@@ -30560,10 +30556,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -30571,7 +30563,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -30601,7 +30593,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -30646,7 +30638,7 @@
     },
     {
       "id": 9,
-      "name": "グリーンベイルの村",
+      "name": "The Village of Greenvale",
       "note": "",
       "pages": [
         {
@@ -30689,7 +30681,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you want to enter Greenvale Village?"
+                "Would you like to enter the village of Greenvale?"
               ]
             },
             {
@@ -30704,10 +30696,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -30715,7 +30703,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -30745,7 +30733,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -30824,7 +30812,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you want to enter Greenvale Village?"
+                "Would you like to enter the village of Greenvale?"
               ]
             },
             {
@@ -30839,10 +30827,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -30850,7 +30834,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -30875,7 +30859,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -30920,7 +30904,7 @@
     },
     {
       "id": 10,
-      "name": "カルドーン炭鉱",
+      "name": "Caldon Coal Mine",
       "note": "",
       "pages": [
         {
@@ -30963,14 +30947,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Let's head to Greenvale Village first.\""
+                "\\SE[3] \"Let’s go to Greenvale Village first.\""
               ]
             },
             {
@@ -31091,7 +31075,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Do you enter the Caldoon Coal Mine?"
+                "\\SE[0] Do you want to enter the Caldon Coal Mine?"
               ]
             },
             {
@@ -31106,10 +31090,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -31117,7 +31097,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -31147,7 +31127,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -31226,7 +31206,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Do you enter the Caldoon Coal Mine?"
+                "\\SE[0] Do you want to enter the Caldon Coal Mine?"
               ]
             },
             {
@@ -31241,10 +31221,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -31252,7 +31228,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -31277,7 +31253,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -31322,7 +31298,7 @@
     },
     {
       "id": 11,
-      "name": "エルフの泉",
+      "name": "The Elven Spring",
       "note": "",
       "pages": [
         {
@@ -31365,7 +31341,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "※There is a longer event."
+                "*There is a longer event ahead * There is no battle Do"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "you want to save?"
               ]
             },
             {
@@ -31380,10 +31363,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -31391,7 +31370,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -31409,7 +31388,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -31466,7 +31445,7 @@
     },
     {
       "id": 12,
-      "name": "泉通行止め",
+      "name": "Izumino Road Closed",
       "note": "",
       "pages": [
         {
@@ -31509,7 +31488,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Let's find a place where we can wash off the mud."
+                "Let's look for a place where we can wash off the mud."
               ]
             },
             {
@@ -31544,7 +31523,7 @@
     },
     {
       "id": 13,
-      "name": "王都封鎖",
+      "name": "Blockade of the Capital",
       "note": "",
       "pages": [
         {
@@ -31587,14 +31566,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"We don't have time to stop by the royal"
+                ": \"I don't have time to stop by the"
               ]
             },
             {
@@ -31619,14 +31598,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Let's hurry then.\""
+                ": \"Let's hurry on.\""
               ]
             },
             {
@@ -31706,7 +31685,7 @@
     },
     {
       "id": 14,
-      "name": "泉通行止め",
+      "name": "Izumino Road Closed",
       "note": "",
       "pages": [
         {
@@ -31749,7 +31728,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Let's find a place where we can wash off the mud."
+                "Let's look for a place where we can wash off the mud."
               ]
             },
             {
@@ -31784,7 +31763,7 @@
     },
     {
       "id": 15,
-      "name": "泉通行止め",
+      "name": "Izumino Road Closed",
       "note": "",
       "pages": [
         {
@@ -31827,7 +31806,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Let's find a place where we can wash off the mud."
+                "Let's look for a place where we can wash off the mud."
               ]
             },
             {
@@ -31862,7 +31841,7 @@
     },
     {
       "id": 16,
-      "name": "泉通行止め",
+      "name": "Izumino Road Closed",
       "note": "",
       "pages": [
         {
@@ -31905,7 +31884,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Let's find a place where we can wash off the mud."
+                "Let's look for a place where we can wash off the mud."
               ]
             },
             {
@@ -31940,7 +31919,7 @@
     },
     {
       "id": 17,
-      "name": "泉通行止め",
+      "name": "Izumino Road Closed",
       "note": "",
       "pages": [
         {
@@ -31983,7 +31962,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Let's find a place where we can wash off the mud."
+                "Let's look for a place where we can wash off the mud."
               ]
             },
             {
@@ -32018,7 +31997,7 @@
     },
     {
       "id": 18,
-      "name": "カルドーン炭鉱(ヴェルガン側)",
+      "name": "Caldon Coal Mine (Vergan Side)",
       "note": "",
       "pages": [
         {
@@ -32068,7 +32047,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you enter the Caldoon Coal Mine?"
+                "Would you like to go into the Caldon Coal Mine?"
               ]
             },
             {
@@ -32083,10 +32062,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -32094,7 +32069,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -32140,7 +32115,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -32219,7 +32194,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you enter the Caldoon Coal Mine?"
+                "Would you like to go into the Caldon Coal Mine?"
               ]
             },
             {
@@ -32234,10 +32209,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -32245,7 +32216,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -32291,7 +32262,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -32336,7 +32307,7 @@
     },
     {
       "id": 19,
-      "name": "アーセレオン",
+      "name": "Arseon",
       "note": "",
       "pages": [
         {
@@ -32379,7 +32350,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you enter the city of Arseleon?"
+                "Do you want to enter the city of Arseon?"
               ]
             },
             {
@@ -32394,10 +32365,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -32405,7 +32372,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -32430,7 +32397,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -32475,7 +32442,7 @@
     },
     {
       "id": 20,
-      "name": "アーセレオン",
+      "name": "Arseon",
       "note": "",
       "pages": [
         {
@@ -32518,7 +32485,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you enter the city of Arseleon?"
+                "Do you want to enter the city of Arseon?"
               ]
             },
             {
@@ -32533,10 +32500,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -32544,7 +32507,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -32569,7 +32532,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -32614,7 +32577,7 @@
     },
     {
       "id": 21,
-      "name": "大橋",
+      "name": "Ohashi",
       "note": "",
       "pages": [
         {
@@ -32664,7 +32627,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you want to enter the Arseleon Great Bridge?"
+                "Should we go over the Arcelion Bridge?"
               ]
             },
             {
@@ -32679,10 +32642,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -32690,7 +32649,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -32715,7 +32674,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -32794,7 +32753,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you want to enter the Arseleon Great Bridge?"
+                "Should we go over the Arcelion Bridge?"
               ]
             },
             {
@@ -32809,10 +32768,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -32820,7 +32775,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -32845,7 +32800,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -32890,7 +32845,7 @@
     },
     {
       "id": 22,
-      "name": "大橋",
+      "name": "Ohashi",
       "note": "",
       "pages": [
         {
@@ -32940,7 +32895,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you want to enter the Arseleon Great Bridge?"
+                "Should we go over the Arcelion Bridge?"
               ]
             },
             {
@@ -32955,10 +32910,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -32966,7 +32917,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -32991,7 +32942,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -33036,7 +32987,7 @@
     },
     {
       "id": 23,
-      "name": "カウィル遺跡",
+      "name": "Kawiru Ruins",
       "note": "",
       "pages": [
         {
@@ -33086,7 +33037,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you want to enter the Kawill Ruins?"
+                "Would you like to visit the Kawiru Ruins?"
               ]
             },
             {
@@ -33101,10 +33052,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -33112,7 +33059,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -33137,7 +33084,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -33182,7 +33129,7 @@
     },
     {
       "id": 24,
-      "name": "霊峰グリムリッジ",
+      "name": "The Sacred Peak of Grimridge",
       "note": "",
       "pages": [
         {
@@ -33225,14 +33172,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I'll head to Eldenia Town first.\""
+                "\\SE[3] \"Let's go to the town of Eldenia first and"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "get ready.\""
               ]
             },
             {
@@ -33308,7 +33262,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Enter Mt. Grimridge?"
+                "Would you like to enter the sacred mountain of"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Grimridge?"
               ]
             },
             {
@@ -33323,10 +33284,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -33334,7 +33291,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -33359,7 +33316,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -33455,7 +33412,7 @@
     },
     {
       "id": 25,
-      "name": "グリムリッジ見せ",
+      "name": "Grimridge Showcase",
       "note": "",
       "pages": [
         {
@@ -33556,14 +33513,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Luna, can you see it? That's...\""
+                "\\SE[3] \"Luna, can you see it? That’s \\C[2] Grimridge"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Peak \\C[0].\""
               ]
             },
             {
@@ -33581,14 +33545,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"The Celesphia... on that mountain...!\""
+                "\\SE[5] \"On that mountain… Celesphia…!\""
               ]
             },
             {
@@ -33606,14 +33570,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Red... how ominous...\""
+                "\\SE[4] \"Red… how ominous…\""
               ]
             },
             {
@@ -33631,21 +33595,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"That mountain range has multiple active"
+                "\\SE[3] \"That mountain range has several active"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "volcanoes,\""
+                "volcanoes and is a dangerous area where"
               ]
             },
             {
@@ -33663,21 +33627,71 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"and it's home to many dragons. Even"
+                "eruptions occur constantly.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                1,
+                0,
+                2,
+                ""
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "adventurers avoid it,\""
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3] \"Many dragons have made their home there,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "and not only adventurers but even locals"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "rarely go near it.\""
               ]
             },
             {
@@ -33695,14 +33709,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"But we're going there anyway.\""
+                "\\SE[5] \"But we’re going anyway. We’re almost"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "there, Mother…!\""
               ]
             },
             {
@@ -33720,14 +33741,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Yeah, let's go!\""
+                "\\SE[4] \"Okay, let’s go!\""
               ]
             },
             {
@@ -33765,21 +33786,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Going straight there would be dangerous."
+                "\\SE[3] \"It’s dangerous to head straight there. We"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "First, we should go to...\""
+                "should probably get ready here first, in"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Eldenia.\""
               ]
             },
             {
@@ -33797,14 +33843,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Yes, first to Eldenia...\""
+                "\\SE[5] \"Okay, first let’s head to Eldenia… Let’s"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "go.\""
               ]
             },
             {
@@ -33822,14 +33875,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"...Yeah... that's right.\""
+                "\\SE[4] \"…I suppose so…\""
               ]
             },
             {
@@ -33856,21 +33909,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]\\Se[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "(When we get to Eldenia... I won't hold back"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "anymore...!)"
+                "(Once I get to Erednia… I just can’t…!)"
               ]
             },
             {
@@ -33898,14 +33944,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]\\Se[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "(When we get to Eldenia... Kyle will...)"
+                "(Once we arrive in Eredia… Kyle will…)"
               ]
             },
             {
@@ -34053,7 +34099,7 @@
     },
     {
       "id": 26,
-      "name": "エルデニア",
+      "name": "Eldenia",
       "note": "",
       "pages": [
         {
@@ -34103,7 +34149,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you want to enter Eldenia Town?"
+                "Would you like to enter the city of Eldenia?"
               ]
             },
             {
@@ -34118,10 +34164,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -34129,7 +34171,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -34154,7 +34196,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -34199,7 +34241,7 @@
     },
     {
       "id": 27,
-      "name": "エルデニア",
+      "name": "Eldenia",
       "note": "",
       "pages": [
         {
@@ -34249,7 +34291,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you want to enter Eldenia Town?"
+                "Would you like to enter the city of Eldenia?"
               ]
             },
             {
@@ -34264,10 +34306,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -34275,7 +34313,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -34300,7 +34338,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -34352,7 +34390,7 @@
     },
     {
       "id": 28,
-      "name": "大橋へ",
+      "name": "To Ohashi",
       "note": "",
       "pages": [
         {
@@ -34395,7 +34433,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you enter the Valdeen Desert?"
+                "Do you want to enter the Valdine Desert?"
               ]
             },
             {
@@ -34410,10 +34448,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -34421,7 +34455,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -34446,7 +34480,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -34491,7 +34525,7 @@
     },
     {
       "id": 29,
-      "name": "塔",
+      "name": "Tower",
       "note": "",
       "pages": [
         {
@@ -34541,7 +34575,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you enter the Ruined Tower?"
+                "Would you like to enter the crumbling tower?"
               ]
             },
             {
@@ -34556,10 +34590,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -34567,7 +34597,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -34592,7 +34622,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -34637,7 +34667,7 @@
     },
     {
       "id": 30,
-      "name": "エンカウント禁止",
+      "name": "No Encounters",
       "note": "",
       "pages": [
         {
@@ -34709,7 +34739,7 @@
     },
     {
       "id": 31,
-      "name": "馬車荷台",
+      "name": "Horse-drawn cart bed",
       "note": "",
       "pages": [
         {
@@ -34769,7 +34799,7 @@
     },
     {
       "id": 32,
-      "name": "馬車前",
+      "name": "In front of the carriage",
       "note": "",
       "pages": [
         {
@@ -34829,7 +34859,7 @@
     },
     {
       "id": 33,
-      "name": "ロゼ自動",
+      "name": "Rosé Automatic",
       "note": "",
       "pages": [
         {
@@ -35561,7 +35591,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I board the carriage prepared outside and leave the"
+                "We boarded the carriage waiting outside and left the"
               ]
             },
             {
@@ -35593,7 +35623,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I was the only passenger. No one else got caught, huh?"
+                "I was the only passenger. I guess no one else was"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "caught."
               ]
             },
             {
@@ -35618,7 +35655,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "That's no surprise. No one would normally take a quest"
+                "It's no wonder. Normally, no one would accept a quest"
               ]
             },
             {
@@ -35643,14 +35680,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Am I just getting desperate?)"
+                "(I guess I'm getting a little jealous, too)"
               ]
             },
             {
@@ -35675,14 +35712,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Lost in thought, I stared blankly at the passing"
+                "As I thought about that, I stared blankly at the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "scenery for a while."
+                "passing scenery for a while."
               ]
             },
             {

@@ -9109,7 +9109,7 @@
     null,
     {
       "id": 1,
-      "name": "前マップへ",
+      "name": "Back to the Previous Map",
       "note": "",
       "pages": [
         {
@@ -9286,7 +9286,7 @@
     },
     {
       "id": 2,
-      "name": "ミレー救出へ",
+      "name": "To Rescue Millet",
       "note": "",
       "pages": [
         {
@@ -9463,7 +9463,7 @@
     },
     {
       "id": 3,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -9647,7 +9647,7 @@
     },
     {
       "id": 4,
-      "name": "すり抜け",
+      "name": "Slip Through",
       "note": "",
       "pages": [
         {
@@ -9707,7 +9707,7 @@
     },
     {
       "id": 5,
-      "name": "すり抜け",
+      "name": "Slip Through",
       "note": "",
       "pages": [
         {
@@ -9767,7 +9767,7 @@
     },
     {
       "id": 6,
-      "name": "すり抜け",
+      "name": "Slip Through",
       "note": "",
       "pages": [
         {
@@ -9827,7 +9827,7 @@
     },
     {
       "id": 7,
-      "name": "すり抜け",
+      "name": "Slip Through",
       "note": "",
       "pages": [
         {
@@ -9887,7 +9887,7 @@
     },
     {
       "id": 8,
-      "name": "ミレー通せんぼ",
+      "name": "Blocking the Way to Millet",
       "note": "",
       "pages": [
         {
@@ -9944,7 +9944,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\}\"...Someone...\"\\}"
+                "\\} \"………Someone………\" \\}"
               ]
             },
             {
@@ -10064,14 +10064,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I hear a voice from up ahead. Let's go check it out.\""
+                ": \"I hear a voice coming from up above. Let's go check"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "it out.\""
               ]
             },
             {
@@ -10157,7 +10164,7 @@
     },
     {
       "id": 9,
-      "name": "雨",
+      "name": "Rain",
       "note": "",
       "pages": [
         {
@@ -10343,14 +10350,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8](Looks like I don't need to come back here.)"
+                "\\SE[8] (Looks like I don't need to go back this"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "way.)"
               ]
             },
             {
@@ -10430,7 +10444,7 @@
     },
     {
       "id": 11,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -10485,7 +10499,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained a High Potion."
+                "I got a High Potion."
               ]
             },
             {
@@ -10589,7 +10603,7 @@
     },
     {
       "id": 12,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -10644,7 +10658,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Revive Soul."
+                "I got Revive Soul"
               ]
             },
             {
@@ -10748,7 +10762,7 @@
     },
     {
       "id": 13,
-      "name": "雨降らしフラグ",
+      "name": "Rain-Inducing Flag",
       "note": "",
       "pages": [
         {

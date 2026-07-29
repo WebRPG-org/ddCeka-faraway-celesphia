@@ -3187,7 +3187,7 @@
     null,
     {
       "id": 1,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -3361,7 +3361,7 @@
     },
     {
       "id": 2,
-      "name": "ロゼイベント8",
+      "name": "Rosé Event 8",
       "note": "",
       "pages": [
         {
@@ -3404,14 +3404,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rosie Event (8/12)"
+                "Rose Event (8/12) "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Play \"Rosie's Resolution\"?"
+                "\"Rose's Resolution\" . Would you like to play this?"
               ]
             },
             {
@@ -3426,10 +3426,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -3437,7 +3433,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -3463,7 +3459,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -3622,14 +3618,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"A tent...? It's covered in vines and looks"
+                "\\SE[3] \"A tent…? It’s covered in vines and looks"
               ]
             },
             {
@@ -3654,21 +3650,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Yeah. Maybe it was left behind by an old"
+                "\\SE[1] \"I suppose so. Maybe it’s something left"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "expedition team.\""
+                "behind by a long-ago expedition.\""
               ]
             },
             {
@@ -3686,21 +3682,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"For now, it doesn't seem like anyone's"
+                "\\SE[3]: \"Well, it doesn't seem like anyone's"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "around.\""
+                "around, at least.\""
               ]
             },
             {
@@ -3718,14 +3714,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Let's take a look inside.\""
+                "\\SE[1] \"Let's take a look inside.\""
               ]
             },
             {
@@ -3836,7 +3832,7 @@
     },
     {
       "id": 3,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -4355,7 +4351,7 @@
     },
     {
       "id": 4,
-      "name": "ロゼ",
+      "name": "Rosé",
       "note": "",
       "pages": [
         {
@@ -4619,7 +4615,7 @@
     },
     {
       "id": 5,
-      "name": "ロゼH後",
+      "name": "After Rosé H",
       "note": "",
       "pages": [
         {
@@ -4697,14 +4693,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Alright, let's go!\""
+                "\\SE[1] \"All right, let’s go!\""
               ]
             },
             {
@@ -4760,14 +4756,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "※Having done H with Rose, several events have become"
+                "*Because I had sex with Rose, several events are now"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "viewable."
+                "viewable at ."
               ]
             },
             {

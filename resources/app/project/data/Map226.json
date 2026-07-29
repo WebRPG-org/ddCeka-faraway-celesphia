@@ -1363,7 +1363,7 @@
     null,
     {
       "id": 1,
-      "name": "イゾルダ",
+      "name": "Isolde",
       "note": "",
       "pages": [
         {
@@ -1423,7 +1423,7 @@
     },
     {
       "id": 2,
-      "name": "レイナード",
+      "name": "Reynard",
       "note": "",
       "pages": [
         {
@@ -1483,7 +1483,7 @@
     },
     {
       "id": 3,
-      "name": "自動",
+      "name": "Automatic",
       "note": "",
       "pages": [
         {
@@ -1585,7 +1585,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]――That girl's name is \\C[2]Isolde\\C[0]."
+                "\\SE[2]—Her name is \\C[2]Isolde\\C[0]"
               ]
             },
             {
@@ -1603,7 +1603,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]She was born into a small noble family in a rural"
+                "\\SE[2] He was born into a small noble family in a certain"
               ]
             },
             {
@@ -1791,14 +1791,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]She fell in love with \\C[1]Reynard\\C[0], the son of a nobleman"
+                "\\SE[2] I fell in love with \\C[1] Reynard \\C[0], the son of the nobleman"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "who ruled the neighboring territory."
+                "who rules the neighboring territory, ."
               ]
             },
             {

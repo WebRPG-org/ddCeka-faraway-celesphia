@@ -16,7 +16,7 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "East Gate Entrance of the Royal Capital",
+  "displayName": "Entrance to the East Gate of the Royal Capital",
   "encounterList": [],
   "encounterStep": 30,
   "height": 50,
@@ -15037,7 +15037,7 @@
     null,
     {
       "id": 1,
-      "name": "兵士",
+      "name": "Soldier",
       "note": "",
       "pages": [
         {
@@ -15080,14 +15080,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier"
+                "Soldier "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"All clear. The monsters in this area aren't all that"
+                ": \"All clear. The monsters in this area aren't all that"
               ]
             },
             {
@@ -15129,7 +15129,7 @@
     },
     {
       "id": 2,
-      "name": "兵士",
+      "name": "Soldier",
       "note": "",
       "pages": [
         {
@@ -15172,14 +15172,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier"
+                "Soldier "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Frequent saving will save your ass.\""
+                ": \"Saving frequently will save you. I recommend you"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "proceed with caution.\""
               ]
             },
             {
@@ -15377,21 +15384,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Merchant"
+                "Merchant "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"You need a pass to bring goods into the royal"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "capital.\""
+                ": \"You need a pass to bring goods into the capital.\""
               ]
             },
             {
@@ -15409,14 +15409,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Merchant"
+                "Merchant "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Huh... Where did I put it...?\""
+                ": \"Huh... Where did I put that...?\""
               ]
             },
             {
@@ -15494,21 +15494,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Let's get inside quick and hit the tavern for a"
+                ": \"Let's get in there already. Let's go to the tavern"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "drink!\""
+                "and have a drink.\" (Heh heh, I'll get her drunk and"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Adventurer "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "then...!)"
               ]
             },
             {
@@ -15617,14 +15642,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Eeh, what should I do...?\""
+                ": \"Ugh, what should I do...?\" (Whoa, this guy is"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "definitely just looking for a hookup...)"
               ]
             },
             {
@@ -15733,21 +15765,53 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"The monsters around here are pretty docile, probably"
+                ": \"The monsters around here are pretty docile, but"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "because the royal guards are hunting them down.\""
+                "that’s probably because the soldiers from the capital"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Adventurer "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "are hunting them down. The farther you go, the stronger"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "the monsters get. Be careful.\""
               ]
             },
             {
@@ -15782,7 +15846,7 @@
     },
     {
       "id": 9,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -15893,7 +15957,7 @@
     },
     {
       "id": 10,
-      "name": "リリアン",
+      "name": "Lillian",
       "note": "",
       "pages": [
         {
@@ -16004,7 +16068,7 @@
     },
     {
       "id": 11,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -16217,7 +16281,7 @@
     },
     {
       "id": 12,
-      "name": "自動イベント",
+      "name": "Automatic Events",
       "note": "",
       "pages": [
         {
@@ -16505,14 +16569,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Sorry to keep you waiting. Let's go.\""
+                "\\SE[3] \"Sorry to keep you waiting. Let’s go.\""
               ]
             },
             {
@@ -16617,14 +16681,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Yes, let's set out!\""
+                "\\SE[5] \"Okay, let’s get going!\""
               ]
             },
             {
@@ -16642,21 +16706,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"If we just follow the highway, we"
+                "\\SE[4] \"For now, would it be okay if we just"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "should...\""
+                "follow the road?\""
               ]
             },
             {
@@ -16674,21 +16738,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"First, we'll leave the highway and head"
+                "\\SE[3] \"First, I’d like you to leave the highway"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "northeast.\""
+                "as is and head northeast .\""
               ]
             },
             {
@@ -16778,21 +16842,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"From here, we'll cut through the forest and"
+                "\\SE[3] \"Head through the forest from here and head"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "reach Greenvale Village.\""
+                "straight for the village of Greenvale.\""
               ]
             },
             {
@@ -16810,14 +16874,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"We can talk more as we walk.\""
+                "\\SE[3] \"We’ll talk as we walk. Trust me.\""
               ]
             },
             {
@@ -16835,21 +16899,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Understood. I'll follow your lead,"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Kyle-sama.\""
+                "\\SE[5] \"Understood. I will obey Lord Kyle.\""
               ]
             },
             {
@@ -16887,14 +16944,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Let's set out right away!\""
+                "\\SE[4] \"Let’s get going right away!\""
               ]
             },
             {
@@ -16929,7 +16986,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "[Luna] and [Lilian] have joined the party."
+                "Luna and Lilian have joined the party."
               ]
             },
             {
@@ -16958,9 +17015,8 @@
                 1,
                 0,
                 4,
-                "\"　Head Northeast\""
-              ],
-              "_original": "\"　北東へ進もう\""
+                "\"　Let's head northeast.\""
+              ]
             },
             {
               "code": 117,
@@ -17093,7 +17149,7 @@
     },
     {
       "id": 13,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -17214,7 +17270,7 @@
     },
     {
       "id": 14,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -17269,7 +17325,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Revive Soul\""
+                "I got \"Revive Soul\""
               ]
             },
             {
@@ -17424,7 +17480,7 @@
     },
     {
       "id": 15,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -17479,7 +17535,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Potion\""
+                "I got the \"Potion\""
               ]
             },
             {
@@ -17634,7 +17690,7 @@
     },
     {
       "id": 16,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -17689,7 +17745,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Antidote\""
+                "I got \"Anti-Poison\""
               ]
             },
             {
@@ -17844,7 +17900,7 @@
     },
     {
       "id": 17,
-      "name": "宝箱（フリーパス）",
+      "name": "Treasure Chest (Free Pass)",
       "note": "",
       "pages": [
         {
@@ -17887,7 +17943,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This treasure chest is password-protected."
+                "This treasure chest is password-protected. You'll find"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "out the password at the end of the game."
               ]
             },
             {
@@ -17905,14 +17968,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Inside: \"Free Pass: Equipment that prevents weak"
+                "It includes cheats such as \"Free Pass: Equipment that"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "enemies from appearing\""
+                "eliminates weak enemies\" ( ) and \"Max Level for the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Entire Party.\""
               ]
             },
             {
@@ -17930,7 +18000,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Useful for New Game+ and other playthroughs."
+                "Please make use of this when playing through the game a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "second time or similar."
               ]
             },
             {
@@ -17957,14 +18034,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Q. Enter the password you received when you"
+                "Q. What was the "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "participated in the Comedy Battle Tournament."
+                "duo name you used when you competed in the comedy"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "battle tournament, written in 10 katakana characters?"
               ]
             },
             {
@@ -18001,14 +18085,21 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Q. Enter the password you received when you"
+                "Q. What was the "
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "participated in the Comedy Battle Tournament."
+                "duo name you used when you competed in the comedy"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "battle tournament, written in 10 katakana characters?"
               ]
             },
             {
@@ -18046,7 +18137,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "All passwords must be entered in katakana."
+                "Please enter your password using only Katakana. * (10"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "characters)"
               ]
             },
             {
@@ -18102,7 +18200,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Runa Andrilian\""
+                "\"Luna and Lilian\" —That's correct! The treasure chest"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "will open."
               ]
             },
             {
@@ -18238,7 +18343,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Obtained the Free Pass!"
+                "I got a free pass!"
               ]
             },
             {
@@ -18268,7 +18373,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "All party members' levels have been maxed out!"
+                "The entire party has reached the maximum level!"
               ]
             },
             {
@@ -18325,7 +18430,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Incorrect password."
+                "The password is incorrect."
               ]
             },
             {

@@ -1363,7 +1363,7 @@
     null,
     {
       "id": 1,
-      "name": "店員",
+      "name": "Store Clerk",
       "note": "",
       "pages": [
         {
@@ -1423,7 +1423,7 @@
     },
     {
       "id": 2,
-      "name": "店員",
+      "name": "Store Clerk",
       "note": "",
       "pages": [
         {
@@ -1483,7 +1483,7 @@
     },
     {
       "id": 3,
-      "name": "店員",
+      "name": "Store Clerk",
       "note": "",
       "pages": [
         {
@@ -1543,7 +1543,7 @@
     },
     {
       "id": 4,
-      "name": "店員",
+      "name": "Store Clerk",
       "note": "",
       "pages": [
         {
@@ -1603,7 +1603,7 @@
     },
     {
       "id": 5,
-      "name": "店員",
+      "name": "Store Clerk",
       "note": "",
       "pages": [
         {
@@ -1663,7 +1663,7 @@
     },
     {
       "id": 6,
-      "name": "店員",
+      "name": "Store Clerk",
       "note": "",
       "pages": [
         {
@@ -1723,7 +1723,7 @@
     },
     {
       "id": 7,
-      "name": "モブ",
+      "name": "Mob",
       "note": "",
       "pages": [
         {
@@ -1783,7 +1783,7 @@
     },
     {
       "id": 8,
-      "name": "モブ",
+      "name": "Mob",
       "note": "",
       "pages": [
         {
@@ -1843,7 +1843,7 @@
     },
     {
       "id": 9,
-      "name": "モブ",
+      "name": "Mob",
       "note": "",
       "pages": [
         {
@@ -1903,7 +1903,7 @@
     },
     {
       "id": 10,
-      "name": "モブ",
+      "name": "Mob",
       "note": "",
       "pages": [
         {
@@ -1963,7 +1963,7 @@
     },
     {
       "id": 11,
-      "name": "モブ",
+      "name": "Mob",
       "note": "",
       "pages": [
         {
@@ -2023,7 +2023,7 @@
     },
     {
       "id": 12,
-      "name": "モブ",
+      "name": "Mob",
       "note": "",
       "pages": [
         {
@@ -2083,7 +2083,7 @@
     },
     {
       "id": 13,
-      "name": "モブ",
+      "name": "Mob",
       "note": "",
       "pages": [
         {
@@ -2143,7 +2143,7 @@
     },
     {
       "id": 14,
-      "name": "モブ",
+      "name": "Mob",
       "note": "",
       "pages": [
         {
@@ -2203,7 +2203,7 @@
     },
     {
       "id": 15,
-      "name": "ザイン",
+      "name": "Zain",
       "note": "",
       "pages": [
         {
@@ -2263,7 +2263,7 @@
     },
     {
       "id": 16,
-      "name": "ロゼ",
+      "name": "Rosé",
       "note": "",
       "pages": [
         {
@@ -2323,7 +2323,7 @@
     },
     {
       "id": 17,
-      "name": "デルガド",
+      "name": "Delgado",
       "note": "",
       "pages": [
         {
@@ -2383,7 +2383,7 @@
     },
     {
       "id": 18,
-      "name": "モズリー",
+      "name": "Mozley",
       "note": "",
       "pages": [
         {
@@ -2443,7 +2443,7 @@
     },
     {
       "id": 19,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -2962,7 +2962,7 @@
     },
     {
       "id": 20,
-      "name": "自動",
+      "name": "Automatic",
       "note": "",
       "pages": [
         {
@@ -3111,14 +3111,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
+                "\\SE[0] Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Hey, I want this~♡ Buy me Delgado~♡\""
+                "\\SE[1] \"Hey, I want this~♡ Please buy me a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Delgado~♡\""
               ]
             },
             {
@@ -3188,14 +3195,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Morgad"
+                "\\SE[0] Morgado "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Uh, 10,000 gold...\""
+                "\"W-10,000 gold…\""
               ]
             },
             {
@@ -3291,14 +3298,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
+                "\\SE[0] Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"P-p-p-please~♡\""
+                "\\SE[1] \"P·l·e·a·s·e♡\""
               ]
             },
             {
@@ -3343,14 +3350,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Morgad"
+                "\\SE[0] Morgado "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"O-okay. I'll buy it for you.\""
+                "\"O-okay. I’ll buy it for you.\""
               ]
             },
             {
@@ -3368,14 +3375,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
+                "\\SE[0] Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Yay! I love Delgado so much~♡\""
+                "\\SE[1] \"Yay, I love Delgado~♡\""
               ]
             },
             {

@@ -1771,7 +1771,7 @@
     null,
     {
       "id": 1,
-      "name": "馬車前",
+      "name": "In front of the carriage",
       "note": "",
       "pages": [
         {
@@ -1831,7 +1831,7 @@
     },
     {
       "id": 2,
-      "name": "馬車後",
+      "name": "Behind the Carriage",
       "note": "",
       "pages": [
         {
@@ -2791,7 +2791,7 @@
     },
     {
       "id": 18,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -3004,7 +3004,7 @@
     },
     {
       "id": 19,
-      "name": "自動イベ",
+      "name": "Auto Event",
       "note": "",
       "pages": [
         {
@@ -3369,14 +3369,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(…Aah… after all that time in the carriage,"
+                "(…Ah… Long carriage rides like this really"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "do make my body stiff…)"
               ]
             },
             {
@@ -3394,7 +3401,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "we arrived in the royal capital just as evening fell."
+                "By the time we arrived at the capital, it was already"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "evening."
               ]
             },
             {
@@ -3412,7 +3426,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I barely moved from sitting the whole time,"
+                "I was mostly just sitting there, but it still wore me"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "out a bit."
               ]
             },
             {
@@ -3474,21 +3495,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(The royal capital is as lively as ever,"
+                "(It's nice that the capital is still so"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "nice.)"
+                "lively.)"
               ]
             },
             {
@@ -3506,14 +3527,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The royal capital after two years was an even more"
+                "Returning to the capital for the first time in two"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "bustling city below the castle."
+                "years, I found that the town surrounding the castle had"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "grown into an even more vibrant place."
               ]
             },
             {
@@ -3531,14 +3559,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(First, I should grab a bite to eat…"
+                "(I'll just grab a quick bite to eat... Then"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I guess I'll go find a place to sleep.)"
               ]
             },
             {

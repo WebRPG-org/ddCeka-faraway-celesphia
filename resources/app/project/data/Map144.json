@@ -10138,7 +10138,7 @@
     null,
     {
       "id": 1,
-      "name": "影",
+      "name": "Shadow",
       "note": "",
       "pages": [
         {
@@ -10198,7 +10198,7 @@
     },
     {
       "id": 2,
-      "name": "影",
+      "name": "Shadow",
       "note": "",
       "pages": [
         {
@@ -10258,7 +10258,7 @@
     },
     {
       "id": 3,
-      "name": "影",
+      "name": "Shadow",
       "note": "",
       "pages": [
         {
@@ -10318,7 +10318,7 @@
     },
     {
       "id": 4,
-      "name": "影",
+      "name": "Shadow",
       "note": "",
       "pages": [
         {
@@ -10378,7 +10378,7 @@
     },
     {
       "id": 5,
-      "name": "影",
+      "name": "Shadow",
       "note": "",
       "pages": [
         {
@@ -10438,7 +10438,7 @@
     },
     {
       "id": 6,
-      "name": "影",
+      "name": "Shadow",
       "note": "",
       "pages": [
         {
@@ -10498,7 +10498,7 @@
     },
     {
       "id": 7,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -10665,7 +10665,7 @@
     },
     {
       "id": 8,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -10839,7 +10839,7 @@
     },
     {
       "id": 9,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -10899,7 +10899,7 @@
     },
     {
       "id": 10,
-      "name": "ミレー",
+      "name": "Millet",
       "note": "",
       "pages": [
         {
@@ -10959,7 +10959,7 @@
     },
     {
       "id": 11,
-      "name": "自動",
+      "name": "Automatic",
       "note": "",
       "pages": [
         {
@@ -11256,14 +11256,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"Milee, wait a second.\""
+                "\\SE[8]: \"Mille, wait a second.\""
               ]
             },
             {
@@ -11312,14 +11312,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Milee]"
+                "Mille "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"What's wrong, Kyle?\""
+                "\\SE[9] \"What's wrong, Kyle?\""
               ]
             },
             {
@@ -11337,14 +11337,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"My magic power has returned a little.\""
+                "\\SE[8] \"I've regained a little of my magical"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "power.\""
               ]
             },
             {
@@ -11385,7 +11392,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The more my magic power returns,"
+                "As soon as I regained even a little bit of magical"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "power, I poured everything into healing Mille."
               ]
             },
             {
@@ -11403,7 +11417,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the higher our chances of survival seem to be."
+                "That's because it seemed to me that doing so would"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "offer the highest survival rate ."
               ]
             },
             {
@@ -11444,7 +11465,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Milee's HP was restored."
+                "Mille's HP has been restored."
               ]
             },
             {
@@ -11462,14 +11483,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Milee]"
+                "Mille "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"I'm sorry. I'm grateful.\""
+                "\\SE[9] \"I’m sorry. Thank you, Kyle. Your wounds"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "must be hurting too…\""
               ]
             },
             {
@@ -11487,14 +11515,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"It's okay. You'll protect me, right?\""
+                "\\SE[8]: \"It's okay. Mille will protect us from"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "everything.\""
               ]
             },
             {
@@ -11530,14 +11565,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Milee]"
+                "Mille "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"Yeah... I will absolutely protect you.\""
+                "\\SE[9] \"Ah, I'll definitely protect you.\""
               ]
             },
             {
@@ -11589,14 +11624,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"I'm counting on you, Milee.\""
+                "\\SE[8] \"I'm counting on you, Mille.\""
               ]
             },
             {
@@ -11734,7 +11769,7 @@
     },
     {
       "id": 12,
-      "name": "雨",
+      "name": "Rain",
       "note": "",
       "pages": [
         {
@@ -11867,7 +11902,7 @@
     },
     {
       "id": 13,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -11922,7 +11957,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]You obtained a Potion."
+                "I got a potion."
               ]
             },
             {
@@ -12026,7 +12061,7 @@
     },
     {
       "id": 14,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -12081,7 +12116,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained a High Potion."
+                "I got a High Potion."
               ]
             },
             {
@@ -12185,7 +12220,7 @@
     },
     {
       "id": 15,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -12531,7 +12566,7 @@
     },
     {
       "id": 16,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -12877,7 +12912,7 @@
     },
     {
       "id": 17,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {

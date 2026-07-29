@@ -4537,7 +4537,7 @@
     null,
     {
       "id": 1,
-      "name": "ドア",
+      "name": "Door",
       "note": "",
       "pages": [
         {
@@ -4597,7 +4597,7 @@
     },
     {
       "id": 2,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -5116,7 +5116,7 @@
     },
     {
       "id": 3,
-      "name": "自動",
+      "name": "Automatic",
       "note": "",
       "pages": [
         {
@@ -5895,7 +5895,7 @@
     },
     {
       "id": 4,
-      "name": "馬車後",
+      "name": "Behind the Carriage",
       "note": "",
       "pages": [
         {
@@ -5955,7 +5955,7 @@
     },
     {
       "id": 5,
-      "name": "馬前",
+      "name": "In Front of the Horse",
       "note": "",
       "pages": [
         {
@@ -6015,7 +6015,7 @@
     },
     {
       "id": 6,
-      "name": "執事",
+      "name": "Butler",
       "note": "",
       "pages": [
         {
@@ -6075,7 +6075,7 @@
     },
     {
       "id": 7,
-      "name": "ロゼ",
+      "name": "Rosé",
       "note": "",
       "pages": [
         {
@@ -6288,7 +6288,7 @@
     },
     {
       "id": 8,
-      "name": "帰宅イベ",
+      "name": "Homecoming Event",
       "note": "",
       "pages": [
         {
@@ -6759,14 +6759,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Come on, let's go.\""
+                "\\SE[1] \"C-come on, let’s go.\""
               ]
             },
             {
@@ -6815,14 +6815,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"So this is your new adventurer style, huh?\""
+                "\\SE[3]: \"So that's the new Rosé adventurer style?\""
               ]
             },
             {
@@ -6840,14 +6840,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Yes, that's right. Come on, let's get in"
+                "\\SE[1] \"Yes, that’s right. Come on, let’s get in"
               ]
             },
             {
@@ -6872,14 +6872,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Yeah, let's get going.\""
+                "\\SE[3]: \"Ah, let's just get going.\""
               ]
             },
             {
@@ -6947,14 +6947,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "We boarded the carriage and set off toward Leaf Fall"
+                "We got into the carriage and headed for the village of"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Village."
+                "Leaffall at ."
               ]
             },
             {
@@ -6972,14 +6972,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"………\""
+                "\\SE[1] \"………\""
               ]
             },
             {
@@ -6997,14 +6997,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"………\""
+                "\\SE[3] \"………\""
               ]
             },
             {
@@ -7022,14 +7022,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Our conversation was limited to a few light exchanges;"
+                "Our conversation consisted of just a couple of casual"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "neither of us said much."
+                "exchanges— —and neither of us really had any long"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "conversations."
               ]
             },
             {
@@ -7068,14 +7075,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Since we set out in the evening, the sun had already"
+                "Since we left in the evening, the sun had already set"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "set by the time we arrived at the village."
+                "by the time we reached the village."
               ]
             },
             {

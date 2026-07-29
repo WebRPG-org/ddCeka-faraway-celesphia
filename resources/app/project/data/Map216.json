@@ -2774,7 +2774,7 @@
     null,
     {
       "id": 2,
-      "name": "客間ドア",
+      "name": "Living Room Door",
       "note": "",
       "pages": [
         {
@@ -3013,7 +3013,7 @@
     },
     {
       "id": 3,
-      "name": "奥へ続くドア",
+      "name": "The door leading to the back",
       "note": "",
       "pages": [
         {
@@ -3252,7 +3252,7 @@
     },
     {
       "id": 4,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -3772,7 +3772,7 @@
     null,
     {
       "id": 6,
-      "name": "村人",
+      "name": "Villager",
       "note": "",
       "pages": [
         {
@@ -3832,7 +3832,7 @@
     },
     {
       "id": 7,
-      "name": "村人",
+      "name": "Villager",
       "note": "",
       "pages": [
         {
@@ -3892,7 +3892,7 @@
     },
     {
       "id": 8,
-      "name": "シスター(襲撃)",
+      "name": "Sister (Assault)",
       "note": "",
       "pages": [
         {
@@ -3952,7 +3952,7 @@
     },
     {
       "id": 9,
-      "name": "村人",
+      "name": "Villager",
       "note": "",
       "pages": [
         {
@@ -4012,7 +4012,7 @@
     },
     {
       "id": 10,
-      "name": "村人",
+      "name": "Villager",
       "note": "",
       "pages": [
         {
@@ -4072,7 +4072,7 @@
     },
     {
       "id": 11,
-      "name": "村人",
+      "name": "Villager",
       "note": "",
       "pages": [
         {
@@ -4132,7 +4132,7 @@
     },
     {
       "id": 12,
-      "name": "村人",
+      "name": "Villager",
       "note": "",
       "pages": [
         {
@@ -4192,7 +4192,7 @@
     },
     {
       "id": 13,
-      "name": "村人",
+      "name": "Villager",
       "note": "",
       "pages": [
         {
@@ -4312,7 +4312,7 @@
     },
     {
       "id": 15,
-      "name": "村人",
+      "name": "Villager",
       "note": "",
       "pages": [
         {
@@ -4372,7 +4372,7 @@
     },
     {
       "id": 16,
-      "name": "村人",
+      "name": "Villager",
       "note": "",
       "pages": [
         {
@@ -4432,7 +4432,7 @@
     },
     {
       "id": 17,
-      "name": "村人",
+      "name": "Villager",
       "note": "",
       "pages": [
         {
@@ -4492,7 +4492,7 @@
     },
     {
       "id": 18,
-      "name": "村人",
+      "name": "Villager",
       "note": "",
       "pages": [
         {
@@ -4552,7 +4552,7 @@
     },
     {
       "id": 19,
-      "name": "村人",
+      "name": "Villager",
       "note": "",
       "pages": [
         {
@@ -4612,7 +4612,7 @@
     },
     {
       "id": 20,
-      "name": "村人",
+      "name": "Villager",
       "note": "",
       "pages": [
         {
@@ -4672,7 +4672,7 @@
     },
     {
       "id": 21,
-      "name": "村人",
+      "name": "Villager",
       "note": "",
       "pages": [
         {
@@ -4715,21 +4715,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Villager"
+                "Villager "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"They say 'Even a sardine's head has its devout"
+                ": \"They say, ‘Even a sardine’s head is a matter of"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "side'... Do you know what it means?\""
+                "faith’… but do you know what that means, ?\""
               ]
             },
             {
@@ -4747,21 +4747,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Villager"
+                "Villager "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"No matter how trivial or worthless something may seem,"
+                ": \"‘No matter how boring or worthless something may be,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "if you truly believe in it, it becomes precious.\""
+                "if you believe in it with all your heart, it becomes"
               ]
             },
             {
@@ -4779,21 +4779,39 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Villager"
+                "Villager "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"That's what it means, apparently. What a wonderful"
+                "something precious.’\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "saying.\""
+                "Villager "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                ": \"I hear that’s what it means. What a lovely phrase.\""
               ]
             },
             {
@@ -4828,7 +4846,7 @@
     },
     {
       "id": 22,
-      "name": "村人",
+      "name": "Villager",
       "note": "",
       "pages": [
         {
@@ -4871,21 +4889,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Villager"
+                "Villager "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I come here to pray to Lady Fortuna before starting my"
+                ": \"I come here to pray to Lady Fortuna before starting"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "day.\""
+                "my day .\""
               ]
             },
             {
@@ -4921,7 +4939,7 @@
     null,
     {
       "id": 24,
-      "name": "自動",
+      "name": "Automatic",
       "note": "",
       "pages": [
         {
@@ -5428,14 +5446,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma"
+                "Sister Alma "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"Good work, Kyle-sama.\""
+                "\\SE[8]: \"Good work today, Lord Kyle.\""
               ]
             },
             {
@@ -5453,21 +5471,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I've finished most of the outside. A few"
+                "\\SE[3]: \"We’re mostly done with the people"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "people were beyond help…\""
+                "outside. A few of them tried everything they"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                5,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "could, but…\""
               ]
             },
             {
@@ -5485,14 +5528,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma"
+                "Sister Alma "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"I see…\""
+                "\\SE[8] \"Is that... so...\""
               ]
             },
             {
@@ -5510,21 +5553,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma"
+                "Sister Alma "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"But if you hadn't come, Kyle-sama, I think"
+                "\\SE[8]: \"But if Lord Kyle hadn’t come, I think the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the damage would have been far worse…\""
+                "damage would have been even worse…\""
               ]
             },
             {
@@ -5542,14 +5585,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Glad I could be of some help.\""
+                "\\SE[3]: \"I'm glad I was able to help, even just a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "little.\""
               ]
             },
             {
@@ -5574,21 +5624,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Now, I'll lend a hand with treating the"
+                "\\SE[3] \"Well then, perhaps I should lend a hand in"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "people gathered here too…\""
+                "treating the people gathered here...\""
               ]
             },
             {
@@ -5967,14 +6017,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma"
+                "Sister Alma "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"U-um, Kyle-sama?\""
+                "\\SE[8]: \"Um… Lord Kyle\""
               ]
             },
             {
@@ -6001,14 +6051,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister"
+                "Sister "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"This is a terribly rude request, but…\""
+                "\\SE[8]: \"This is a very rude request, but…\""
               ]
             },
             {
@@ -6026,21 +6076,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma"
+                "Sister Alma "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"Lord Gilbert has urgently requested that"
+                "\\SE[8] \"The lord has said that he urgently wants"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "you come to his \\C[3]estate\\C[0].\""
+                "you to come to the \\C[3] mansion \\C[0] and …\""
               ]
             },
             {
@@ -6058,21 +6108,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma"
+                "Sister Alma "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"I'm tied up here, so… would you mind going"
+                "\\SE[8]: \"As you can see, I can’t get my hands"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "in my place and hearing him out?\""
+                "free… Would you mind listening to what they"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_alma1",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Sister Alma "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "have to say for me?\""
               ]
             },
             {
@@ -6090,14 +6165,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Huh? Me?\""
+                "\\SE[3]: \"Huh? M-me?\""
               ]
             },
             {
@@ -6115,14 +6190,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"N-No way, what's the request even about?\""
+                "\\SE[3]: \"Wait, wait—what kind of job is this,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "anyway?\""
               ]
             },
             {
@@ -6140,71 +6222,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma"
+                "Sister Alma "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"All he said was, 'I wish to borrow the"
+                "\\SE[8]: \"It just says, ‘I need God’s protection."
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "power of divine blessing. Please come to"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "ver2/ver2_alma1",
-                1,
-                0,
-                2,
-                ""
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]Sister Alma"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "the\""
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "ver2/ver2_alma1",
-                1,
-                0,
-                2,
-                ""
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]Sister Alma"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "estate at once.'\""
+                "Please come to the mansion immediately ’…\""
               ]
             },
             {
@@ -6222,14 +6254,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "What a reckless request. What if we need items? What"
+                "What a reckless request. What if there’s an item like"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "then?"
+                "that’s needed?"
               ]
             },
             {
@@ -6290,21 +6322,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma"
+                "Sister Alma "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"It's fine if you just listen. If you can"
+                "\\SE[8] \"It’s fine if you just listen. If you’re"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "resolve it, that would be wonderful…\""
+                "able to resolve the issue, I’d be grateful"
               ]
             },
             {
@@ -6322,21 +6354,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma"
+                "Sister Alma "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"We'll pay a \\C[3]reward\\C[0], so… could you please do"
+                "if you could do so…\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_alma1",
+                1,
+                0,
+                2,
+                ""
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "this for us…?\""
+                "Sister Alma "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[8]: \"\\C[3] We’ll pay you the fee \\C[0], so could you"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "please do this for us…?\""
               ]
             },
             {
@@ -6363,21 +6420,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"………(Well, Alma can't exactly leave here"
+                "\\SE[3] \"……… (Well, I guess it would be hard for"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "right now…)\""
+                "Sister to leave this place right now……)\""
               ]
             },
             {
@@ -6404,21 +6461,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"………Fine. I'll just listen to what he has to"
+                "\\SE[3] \"………Okay. I’m just going to listen to what"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "say.\""
+                "they have to say, so keep that in mind.\""
               ]
             },
             {
@@ -6483,7 +6540,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "――The man who governs this area is \"\\C[2]Gilbert=Wales\\C[0]\""
+                "―――The lord who rules this area is \"\\C[2] Gilberto Wales \\C[0]\" ."
               ]
             },
             {
@@ -6501,7 +6558,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "His estate is half a day's ride from Leaf Fall Village."
+                "The mansion was located about half a day's ride on"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "horseback from the village of Leaffall at coordinates ."
               ]
             },
             {
@@ -6643,7 +6707,7 @@
     },
     {
       "id": 25,
-      "name": "使者",
+      "name": "Messenger",
       "note": "",
       "pages": [
         {

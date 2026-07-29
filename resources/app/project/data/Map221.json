@@ -1975,7 +1975,7 @@
     null,
     {
       "id": 1,
-      "name": "ロゼ",
+      "name": "Rosé",
       "note": "",
       "pages": [
         {
@@ -2086,7 +2086,7 @@
     },
     {
       "id": 2,
-      "name": "ジルベルト",
+      "name": "Gilberto",
       "note": "",
       "pages": [
         {
@@ -2736,14 +2736,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "After finishing his duties, Gilberto invited Rose to"
+                "After finishing his work, Gilberto invited Rose to his"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "his mansion and treated her to a meal."
+                "mansion and treated her to a meal."
               ]
             },
             {
@@ -2813,21 +2813,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Then he suddenly told me... that he fell"
+                "\\SE[1] \"Then, out of the blue, he told me, ‘It was"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "for me at first sight.\""
+                "love at first sight.’\""
               ]
             },
             {
@@ -2845,21 +2845,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"He asked if I'd like to live with him"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "here.\""
+                "\\SE[1] \"‘Would you like to live here with me?’\""
               ]
             },
             {
@@ -2877,14 +2870,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"That's sudden.\""
+                "\\SE[3] \"That was sudden.\""
               ]
             },
             {
@@ -2902,14 +2895,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Seriously... I was really surprised.\""
+                "\\SE[1] \"Oh, come on… That really took me by"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "surprise.\""
               ]
             },
             {

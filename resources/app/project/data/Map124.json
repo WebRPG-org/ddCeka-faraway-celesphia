@@ -6121,7 +6121,7 @@
     null,
     {
       "id": 1,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -6295,7 +6295,7 @@
     },
     {
       "id": 2,
-      "name": "店員",
+      "name": "Store Clerk",
       "note": "",
       "pages": [
         {
@@ -6348,21 +6348,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist"
+                "Merchant Guild Reception : \"Welcome. This is the Arseon"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Welcome. This is the Arseleon Merchant House reception"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "desk.\""
+                "Merchant Guild reception desk. How may I assist you?\""
               ]
             },
             {
@@ -6380,21 +6373,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Uh, we'd like to cross the bridge and need"
+                "\\SE[5] \"Um, I’d like to cross the bridge, so could"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "a pass.\""
+                "I please have a pass?\""
               ]
             },
             {
@@ -6412,14 +6405,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist"
+                "Merchant Guild Receptionist : \"Understood. Could you"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Understood. Then that will be \\C[1]3000G\\C[0] and...\""
+                "please present \\C[1]3000G\\C[0], \\C[2], and the Guild Quest Completion"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Certificate \\C[0]?\""
               ]
             },
             {
@@ -6446,14 +6446,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"\\C[2]Guild Quest Completion Certificate\\C[0]...?\""
+                "\\SE[5] \"\\C[2] What is the Guild Quest Completion"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Certificate \\C[0]…?\""
               ]
             },
             {
@@ -6471,21 +6478,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist"
+                "Merchant Guild Receptionist : \"This is a program"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It's a system aimed at developing the city of"
+                "designed to promote the development of the city of"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Arseleon.\""
+                "Arcelion, and you will be required to complete certain"
               ]
             },
             {
@@ -6503,14 +6510,32 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist"
+                "missions for the benefit of the city, .\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"By completing the assigned tasks, you'll receive one.\""
+                "Merchant Guild Reception Desk : \"Upon completion of"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "that mission, we will issue you a Pass.\""
               ]
             },
             {
@@ -6537,14 +6562,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3](What a hassle...)"
+                "\\SE[3] (What a hassle this system is...)"
               ]
             },
             {
@@ -6562,14 +6587,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Got it. Where do we pick up the job?\""
+                "\\SE[3] \"Got it. Where can I get that job?\""
               ]
             },
             {
@@ -6587,21 +6612,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist"
+                "Guild Receptionist "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"All task assignments are handled at the guild in this"
+                ": \"All mission requests are handled by the guild in"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "city.\""
+                "this town. We apologize for the inconvenience, but"
               ]
             },
             {
@@ -6619,14 +6644,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist"
+                "Guild Receptionist "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"If you complete the quests presented by the guild,\""
+                "please come to the guild.\""
               ]
             },
             {
@@ -6644,14 +6669,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist"
+                "Guild Reception "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"bring that certificate with you and prepare \\C[1]3000G\\C[0],\""
+                ": \"If you complete the quest assigned by the guild, \\C[2] a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Guild Quest Completion Certificate \\C[0] will be issued.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Merchant Guild Reception : \"Please bring that with you,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "have \\C[1]3000G\\C[0] ready, and come back here again at .\""
               ]
             },
             {
@@ -6669,14 +6726,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Understood. We'll head to the guild.\""
+                "\\SE[5] \"Understood. I’ll check with the guild.\""
               ]
             },
             {
@@ -6746,9 +6803,8 @@
                 1,
                 0,
                 4,
-                "\"　Go to Arseleon Guild\""
-              ],
-              "_original": "\"　アーセレオンギルドへ行こう\""
+                "\"　Let's go to the Arselion Guild\""
+              ]
             },
             {
               "code": 217,
@@ -6826,21 +6882,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist"
+                "Merchant Guild Reception Desk : \"To obtain a bridge"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"To issue the Bridge Crossing Permit, it costs \\C[1]3000G\\C[0]"
+                "passage permit, you must present \\C[1]3000G\\C[0], \\C[2], and the Guild"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "and\""
+                "Quest Completion Certificate \\C[0].\""
               ]
             },
             {
@@ -6858,21 +6914,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist"
+                "Guild Receptionist "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"\\C[2]a Guild Quest Completion Certificate\\C[0] must be obtained"
+                ": \"The '\\C[2] Guild Quest Completion Certificate \\C[0]' can be"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "from the guild.\""
+                "obtained at the guild, so . We apologize for the"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Guild Receptionist "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "inconvenience, but please come to the guild .\""
               ]
             },
             {
@@ -6951,21 +7032,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist"
+                "Merchant Guild Reception : \"Welcome. This is the Arseon"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Welcome. This is the Arseleon Merchant House reception"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "desk.\""
+                "Merchant Guild reception desk. How may I assist you?\""
               ]
             },
             {
@@ -6983,21 +7057,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"I've brought the \\C[2]Guild Quest Completion"
+                "\\SE[5] \"I have brought you the \\C[2] Guild Quest"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Certificate\\C[0].\""
+                "Completion Certificate \\C[0].\""
               ]
             },
             {
@@ -7015,21 +7089,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist"
+                "Merchant Guild Reception : \"We would like to express"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"We are deeply grateful for the efforts of all who"
+                "our deepest gratitude for the efforts of all of you who"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "contribute to the future of our city.\""
+                "are shaping the future of this city. On behalf of"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "everyone at the Arserion Merchant Guild, we extend our"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "heartfelt thanks.\""
               ]
             },
             {
@@ -7065,21 +7164,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist"
+                "Merchant Guild Reception Desk : \"To process your通行許可証,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"For the processing of the travel permit, an additional"
+                "an additional fee of \\C[1]3000G\\C[0] is required. Please submit"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "fee of \\C[1]3,000G\\C[0] is required.\""
+                "the payment.\""
               ]
             },
             {
@@ -7097,7 +7196,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Will you pay 3,000G?\","
+                "I'll pay 3,000G. Is that okay?"
               ]
             },
             {
@@ -7112,10 +7211,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -7123,7 +7218,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -7191,14 +7286,21 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]Guild Receptionist"
+                "Merchant Guild Reception Desk : \"\\C[1]3000G\\C[0] We have indeed"
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\"We have received the \\C[1]3,000G\\C[0] in full.\""
+                "received your payment. Here is your通行許可証. Please take"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "it.\""
               ]
             },
             {
@@ -7228,7 +7330,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Obtained the Arseleon Great Bridge Travel Permit."
+                "I got a permit to cross the ArseLeon Bridge"
               ]
             },
             {
@@ -7246,14 +7348,14 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[3]\"So, it's finally Valdeen.\""
+                "\\SE[3] \"So it’s finally Valdine, huh?\""
               ]
             },
             {
@@ -7271,14 +7373,14 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[5]\"Yes! Let's go!\""
+                "\\SE[5] \"Okay! Let’s go! To Valdine!\""
               ]
             },
             {
@@ -7289,9 +7391,8 @@
                 1,
                 0,
                 4,
-                "\"　Cross Arseleon Great Bridge\""
-              ],
-              "_original": "\"　アーセレオン大橋を渡ろう\""
+                "\"　Let's cross the Arcelion Bridge\""
+              ]
             },
             {
               "code": 0,
@@ -7318,21 +7419,21 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]Guild Receptionist"
+                "Merchant Guild Reception : \"We're sorry, but it appears"
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\"We apologize, but it seems you do not have the full"
+                "you don't have 3,000G. Please come back after you've"
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "3,000G.\""
+                "gathered .\""
               ]
             },
             {
@@ -7355,7 +7456,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -7373,14 +7474,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Guild Receptionist"
+                "Merchant Guild Reception : \"We sincerely look forward"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"We sincerely look forward to your next visit.\""
+                "to seeing you again.\""
               ]
             },
             {
@@ -7459,21 +7560,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist"
+                "Merchant Guild Reception Desk : \"The Arceleon Bridge"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"To reach the Arseleon Great Bridge, exit the city and"
+                "leads out of town; look for the large gate right next"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "present your pass to the gatekeeper.\""
+                "to it ( ) as a landmark.\""
               ]
             },
             {
@@ -7491,21 +7592,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist"
+                "Merchant Guild Reception Desk : \"Please show your pass"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Re-issuance costs 3,000G, so please take care not to"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "lose it.\""
+                "to the gatekeeper to gain entry.\""
               ]
             },
             {
@@ -7523,21 +7617,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist"
+                "Merchant Guild Reception : \"Reissuing will cost another"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Adventurers, may the blessings of Goddess Fortuna be"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "with you...\""
+                "3,000G, so please be careful not to lose it.\""
               ]
             },
             {
@@ -7555,14 +7642,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist"
+                "Merchant Guild Reception Desk \"May the goddess Fortuna"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"...\""
+                "bless the adventurers… Have a safe journey.\""
               ]
             },
             {
@@ -7597,7 +7684,7 @@
     },
     {
       "id": 3,
-      "name": "2Fへ",
+      "name": "To the 2nd Floor",
       "note": "",
       "pages": [
         {
@@ -7719,14 +7806,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Bar Clerk"
+                "Bar attendant "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This is a lounge used for meetings and such.\""
+                ": \"This is a lounge used for meetings and such. Would"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "you like something to drink?\""
               ]
             },
             {
@@ -7804,21 +7898,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male"
+                "Man "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"U-um… could you do something about that…? Just a"
+                ": \"Um… Could you please work something out… Just a"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "little more would be enough…!\""
+                "little bit more would be enough…!\""
               ]
             },
             {
@@ -7896,21 +7990,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Arseleon Staff"
+                "Arcelion Staff Member "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I've appraised it. This ore has already dropped in"
+                ": \"I’ve taken a look. The value of this ore has already"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "value.\""
+                "dropped to … so right now, we’ll buy it for about this"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Arcelion Staff Member "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "much…\""
               ]
             },
             {
@@ -7988,21 +8107,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Merchant"
+                "Merchant "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Phew, I was just taking a breather after finishing up"
+                ": \"Phew, I'm just taking a breather now that my"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "some business talks.\""
+                "business meeting is over.\""
               ]
             },
             {
@@ -8020,21 +8139,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Merchant"
+                "Merchant "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I'm really glad it ended up being a better deal than I"
+                ": \"I'm really happy that we were able to close the deal"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "expected.\""
+                "on better terms than I expected.\""
               ]
             },
             {
@@ -8112,21 +8231,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I came to sell the gem I got from a quest. Like at an"
+                ": \"I came here to sell the gem I got from a quest. I"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "item shop or something.\""
+                "could sell it at a general store or something , but"
               ]
             },
             {
@@ -8144,21 +8263,53 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"If I can sell this for a high price, I wonder where"
+                "when it comes to expensive items, you really have to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'll go play...?!\""
+                "negotiate directly with the trading company.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Female Adventurer "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                ": \"If I can sell this for a high price, I wonder where"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I'll go to have some fun…!? Hee hee…!\""
               ]
             },
             {
@@ -8236,14 +8387,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Merchant"
+                "Merchant "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hey, you're an adventurer, right?\""
+                ": \"Hey, you’re an adventurer, right?\""
               ]
             },
             {
@@ -8258,10 +8409,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -8269,7 +8416,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -8287,14 +8434,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Merchant"
+                "Merchant "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Any place you've traveled to before―\""
+                ": \"Have you ever come across something called a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "‘Goddess Crystal’ in the places you’ve traveled to so"
               ]
             },
             {
@@ -8312,21 +8466,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Merchant"
+                "Merchant "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"even just info about the 'Goddess Crystal' would be"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "great. Anything at all, really.\""
+                "far?\""
               ]
             },
             {
@@ -8344,14 +8491,71 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Merchant"
+                "Merchant "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"I'll pay well for it! Please, I'm counting on you!\""
+                ": \"Even just information is fine. If you know anything"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "at all—anything at all—please be sure to let the"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Merchant "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Arserion Trading Company know.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Merchant Guild Member "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                ": \"I’ll be happy to help—count on me!\""
               ]
             },
             {
@@ -8364,7 +8568,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -8382,14 +8586,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Merchant"
+                "Merchant Guild Member "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Ah, I see. Sorry to have taken up your time.\""
+                ": \"I see. Well, that’s fine then. Sorry for taking up"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "your time.\""
               ]
             },
             {
@@ -8477,14 +8688,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Arseleon Private Guard"
+                "ArseLeon Private Security : \"This is the ArseLeon"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This is the Arseleon Merchant House.\""
+                "Trading Company. If you have business with us, please"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "proceed to the counter.\""
               ]
             },
             {
@@ -8562,14 +8780,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Arseleon Private Guard"
+                "ArseLeon Private Security : \"This is the ArseLeon"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This is the Arseleon Merchant House.\""
+                "Trading Company. If you have business with us, please"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "proceed to the counter.\""
               ]
             },
             {
@@ -8604,7 +8829,7 @@
     },
     {
       "id": 12,
-      "name": "店員2",
+      "name": "Store Clerk 2",
       "note": "",
       "pages": [
         {
@@ -8707,21 +8932,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Arseleon Private Guard"
+                "Arseon's Private Guard "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"When the time for negotiations approaches, please wait"
+                ": \"When the meeting time approaches, please wait on the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "upstairs.\""
+                "second floor.\""
               ]
             },
             {
@@ -8799,21 +9024,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Maid"
+                "Maid "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Welcome. This is where customers who come for business"
+                ": \"Welcome. This is the lounge for guests who have come"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "negotiations\""
+                "here for business meetings. Please feel free to take a"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Maid "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "seat wherever you like.\""
               ]
             },
             {
@@ -8848,7 +9098,7 @@
     },
     {
       "id": 15,
-      "name": "エリス",
+      "name": "Eris",
       "note": "",
       "pages": [
         {
@@ -8908,7 +9158,7 @@
     },
     {
       "id": 16,
-      "name": "エリス杯EVクリア",
+      "name": "Cleared the Ellis Cup EV",
       "note": "",
       "pages": [
         {
@@ -9216,21 +9466,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist"
+                "Merchant Guild Reception : \"Welcome. This is the Arseon"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Welcome. This is the Arseleon Merchant House reception"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "desk.\""
+                "Merchant Guild reception desk. How may I assist you?\""
               ]
             },
             {
@@ -9248,14 +9491,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
+                "\\SE[0] Ellis "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[6]\"U-um... I'd like to discuss a loan...\""
+                "\\SE[6] \"Um… I’d like to discuss a loan…\""
               ]
             },
             {
@@ -9294,14 +9537,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist"
+                "Merchant Guild Receptionist : \"Understood. Please fill"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Understood. Please fill out this form.\""
+                "out this form.\""
               ]
             },
             {
@@ -9388,14 +9631,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The merchant house receptionist's gaze sweeps over"
+                "The merchant guild receptionist’s gaze sweeps over"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Eris's entire body."
+                "every inch of Elice’s body."
               ]
             },
             {
@@ -9413,21 +9656,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist"
+                "Merchant Guild Reception Desk (Hmm... Not bad at all."
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Hmm... Not bad at all. Every now and then, a ripe"
+                "It's not so bad to eat some ripe fruit every once in a"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "fruit..."
+                "while.)"
               ]
             },
             {
@@ -9500,14 +9743,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
+                "\\SE[0] Ellis "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[6]\"I've finished. Is this all right?\""
+                "\\SE[6] \"It’s done. Is this okay?\""
               ]
             },
             {
@@ -9525,14 +9768,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist"
+                "Merchant Guild Reception : \"Thank you for filling out"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Thank you for filling it out. I'll check it for you.\""
+                "the form. Please wait a moment at while we verify your"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "information.\""
               ]
             },
             {
@@ -9709,14 +9959,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "(Hey.)"
+                "Merchant Guild Reception Desk (Oi)"
               ]
             },
             {
@@ -9765,14 +10008,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "(What's that?)"
+                "Merchant Guild Reception 2 (What's that?)"
               ]
             },
             {
@@ -9790,21 +10026,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist"
+                "Merchant Guild Reception (Hey, receptionist, switch"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Switch places with me for a bit. I've got a plaything"
+                "places with me for a sec. Some prey I want to play with"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "coming in.)"
+                "just showed up.)"
               ]
             },
             {
@@ -9822,14 +10058,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
+                "Merchant Guild Reception 2 (Got it. It's a loan of 1,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Got it. It's a loan of 1, after all.)"
+                "after all.)"
               ]
             },
             {
@@ -9847,14 +10083,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "(Heh, I owe you one.)"
+                "Merchant Guild Reception (Hehe, I owe you one.)"
               ]
             },
             {
@@ -9995,14 +10224,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist"
+                "Merchant Guild Reception Desk : \"There were no issues"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This form is fine. Since everything checks out,\""
+                "with the information you provided, so we have received"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "it ( ).\""
               ]
             },
             {
@@ -10020,14 +10256,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist"
+                "Merchant Guild Receptionist : \"In that case, I will be"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I, your humble servant, will be handling your case.\""
+                "handling this matter.\""
               ]
             },
             {
@@ -10045,14 +10281,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
+                "\\SE[0] Ellis "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[6]\"Y-yes, please take care of me.\""
+                "\\SE[6] \"Yes, thank you very much.\""
               ]
             },
             {
@@ -10070,21 +10306,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist"
+                "Merchant Guild Reception Desk : \"We will be holding a"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Then, starting at xx o'clock, I'll arrange a meeting"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "for the loan consultation.\""
+                "loan consultation session starting at xx o’clock, so —\""
               ]
             },
             {
@@ -10119,21 +10348,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Guild Receptionist"
+                "Merchant Guild Reception : \"When the time comes, please"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"When the time comes, please come to the \\C[1]room at the"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "very end of the 2F hallway\\C[0].\""
+                "come to \\C[1]2F, the room at the very back, \\C[0].\""
               ]
             },
             {
@@ -10286,7 +10508,7 @@
     },
     {
       "id": 17,
-      "name": "紙",
+      "name": "Paper",
       "note": "",
       "pages": [
         {

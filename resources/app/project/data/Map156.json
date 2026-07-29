@@ -2458,7 +2458,7 @@
     null,
     {
       "id": 1,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -2625,7 +2625,7 @@
     },
     {
       "id": 2,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -2792,7 +2792,7 @@
     },
     {
       "id": 3,
-      "name": "階段",
+      "name": "Stairs",
       "note": "",
       "pages": [
         {
@@ -2876,7 +2876,7 @@
     },
     {
       "id": 4,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -3222,7 +3222,7 @@
     },
     {
       "id": 5,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -3568,7 +3568,7 @@
     },
     {
       "id": 6,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -3914,7 +3914,7 @@
     },
     {
       "id": 7,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -3969,7 +3969,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained a white flower."
+                "I got some white flowers."
               ]
             },
             {
@@ -4121,7 +4121,7 @@
     },
     {
       "id": 8,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -4176,7 +4176,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained a white flower."
+                "I got some white flowers."
               ]
             },
             {

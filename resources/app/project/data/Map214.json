@@ -1363,7 +1363,7 @@
     null,
     {
       "id": 1,
-      "name": "外に出る",
+      "name": "Go outside",
       "note": "",
       "pages": [
         {
@@ -1492,21 +1492,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Villager"
+                "Villager "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"They say the Sacred Forest has something that serves"
+                ": \"They say there is something in the Sacred Forest"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "as a \\C[3]signpost\\C[0].\""
+                "that serves as a \\C[3] guidepost \\C[0].\""
               ]
             },
             {
@@ -1524,14 +1524,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Villager"
+                "Villager "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"You should observe your surroundings carefully.\""
+                ": \"You need to observe your surroundings carefully.\""
               ]
             },
             {
@@ -1566,7 +1566,7 @@
     },
     {
       "id": 3,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -1631,7 +1631,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Half Elixir."
+                "I got a Half Elixir"
               ]
             },
             {

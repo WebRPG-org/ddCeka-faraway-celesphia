@@ -3925,7 +3925,7 @@
     null,
     {
       "id": 1,
-      "name": "馬車",
+      "name": "Horse-drawn carriage",
       "note": "",
       "pages": [
         {
@@ -3985,7 +3985,7 @@
     },
     {
       "id": 2,
-      "name": "馬車後",
+      "name": "Behind the Carriage",
       "note": "",
       "pages": [
         {
@@ -4045,7 +4045,7 @@
     },
     {
       "id": 3,
-      "name": "兵士1",
+      "name": "Soldier 1",
       "note": "",
       "pages": [
         {
@@ -4105,7 +4105,7 @@
     },
     {
       "id": 4,
-      "name": "兵士2",
+      "name": "Soldier 2",
       "note": "",
       "pages": [
         {
@@ -4165,7 +4165,7 @@
     },
     {
       "id": 5,
-      "name": "兵士3",
+      "name": "Soldier 3",
       "note": "",
       "pages": [
         {
@@ -4225,7 +4225,7 @@
     },
     {
       "id": 6,
-      "name": "兵士4",
+      "name": "Soldier 4",
       "note": "",
       "pages": [
         {
@@ -4285,7 +4285,7 @@
     },
     {
       "id": 7,
-      "name": "兵士5",
+      "name": "Soldier 5",
       "note": "",
       "pages": [
         {
@@ -4345,7 +4345,7 @@
     },
     {
       "id": 8,
-      "name": "兵士6",
+      "name": "Soldier 6",
       "note": "",
       "pages": [
         {
@@ -4405,7 +4405,7 @@
     },
     {
       "id": 9,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -4465,7 +4465,7 @@
     },
     {
       "id": 10,
-      "name": "兵士7",
+      "name": "Soldier 7",
       "note": "",
       "pages": [
         {
@@ -4525,7 +4525,7 @@
     },
     {
       "id": 11,
-      "name": "隊長",
+      "name": "Captain",
       "note": "",
       "pages": [
         {
@@ -4585,7 +4585,7 @@
     },
     {
       "id": 12,
-      "name": "自動テスト",
+      "name": "Automated Testing",
       "note": "",
       "pages": [
         {
@@ -4661,7 +4661,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]---Ten years ago"
+                "——10 years ago"
               ]
             },
             {
@@ -6395,7 +6395,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It was a terrible storm that day."
+                "There was a terrible storm that day."
               ]
             },
             {
@@ -6413,7 +6413,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I was part of a luggage-carrying party."
+                "I was part of a party that was carrying supplies."
               ]
             },
             {
@@ -6431,14 +6431,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The reward was generous, but it was a nonstop quest"
+                "The pay was exceptional, but it was a quest with a"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "that lasted a full day and night."
+                "grueling schedule that required walking nonstop for a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "full day and night."
               ]
             },
             {
@@ -6456,14 +6463,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Captain"
+                "Captain "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hey! You're lagging behind! Hurry up!\""
+                ": \"Hey, you're running late! Hurry up!\""
               ]
             },
             {
@@ -6481,7 +6488,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "We pushed through the mountain pass thick with miasma"
+                "We pressed on through the miasma-filled mountains of"
               ]
             },
             {
@@ -7382,14 +7389,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Monster"
+                "Monster "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ggyaggyaah!\""
+                ": \"Ggyagya!\""
               ]
             },
             {
@@ -7581,7 +7588,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Where miasma is thick, monsters are plentiful."
+                "Places with strong miasma tend to have many monsters."
               ]
             },
             {
@@ -7599,14 +7606,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Even though we were all seasoned veterans, the forced"
+                "This team was also made up of seasoned veterans, but"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "march was wearing us down little by little."
+                "combined with the grueling schedule, they gradually"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "wore down."
               ]
             },
             {
@@ -7717,7 +7731,7 @@
     },
     {
       "id": 13,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {

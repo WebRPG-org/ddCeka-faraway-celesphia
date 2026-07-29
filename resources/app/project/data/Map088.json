@@ -2077,7 +2077,7 @@
     null,
     {
       "id": 1,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -2596,7 +2596,7 @@
     },
     {
       "id": 2,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -3115,7 +3115,7 @@
     },
     {
       "id": 3,
-      "name": "リリアン",
+      "name": "Lillian",
       "note": "",
       "pages": [
         {
@@ -3634,7 +3634,7 @@
     },
     {
       "id": 4,
-      "name": "自動イベント",
+      "name": "Automatic Events",
       "note": "",
       "pages": [
         {
@@ -3961,14 +3961,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Let's do this!\""
+                "\\SE[3]: \"Let's do this!\""
               ]
             },
             {
@@ -3986,14 +3986,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "Lillian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Got it!\""
+                "\\SE[4]: \"Got it!\""
               ]
             },
             {
@@ -4016,14 +4016,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5](Got it...?)"
+                "\\SE[5] (Got it…?)"
               ]
             },
             {
@@ -4102,14 +4102,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]This was my first time doing carpentry work. I cut"
+                "\\SE[3] I did carpentry work for the first time in my life. I"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "wood, carried it, and hammered nails."
+                "cut wood, carried it, and hammered in nails."
               ]
             },
             {
@@ -4188,14 +4188,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]With Lilian, Luna, and my foster mother working"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "together,"
+                "\\SE[3] Working together with Lilian, Luna, and my stepmother,"
               ]
             },
             {
@@ -4283,7 +4276,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]and sometimes even the villagers helped out,"
+                "\\SE[3] Sometimes the villagers even lend a hand"
               ]
             },
             {
@@ -4495,7 +4488,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]and then―."
+                "\\SE[3] And then—."
               ]
             },
             {
@@ -4601,7 +4594,7 @@
     },
     {
       "id": 5,
-      "name": "ノエル",
+      "name": "Noel",
       "note": "",
       "pages": [
         {
@@ -4814,7 +4807,7 @@
     },
     {
       "id": 6,
-      "name": "村の人たち",
+      "name": "The villagers",
       "note": "",
       "pages": [
         {
@@ -4874,7 +4867,7 @@
     },
     {
       "id": 7,
-      "name": "村の人たち",
+      "name": "The villagers",
       "note": "",
       "pages": [
         {
@@ -4934,7 +4927,7 @@
     },
     {
       "id": 8,
-      "name": "村の人",
+      "name": "Village Residents",
       "note": "",
       "pages": [
         {

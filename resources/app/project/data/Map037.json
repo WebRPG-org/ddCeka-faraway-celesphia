@@ -3097,7 +3097,7 @@
     null,
     {
       "id": 1,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -3514,7 +3514,7 @@
     },
     {
       "id": 2,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -3931,7 +3931,7 @@
     },
     {
       "id": 3,
-      "name": "リリアン",
+      "name": "Lillian",
       "note": "",
       "pages": [
         {
@@ -4348,7 +4348,7 @@
     },
     {
       "id": 4,
-      "name": "自動イベント",
+      "name": "Automatic Events",
       "note": "",
       "pages": [
         {
@@ -4485,7 +4485,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "※This event has already been viewed. Skip it?"
+                "*You've already viewed this event. Would you like to"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "skip it?"
               ]
             },
             {
@@ -4500,10 +4507,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -4511,7 +4514,7 @@
               "indent": 1,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -4522,9 +4525,8 @@
                 1,
                 0,
                 4,
-                "\"　Go to Arseleon Merchant House\""
-              ],
-              "_original": "\"　アーセレオン商会へ行こう\""
+                "\"　Let's go to the Arseon Trading Company\""
+              ]
             },
             {
               "code": 121,
@@ -4633,7 +4635,7 @@
               "indent": 1,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -5636,14 +5638,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Lord Kyle, it's here.\""
+                "\\SE[5] \"Lord Kyle, we’re here.\""
               ]
             },
             {
@@ -5701,14 +5703,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Huh? What is it...?\""
+                "\\SE[3] \"Huh? What are you talking about…?\""
               ]
             },
             {
@@ -5757,14 +5759,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"There's an elf barrier here.\""
+                "\\SE[5] \"There is an elven barrier here.\""
               ]
             },
             {
@@ -5782,14 +5784,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"A barrier?\""
+                "\\SE[3] \"A barrier?\""
               ]
             },
             {
@@ -5807,14 +5809,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Well, seeing is believing. Let's go.\""
+                "\\SE[4] \"Well, you’re quick to spot things. Let’s"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "go.\""
               ]
             },
             {
@@ -5832,21 +5841,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Go where...? There's nothing but trees"
+                "\\SE[3] \"You mean… there’s nothing but trees there,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "there.\""
+                "so it doesn’t look like we can get through…\""
               ]
             },
             {
@@ -5864,14 +5873,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Please come with me. If you're an elf,\""
+                "\\SE[5] \"Please follow me—since you’re an elf, you"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "can open it…\""
               ]
             },
             {

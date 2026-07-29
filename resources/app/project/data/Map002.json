@@ -1363,7 +1363,7 @@
     null,
     {
       "id": 1,
-      "name": "ヴェルガン地方",
+      "name": "Vergan Region",
       "note": "",
       "pages": [
         {
@@ -1446,7 +1446,7 @@
               "code": 108,
               "indent": 0,
               "parameters": [
-                "info:Vergand_Region"
+                "info: Vergan Region "
               ]
             },
             {
@@ -1489,7 +1489,7 @@
     null,
     {
       "id": 3,
-      "name": "王都",
+      "name": "Royal Capital",
       "note": "",
       "pages": [
         {
@@ -1572,7 +1572,7 @@
               "code": 108,
               "indent": 0,
               "parameters": [
-                "info:Royal_Capital_A-Urs"
+                "info: Royal Capital A-Urus "
               ]
             },
             {
@@ -1614,7 +1614,7 @@
     },
     {
       "id": 4,
-      "name": "ルウィンの森",
+      "name": "Luwin Forest",
       "note": "",
       "pages": [
         {
@@ -1697,7 +1697,7 @@
               "code": 108,
               "indent": 0,
               "parameters": [
-                "info:Lewin_Forest"
+                "info:Luwin Forest "
               ]
             },
             {
@@ -1739,7 +1739,7 @@
     },
     {
       "id": 5,
-      "name": "グリーンベイルの村",
+      "name": "The Village of Greenvale",
       "note": "",
       "pages": [
         {
@@ -1822,7 +1822,7 @@
               "code": 108,
               "indent": 0,
               "parameters": [
-                "info:Greenvale_Village"
+                "info:Greenvale Village "
               ]
             },
             {
@@ -1864,7 +1864,7 @@
     },
     {
       "id": 6,
-      "name": "カルドーン炭鉱",
+      "name": "Caldon Coal Mine",
       "note": "",
       "pages": [
         {
@@ -1947,7 +1947,7 @@
               "code": 108,
               "indent": 0,
               "parameters": [
-                "info:Caldoon_Coal_Mine"
+                "info:Caldon Coal Mine "
               ]
             },
             {
@@ -1989,7 +1989,7 @@
     },
     {
       "id": 7,
-      "name": "マップ矢印",
+      "name": "Map Arrow",
       "note": "",
       "pages": [
         {
@@ -2049,7 +2049,7 @@
     },
     {
       "id": 8,
-      "name": "アーセレオンの街",
+      "name": "The City of Arseon",
       "note": "",
       "pages": [
         {
@@ -2132,7 +2132,7 @@
               "code": 108,
               "indent": 0,
               "parameters": [
-                "info:Arseleon_City"
+                "info:The City of Arseon "
               ]
             },
             {
@@ -2174,7 +2174,7 @@
     },
     {
       "id": 9,
-      "name": "霊峰グリムリッジ",
+      "name": "The Sacred Peak of Grimridge",
       "note": "",
       "pages": [
         {
@@ -2257,7 +2257,7 @@
               "code": 108,
               "indent": 0,
               "parameters": [
-                "info:Mt._Grimridge"
+                "info:Sacred Peak Grimridge "
               ]
             },
             {
@@ -2299,7 +2299,7 @@
     },
     {
       "id": 10,
-      "name": "ヴェルガン大橋",
+      "name": "Vergan Bridge",
       "note": "",
       "pages": [
         {
@@ -2382,7 +2382,7 @@
               "code": 108,
               "indent": 0,
               "parameters": [
-                "info:Vergant_Grand_Bridge"
+                "info: Vergan Bridge "
               ]
             },
             {
@@ -2424,7 +2424,7 @@
     },
     {
       "id": 11,
-      "name": "エルデニアの街",
+      "name": "The City of Eldenia",
       "note": "",
       "pages": [
         {
@@ -2507,7 +2507,7 @@
               "code": 108,
               "indent": 0,
               "parameters": [
-                "info:Eldenia_Town"
+                "info:The City of Eldenia "
               ]
             },
             {
@@ -2549,7 +2549,7 @@
     },
     {
       "id": 12,
-      "name": "カウィル遺跡",
+      "name": "Kawiru Ruins",
       "note": "",
       "pages": [
         {
@@ -2632,14 +2632,14 @@
               "code": 108,
               "indent": 0,
               "parameters": [
-                "info:Kawill_Ruins"
+                "info: Kawiru Ruins "
               ]
             },
             {
               "code": 408,
               "indent": 0,
               "parameters": [
-                "infoMove:0,40"
+                "infoMove: 0,40"
               ]
             },
             {
@@ -2674,7 +2674,7 @@
     },
     {
       "id": 13,
-      "name": "ヴァルディーン地方",
+      "name": "Valdine Region",
       "note": "",
       "pages": [
         {
@@ -2757,7 +2757,7 @@
               "code": 108,
               "indent": 0,
               "parameters": [
-                "info:Valdeen_Region"
+                "info: Valdine Region "
               ]
             },
             {
@@ -2799,7 +2799,7 @@
     },
     {
       "id": 14,
-      "name": "自動イベント",
+      "name": "Automatic Events",
       "note": "",
       "pages": [
         {
@@ -2887,14 +2887,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"First, look to the southwest.\""
+                "\\SE[3] \"First, look to the southwest.\""
               ]
             },
             {
@@ -2946,21 +2946,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"This large castle town is our starting"
+                "\\SE[3] \"This large castle town is our starting"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "point.\""
+                "point— the royal capital, A-Urus.\""
               ]
             },
             {
@@ -2978,14 +2978,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"So this is where we are now.\""
+                "\\SE[5] \"This is where we are right now, isn’t it?\""
               ]
             },
             {
@@ -3037,14 +3037,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"This is the Valdeen region.\""
+                "\\SE[3] \"This is the Valdine Region\""
               ]
             },
             {
@@ -3096,14 +3096,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"This is Eldenia Town.\""
+                "\\SE[3] \"This is the town of Eldenia.\""
               ]
             },
             {
@@ -3155,14 +3155,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"And beyond the eastern edge lies...\""
+                "\\SE[3] \"And that red mountain at the eastern edge"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "is the sacred peak of Grimridge.\""
               ]
             },
             {
@@ -3187,14 +3194,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"...Celesphia is here...!\""
+                "\\SE[5] \"Ceresphere is right here…!\""
               ]
             },
             {
@@ -3246,14 +3253,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"To reach Valdeen,\""
+                "\\SE[3] \"To get to Valdine, you have to go through"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "the Vergan region.\""
               ]
             },
             {
@@ -3305,14 +3319,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"we start here.\""
+                "\\SE[3] \"First, let’s go here. Head for Greenvale"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Village.\""
               ]
             },
             {
@@ -3330,14 +3351,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"We'll restock supplies here,\""
+                "\\SE[3] \"Let's restock our supplies here and head"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "to the Vergan region.\""
               ]
             },
             {
@@ -3362,14 +3390,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Understood. First, we'll\""
+                "\\SE[4] \"Got it. First, we’ll head to Greenvale"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Village, right?\""
               ]
             },
             {
@@ -3412,21 +3447,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"But the river's in the way, isn't it? We"
+                "\\SE[4] \"But isn’t the river in the way, making it"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "can't cross it...\""
+                "impossible to get through…?\""
               ]
             },
             {
@@ -3451,21 +3486,53 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"True, for carriages and such, you'd follow"
+                "\\SE[3] \"It’s true that if you’re traveling by"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the highway,\""
+                "carriage or something, you’d have to head"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                5,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "south along the highway and cross the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "bridge,\""
               ]
             },
             {
@@ -3517,21 +3584,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"but for a small group, we can cut straight"
+                "\\SE[3] \"With a small group, we can cut straight"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "through Lewin Forest.\""
+                "through Luwin Forest. That should cut the"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "time significantly.\""
               ]
             },
             {
@@ -3549,21 +3641,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Then we'll leave the main road and head"
+                "\\SE[5] \"So you left the road and headed northeast"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "northeast.\""
+                ", didn’t you!\""
               ]
             },
             {
@@ -3588,14 +3680,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Let's head to Lewin Forest right away!\""
+                "\\SE[4] \"Let’s head to Lewin Forest right away!\""
               ]
             },
             {
@@ -3776,14 +3868,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"First, we're here right now.\""
+                "\\SE[3] \"First of all, we’re here right now— in the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "village of Greenvale.\""
               ]
             },
             {
@@ -3846,21 +3945,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Tomorrow, we're heading north of Green"
+                "\\SE[3] \"Tomorrow, we’re heading to the Caldorn"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Vale.\""
+                "Coal Mine north of Greenvale.\""
               ]
             },
             {
@@ -3878,14 +3977,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"The coal mine, you mean?\""
+                "\\SE[5] \"Is this a coal mine?\""
               ]
             },
             {
@@ -3903,14 +4002,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Yeah, though it's abandoned now.\""
+                "\\SE[3] \"Ah, it’s been abandoned for a while now,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "though.\""
               ]
             },
             {
@@ -3928,21 +4034,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Mining on both sides of the mountain led"
+                "\\SE[3] \"As a result of mining on both sides of the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "to\""
+                "mountain, you can now pass right through the"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "middle.\""
               ]
             },
             {
@@ -4005,21 +4136,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"passing through the mine and heading to the"
+                "\\SE[3] \"Leave the coal mine and head for the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Vergan region.\""
+                "Vergan region\""
               ]
             },
             {
@@ -4037,14 +4168,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Are there monsters in the mine...?\""
+                "\\SE[4] \"Are there monsters in the coal mine…?\""
               ]
             },
             {
@@ -4062,21 +4193,53 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Probably. Those places are thick with"
+                "\\SE[3] \"I’m sure there are places like that—places"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "miasma.\""
+                "where miasma tends to accumulate and"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                5,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "monsters are likely to spawn. Make sure"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "you’re fully prepared for battle.\""
               ]
             },
             {
@@ -4094,14 +4257,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Understood...\""
+                "\\SE[5] \"Yes, I understand…\""
               ]
             },
             {
@@ -4286,14 +4449,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"We're heading to the Vergan region.\""
+                "\\SE[3] \"So, we’ve entered the Vergan region, ...\""
               ]
             },
             {
@@ -4338,21 +4501,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"First, we're going to the city of"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Arseleon.\""
+                "\\SE[3] \"First, let’s head to the town of Arseon.\""
               ]
             },
             {
@@ -4370,14 +4526,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Directly to Valdeen, then?\""
+                "\\SE[4] \"We’re heading straight to Valdine—so, ,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "can’t we go there?\""
               ]
             },
             {
@@ -4413,14 +4576,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"To get to Valdeen, we need to cross\""
+                "\\SE[3] \"To get to Valdine, we’ll need to cross"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "this bridge.\""
               ]
             },
             {
@@ -4438,21 +4608,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"this great bridge. The Arseleon Merchant"
+                "\\SE[3] \"This bridge is managed by the Aseeleon"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "House\""
+                "Trading Company.\""
               ]
             },
             {
@@ -4470,14 +4640,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Do we need to pay a toll to cross it?\""
+                "\\SE[4] \"Do I have to pay a toll?\""
               ]
             },
             {
@@ -4506,21 +4676,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"That's right. We'll go to the Arseleon"
+                "\\SE[3] \"That’s right. I need to go to the Arcelion"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Merchant House and\""
+                "Trading Company and get a pass.\""
               ]
             },
             {
@@ -4538,14 +4708,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Understood. Then, to the city of Arseleon.\""
+                "\\SE[4] \"Understood. Then let’s head to the town of"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Arcelion .\""
               ]
             },
             {
@@ -4716,21 +4893,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
+                "\\SE[0] Fioretta "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Then, let me explain the location of the"
+                "\\SE[2] \"Well then, let me explain where the Kawil"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Kawill Ruins.\""
+                "Ruins are.\""
               ]
             },
             {
@@ -4748,14 +4925,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
+                "\\SE[0] Fioretta "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Right now, we're in the city of Arseleon.\""
+                "\\SE[2] \"I’m here right now, in the city of"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Arseon.\""
               ]
             },
             {
@@ -4825,14 +5009,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
+                "\\SE[0] Fioretta "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"The Kawill Ruins are here, from Arseleon―\""
+                "\\SE[2] \"The Kawil Ruins are located here—in the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "forest by the lake, south of Arseon.\""
               ]
             },
             {
@@ -4857,14 +5048,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Are there monsters there?\""
+                "\\SE[3] \"Are there any monsters?\""
               ]
             },
             {
@@ -4882,21 +5073,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
+                "\\SE[0] Fioretta "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Yes, the ruins are thought to be over a"
+                "\\SE[2] \"Yes, the ruins are believed to be over"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "thousand years old.\""
+                "1,000 years old, and the walls and floors"
               ]
             },
             {
@@ -4914,21 +5105,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
+                "\\SE[0] Fioretta "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"They're filled with miasma, making them a"
+                "have completely crumbled.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/モブ顔",
+                2,
+                0,
+                2,
+                ""
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "perfect habitat for monsters.\""
+                "\\SE[0] Fioretta "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[2] \"It is rife with miasma, making it an ideal"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "habitat for monsters .\""
               ]
             },
             {
@@ -4946,14 +5162,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"We should prepare thoroughly before going.\""
+                "\\SE[4] \"It seems like it would be best to make"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "sure we're fully prepared.\""
               ]
             },
             {
@@ -4978,21 +5201,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"What exactly are we supposed to be looking"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "for here?\""
+                "\\SE[5] \"What should I be looking for here?\""
               ]
             },
             {
@@ -5010,14 +5226,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
+                "\\SE[0] Fioretta "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Ancient artifacts... anything will do.\""
+                "\\SE[2] \"I’ve been told that any ancient artifact"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "will do.\""
               ]
             },
             {
@@ -5035,14 +5258,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"W-What do you mean by that...?\""
+                "\\SE[4] \"W-what’s that…?\""
               ]
             },
             {
@@ -5060,14 +5283,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Aren't they already all dug up...?\""
+                "\\SE[3] \"Haven’t they already excavated"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "everything…?\""
               ]
             },
             {
@@ -5085,21 +5315,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
+                "\\SE[0] Fioretta "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Yes... to some extent, they have been"
+                "\\SE[2] \"Yes… They did manage to excavate some"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "excavated.\""
+                "things, but there were so many monsters that"
               ]
             },
             {
@@ -5117,21 +5347,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
+                "\\SE[0] Fioretta "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"But I believe there's still something deep"
+                "it didn’t go as planned.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/モブ顔",
+                2,
+                0,
+                2,
+                ""
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "inside...\""
+                "\\SE[0] Fioretta "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[2] \"It’s been said that… there might still be"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "something deep down there…\""
               ]
             },
             {
@@ -5149,21 +5404,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Ugh... so there's also a chance there's"
+                "\\SE[3] \"Uh… so there’s a chance it might not be"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "nothing there?\""
+                "there?\""
               ]
             },
             {
@@ -5181,14 +5436,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Let's just go already.\""
+                "\\SE[5] \"Let’s just go for now— we won’t know"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "unless we go…\""
               ]
             },
             {

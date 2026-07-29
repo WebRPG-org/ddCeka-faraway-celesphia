@@ -5077,7 +5077,7 @@
     null,
     {
       "id": 1,
-      "name": "明かり",
+      "name": "Light",
       "note": "",
       "pages": [
         {
@@ -5144,7 +5144,7 @@
     },
     {
       "id": 2,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -5663,7 +5663,7 @@
     },
     {
       "id": 3,
-      "name": "ノエル",
+      "name": "Noel",
       "note": "",
       "pages": [
         {
@@ -5927,7 +5927,7 @@
     },
     {
       "id": 4,
-      "name": "自動イベント",
+      "name": "Automatic Events",
       "note": "",
       "pages": [
         {
@@ -6179,14 +6179,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I'm home... (I ended up being really late)\""
+                "\\SE[3] \"I'm home... (I'm really late.)\""
               ]
             },
             {

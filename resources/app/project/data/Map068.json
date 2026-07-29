@@ -1466,14 +1466,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Armor Shop"
+                "Armor Shop "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Welcome to the armory! Take a look around!\""
+                ": \"This is an armor shop! Come check it out!\""
               ]
             },
             {
@@ -1642,14 +1642,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Armor Shop"
+                "Armor Shop "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Come again soon!\""
+                ": \"Come back again!\""
               ]
             },
             {
@@ -1727,21 +1727,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"The equipment from Eldenia has great performance."
+                ": \"The gear from Eldenia is top-notch. If you're"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Especially for Grimridge,\""
+                "heading to Grimridge , you'll want to make sure you're"
               ]
             },
             {
@@ -1759,21 +1759,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"you should definitely prepare for fire-element"
+                "fully equipped.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "attacks.\""
+                "Adventurer "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                ": \"Make sure you're well-prepared, especially against"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "fire-type attacks.\""
               ]
             },
             {

@@ -6361,7 +6361,7 @@
     null,
     {
       "id": 1,
-      "name": "泉イベント",
+      "name": "Izumi Event",
       "note": "",
       "pages": [
         {
@@ -6404,7 +6404,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There's a battle coming up. Are you ready?"
+                "A battle is about to begin. Are you ready?"
               ]
             },
             {
@@ -6419,10 +6419,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -6430,7 +6426,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -6456,7 +6452,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -6757,21 +6753,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"A spring, huh...? Maybe we should rest for"
+                "\\SE[3] \"A spring, huh… Should we take a little"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "a bit?\""
+                "break?\""
               ]
             },
             {
@@ -6789,14 +6785,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Yeah... Wait, no. I feel something.\""
+                "\\SE[1] \"Yeah… Wait, hold on a second. I sense"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "something.\""
               ]
             },
             {
@@ -6921,14 +6924,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"They're coming!\""
+                "\\SE[1] \"Here I come!\""
               ]
             },
             {
@@ -7178,14 +7181,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Ah, that startled me.\""
+                "\\SE[3] \"Oh, that gave me a start.\""
               ]
             },
             {
@@ -7203,21 +7206,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Ugh, we can't even rest properly... Let's"
+                "\\SE[1] \"I just can’t seem to relax for a moment…"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "move on.\""
+                "Let’s keep moving.\""
               ]
             },
             {
@@ -7364,7 +7367,7 @@
     },
     {
       "id": 2,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -7538,7 +7541,7 @@
     },
     {
       "id": 3,
-      "name": "滝",
+      "name": "Waterfall",
       "note": "",
       "pages": [
         {
@@ -7598,7 +7601,7 @@
     },
     {
       "id": 4,
-      "name": "滝",
+      "name": "Waterfall",
       "note": "",
       "pages": [
         {
@@ -7658,7 +7661,7 @@
     },
     {
       "id": 5,
-      "name": "滝",
+      "name": "Waterfall",
       "note": "",
       "pages": [
         {
@@ -7718,7 +7721,7 @@
     },
     {
       "id": 6,
-      "name": "滝",
+      "name": "Waterfall",
       "note": "",
       "pages": [
         {
@@ -7778,7 +7781,7 @@
     },
     {
       "id": 7,
-      "name": "滝",
+      "name": "Waterfall",
       "note": "",
       "pages": [
         {
@@ -7838,7 +7841,7 @@
     },
     {
       "id": 8,
-      "name": "滝",
+      "name": "Waterfall",
       "note": "",
       "pages": [
         {
@@ -7898,7 +7901,7 @@
     },
     {
       "id": 9,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -8417,7 +8420,7 @@
     },
     {
       "id": 10,
-      "name": "ロゼ",
+      "name": "Rosé",
       "note": "",
       "pages": [
         {
@@ -8681,7 +8684,7 @@
     },
     {
       "id": 11,
-      "name": "魔物",
+      "name": "Monster",
       "note": "",
       "pages": [
         {
@@ -8843,7 +8846,7 @@
     },
     {
       "id": 12,
-      "name": "元の場所に戻る",
+      "name": "Return to the original location",
       "note": "",
       "pages": [
         {
@@ -8886,7 +8889,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you want to proceed to the spring?"
+                "Shall we go past the spring?"
               ]
             },
             {
@@ -8901,10 +8904,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -8912,7 +8911,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -8937,7 +8936,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -8982,7 +8981,7 @@
     },
     {
       "id": 13,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -9047,7 +9046,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained an Elixir."
+                "I got the elixir."
               ]
             },
             {
@@ -9141,7 +9140,7 @@
     },
     {
       "id": 14,
-      "name": "泉の道",
+      "name": "The Path of the Spring",
       "note": "",
       "pages": [
         {
@@ -9184,7 +9183,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you proceed deeper into the spring?"
+                "Shall we go deeper into the spring?"
               ]
             },
             {
@@ -9199,10 +9198,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -9210,7 +9205,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -9236,7 +9231,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -9395,14 +9390,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Damn... there's no path here.\""
+                "\\SE[3]: \"Oh man... there's no way through here.\""
               ]
             },
             {
@@ -9420,21 +9415,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Could it be... that over the years, it"
+                "\\SE[1] \"Could it be… that has turned into a river"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "turned into a river?\""
+                "over the long years…?\""
               ]
             },
             {
@@ -9483,14 +9478,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Looks like we have no choice but to go this"
+                "\\SE[3] \"I guess I have no choice but to go this"
               ]
             },
             {
@@ -9546,14 +9541,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Yeah... necessity knows no law.\""
+                "\\SE[1] \"Well, I guess… I’ll have to make do.\""
               ]
             },
             {
@@ -9897,14 +9892,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Alright, let's go.\""
+                "\\SE[3] \"All right, let's go.\""
               ]
             },
             {
@@ -9922,21 +9917,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Mm. Let's be careful not to get our gear"
+                "\\SE[1] \"Yes. Let's be careful not to get our"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "wet.\""
+                "luggage wet as much as possible.\""
               ]
             },
             {

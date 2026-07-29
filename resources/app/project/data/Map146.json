@@ -9877,7 +9877,7 @@
     null,
     {
       "id": 1,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -10396,7 +10396,7 @@
     },
     {
       "id": 2,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -10915,7 +10915,7 @@
     },
     {
       "id": 3,
-      "name": "リリアン",
+      "name": "Lillian",
       "note": "",
       "pages": [
         {
@@ -11434,7 +11434,7 @@
     },
     {
       "id": 4,
-      "name": "ルーナEND",
+      "name": "Luna END",
       "note": "",
       "pages": [
         {
@@ -11623,7 +11623,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]―――――"
+                "―――――"
               ]
             },
             {
@@ -11641,7 +11641,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]―――"
+                "―――"
               ]
             },
             {
@@ -11659,7 +11659,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]―"
+                "―"
               ]
             },
             {
@@ -11677,7 +11677,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]Then..."
+                "\\SE[5] And then—"
               ]
             },
             {
@@ -11721,7 +11721,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]We carried Kyle-sama and headed to the church in"
+                "\\SE[5] We carried Lord Kyle and rushed to the Church of"
               ]
             },
             {
@@ -11746,7 +11746,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]But it was already too late."
+                "As for \\SE[5], it's already too late."
               ]
             },
             {
@@ -11764,7 +11764,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]Kyle-sama's thread of life had already been severed."
+                "\\SE[5] Lord Kyle's thread of life had already been severed,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "and he never opened his eyes."
               ]
             },
             {
@@ -11789,7 +11796,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]Lilian and I were consumed by deep sorrow."
+                "\\SE[5] Lilian and I were overcome with deep sorrow."
               ]
             },
             {
@@ -11814,14 +11821,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]Having lost the one we loved, we lost even the will to"
+                "\\SE[5] I lost a loved one and lost even the will to get back"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "stand."
+                "on my feet."
               ]
             },
             {
@@ -12098,14 +12105,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[5]Kyle-Sama's Last Words"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Go, and save your mother―\""
+                "\\SE[5] Lord Kyle's Last Words \"Go, and save your mother―――\""
               ]
             },
             {
@@ -12130,7 +12130,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]We lifted our faces once more."
+                "\\SE[5] We raised our heads once again"
               ]
             },
             {
@@ -12243,7 +12243,7 @@
     },
     {
       "id": 5,
-      "name": "リリアンEND",
+      "name": "Lillian END",
       "note": "",
       "pages": [
         {
@@ -12432,7 +12432,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]After that――――――"
+                "\\SE[4] And then――――――"
               ]
             },
             {
@@ -12476,7 +12476,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]we carried the badly wounded Kyle,"
+                "\\SE[4] Carrying the critically injured Kyle, we rushed to the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Church in Erednia."
               ]
             },
             {
@@ -12501,7 +12508,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]back to Eldenia..."
+                "\\SE[4] But it was already too late—"
               ]
             },
             {
@@ -12526,7 +12533,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]but it was already too late―"
+                "\\SE[4] Kyle's life flame had quietly gone out, and he would"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "never open his eyes again."
               ]
             },
             {
@@ -12551,7 +12565,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]Kyle's life flickered out quietly,"
+                "\\SE[4] Luna and I were overcome with grief."
               ]
             },
             {
@@ -12576,7 +12590,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]and Luna-sama and I were left in grief."
+                "\\SE[4] After losing my loved one, I’ve lost even the energy"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "to speak."
               ]
             },
             {
@@ -12853,14 +12874,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[4]Kyle's Last Words"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Go, save Mother―!\""
+                "\\SE[4] Kyle's Last Words \"Go—save your mother—!\""
               ]
             },
             {
@@ -12885,14 +12899,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]Those words spurred us on, and we lifted our faces once"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "more."
+                "\\SE[4] Spurred on by those words, we looked up once more."
               ]
             },
             {
@@ -13005,7 +13012,7 @@
     },
     {
       "id": 6,
-      "name": "トゥルーEND",
+      "name": "True Ending",
       "note": "",
       "pages": [
         {
@@ -13194,7 +13201,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Celesphia..."
+                "Ceresphere"
               ]
             },
             {
@@ -13208,9 +13215,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "使う"
               ]
             },
             {
@@ -13218,7 +13222,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "使う"
+                "Use"
               ]
             },
             {
@@ -13250,7 +13254,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[4]\"Kyle...\""
+                "\\SE[4] \"Kyle…\""
               ]
             },
             {
@@ -13275,7 +13279,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[5]\"Kyle!!\""
+                "\\SE[5] \"Kyle…!\""
               ]
             },
             {
@@ -13300,7 +13304,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[3]A voice... Someone is calling my name."
+                "\\SE[3] I hear a voice… Someone is calling my name."
               ]
             },
             {
@@ -13385,14 +13389,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Kyle."
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[3]\"...Luna, Lilian.\""
+                "\\SE[3] \"…Luna, Lilian\""
               ]
             },
             {
@@ -13428,14 +13432,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[5]\"Kyle-sama!\""
+                "\\SE[5] \"Lord Kyle!\""
               ]
             },
             {
@@ -13453,14 +13457,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[4]\"Kyle!\""
+                "\\SE[4] \"Kyle!\""
               ]
             },
             {
@@ -13560,7 +13564,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]They clung to me, crying."
+                "The two of them came running over and hugged me,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "crying."
               ]
             },
             {
@@ -13578,14 +13589,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[3]\"...Why...? How am I... alive...?\""
+                "\\SE[3] \"…Why… am I… still alive…?\""
               ]
             },
             {
@@ -13612,14 +13623,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[3]\"What about Celesphia?!\""
+                "\\SE[3] \"What about Ceresphere!?\""
               ]
             },
             {
@@ -13637,14 +13648,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[4]\"…\""
+                "\\SE[4] \"...\""
               ]
             },
             {
@@ -13697,14 +13708,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[3]\"No... It can't be... Me...?\""
+                "\\SE[3] \"No way… You’re kidding… Me…!?\""
               ]
             },
             {
@@ -13722,21 +13733,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[5]\"Because you're... our precious"
+                "\\SE[5] \"Because they're... my precious..."
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "companion...\""
+                "comrades... ...I wouldn't sacrifice a"
               ]
             },
             {
@@ -13754,21 +13765,39 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[5]\"If I prioritized my mother, I would"
+                "comrade's life just to...\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "player/runa_normal",
+                7,
+                0,
+                2,
+                ""
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "have...\""
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\\SE[5] \"If I put Mom first, she’ll scold me…\""
               ]
             },
             {
@@ -13793,7 +13822,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "There was no way left to save my mother."
+                "There was no way left to save Luna's mother."
               ]
             },
             {
@@ -13818,7 +13847,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]That meant saying goodbye to my mother."
+                "\\SE[0] That meant parting with Luna's mother."
               ]
             },
             {
@@ -13869,14 +13898,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[4]\"...Sniff... Sniff... Lady Noel...\""
+                "\\SE[4] \"…Ugh… ugh…… Lord Noel…\""
               ]
             },
             {
@@ -13901,14 +13930,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[5]\"...Uh... Mother...! I'm sorry...\""
+                "\\SE[5] \"…Ugh… Mother…! I’m sorry… I’m really… so"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "sorry…!\""
               ]
             },
             {
@@ -13940,7 +13976,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Unable to hold back, Luna let her tears fall."
+                "\\SE[0] Unable to hold back any longer, Luna let her tears"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "fall."
               ]
             },
             {
@@ -13958,7 +14001,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Lilian was crying alongside her."
+                "\\SE[0] Lilian was crying along with her."
               ]
             },
             {
@@ -13976,7 +14019,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]I steeled my resolve and spoke."
+                "\\SE[0] I steeled myself and said this:"
               ]
             },
             {
@@ -13999,14 +14042,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[3]\"Take me... to Luna's mother...\""
+                "\\SE[3] \"Take me… to Luna’s mother .\""
               ]
             },
             {
@@ -14165,14 +14208,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Old Man"
+                "Elderly Man "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"...(praying)\""
+                ": \"… (praying)\""
               ]
             },
             {
@@ -14352,21 +14395,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Old Man"
+                "Elder "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Did you go to the guild office? There are books on the"
+                ": \"I wonder if you’ve been to the guild yet? There are"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "second floor,\""
+                "books donated on the second floor, and some of them are"
               ]
             },
             {
@@ -14384,21 +14427,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Old Man"
+                "Elder "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"The old ones aren't bound like proper books. They're"
+                "old books, you know.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "just sitting on the desk.\""
+                "Elderly Woman "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                ": \"Antique books aren’t actually books. You can tell"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "right away because they’re just sitting on the desk.\""
               ]
             },
             {
@@ -14484,7 +14552,7 @@
     },
     {
       "id": 9,
-      "name": "シスター",
+      "name": "Sister",
       "note": "",
       "pages": [
         {
@@ -14527,14 +14595,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister"
+                "Sister "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"What's wrong, traveler? If you're injured...\""
+                ": \"What’s the matter, traveler? If you’re injured, we’d"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "be happy to treat you in exchange for a small"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Sister "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "donation.\""
               ]
             },
             {
@@ -14561,14 +14661,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister"
+                "Sister "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Wait...you...are you blessed by God...!?\""
+                ": \"Could it be… that you’ve received God’s blessing…!?"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I’m terribly sorry. So you’re a child of God too?\""
               ]
             },
             {
@@ -14586,14 +14693,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister"
+                "Sister "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"...You're heading to Grimridge, aren't you?\""
+                ": \"…Are you going to Grimridge, ? May God’s blessings"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "be with you…!\""
               ]
             },
             {
@@ -14679,7 +14793,7 @@
     },
     {
       "id": 10,
-      "name": "出口",
+      "name": "Exit",
       "note": "",
       "pages": [
         {
@@ -14765,7 +14879,7 @@
     },
     {
       "id": 11,
-      "name": "出口",
+      "name": "Exit",
       "note": "",
       "pages": [
         {
@@ -14851,7 +14965,7 @@
     },
     {
       "id": 12,
-      "name": "出口",
+      "name": "Exit",
       "note": "",
       "pages": [
         {
@@ -14937,7 +15051,7 @@
     },
     {
       "id": 13,
-      "name": "出口",
+      "name": "Exit",
       "note": "",
       "pages": [
         {
@@ -15066,21 +15180,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Child"
+                "Child "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Why do people have to die...? Even with God's"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "blessing,\""
+                ": \"Why do people die…? Can’t God’s grace save them…?\""
               ]
             },
             {
@@ -15098,14 +15205,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle."
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"……\""
+                "\\SE[3] \"...\""
               ]
             },
             {
@@ -15234,14 +15341,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I've done some pretty damn dirty things in my life.\""
+                ": \"You know, I've done some pretty wicked things.\""
               ]
             },
             {
@@ -15259,14 +15366,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I did them to survive, so I don't regret it... but\""
+                ": \"It was for my own survival, and I don’t regret it,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "though.\""
               ]
             },
             {
@@ -15284,21 +15398,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Coming here makes me want to confess. I wonder why"
+                ": \"When I come here, I feel like confessing my sins. I"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "that is.\""
+                "wonder why.\""
               ]
             },
             {
@@ -15388,7 +15502,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Found 1,000G."
+                "I found 1,000G."
               ]
             },
             {

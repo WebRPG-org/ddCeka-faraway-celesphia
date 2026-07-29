@@ -1363,7 +1363,7 @@
     null,
     {
       "id": 1,
-      "name": "店員",
+      "name": "Store Clerk",
       "note": "",
       "pages": [
         {
@@ -1406,14 +1406,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shop Owner"
+                "Shopkeeper "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Welcome, honored guest.\""
+                ": \"Welcome. You are the Chosen One.\""
               ]
             },
             {
@@ -1431,21 +1431,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shop Owner"
+                "Shop Owner "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Everything I show you from this point on is"
+                ": \"All the products I'm about to show you"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "unlicensed.\""
+                "are unapproved.\""
               ]
             },
             {
@@ -1463,14 +1463,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shop Owner"
+                "Shop Owner "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Please keep that to yourself.\""
+                ": \"Please keep this to yourself.\""
               ]
             },
             {
@@ -1485,10 +1485,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -1496,7 +1492,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -1615,14 +1611,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Shop Owner"
+                "Shop Owner "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"A fine deal indeed. Do come again.\""
+                ": \"That was a good transaction. We look"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "forward to seeing you again .\""
               ]
             },
             {
@@ -1635,7 +1638,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -1680,7 +1683,7 @@
     },
     {
       "id": 2,
-      "name": "隠し移動",
+      "name": "Stealth Movement",
       "note": "",
       "pages": [
         {

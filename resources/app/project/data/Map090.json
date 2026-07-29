@@ -1567,7 +1567,7 @@
     null,
     {
       "id": 1,
-      "name": "ランプ",
+      "name": "Lamp",
       "note": "",
       "pages": [
         {
@@ -1627,7 +1627,7 @@
     },
     {
       "id": 2,
-      "name": "ランプ",
+      "name": "Lamp",
       "note": "",
       "pages": [
         {
@@ -1687,7 +1687,7 @@
     },
     {
       "id": 3,
-      "name": "ランプ",
+      "name": "Lamp",
       "note": "",
       "pages": [
         {
@@ -1747,7 +1747,7 @@
     },
     {
       "id": 4,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -1807,7 +1807,7 @@
     },
     {
       "id": 5,
-      "name": "ランプ",
+      "name": "Lamp",
       "note": "",
       "pages": [
         {
@@ -1867,7 +1867,7 @@
     },
     {
       "id": 6,
-      "name": "ランプ",
+      "name": "Lamp",
       "note": "",
       "pages": [
         {
@@ -1927,7 +1927,7 @@
     },
     {
       "id": 7,
-      "name": "ノエル",
+      "name": "Noel",
       "note": "",
       "pages": [
         {
@@ -1987,7 +1987,7 @@
     },
     {
       "id": 8,
-      "name": "リリアン",
+      "name": "Lillian",
       "note": "",
       "pages": [
         {
@@ -2047,7 +2047,7 @@
     },
     {
       "id": 9,
-      "name": "セレス",
+      "name": "Ceres",
       "note": "",
       "pages": [
         {
@@ -2107,7 +2107,7 @@
     },
     {
       "id": 10,
-      "name": "ティオル",
+      "name": "Theol",
       "note": "",
       "pages": [
         {
@@ -2167,7 +2167,7 @@
     },
     {
       "id": 11,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -2227,7 +2227,7 @@
     },
     {
       "id": 12,
-      "name": "自動EV",
+      "name": "Autonomous EV",
       "note": "",
       "pages": [
         {
@@ -2496,14 +2496,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I'm home!\""
+                "\\SE[3] \"I'm back!\""
               ]
             },
             {
@@ -2627,14 +2627,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Kyle-sama!\""
+                "\\SE[5] \"Lord Kyle!\""
               ]
             },
             {
@@ -2862,14 +2862,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Welcome home, Kyle-sama!\""
+                "\\SE[5] \"Welcome back, Lord Kyle!\""
               ]
             },
             {
@@ -2887,21 +2887,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"You really gotta stop with the 'sama'"
+                "\\SE[3] \"Come on, stop calling me ‘-sama’ already…"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "thing...\""
+                "Luna\""
               ]
             },
             {
@@ -3065,14 +3065,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel]"
+                "\\SE[0] Noelle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Oh my, Kyle-sama is Kyle-sama, isn't he?\""
+                "\\SE[2] \"Oh my, Lord Kyle isn’t Lord Kyle , is he,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Luna?\""
               ]
             },
             {
@@ -3198,21 +3205,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Even 'Mom(\\C[2]Kaasan\\C[0])'... seriously, enough"
+                "\\SE[3] \"\\C[2] ‘Stepmom (Mom)’ \\C[0]… Seriously, give it a"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "already.\""
+                "rest already…\""
               ]
             },
             {
@@ -3230,14 +3237,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Where's Lilian?\""
+                "\\SE[3] \"Where’s Lilian?\""
               ]
             },
             {
@@ -3255,21 +3262,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"They went out for a little walk"
+                "\\SE[5] \"They said they were all going out for a"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "together...\""
+                "little walk… I think they should be back by"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/ルーナ顔5",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "now.\""
               ]
             },
             {
@@ -3294,7 +3326,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I'm home~\""
+                "\"\"‘I’m home~’\"\""
               ]
             },
             {
@@ -3542,14 +3574,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Kyle! You're back!\""
+                "\\SE[4] \"Kyle! You’re back!\""
               ]
             },
             {
@@ -3774,14 +3806,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I'm home, Lilian.\""
+                "\\SE[3] \"I’m home, Lilian.\""
               ]
             },
             {
@@ -3799,21 +3831,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"What happened to you? You're covered in"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "mud.\""
+                "\\SE[3] \"What happened? You’re covered in mud.\""
               ]
             },
             {
@@ -3840,14 +3865,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Ugh... I had the worst time...\""
+                "\\SE[4] \"Oh man… I really went through the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "wringer…\""
               ]
             },
             {
@@ -3891,7 +3923,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ahh, it was so fun!\""
+                "\"Ah, that was fun!\" \"I'm home...\""
               ]
             },
             {
@@ -4232,7 +4264,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Father!\""
+                "\"Father!\" \"Dad\""
               ]
             },
             {
@@ -4474,14 +4506,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel]"
+                "\\SE[0] Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Oh dear...\""
+                "\\SE[2] \"Oh my!\""
               ]
             },
             {
@@ -4499,14 +4531,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Ceres! What happened? You're filthy!\""
+                "\\SE[5] \"Ceres! What’s wrong? You’re not all"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "black!\""
               ]
             },
             {
@@ -4524,14 +4563,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Ceres suddenly jumped into a rice paddy...\""
+                "\\SE[4] \"Ceres suddenly jumped into the rice"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "paddy…\""
               ]
             },
             {
@@ -4549,14 +4595,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Ceres]"
+                "\\SE[0] Ceres "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\"There was a frog! A big frog!\""
+                "\\SE[0] \"There was a frog! A big frog!\""
               ]
             },
             {
@@ -4574,14 +4620,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Tior]"
+                "\\SE[0] Tiol "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\"I got dragged in by Ceres... I'm a mess.\""
+                "\\SE[0] \"Now even I’m getting dragged into this by"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Ceres… Seriously.\""
               ]
             },
             {
@@ -4599,14 +4652,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Tior, your clothes...\""
+                "\\SE[3] \"Theol, what’s with that outfit of yours…?\""
               ]
             },
             {
@@ -4624,21 +4677,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Looks like you're mimicking Papa, huh?"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Hehe\""
+                "\\SE[4] \"I hear she’s imitating her dad, hehe.\""
               ]
             },
             {
@@ -4764,14 +4810,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Hey, Ceres! Look this way.\""
+                "\\SE[5] \"Look, Ceres! Turn this way. I’ll wipe your"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "face for you.\""
               ]
             },
             {
@@ -4836,14 +4889,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
+                "\\SE[0] Ceres "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\"Thanks, Mama!\""
+                "\\SE[0] \"Thanks, Mom!\""
               ]
             },
             {
@@ -4957,14 +5010,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
+                "\\SE[0] Ceres "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\"Mama, your hand is hurt?\""
+                "\\SE[0] \"Mom, is your hand hurt?\""
               ]
             },
             {
@@ -4982,21 +5035,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Huh? Oh, it is. I cut myself while making a"
+                "\\SE[5] \"Huh? That’s right. Did I mess up while"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "magic tool.\""
+                "making a magical artifact?\""
               ]
             },
             {
@@ -5014,14 +5067,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
+                "\\SE[0] Ceres "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\"I'll heal it for you!\""
+                "\\SE[0] \"I'll fix it for you!\""
               ]
             },
             {
@@ -5072,14 +5125,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
+                "\\SE[0] Ceres "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\"\\{\\C[3]Recovery Magic <Heal>\\C[0]\\}!\""
+                "\\SE[0] \"\\{ \\C[3] Healing Spell <Heal> \\C[0] \\}!\""
               ]
             },
             {
@@ -5155,14 +5208,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"！\""
+                "\\SE[5] \"!\""
               ]
             },
             {
@@ -5206,14 +5259,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Thank you, Ceres! \\!\""
+                "\\SE[5] \"Thank you, \\! Ceres. \\! You’re so good at"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "this…!\" \\!"
               ]
             },
             {
@@ -5699,7 +5759,7 @@
     },
     {
       "id": 13,
-      "name": "スタッフロール",
+      "name": "Credits",
       "note": "",
       "pages": [
         {
@@ -5854,7 +5914,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]――― Far-off Celesphia ―――"
+                "―――The Distant Ceresphere―――"
               ]
             },
             {
@@ -5879,7 +5939,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Planning Yorunagi"
+                "Project "
               ]
             },
             {
@@ -5930,7 +5990,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Scenario Yorunagi"
+                "Scenario "
               ]
             },
             {
@@ -5981,7 +6041,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Illustration Yorunagi"
+                "Illustration "
               ]
             },
             {
@@ -6032,7 +6092,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Development & Script Yorunagi"
+                "Development & Scripting "
               ]
             },
             {
@@ -6083,7 +6143,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Character Design Yorunagi"
+                "Character Design "
               ]
             },
             {
@@ -6134,7 +6194,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Events Yorunagi"
+                "Event "
               ]
             },
             {
@@ -6185,7 +6245,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Level Design Yorunagi"
+                "Level Design "
               ]
             },
             {
@@ -6236,7 +6296,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]――― Special Thanks ―――"
+                "―――Materials Provided by―――"
               ]
             },
             {
@@ -6280,7 +6340,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Triacontan"
+                "Triacontane "
               ]
             },
             {
@@ -6331,7 +6391,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Dorapika"
+                "Dorapika "
               ]
             },
             {
@@ -6382,7 +6442,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyosou Kyokusen"
+                "Imaginary Curve "
               ]
             },
             {
@@ -6433,7 +6493,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Pincree"
+                "Pincree"
               ]
             },
             {
@@ -6491,7 +6551,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]PeriTune"
+                "PeriTune"
               ]
             },
             {
@@ -6542,7 +6602,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]OtoLogic"
+                "OtoLogic"
               ]
             },
             {
@@ -6593,7 +6653,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Mattsu Up"
+                "Matt's Update "
               ]
             },
             {
@@ -6644,7 +6704,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]HimeWorks"
+                "HimeWorks"
               ]
             },
             {
@@ -6695,7 +6755,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kannazuki Sasuke"
+                "Sasuke Kannazuki "
               ]
             },
             {
@@ -6746,7 +6806,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Tsutamori Kuina"
+                "Kuina Tsumori "
               ]
             },
             {
@@ -6797,7 +6857,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]DarkPlasma"
+                "DarkPlasma"
               ]
             },
             {
@@ -6848,7 +6908,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Awaya Matana"
+                "Awaya Matana "
               ]
             },
             {
@@ -6899,7 +6959,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Etanara"
+                "Etanara "
               ]
             },
             {
@@ -6950,7 +7010,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sweet Raspberry"
+                "Sweet Raspberry "
               ]
             },
             {
@@ -7001,7 +7061,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Fantasy of Zero"
+                "Fantasy of Zero"
               ]
             },
             {
@@ -7052,7 +7112,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0](C) REFMAP"
+                "(C) REFMAP"
               ]
             },
             {
@@ -7103,7 +7163,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Unagi Ootoro"
+                "Eel Ootoro "
               ]
             },
             {
@@ -7154,7 +7214,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Takeshi Sunagawa"
+                "Takeshi Sunagawahttp://newrpg.seesaa.net/"
               ]
             },
             {
@@ -7198,7 +7258,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]tomoaky"
+                "tomoaky"
               ]
             },
             {
@@ -7249,7 +7309,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Nota no Mori"
+                "Nota's Forest "
               ]
             },
             {

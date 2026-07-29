@@ -3727,7 +3727,7 @@
     null,
     {
       "id": 1,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -3901,7 +3901,7 @@
     },
     {
       "id": 2,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -4075,7 +4075,7 @@
     },
     {
       "id": 3,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -4249,7 +4249,7 @@
     },
     {
       "id": 4,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -4423,7 +4423,7 @@
     },
     {
       "id": 5,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -4597,7 +4597,7 @@
     },
     {
       "id": 6,
-      "name": "ロゼイベント3",
+      "name": "Rosé Event 3",
       "note": "",
       "pages": [
         {
@@ -4640,14 +4640,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rosie Event (3/12)"
+                "Rosé Event (3/12) "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Play \"Throb 2\"?"
+                "\"Uzuki 2\" : Do you want to play this?"
               ]
             },
             {
@@ -4662,10 +4662,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -4673,7 +4669,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -4699,7 +4695,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -4893,14 +4889,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"…Hh!!\""
+                "\\SE[1] \"………!!\""
               ]
             },
             {
@@ -5059,14 +5055,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Kyle…! I'm sorry…! I can't… hold back…!\""
+                "\\SE[1] \"Kyle…! I’m sorry…! I can’t… hold it in…!\""
               ]
             },
             {
@@ -5169,14 +5165,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"！\""
+                "\\SE[3] \"!\""
               ]
             },
             {
@@ -5194,7 +5190,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose steals a kiss from Kyle."
+                "Rosé kisses Kyle"
               ]
             },
             {
@@ -5219,14 +5215,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Nn…!\""
+                "\\SE[1] \"Hmm…!\""
               ]
             },
             {
@@ -5322,14 +5318,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "She forcefully pries open Kyle's mouth with her tongue"
+                "She forcefully pried Kyle's mouth open with her tongue"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "and thrusts it inside."
+                "and thrust it inside"
               ]
             },
             {
@@ -5347,14 +5343,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Once she finds his tongue, she lashes into it"
+                "Then, when her tongue found Kyle’s, she entwined it"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "hungrily―slippery, wet, and tangled together."
+                "with his fiercely. Slurp, slurp—the mucus entwined, wet"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "and slick."
               ]
             },
             {
@@ -5372,21 +5375,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Nn…h…chu…chu…♡ Hah… Kyle… lero lero…"
+                "\\SE[1] \"Mmm… chu… chu… ♡ Haa… Kyle… lick lick…"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "lero…o♡\""
+                "lick… oh♡\""
               ]
             },
             {
@@ -5404,14 +5407,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A passionate, adult kiss like lovers reunited after a"
+                "Like lovers reunited after a long time apart, —a"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "long time, desperate for each other."
+                "passionate, adult kiss filled with mutual desire"
               ]
             },
             {
@@ -5429,14 +5432,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Her sweet scent fills his nostrils, making his mind go"
+                "The sweet aroma of rosé tickles my nostrils, sending a"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "numb."
+                "tingling sensation all the way to my very marrow."
               ]
             },
             {
@@ -5513,14 +5516,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Hh…♡ Hh…♡ Hh…♡\""
+                "\\SE[1] \"Hmm…♡ Hmm…♡ Hmm…♡\""
               ]
             },
             {
@@ -5538,14 +5541,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Rose trembles all over―she's climaxing. Kyle holds her"
+                "Rosé's body is trembling. She's climaxing. I hold her"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "steady, supporting her body."
+                "body tightly."
               ]
             },
             {
@@ -5608,14 +5611,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Haa…! Haa… Hah… Hah…!\""
+                "\\SE[1] \"Haa…! Haa…! Haa…!…\""
               ]
             },
             {
@@ -5671,14 +5674,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"S-sorry… It's… stopped…\""
+                "\\SE[1] \"S-sorry… I’m calm now…\""
               ]
             },
             {
@@ -5830,7 +5833,7 @@
     },
     {
       "id": 7,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -6349,7 +6352,7 @@
     },
     {
       "id": 8,
-      "name": "ロゼ",
+      "name": "Rosé",
       "note": "",
       "pages": [
         {
@@ -6562,7 +6565,7 @@
     },
     {
       "id": 9,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -6908,7 +6911,7 @@
     },
     {
       "id": 10,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {

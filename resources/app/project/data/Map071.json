@@ -1654,21 +1654,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Townsperson"
+                "Townsperson "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Eldenia has a long history―it seems this town has"
+                ": \"Eldenia has a long history; apparently, this town"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "existed for thousands of years.\""
+                "has been here for thousands of years.\""
               ]
             },
             {
@@ -1686,21 +1686,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Townsperson"
+                "Townsperson "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"But it's been destroyed countless times by monsters"
+                ": \"But the town has been destroyed time and time again"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "and wars.\""
+                "by monsters and wars.\""
               ]
             },
             {
@@ -1718,21 +1718,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Townsperson"
+                "Townsperson "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Every time, people gather again, rebuild the town, and"
+                ": \"Every time that happens, people gather again,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "make it grow bigger.\""
+                "rebuild the town, and it grows larger.\""
               ]
             },
             {
@@ -1750,14 +1750,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Townsperson"
+                "A local resident "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Eldenia is a town with a strange, captivating charm.\""
+                ": \"Eldenia is a town with a mysterious charm.\""
               ]
             },
             {
@@ -1835,14 +1835,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Nyaa~♡\""
+                "\\SE[4] \"Meow~♡\""
               ]
             },
             {
@@ -1860,14 +1860,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Nyaa, nyaa~...\""
+                "\\SE[5] \"Meow, meow…\""
               ]
             },
             {
@@ -1902,7 +1902,7 @@
     },
     {
       "id": 5,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -1957,7 +1957,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained a Full Potion."
+                "I got a Full Potion"
               ]
             },
             {

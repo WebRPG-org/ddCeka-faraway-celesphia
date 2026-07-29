@@ -12337,7 +12337,7 @@
     null,
     {
       "id": 1,
-      "name": "前の階へ",
+      "name": "Back to the Previous Floor",
       "note": "",
       "pages": [
         {
@@ -12417,7 +12417,7 @@
     },
     {
       "id": 2,
-      "name": "上の階へ",
+      "name": "Upstairs",
       "note": "",
       "pages": [
         {
@@ -12496,7 +12496,7 @@
     },
     {
       "id": 3,
-      "name": "ボス",
+      "name": "Boss",
       "note": "",
       "pages": [
         {
@@ -12556,7 +12556,7 @@
     },
     {
       "id": 4,
-      "name": "ボス戦",
+      "name": "Boss Battle",
       "note": "",
       "pages": [
         {
@@ -13087,7 +13087,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\}Gogogogogo\\{"
+                "\\} Gogogogogo \\{"
               ]
             },
             {
@@ -13114,14 +13114,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"What's wrong, Lilian?\""
+                "\\SE[3] \"What’s wrong, Lilian?\""
               ]
             },
             {
@@ -13139,14 +13139,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"...I hear something.\""
+                "\\SE[4] \"…I hear a sound.\""
               ]
             },
             {
@@ -13214,14 +13214,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"S-something's coming...!\""
+                "\\SE[4] \"S-something’s coming…!\""
               ]
             },
             {
@@ -13469,14 +13469,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"W-what is this?!\""
+                "\\SE[5] \"W-What is this!?\""
               ]
             },
             {
@@ -13494,14 +13494,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"I-it's a mud snake?!\""
+                "\\SE[4] \"W-What, a mud snake!?\""
               ]
             },
             {
@@ -13519,14 +13519,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Here it comes!\""
+                "\\SE[3] \"Here it comes!\""
               ]
             },
             {
@@ -13740,14 +13740,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"…\""
+                "\\SE[4] \"...\""
               ]
             },
             {
@@ -13765,14 +13765,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"…\""
+                "\\SE[3] \"...\""
               ]
             },
             {
@@ -13790,14 +13790,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"…\""
+                "\\SE[5] \"…\""
               ]
             },
             {
@@ -14163,7 +14163,7 @@
     },
     {
       "id": 5,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -14580,7 +14580,7 @@
     },
     {
       "id": 6,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -14997,7 +14997,7 @@
     },
     {
       "id": 7,
-      "name": "リリアン",
+      "name": "Lillian",
       "note": "",
       "pages": [
         {
@@ -15414,7 +15414,7 @@
     },
     {
       "id": 8,
-      "name": "脱出不可",
+      "name": "No Escape",
       "note": "",
       "pages": [
         {
@@ -15457,14 +15457,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"...Let's get the hell out of here.\""
+                "\\SE[3] \"…Let’s get out of here already.\""
               ]
             },
             {
@@ -15595,7 +15595,7 @@
     },
     {
       "id": 9,
-      "name": "ボス前回復",
+      "name": "Healing Before the Boss Fight",
       "note": "",
       "pages": [
         {
@@ -15638,14 +15638,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Restore all HP/MP?"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "(once only)"
+                "Do you want to fully restore your HP/MP? (once only)"
               ]
             },
             {
@@ -15660,10 +15653,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -15671,7 +15660,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -15709,7 +15698,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Fully recovered."
+                "I've fully recovered."
               ]
             },
             {
@@ -15730,7 +15719,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {

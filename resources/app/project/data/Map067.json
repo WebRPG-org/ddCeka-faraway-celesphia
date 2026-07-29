@@ -1525,7 +1525,7 @@
     },
     {
       "id": 2,
-      "name": "武器屋",
+      "name": "Weapons Shop",
       "note": "",
       "pages": [
         {
@@ -1568,14 +1568,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Weapon Shop"
+                "Weapons Shop "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Welcome! How about some weapons made from high-quality"
+                ": \"Welcome! How about a weapon made from high-quality"
               ]
             },
             {
@@ -1661,14 +1661,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Weapon Shop"
+                "Weapons Shop "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Thanks for coming! Come again!\""
+                ": \"See you next time! Come back soon!\""
               ]
             },
             {
@@ -1746,21 +1746,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"There are black-market shops operating in secret in"
+                ": \"There are underground shops operating in secret in"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Eldenia, and apparently they sell dangerous stuff you\""
+                "Eldenia, and apparently they sell some pretty dangerous"
               ]
             },
             {
@@ -1778,14 +1778,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "won't find anywhere else.\""
+                "stuff you can't find on the open market.\""
               ]
             },
             {
@@ -1803,14 +1803,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Just baseless rumors. I don't buy into that stuff.\""
+                ": \"It’s just a baseless rumor. I don’t believe it.\""
               ]
             },
             {

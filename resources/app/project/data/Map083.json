@@ -1783,7 +1783,7 @@
     },
     {
       "id": 8,
-      "name": "酔っ払い2",
+      "name": "Drunkard 2",
       "note": "",
       "pages": [
         {
@@ -1843,7 +1843,7 @@
     },
     {
       "id": 9,
-      "name": "酔っ払い1",
+      "name": "Drunk Person 1",
       "note": "",
       "pages": [
         {
@@ -1903,7 +1903,7 @@
     },
     {
       "id": 10,
-      "name": "酔っ払い3",
+      "name": "Drunkard 3",
       "note": "",
       "pages": [
         {
@@ -2083,7 +2083,7 @@
     },
     {
       "id": 13,
-      "name": "イベント",
+      "name": "Events",
       "note": "",
       "pages": [
         {
@@ -2177,14 +2177,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Tavern Drunk 1"
+                "Drunk Guy at the Bar 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"You know the biggest dragon in the world?\""
+                ": \"Do you know which dragon is the biggest in the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "world?\""
               ]
             },
             {
@@ -2202,21 +2209,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Tavern Drunk 1"
+                "Drunk Guy at the Bar 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"They say it lives on Mt. Grimridge at the edge of the"
+                ": \"They say there’s a dragon named Vargreed living on"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "east―Valgrind, the dragon!\""
+                "Grimridge, the sacred mountain at the eastern edge of"
               ]
             },
             {
@@ -2234,14 +2241,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Tavern Drunk 1"
+                "Drunk Guy at the Bar 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Apparently it's as big as a church!\""
+                "the world!\""
               ]
             },
             {
@@ -2259,21 +2266,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Bar Drunkard 2"
+                "Drunk Guy at the Bar 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"You're full of shit! There's no way something that big"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "exists! You drunk or what? Hahaha!\""
+                ": \"I hear it’s about as big as a church or something!\""
               ]
             },
             {
@@ -2291,14 +2291,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Tavern Drunkard 3"
+                "Drunk Guy at the Bar 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"No shit, hahaha!\""
+                "\"You idiot, there’s no way a creature that big exists!"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Are you drunk already? Hahahaha!\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Drunk Guy at the Bar 3"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                ": \"That’s not right, ha ha ha ha!\""
               ]
             },
             {

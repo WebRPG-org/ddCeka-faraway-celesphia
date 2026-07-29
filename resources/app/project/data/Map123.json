@@ -1747,7 +1747,7 @@
     null,
     {
       "id": 1,
-      "name": "ノエル",
+      "name": "Noel",
       "note": "",
       "pages": [
         {
@@ -1858,7 +1858,7 @@
     },
     {
       "id": 2,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -2377,7 +2377,7 @@
     },
     {
       "id": 3,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -2896,7 +2896,7 @@
     },
     {
       "id": 4,
-      "name": "自動",
+      "name": "Automatic",
       "note": "",
       "pages": [
         {
@@ -3144,14 +3144,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(This is... my home.)"
+                "(This is... my home)"
               ]
             },
             {
@@ -3169,14 +3169,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Not again... this dream...?)"
+                "(Oh no... this dream again...?)"
               ]
             },
             {
@@ -3287,14 +3287,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(No... I can't go...!)"
+                "(No... Don't go...!)"
               ]
             },
             {
@@ -3343,21 +3343,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Why... why are my legs moving on their"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "own...?)"
+                "(Why… why are my legs moving on their own…?)"
               ]
             },
             {
@@ -3420,14 +3413,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Mother...!)"
+                "(Mom…!)"
               ]
             },
             {
@@ -3445,7 +3438,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noelle"
+                "Noel "
               ]
             },
             {
@@ -3470,14 +3463,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Mother...\""
+                "\\SE[5] \"Mom...\""
               ]
             },
             {
@@ -3806,14 +3799,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Kyle-sama?! Why are you here...?\""
+                "\\SE[5] \"Lord Kyle!? What are you doing here…?\""
               ]
             },
             {
@@ -3831,7 +3824,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle nodded gently and slowly."
               ]
             },
             {
@@ -3962,7 +3955,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Kyle raised both hands toward Noel."
+                "Kyle holds out both hands toward Noel"
               ]
             },
             {
@@ -4087,14 +4080,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"N-No...! Mother...!\""
+                "\\SE[5] \"No… no way…! Mother…!\""
               ]
             },
             {
@@ -4112,14 +4105,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noelle"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Luna.\""
+                "\"Luna\""
               ]
             },
             {
@@ -4137,14 +4130,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Mother―!!!\""
+                "\\SE[5] \"Mom!!!\""
               ]
             },
             {

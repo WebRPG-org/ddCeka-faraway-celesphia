@@ -16,7 +16,7 @@
     "volume": 10
   },
   "disableDashing": false,
-  "displayName": "Mount Grimridge",
+  "displayName": "The Sacred Peak of Grimridge",
   "encounterList": [
     {
       "troopId": 63,
@@ -5453,7 +5453,7 @@
     null,
     {
       "id": 1,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -5496,7 +5496,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Return to the world map?"
+                "Would you like to return to the world map?"
               ]
             },
             {
@@ -5511,10 +5511,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -5522,7 +5518,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -5547,7 +5543,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -5738,7 +5734,7 @@
     },
     {
       "id": 2,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -5905,7 +5901,7 @@
     },
     {
       "id": 3,
-      "name": "宝箱（ドラゴンバングル）",
+      "name": "Treasure Chest (Dragon Bangle)",
       "note": "",
       "pages": [
         {
@@ -6066,7 +6062,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Dragon Bangle!"
+                "I got the Dragon Bangle!"
               ]
             },
             {
@@ -6203,7 +6199,7 @@
     },
     {
       "id": 4,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -6549,7 +6545,7 @@
     },
     {
       "id": 5,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -6895,7 +6891,7 @@
     },
     {
       "id": 6,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -7241,7 +7237,7 @@
     },
     {
       "id": 7,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -7587,7 +7583,7 @@
     },
     {
       "id": 8,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -7933,7 +7929,7 @@
     },
     {
       "id": 9,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -8279,7 +8275,7 @@
     },
     {
       "id": 10,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -8625,7 +8621,7 @@
     },
     {
       "id": 11,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -8972,7 +8968,7 @@
     null,
     {
       "id": 13,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -9027,7 +9023,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained a High Potion."
+                "I got a High Potion."
               ]
             },
             {
@@ -9182,7 +9178,7 @@
     },
     {
       "id": 14,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {

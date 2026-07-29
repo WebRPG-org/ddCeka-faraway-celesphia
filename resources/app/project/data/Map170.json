@@ -16,7 +16,7 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Memories Manor 2F",
+  "displayName": "Hall of Memories, 2nd Floor",
   "encounterList": [],
   "encounterStep": 30,
   "height": 23,
@@ -3625,7 +3625,7 @@
     null,
     {
       "id": 1,
-      "name": "階段",
+      "name": "Stairs",
       "note": "",
       "pages": [
         {
@@ -3748,7 +3748,7 @@
     },
     {
       "id": 2,
-      "name": "遺跡ルーナ",
+      "name": "Luna Ruins",
       "note": "",
       "pages": [
         {
@@ -3791,21 +3791,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kawill Ruins: Deepest Depths"
+                "Kawil Ruins: Deepest Part \"Ask Luna for a"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ask Luna for a side dish...\" . Do you want"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "to play this?"
+                "side dish...\" . Do you want to play this?"
               ]
             },
             {
@@ -3820,10 +3813,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -3831,7 +3820,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -3870,7 +3859,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -3915,7 +3904,7 @@
     },
     {
       "id": 3,
-      "name": "遺跡リリアン",
+      "name": "Lilian Ruins",
       "note": "",
       "pages": [
         {
@@ -3958,21 +3947,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kawill Ruins: Deepest Depths"
+                "Kawil Ruins: Deepest Part \"Ask Lilian to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ask Lilian to make a side dish...\" . Do you"
+                "make a side dish...\" . Do you want to play"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "want to play this?"
+                "this?"
               ]
             },
             {
@@ -3987,10 +3976,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -3998,7 +3983,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -4037,7 +4022,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -4082,7 +4067,7 @@
     },
     {
       "id": 4,
-      "name": "アーセレオン宿屋ルーナ",
+      "name": "Arseon Inn Luna",
       "note": "",
       "pages": [
         {
@@ -4125,7 +4110,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Arseleon Inn"
+                "Arseleon Inn "
               ]
             },
             {
@@ -4154,10 +4139,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -4165,7 +4146,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -4204,7 +4185,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -4249,7 +4230,7 @@
     },
     {
       "id": 5,
-      "name": "アーセレオン宿屋リリアン",
+      "name": "Lillian's Inn in Arseon",
       "note": "",
       "pages": [
         {
@@ -4292,46 +4273,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "Lillian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"After this event, I was really hoping to"
+                "\\SE[4]: \"Actually, I was planning to unlock"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "spend some time alone with you at the\""
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/リリアン裸1",
-                6,
-                0,
-                2,
-                ""
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]Lilian"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "inn...\""
+                "Lillian H at the inn after this event, but—\""
               ]
             },
             {
@@ -4349,21 +4305,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "Lillian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Just the two of us, with Lady Luna out of"
+                "\\SE[4] \"To exclude Lady Luna and be alone"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the way...\""
+                "together… —that’s just too pitiful… so…\""
               ]
             },
             {
@@ -4381,21 +4337,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "Lillian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"I lost it... I hope you're looking forward"
+                "\\SE[4] \"I lost it… You were probably expecting it…"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "to it...\""
+                "I’m sorry.\""
               ]
             },
             {
@@ -4413,7 +4369,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Arseleon Inn"
+                "Arseon Inn "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"In the Bath with Lilian...\" . Do you want"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "to play this?"
               ]
             },
             {
@@ -4428,10 +4398,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -4439,7 +4405,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -4478,7 +4444,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -4523,7 +4489,7 @@
     },
     {
       "id": 6,
-      "name": "アーセレオン宿屋フリー正常位",
+      "name": "ArseLeon Inn: Free Missionary Position",
       "note": "",
       "pages": [
         {
@@ -4566,7 +4532,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Arseleon Inn"
+                "Arseon Inn "
               ]
             },
             {
@@ -4595,10 +4561,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -4606,7 +4568,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -4645,7 +4607,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -4690,7 +4652,7 @@
     },
     {
       "id": 7,
-      "name": "ミレーH",
+      "name": "Millet H",
       "note": "",
       "pages": [
         {
@@ -4733,53 +4695,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Milee"
+                "Milley "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Milee=Lilian was always like that from the"
+                "\\SE[4]: \"The concept of ‘Milley-Lillian’ was"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "start―\""
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/ミレー照れ",
-                1,
-                0,
-                2,
-                ""
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]Milee"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[4]\"The flow of time between elves and"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "humans...\""
+                "something I had in mind from the very"
               ]
             },
             {
@@ -4797,7 +4727,89 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle's Past -Inn"
+                "Milley "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "beginning.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/ミレー照れ",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Millet "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"I thought, ‘I’d love to depict a romance"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "between two races—elves and humans—whose"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/ミレー照れ",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Millet "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "concept of time is different…’\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/ミレー通常",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Kyle's Past: Inn "
               ]
             },
             {
@@ -4826,10 +4838,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -4837,7 +4845,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -4876,7 +4884,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -4921,7 +4929,7 @@
     },
     {
       "id": 8,
-      "name": "サフィラH",
+      "name": "Safira H",
       "note": "",
       "pages": [
         {
@@ -4964,14 +4972,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Saphira"
+                "Safira "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"\"Luna and Lilian were made to be with Kyle\""
+                "\\SE[1]: \"It says, ‘Luna and Lilian learn how to"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "serve Safira from while facing off against"
               ]
             },
             {
@@ -4989,14 +5004,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Saphira"
+                "Safira "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"for an event, you see.\""
+                "Kyle.’\""
               ]
             },
             {
@@ -5014,21 +5029,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Saphira"
+                "Safira "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"But I guess they're heading to a place like"
+                "\\SE[1] \"I made this character for the event, ,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "that.\""
+                "but—\""
               ]
             },
             {
@@ -5046,14 +5061,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Saphira"
+                "Safira "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"An event leaning more toward comedy.\""
+                "\\SE[1] \"Come to think of it, it is strange that"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Kyle and the others would go to a place like"
               ]
             },
             {
@@ -5071,7 +5093,89 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Eldenia Brothel"
+                "Safira "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "that…\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/elis_face1",
+                6,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Safira "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1]: \"I’ve decided to steer things toward a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "more comedic event. What a nuisance, isn’t"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/elis_face1",
+                6,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Safira "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "it?\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/elis_face1",
+                6,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Eldenia Brothel "
               ]
             },
             {
@@ -5100,10 +5204,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -5111,7 +5211,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -5150,7 +5250,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -5195,7 +5295,7 @@
     },
     {
       "id": 9,
-      "name": "エルデニアギルドH",
+      "name": "Eldenia Guild H",
       "note": "",
       "pages": [
         {
@@ -5238,7 +5338,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Her default art is just too damn good...!"
+                "As expected, the default character art is"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "just too good-looking…!"
               ]
             },
             {
@@ -5256,7 +5363,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Eldenia Guild 2F"
+                "Eldenia Guild 2F"
               ]
             },
             {
@@ -5285,10 +5392,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -5296,7 +5399,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -5335,7 +5438,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -5380,7 +5483,7 @@
     },
     {
       "id": 10,
-      "name": "エルデニア宿屋H",
+      "name": "Eldenia Inn H",
       "note": "",
       "pages": [
         {
@@ -5423,7 +5526,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Eldenia Inn"
+                "Eldenia Inn "
               ]
             },
             {
@@ -5452,10 +5555,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -5463,7 +5562,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -5502,7 +5601,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -5547,7 +5646,7 @@
     },
     {
       "id": 11,
-      "name": "3PフリーH",
+      "name": "Threesome Free H",
       "note": "",
       "pages": [
         {
@@ -5590,7 +5689,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Arseleon Inn"
+                "Arseon Inn "
               ]
             },
             {
@@ -5619,10 +5718,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -5630,7 +5725,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -5676,7 +5771,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -5721,7 +5816,7 @@
     },
     {
       "id": 12,
-      "name": "ルーナフリーH正常位",
+      "name": "Luna Free H: Missionary Position",
       "note": "",
       "pages": [
         {
@@ -5764,7 +5859,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Arseleon Inn"
+                "Arseleon Inn "
               ]
             },
             {
@@ -5793,10 +5888,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -5804,7 +5895,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -5850,7 +5941,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -5895,7 +5986,7 @@
     },
     {
       "id": 13,
-      "name": "ルーナフリーH後背位",
+      "name": "Luna Free H: Doggy Style",
       "note": "",
       "pages": [
         {
@@ -5938,7 +6029,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Arseleon Inn"
+                "Arseleon Inn "
               ]
             },
             {
@@ -5967,10 +6058,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -5978,7 +6065,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -6024,7 +6111,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -6069,7 +6156,7 @@
     },
     {
       "id": 14,
-      "name": "ルーナフリーH即位",
+      "name": "Luna Free H Ascends to the Throne",
       "note": "",
       "pages": [
         {
@@ -6112,14 +6199,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Arseleon Inn"
+                "Arseleon Inn "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Luna and the Coronation\" Do you want to"
+                "\"Luna and the Coronation\" : Do you want to"
               ]
             },
             {
@@ -6141,10 +6228,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -6152,7 +6235,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -6198,7 +6281,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -6243,7 +6326,7 @@
     },
     {
       "id": 15,
-      "name": "ルーナフリーH騎乗位",
+      "name": "Luna Free H: Riding Position",
       "note": "",
       "pages": [
         {
@@ -6286,14 +6369,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Arseleon Inn"
+                "Arseleon Inn "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Luna and Cowgirl\""
+                "\"Luna and the Riding Position\" . Do you want"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "to play this?"
               ]
             },
             {
@@ -6308,10 +6398,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -6319,7 +6405,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -6365,7 +6451,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -6410,7 +6496,7 @@
     },
     {
       "id": 16,
-      "name": "リリアンフリーH正常位",
+      "name": "Lillian Free H: Missionary Position",
       "note": "",
       "pages": [
         {
@@ -6453,14 +6539,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Arseleon Inn"
+                "Arseon Inn "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Lilian and Missionary\""
+                "\"Lilian and the Missionary Position\" . Do"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "you want to play this?"
               ]
             },
             {
@@ -6475,10 +6568,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -6486,7 +6575,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -6532,7 +6621,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -6577,7 +6666,7 @@
     },
     {
       "id": 17,
-      "name": "リリアンフリーH後背位",
+      "name": "Lillian Free H: Doggy Style",
       "note": "",
       "pages": [
         {
@@ -6620,21 +6709,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Arseleon Inn"
+                "Archeon Inn "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Lilian and Doggy Style\" Do you want to play"
+                "\"Lilian and Doggy Style\" : Do you want to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "this?"
+                "play this?"
               ]
             },
             {
@@ -6649,10 +6738,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -6660,7 +6745,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -6706,7 +6791,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -6751,7 +6836,7 @@
     },
     {
       "id": 18,
-      "name": "リリアンフリーH即位",
+      "name": "Lillian Free H Ascends to the Throne",
       "note": "",
       "pages": [
         {
@@ -6794,7 +6879,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Arseleon Inn"
+                "Arseleon Inn "
               ]
             },
             {
@@ -6823,10 +6908,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -6834,7 +6915,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -6880,7 +6961,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -6925,7 +7006,7 @@
     },
     {
       "id": 19,
-      "name": "リリアンフリーH騎乗位",
+      "name": "Lillian Free H: Riding Position",
       "note": "",
       "pages": [
         {
@@ -6968,7 +7049,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Arseleon Inn"
+                "Arseleon Inn "
               ]
             },
             {
@@ -6997,10 +7078,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -7008,7 +7085,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -7054,7 +7131,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -7099,7 +7176,7 @@
     },
     {
       "id": 20,
-      "name": "バックドットアニメ",
+      "name": "Backdot Anime",
       "note": "",
       "pages": [
         {
@@ -7142,7 +7219,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Dot animation \"Back\""
+                "Dot Animation \"Back\" (Arseleon Guild)"
               ]
             },
             {
@@ -7191,7 +7268,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]1"
+                "1"
               ]
             },
             {
@@ -7240,7 +7317,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]2"
+                "2"
               ]
             },
             {
@@ -7289,7 +7366,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]3"
+                "3"
               ]
             },
             {
@@ -7338,7 +7415,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]4"
+                "4"
               ]
             },
             {
@@ -7356,7 +7433,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]END"
+                "END"
               ]
             },
             {
@@ -7391,7 +7468,7 @@
     },
     {
       "id": 21,
-      "name": "ギルドフェラアニメ",
+      "name": "Guild Fellatio Anime",
       "note": "",
       "pages": [
         {
@@ -7434,7 +7511,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Dot animation \"Blowjob\""
+                "Pixel Animation \"Fella\" (Eldenia Guild)"
               ]
             },
             {
@@ -7483,7 +7560,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]1"
+                "1"
               ]
             },
             {
@@ -7501,14 +7578,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I Wanted To Make A Lot More Pixel Art Animations,"
+                "I really wanted to make more pixel art animations, but"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But... \"If I draw big, it's all just a blur!\" and"
+                "\"If I make the images too big, you won’t be able to see"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "them at all!\" —and so the project was shelved."
               ]
             },
             {
@@ -7526,7 +7610,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]END"
+                "END"
               ]
             },
             {
@@ -7561,7 +7645,7 @@
     },
     {
       "id": 22,
-      "name": "騎乗位ドットアニメ",
+      "name": "Cowgirl Position Dot Anime",
       "note": "",
       "pages": [
         {
@@ -7604,14 +7688,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Dot Animation 'Cowgirl'"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "(Opening)"
+                "Pixel Art Anime \"Cowgirl Position\" (Opening)"
               ]
             },
             {
@@ -7660,7 +7737,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]1"
+                "1"
               ]
             },
             {
@@ -7709,7 +7786,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]2"
+                "2"
               ]
             },
             {
@@ -7758,7 +7835,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]3"
+                "3"
               ]
             },
             {
@@ -7776,7 +7853,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]END"
+                "END"
               ]
             },
             {
@@ -7811,7 +7888,7 @@
     },
     {
       "id": 23,
-      "name": "リリアン花嫁",
+      "name": "Lillian the Bride",
       "note": "",
       "pages": [
         {
@@ -7906,21 +7983,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lillian Wedding"
+                "Lillian Wedding "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Drawn with the image of a sword turning into a"
+                "(I drew this with the theme \"From Sword to Flower\" in"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "flower.)"
+                "mind)"
               ]
             },
             {
@@ -7973,7 +8050,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian's Ring"
+                "Lillian Ring"
               ]
             },
             {
@@ -8052,7 +8129,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian Ending"
+                "Lillian END"
               ]
             },
             {
@@ -8151,7 +8228,7 @@
     },
     {
       "id": 24,
-      "name": "ルーナ髪切り",
+      "name": "Luna's Haircut",
       "note": "",
       "pages": [
         {
@@ -8246,7 +8323,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]After Luna's haircut"
+                "Luna After Her Haircut"
               ]
             },
             {
@@ -8299,7 +8376,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna's Ring"
+                "Luna Ring"
               ]
             },
             {
@@ -8439,21 +8516,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "The daughter of Ceres-Kyle and Luna. Older"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The son of Tiol-Kyle and Lilian. Younger"
+                "sister. The son of Tiol-Kyle and Lilian."
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "brother."
+                "Younger brother."
               ]
             },
             {
@@ -8535,14 +8612,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Noel"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"I've started wanting a child again...\""
+                "\\SE[2] \"I've started wanting a child again,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "too...\""
               ]
             },
             {
@@ -8560,14 +8644,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"W-Wait a minute, Mother!?\""
+                "\\SE[5]: \"W-wait a minute, Mom!?\""
               ]
             },
             {
@@ -8602,7 +8686,7 @@
     },
     {
       "id": 25,
-      "name": "エンディングスチル",
+      "name": "Ending Stills",
       "note": "",
       "pages": [
         {
@@ -8697,14 +8781,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ending"
+                "Ending "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Thank you for playing until here,"
+                "(Thank you so, so much for playing all the way to this"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "point, .)"
               ]
             },
             {
@@ -8777,7 +8868,7 @@
     },
     {
       "id": 26,
-      "name": "アーセレオン宿屋フリーバック",
+      "name": "ArseLeon Inn: Free Bag",
       "note": "",
       "pages": [
         {
@@ -8820,7 +8911,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Arseleon Inn"
+                "Arseleon Inn "
               ]
             },
             {
@@ -8849,10 +8940,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -8860,7 +8947,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -8899,7 +8986,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {

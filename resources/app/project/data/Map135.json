@@ -5077,7 +5077,7 @@
     null,
     {
       "id": 1,
-      "name": "血",
+      "name": "Blood",
       "note": "",
       "pages": [
         {
@@ -5099,7 +5099,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "flower_chip_Celesphia",
+            "characterName": "flower_chip_selesphia",
             "direction": 6,
             "pattern": 2,
             "characterIndex": 0
@@ -5188,7 +5188,7 @@
     },
     {
       "id": 2,
-      "name": "血のり",
+      "name": "Fake blood",
       "note": "",
       "pages": [
         {
@@ -5210,7 +5210,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "flower_chip_Celesphia",
+            "characterName": "flower_chip_selesphia",
             "direction": 8,
             "pattern": 1,
             "characterIndex": 0
@@ -5299,7 +5299,7 @@
     },
     {
       "id": 3,
-      "name": "馬",
+      "name": "Horse",
       "note": "",
       "pages": [
         {
@@ -5421,7 +5421,7 @@
     },
     {
       "id": 4,
-      "name": "荷物",
+      "name": "Luggage",
       "note": "",
       "pages": [
         {
@@ -5532,7 +5532,7 @@
     },
     {
       "id": 5,
-      "name": "荷物",
+      "name": "Luggage",
       "note": "",
       "pages": [
         {
@@ -5643,7 +5643,7 @@
     },
     {
       "id": 6,
-      "name": "血",
+      "name": "Blood",
       "note": "",
       "pages": [
         {
@@ -5665,7 +5665,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "flower_chip_Celesphia",
+            "characterName": "flower_chip_selesphia",
             "direction": 8,
             "pattern": 2,
             "characterIndex": 0
@@ -5754,7 +5754,7 @@
     },
     {
       "id": 7,
-      "name": "ミレー",
+      "name": "Millet",
       "note": "",
       "pages": [
         {
@@ -5873,7 +5873,7 @@
     },
     {
       "id": 8,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -5933,7 +5933,7 @@
     },
     {
       "id": 9,
-      "name": "血",
+      "name": "Blood",
       "note": "",
       "pages": [
         {
@@ -5955,7 +5955,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "flower_chip_Celesphia",
+            "characterName": "flower_chip_selesphia",
             "direction": 8,
             "pattern": 0,
             "characterIndex": 0
@@ -6044,7 +6044,7 @@
     },
     {
       "id": 10,
-      "name": "ミレー救出へ",
+      "name": "To Rescue Millet",
       "note": "",
       "pages": [
         {
@@ -6221,7 +6221,7 @@
     },
     {
       "id": 11,
-      "name": "自動",
+      "name": "Automatic",
       "note": "",
       "pages": [
         {
@@ -6307,14 +6307,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]？？？"
+                "\\SE[0]??? "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"...Is someone...is someone there...?\""
+                "\\SE[9] \"...Is anyone... anyone... out there...?\""
               ]
             },
             {
@@ -6853,14 +6853,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"Are you alright?!\""
+                "\\SE[8] \"Are you okay!?\""
               ]
             },
             {
@@ -6900,14 +6900,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The voice belonged to someone covered in blood,"
+                "The person who spoke was lying at the bottom of the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "collapsed at the bottom of a cliff."
+                "cliff, covered in blood."
               ]
             },
             {
@@ -6924,14 +6924,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Their arms and legs were bent in unnatural directions,"
+                "His arms and legs were bent at odd angles, and it"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "having fallen with considerable force."
+                "appeared he had fallen off the cliff at a considerable"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "speed."
               ]
             },
             {
@@ -6963,14 +6970,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]？？？"
+                "\\SE[0]??? "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"...Uh...ggh...! Haa...haa...\""
+                "\\SE[9] \"…U…uh…kuu……! Haa… haa…\""
               ]
             },
             {
@@ -6987,14 +6994,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"I―I'll heal you right now!\""
+                "\\SE[8] \"I-I’ll treat you right now!\""
               ]
             },
             {
@@ -7034,14 +7041,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I poured every last bit of my remaining magic into the"
+                "I used every last bit of my remaining magical power to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "effort."
+                "heal the knight standing before me."
               ]
             },
             {
@@ -7059,21 +7066,53 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8](It's no good... I don't have enough magic"
+                "\\SE[8] (No good... I don't have enough magic to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "to fully heal her...)"
+                "heal this completely. For now, let's"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/カイル子供",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "prioritize treating the fracture so I can at"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "least move.)"
               ]
             },
             {
@@ -7197,14 +7236,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"Haaah...! Haaah...! Haaah...\""
+                "\\SE[8] \"Haa…! Haa…! Haa…\" (I… I can’t take it"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "anymore…)"
               ]
             },
             {
@@ -7236,14 +7282,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]？？？"
+                "\\SE[0]??? "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"Guh...!\""
+                "\\SE[9] \"Guh...!\""
               ]
             },
             {
@@ -7285,7 +7331,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Had I not fully restored her yet?"
+                "Perhaps he hasn't fully recovered yet. He slowly stands"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "up, his face contorted in pain."
               ]
             },
             {
@@ -7353,14 +7406,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"A-are you okay...?!\""
+                "\\SE[8] \"A-are you okay…!? You’d better not move"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "just yet…\""
               ]
             },
             {
@@ -7413,21 +7473,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]？？？"
+                "\\SE[0]??? "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"Thank you, boy... I never expected to meet"
+                "\\SE[9] \"Thank you, young man… I never imagined I’d"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "someone here...\""
+                "encounter God’s Blessing <Oracle> in a place"
               ]
             },
             {
@@ -7445,21 +7505,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]？？？"
+                "\\SE[0]??? "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"Perhaps this is the blessing of Goddess"
+                "like this.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/ミレー通常",
+                0,
+                0,
+                2,
+                ""
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Fortuna...\""
+                "???"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[9] \"Is this also the blessing of the goddess"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Fortuna? Young man, what is your name?\""
               ]
             },
             {
@@ -7477,14 +7562,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"\\C[2]Kyle Lovran\\C[0], Healer <Oracle>.\""
+                "\\SE[8] \"\\C[2] Kyle-Rowan \\C[0], a healing mage <Oracle> ."
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I’m an adventurer.\""
               ]
             },
             {
@@ -7502,14 +7594,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Milee]"
+                "\\SE[0] Mille "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"I'm Milee. \\C[2]Milee Felcia\\C[0].\""
+                "\\SE[9] \"I’m Mille. \\C[2] Mille-Felsia \\C[0]. I’m a knight"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "<Cavalier>. Nice to meet you, Kyle.\""
               ]
             },
             {
@@ -7526,21 +7625,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"For now, let's tend to your wounds. I'll"
+                "\\SE[8] \"Let’s tend to your wound first. Please sit"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "use the bandages I have here.\""
+                "down here.\""
               ]
             },
             {
@@ -7695,14 +7794,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I pressed the bandages I'd been carrying against"
+                "I used the bandage I had on hand to dress Mille’s"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Milee's wounds."
+                "wound—it’s just a first-aid measure, but it’s better"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "than nothing."
               ]
             },
             {
@@ -7768,14 +7874,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Milee]"
+                "\\SE[0] Mille "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"Kyle, why are you out here?\""
+                "\\SE[9] \"Why is Kyle here? Is he alone?\""
               ]
             },
             {
@@ -7792,21 +7898,45 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"I was on a cargo transport mission when we"
+                "\\SE[8] \"We were attacked by monsters while on a"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "were ambushed by monsters...\""
+                "cargo transport mission… I was the only one"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/カイル子供",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "who managed to escape.\""
               ]
             },
             {
@@ -7823,14 +7953,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Milee]"
+                "\\SE[0] Mille "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"None of your companions...?\""
+                "\\SE[9] \"Not a single ally…?\""
               ]
             },
             {
@@ -7847,21 +7977,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"Yes... they were all killed...\" \\SE[0]Why are you"
+                "\\SE[8] \"Yes… Everyone was killed… \\SE[0] Why is Mille"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "here, Milee?\""
+                "here?\""
               ]
             },
             {
@@ -7878,21 +8008,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Milee"
+                "\\SE[0] Mille "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"I was coming from Elheim when I was"
+                "\\SE[9] \"I’m from Elheim, but I was rushing to the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "attacked by monsters here.\""
+                "capital on a mission.\""
               ]
             },
             {
@@ -7909,21 +8039,45 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Milee"
+                "\\SE[0] Mille "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"I slipped on the rain-slicked ground, and"
+                "\\SE[9] \"I was attacked by a monster there, and my"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the monsters' cries are getting closer.\""
+                "feet slipped in the rain, so I slid down"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/ミレー通常",
+                1,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Mille "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "here along with my horse.\""
               ]
             },
             {
@@ -8130,7 +8284,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The monsters' roars are drawing nearer."
+                "The monster's cries are getting closer."
               ]
             },
             {
@@ -8196,21 +8350,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Milee"
+                "\\SE[0] Millet "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"Are they searching for us? Either way,"
+                "\\SE[9] \"Are the monsters looking for us, or are"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "staying here is dangerous.\""
+                "they gathering here, lured by the scent…?\""
               ]
             },
             {
@@ -8227,21 +8381,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Milee"
+                "\\SE[0] Mille "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"Kyle, I'm getting out of here. I'll head to"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "the nearest...\""
+                "\\SE[9] \"Either way, it’s dangerous to stay here.\""
               ]
             },
             {
@@ -8289,21 +8436,45 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Milee"
+                "\\SE[0] Millet "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"Right, let's get out of here. Come on,"
+                "\\SE[9] \"Kyle, I want to get out of here and go to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Kyle!\""
+                "a nearby village or town. Want to come with"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/ミレー通常",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Millet "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "me?\""
               ]
             },
             {
@@ -8320,14 +8491,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"Y-yeah! I'm coming!\""
+                "\\SE[8] \"I-I’m going!\""
               ]
             },
             {
@@ -8344,14 +8515,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Milee"
+                "\\SE[0] Mille "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"Good. Let's go. Move it, Kyle!\""
+                "\\SE[9] \"All right, let’s get out of here. Let’s"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "go, Kyle!\""
               ]
             },
             {
@@ -8516,7 +8694,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Milee has joined the party."
+                "\\SE[0] Mille has joined your party"
               ]
             },
             {
@@ -8575,9 +8753,8 @@
                 1,
                 0,
                 4,
-                "\"　Escape from here\""
-              ],
-              "_original": "\"　ここから脱出しよう\""
+                "\"　Let's get out of here\""
+              ]
             },
             {
               "code": 250,
@@ -8605,7 +8782,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "※Milee and Kyle are both injured."
+                "*Since both Mille and Kyle are injured, they cannot"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "perform the dash."
               ]
             },
             {
@@ -8704,7 +8888,7 @@
     },
     {
       "id": 12,
-      "name": "雨",
+      "name": "Rain",
       "note": "",
       "pages": [
         {
@@ -8847,7 +9031,7 @@
     },
     {
       "id": 13,
-      "name": "雨降らしフラグ",
+      "name": "Rain-Inducing Flag",
       "note": "",
       "pages": [
         {

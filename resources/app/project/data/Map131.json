@@ -7057,7 +7057,7 @@
     null,
     {
       "id": 1,
-      "name": "ランプ",
+      "name": "Lamp",
       "note": "",
       "pages": [
         {
@@ -7117,7 +7117,7 @@
     },
     {
       "id": 2,
-      "name": "ランプ",
+      "name": "Lamp",
       "note": "",
       "pages": [
         {
@@ -7177,7 +7177,7 @@
     },
     {
       "id": 3,
-      "name": "ランプ",
+      "name": "Lamp",
       "note": "",
       "pages": [
         {
@@ -7237,7 +7237,7 @@
     },
     {
       "id": 4,
-      "name": "ランプ",
+      "name": "Lamp",
       "note": "",
       "pages": [
         {
@@ -7297,7 +7297,7 @@
     },
     {
       "id": 5,
-      "name": "外に",
+      "name": "Outside",
       "note": "",
       "pages": [
         {
@@ -7464,7 +7464,7 @@
     },
     {
       "id": 6,
-      "name": "炎",
+      "name": "Flame",
       "note": "",
       "pages": [
         {
@@ -7524,7 +7524,7 @@
     },
     {
       "id": 7,
-      "name": "炎",
+      "name": "Flame",
       "note": "",
       "pages": [
         {
@@ -7584,7 +7584,7 @@
     },
     {
       "id": 8,
-      "name": "炎",
+      "name": "Flame",
       "note": "",
       "pages": [
         {
@@ -7644,7 +7644,7 @@
     },
     {
       "id": 9,
-      "name": "炎",
+      "name": "Flame",
       "note": "",
       "pages": [
         {
@@ -7704,7 +7704,7 @@
     },
     {
       "id": 10,
-      "name": "酒場入口",
+      "name": "Entrance to the Bar",
       "note": "",
       "pages": [
         {
@@ -7943,7 +7943,7 @@
     },
     {
       "id": 11,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -7986,7 +7986,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you want to go to the world map?"
+                "Would you like to go to the world map?"
               ]
             },
             {
@@ -8001,10 +8001,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -8012,7 +8008,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -8037,7 +8033,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -8177,7 +8173,7 @@
     },
     {
       "id": 12,
-      "name": "カイルの墓",
+      "name": "Kyle's Grave",
       "note": "",
       "pages": [
         {
@@ -8237,7 +8233,7 @@
     },
     {
       "id": 13,
-      "name": "カイルの墓",
+      "name": "Kyle's Grave",
       "note": "",
       "pages": [
         {
@@ -8297,7 +8293,7 @@
     },
     {
       "id": 14,
-      "name": "カイル墓お花",
+      "name": "Flowers at Kyle's Grave",
       "note": "",
       "pages": [
         {
@@ -8357,7 +8353,7 @@
     },
     {
       "id": 15,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -8876,7 +8872,7 @@
     },
     {
       "id": 16,
-      "name": "リリアン",
+      "name": "Lillian",
       "note": "",
       "pages": [
         {
@@ -9395,7 +9391,7 @@
     },
     {
       "id": 17,
-      "name": "ルーナENDING",
+      "name": "Luna ENDING",
       "note": "",
       "pages": [
         {
@@ -9670,7 +9666,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]We buried Kyle-sama in Eldenia,"
+                "\\SE[5] We buried Lord Kyle in Eldenia and bid him farewell."
               ]
             },
             {
@@ -9765,7 +9761,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]and returned with his diary as a keepsake"
+                "\\SE[5] And as mementos, I took Lord Kyle’s diary and"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Celesphia..."
               ]
             },
             {
@@ -9790,7 +9793,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]to Elheim."
+                "\\SE[0] I returned to Elheim."
               ]
             },
             {
@@ -9953,7 +9956,7 @@
     },
     {
       "id": 18,
-      "name": "リリアンENDING",
+      "name": "Lillian ENDING",
       "note": "",
       "pages": [
         {
@@ -10228,7 +10231,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]We buried Kyle with the utmost care,"
+                "\\SE[4] We gave Kyle a respectful burial and said our"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "goodbyes."
               ]
             },
             {
@@ -10323,7 +10333,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]and as a memento, we received Kyle's Diary."
+                "\\SE[4] And I received Kyle's diary as a memento,"
               ]
             },
             {
@@ -10348,7 +10358,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]together with Celesphia, to await Lady Noel-sama."
+                "\\SE[4] Together with Ceresphere, I returned to Elheim, where"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Lady Noel was waiting."
               ]
             },
             {
@@ -10554,14 +10571,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Uh... what should I do... 10,000, maybe...?\""
+                ": \"Um... what should I do... maybe 10,000...?\""
               ]
             },
             {
@@ -10741,14 +10758,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hey, come on...! Just once... yeah?\""
+                ": \"Hey, come on...! Just once... okay? I can go for a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "second round or so.\""
               ]
             },
             {
@@ -10928,21 +10952,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Townsperson"
+                "Townsperson "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This place has its fair share of water. Without water,"
+                ": \"There’s actually plenty of water around here. People"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "people can't\""
+                "can’t live without water.\""
               ]
             },
             {
@@ -10960,21 +10984,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Townsperson"
+                "Townsperson "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Grimridge used to be a land filled with water and"
+                ": \"I’ve heard that Grimridge used to be a beautiful"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "overflowing with greenery.\""
+                "mountain, full of water and lush greenery.\""
               ]
             },
             {
@@ -10992,21 +11016,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Townsperson"
+                "Townsperson "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"But then, a volcanic eruption occurred, and miasma"
+                ": \"But then, one day, a volcanic eruption occurred, and"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "began to gather...\""
+                "as miasma accumulated, the area became a demonic realm"
               ]
             },
             {
@@ -11024,14 +11048,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Townsperson"
+                "Townsperson "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It's a place only the reckless would dare to go.\""
+                "where monsters began to emerge one after another.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Townsperson "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                ": \"Only daredevils go there. Please, don’t push"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "yourself too hard.\""
               ]
             },
             {
@@ -11211,14 +11267,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier"
+                "Soldier "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This is where my fallen comrades are buried.\""
+                ": \"Our comrades who died in battle are buried here. I"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "come here every now and then to remember them.\""
               ]
             },
             {
@@ -11347,21 +11410,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Innkeeper"
+                "Innkeeper "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ugh, damn it! No matter how many sheets I wash, it's"
+                ": \"Ugh, enough already! No matter how many sheets I"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "never enough!\""
+                "wash, I can’t keep up! Why does everyone have to get"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Innkeeper "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "them dirty? Grrr!\""
               ]
             },
             {
@@ -11396,7 +11484,7 @@
     },
     {
       "id": 24,
-      "name": "兵士",
+      "name": "Soldier",
       "note": "",
       "pages": [
         {
@@ -11439,21 +11527,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier"
+                "Soldier "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"There are monsters swarming outside. The ones around"
+                ": \"The area outside is swarming with monsters. The"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "here are vicious.\""
+                "monsters around here are ferocious. Be careful.\""
               ]
             },
             {
@@ -11471,21 +11559,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier"
+                "Soldier "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Still, I wanna grope her so bad... Ahh... Like this"
+                "(Man, I really want to give her a massage… Ah… Like"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "with both hands...)"
+                "this, with both hands…)"
               ]
             },
             {
@@ -11520,7 +11608,7 @@
     },
     {
       "id": 25,
-      "name": "兵士",
+      "name": "Soldier",
       "note": "",
       "pages": [
         {
@@ -11563,14 +11651,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier"
+                "Soldier "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"You crossed that bridge on your way here, right?\""
+                ": \"You crossed a bridge on your way here, right? To the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "desert area beyond it.\""
               ]
             },
             {
@@ -11588,14 +11683,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier"
+                "Soldier "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Apparently, a giant sandworm's been lurking around.\""
+                ": \"Apparently, a giant sandworm has been spotted. It’s"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "a vicious monster—it’s already killed several people.\""
               ]
             },
             {
@@ -11613,14 +11715,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier"
+                "Soldier "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It's been popping up southeast of the desert.\""
+                ": \"They seem to be frequently spotted in the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "southeastern part of the desert. If you're passing"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Soldier "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "through, I recommend taking the western route.\""
               ]
             },
             {
@@ -11698,14 +11832,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This inn's a little out of the way, isn't it?\""
+                ": \"Isn't this inn a little far away?\""
               ]
             },
             {
@@ -11723,14 +11857,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"So… everyone here's fucking like rabbits, you know?♡\""
+                ": \"So... everyone here is hooking up like crazy ♡"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Hehehe, I wonder if that's why my voice isn't carrying"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Female Adventurer "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "very well.\""
               ]
             },
             {
@@ -11910,14 +12076,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Townsperson"
+                "Townsperson "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"You know the story about the desert treasure?\""
+                ": \"Have you heard the story about the treasure in the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "desert?\""
               ]
             },
             {
@@ -11935,21 +12108,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Townsperson"
+                "Townsperson "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Back in the day, there was a band of thieves who were"
+                ": \"A long time ago, a band of thieves was attacked by"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "attacked by monsters in the desert,\""
+                "monsters in the desert and wiped out.\""
               ]
             },
             {
@@ -11967,21 +12140,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Townsperson"
+                "Townsperson "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"and they supposedly dropped all their gold and silver"
+                ": \"There’s this tall tale that they dropped gold,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "treasures in the sand...\""
+                "silver, and treasures in the desert back then…\""
               ]
             },
             {
@@ -11999,14 +12172,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Townsperson"
+                "A local resident "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I've never heard of anyone finding it, though.\""
+                ": \"I’ve never heard that it was found, so it might"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "still be out there.\""
               ]
             },
             {
@@ -12135,14 +12315,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Townsperson"
+                "Local Resident "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I just moved here. I hate the rain.\""
+                ": \"I just moved here. I don’t like rain, so this dry"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "region is a lot more comfortable for me.\""
               ]
             },
             {
@@ -12322,21 +12509,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Child"
+                "Kid "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"They say Valgrind is the strongest dragon in the"
+                ": \"They say the world’s strongest dragon is Vargreid!"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "world!\""
+                "They said it’s huge—like a mountain!\""
               ]
             },
             {
@@ -12516,14 +12703,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Child"
+                "Child "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"No way! There's no way something that big exists!\""
+                ": \"No way! There's no way a creature that big exists,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "!\""
               ]
             },
             {
@@ -12660,7 +12854,7 @@
     },
     {
       "id": 31,
-      "name": "武器屋",
+      "name": "Weapons Shop",
       "note": "",
       "pages": [
         {
@@ -12899,7 +13093,7 @@
     },
     {
       "id": 32,
-      "name": "教会",
+      "name": "Church",
       "note": "",
       "pages": [
         {
@@ -13138,7 +13332,7 @@
     },
     {
       "id": 33,
-      "name": "冒険者",
+      "name": "Adventurer",
       "note": "",
       "pages": [
         {
@@ -13181,21 +13375,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I've scoured every corner of Eldenia Town looking for"
+                ": \"I'm searching every nook and cranny of Eldenia's"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "a shady place...\""
+                "streets for a sketchy shop, but...\""
               ]
             },
             {
@@ -13213,21 +13407,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"My gut tells me the back of the soldiers' barracks is"
+                ": \"My gut tells me the back of the soldiers’ barracks"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "suspicious.\""
+                "is suspicious— is giving it a suspicious look. I wonder"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Female Adventurer "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "how we’re supposed to get there.\""
               ]
             },
             {
@@ -13313,7 +13532,7 @@
     },
     {
       "id": 34,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -13368,7 +13587,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Pure Refine."
+                "I got Pure Refine"
               ]
             },
             {
@@ -13472,7 +13691,7 @@
     },
     {
       "id": 35,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -13527,7 +13746,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Revive Soul."
+                "I got Revive Soul"
               ]
             },
             {
@@ -13682,7 +13901,7 @@
     },
     {
       "id": 36,
-      "name": "進入禁止",
+      "name": "No Entry",
       "note": "",
       "pages": [
         {
@@ -13742,7 +13961,7 @@
     },
     {
       "id": 37,
-      "name": "進入禁止",
+      "name": "No Entry",
       "note": "",
       "pages": [
         {
@@ -13802,7 +14021,7 @@
     },
     {
       "id": 38,
-      "name": "進入禁止",
+      "name": "No Entry",
       "note": "",
       "pages": [
         {
@@ -13862,7 +14081,7 @@
     },
     {
       "id": 39,
-      "name": "進入禁止",
+      "name": "No Entry",
       "note": "",
       "pages": [
         {

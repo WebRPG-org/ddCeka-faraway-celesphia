@@ -5437,7 +5437,7 @@
     null,
     {
       "id": 1,
-      "name": "ドア",
+      "name": "Door",
       "note": "",
       "pages": [
         {
@@ -5497,7 +5497,7 @@
     },
     {
       "id": 2,
-      "name": "ドア",
+      "name": "Door",
       "note": "",
       "pages": [
         {
@@ -5557,7 +5557,7 @@
     },
     {
       "id": 3,
-      "name": "ドア",
+      "name": "Door",
       "note": "",
       "pages": [
         {
@@ -5617,7 +5617,7 @@
     },
     {
       "id": 4,
-      "name": "ドア",
+      "name": "Door",
       "note": "",
       "pages": [
         {
@@ -5677,7 +5677,7 @@
     },
     {
       "id": 5,
-      "name": "ドア",
+      "name": "Door",
       "note": "",
       "pages": [
         {
@@ -5737,7 +5737,7 @@
     },
     {
       "id": 6,
-      "name": "馬車前",
+      "name": "In front of the carriage",
       "note": "",
       "pages": [
         {
@@ -5797,7 +5797,7 @@
     },
     {
       "id": 7,
-      "name": "馬車後",
+      "name": "Behind the Carriage",
       "note": "",
       "pages": [
         {
@@ -5857,7 +5857,7 @@
     },
     {
       "id": 8,
-      "name": "馬主",
+      "name": "Horse Owner",
       "note": "",
       "pages": [
         {
@@ -6037,7 +6037,7 @@
     },
     {
       "id": 11,
-      "name": "明かり",
+      "name": "Light",
       "note": "",
       "pages": [
         {
@@ -6104,7 +6104,7 @@
     },
     {
       "id": 12,
-      "name": "明かり",
+      "name": "Light",
       "note": "",
       "pages": [
         {
@@ -6171,7 +6171,7 @@
     },
     {
       "id": 13,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -6384,7 +6384,7 @@
     },
     {
       "id": 14,
-      "name": "自動イベント",
+      "name": "Automatic Events",
       "note": "",
       "pages": [
         {
@@ -7046,21 +7046,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Horse Owner"
+                "Horse Owner "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It's 100G to the royal capital. It's a shared"
+                ": \"It’s 100G to the capital. Since it’s a shared"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "carriage, so...\""
+                "carriage, it might be a little cramped, but please bear"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Horse Owner "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "with it.\""
               ]
             },
             {
@@ -7155,7 +7180,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Paid 100G."
+                "I paid 100G."
               ]
             },
             {
@@ -7173,14 +7198,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Horse Owner"
+                "Horse Owner "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Thanks! We'll be leaving soon.\""
+                ": \"Hey there. We're leaving right away. , hop in.\""
               ]
             },
             {

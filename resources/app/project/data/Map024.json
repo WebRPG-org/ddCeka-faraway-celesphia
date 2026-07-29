@@ -1987,7 +1987,7 @@
     null,
     {
       "id": 1,
-      "name": "露天",
+      "name": "Open-air",
       "note": "",
       "pages": [
         {
@@ -2030,14 +2030,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Street Vendor"
+                "Street Vendor "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Cheap and delicious! Perfect for your adventures\""
+                ": \"It’s cheap and delicious! You can never have too"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "much food to take along on your adventures!\""
               ]
             },
             {
@@ -2072,7 +2079,7 @@
     },
     {
       "id": 2,
-      "name": "露天",
+      "name": "Open-air",
       "note": "",
       "pages": [
         {
@@ -2115,21 +2122,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Clerk"
+                "Female Clerk "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Gyaah! Talking to someone from behind like that is so"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "lewd!\""
+                ": \"Eek! Talking to me from behind—that's so naughty!\""
               ]
             },
             {
@@ -2164,7 +2164,7 @@
     },
     {
       "id": 3,
-      "name": "露天",
+      "name": "Open-air",
       "note": "",
       "pages": [
         {
@@ -2207,14 +2207,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Street Vendor"
+                "Street Vendor "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Fresh-caught fish this morning~!\""
+                ": \"This fish was just caught this morning~!\""
               ]
             },
             {
@@ -2249,7 +2249,7 @@
     },
     {
       "id": 4,
-      "name": "モブ",
+      "name": "Mob",
       "note": "",
       "pages": [
         {
@@ -2292,7 +2292,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man looking at the street stall"
+                "A man looking at a food stall : \"Oh, that looks"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "delicious. Maybe I’ll buy some for a late-night snack.\""
               ]
             },
             {
@@ -2358,7 +2365,7 @@
     },
     {
       "id": 5,
-      "name": "モブ",
+      "name": "Mob",
       "note": "",
       "pages": [
         {
@@ -2401,21 +2408,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Street Vendor"
+                "Street Vendor "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"You have excellent taste, customer! These are from the"
+                ": \"Sir, you have excellent taste! This is a rare"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Vergan region!\""
+                "delicacy we imported from the Vergan region…!\""
               ]
             },
             {
@@ -2450,7 +2457,7 @@
     },
     {
       "id": 6,
-      "name": "モブ",
+      "name": "Mob",
       "note": "",
       "pages": [
         {
@@ -2493,14 +2500,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Man Vomiting"
+                "The guy throwing up "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Uweh... I drank too much... uweh...\""
+                ": \"Ugh... I drank too much... ugh...\""
               ]
             },
             {
@@ -2566,7 +2573,7 @@
     },
     {
       "id": 7,
-      "name": "モブ",
+      "name": "Mob",
       "note": "",
       "pages": [
         {
@@ -2609,21 +2616,53 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"There's a lot of pickups around here. In the royal"
+                ": \"I get hit on a lot. In the capital, soldiers usually"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "capital, the soldiers stop them for you, though.\""
+                "step in to stop it, but out here in the frontier, there"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Female Adventurer "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "aren’t any soldiers… I guess I just have to protect"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "myself.\""
               ]
             },
             {
@@ -2658,7 +2697,7 @@
     },
     {
       "id": 8,
-      "name": "モブ",
+      "name": "Mob",
       "note": "",
       "pages": [
         {
@@ -2701,21 +2740,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Someone grabbed my butt as we passed each other! Ugh,"
+                ": \"Someone grabbed my butt as we passed each other!"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I can’t let my guard down for even a second…!\""
+                "Ugh, I can’t let my guard down for even a second…!\""
               ]
             },
             {
@@ -2750,7 +2789,7 @@
     },
     {
       "id": 9,
-      "name": "モブ",
+      "name": "Mob",
       "note": "",
       "pages": [
         {
@@ -2793,7 +2832,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Drunk Man"
+                "\\SE[0] A man who's passed out drunk "
               ]
             },
             {
@@ -2835,7 +2874,7 @@
     },
     {
       "id": 10,
-      "name": "モブ",
+      "name": "Mob",
       "note": "",
       "pages": [
         {
@@ -2878,21 +2917,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0] Nursing Man"
+                "\\SE[0] The man tending to him "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hey, pull yourself together. Jeez, you drank way too"
+                "\"Hey, pull yourself together. Man, you really drank way"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "much…\""
+                "too much… At least walk to the inn on your own.\""
               ]
             },
             {
@@ -2927,7 +2966,7 @@
     },
     {
       "id": 11,
-      "name": "モブ",
+      "name": "Mob",
       "note": "",
       "pages": [
         {
@@ -2970,21 +3009,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Mage"
+                "Female Wizard "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"If you're going on an adventure, you'll need Potions,"
+                ": \"If you're going on an adventure, it's standard"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Antidotes,\""
+                "practice to prepare Potions, Anti-Poison, and"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Female Wizard "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Anti-Blind, among other things.\""
               ]
             },
             {
@@ -3019,7 +3083,7 @@
     },
     {
       "id": 12,
-      "name": "モブ",
+      "name": "Mob",
       "note": "",
       "pages": [
         {
@@ -3062,21 +3126,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This place has the item shop, weapon shop, and armor"
+                ": \"This place has everything—a general goods store, a"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "shop all together.\""
+                "weapons shop, and an armor shop. They’re trying to get"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Adventurer "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "me to buy stuff while I’m tipsy.\""
               ]
             },
             {
@@ -3111,7 +3200,7 @@
     },
     {
       "id": 13,
-      "name": "モブ",
+      "name": "Mob",
       "note": "",
       "pages": [
         {
@@ -3154,21 +3243,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Oh my, you're so handsome. How about tonight for"
+                ": \"Oh my, you’re so handsome. If you’re interested, how"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "1000G...?\""
+                "about 1,000G tonight…? Wait, —you’re already with a"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Female Adventurer "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "girl? …I guess I wasted my time talking to you.\""
               ]
             },
             {
@@ -3203,7 +3317,7 @@
     },
     {
       "id": 14,
-      "name": "モブ",
+      "name": "Mob",
       "note": "",
       "pages": [
         {
@@ -3246,14 +3360,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Alright, I've got her nicely tipsy now."
+                "(Alright, I’ve got her pretty drunk now. I’m gonna drag"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "her back to the inn and fuck her senseless. No condom,"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Adventurer "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "of course.)"
               ]
             },
             {
@@ -3288,7 +3434,7 @@
     },
     {
       "id": 15,
-      "name": "モブ",
+      "name": "Mob",
       "note": "",
       "pages": [
         {
@@ -3331,14 +3477,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Nn... I can't drink anymore...buhii~\""
+                ": \"Waaah, I can't drink anymore~\""
               ]
             },
             {
@@ -3373,7 +3519,7 @@
     },
     {
       "id": 16,
-      "name": "モブ",
+      "name": "Mob",
       "note": "",
       "pages": [
         {
@@ -3416,21 +3562,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Sigh... I hit on five people and got nothing but"
+                ": \"Ugh, I asked five people and got rejected by all of"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "rejection...\""
+                "them...\""
               ]
             },
             {
@@ -3448,14 +3594,53 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Huh? What do you mean? It's flirting, duh! Flirting!\""
+                ": \"Huh? What do you mean? I’m hitting on her, that’s"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "what! I went to the trouble of booking a room at the"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Adventurer "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "inn—it’d be a waste to spend the night alone, wouldn’t"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "it?\""
               ]
             },
             {
@@ -3490,7 +3675,7 @@
     },
     {
       "id": 17,
-      "name": "明かり",
+      "name": "Light",
       "note": "",
       "pages": [
         {
@@ -3557,7 +3742,7 @@
     },
     {
       "id": 18,
-      "name": "明かり",
+      "name": "Light",
       "note": "",
       "pages": [
         {
@@ -3624,7 +3809,7 @@
     },
     {
       "id": 19,
-      "name": "明かり",
+      "name": "Light",
       "note": "",
       "pages": [
         {
@@ -3691,7 +3876,7 @@
     },
     {
       "id": 20,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -3807,7 +3992,7 @@
     },
     {
       "id": 21,
-      "name": "酒場ドア",
+      "name": "Bar Door",
       "note": "",
       "pages": [
         {
@@ -3850,7 +4035,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you want to enter the tavern?"
+                "Would you like to go into the bar? *The event will"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "proceed."
               ]
             },
             {
@@ -3865,10 +4057,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -3876,7 +4064,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -4066,7 +4254,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -4145,14 +4333,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I'm full now, so let's go to the inn.\""
+                "\\SE[3] \"I’m full now, so let’s head to the inn.\""
               ]
             },
             {
@@ -4221,7 +4409,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The tavern seems to be open since the evening."
+                "It looks like the bar opens in the evening."
               ]
             },
             {
@@ -4290,7 +4478,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The tavern seems to be open since the evening."
+                "It looks like the bar opens in the evening."
               ]
             },
             {
@@ -4325,7 +4513,7 @@
     },
     {
       "id": 22,
-      "name": "酒場ドア",
+      "name": "Bar Door",
       "note": "",
       "pages": [
         {
@@ -4368,7 +4556,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you want to enter the tavern?"
+                "Would you like to go into the bar? *The event will"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "proceed."
               ]
             },
             {
@@ -4383,10 +4578,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -4394,7 +4585,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -4584,7 +4775,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -4663,14 +4854,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I'm full now, so let's go to the inn.\""
+                "\\SE[3] \"I’m full now, so let’s head to the inn.\""
               ]
             },
             {
@@ -4739,7 +4930,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The tavern seems to be open since the evening."
+                "It looks like the bar opens in the evening."
               ]
             },
             {
@@ -4808,7 +4999,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The tavern seems to be open since the evening."
+                "It looks like the bar opens in the evening."
               ]
             },
             {
@@ -4843,7 +5034,7 @@
     },
     {
       "id": 23,
-      "name": "道具屋",
+      "name": "Tool Shop",
       "note": "",
       "pages": [
         {
@@ -5118,7 +5309,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Green Veil Store\""
+                "\"Green Bale Store\" —We carry weapons, armor, and items."
               ]
             },
             {

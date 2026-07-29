@@ -13317,7 +13317,7 @@
     null,
     {
       "id": 1,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -13491,7 +13491,7 @@
     },
     {
       "id": 2,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -13665,7 +13665,7 @@
     },
     {
       "id": 3,
-      "name": "ジャンプ",
+      "name": "Jump",
       "note": "",
       "pages": [
         {
@@ -13708,7 +13708,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Are you going to jump?"
+                "Are you going to jump?"
               ]
             },
             {
@@ -13723,10 +13723,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -13734,7 +13730,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -13755,7 +13751,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -13974,7 +13970,7 @@
     },
     {
       "id": 4,
-      "name": "ロゼイベント11",
+      "name": "Rosé Event 11",
       "note": "",
       "pages": [
         {
@@ -14017,14 +14013,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rosie Event (11/12)"
+                "Rosé Event (11/12) "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Play \"Here?...\"?"
+                "\"In a place like this...\" . Do you want to play it?"
               ]
             },
             {
@@ -14039,10 +14035,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -14050,7 +14042,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -14076,7 +14068,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -14329,14 +14321,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"…Huh?!\""
+                "\\SE[1] \"………!!\""
               ]
             },
             {
@@ -14354,21 +14346,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Rose locks eyes with Kyle with a feral, sharp gaze,"
+                "Rosé glared at Kyle with a fierce, animal-like stare,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "then pins him down with the overwhelming strength of a"
+                "then used her extraordinary strength as a fighter to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "martial artist."
+                "knock him to the ground."
               ]
             },
             {
@@ -14471,14 +14463,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"R-Rose?!\""
+                "\\SE[3] \"Ro, Rosé!?\""
               ]
             },
             {
@@ -14496,14 +14488,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Kyle! Kyle!\""
+                "\\SE[1] \"Kyle! Kyle!\""
               ]
             },
             {
@@ -14538,14 +14530,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "In her frenzy, Rose roughly yanks down Kyle's pants,"
+                "In a frenzy, Rose forcefully pulls down Kyle's pants,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "exposing his fully hardened cock."
+                "exposing his member, which is rock-hard to the point of"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "no return."
               ]
             },
             {
@@ -14563,14 +14562,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "She shoves her underwear aside and straddles him, then"
+                "Then, in a fit of impatience, she slid her underwear to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "sinks down onto him in one swift motion."
+                "the side, straddled Kyle’s body, and lowered herself"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "onto him in one swift motion."
               ]
             },
             {
@@ -14600,14 +14606,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "――Squelch♡ The lewd sound of flesh rubbing against"
+                "――Squish♡ The sound of flesh rubbing together lewdly"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "flesh echoes."
+                "echoes."
               ]
             },
             {
@@ -14624,7 +14630,7 @@
                 "SEループ開始",
                 {
                   "id": "loop1",
-                  "name": "dlc/ピストン音2/ピストン2_4wet(下位置)",
+                  "name": "dlc/Piston Sound 2/Piston 2_4wet (Lower Position)",
                   "volume": "90",
                   "pitch": "100",
                   "pan": "0"
@@ -14642,7 +14648,7 @@
               "code": 657,
               "indent": 0,
               "parameters": [
-                "SE名 = dlc/ピストン音2/ピストン2_4wet(下位置)"
+                "SE名 = dlc/Piston Sound 2/Piston 2_4wet (Lower Position)"
               ]
             },
             {
@@ -14735,21 +14741,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Haaah…nngh! This… this…! It feels… so"
+                "\\SE[1] \"Ahhh♡ This… this…! It feels… so good…"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "good…!♡\""
+                "ohh…♡\""
               ]
             },
             {
@@ -14767,14 +14773,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The scorching, slick heat enveloping her to the hilt"
+                "As it pierced her to the very depths while still"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "makes Rose arch her back with a wanton moan."
+                "raw—that hot, slippery, exquisite sensation—Rose arched"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "her back and let out a seductive moan."
               ]
             },
             {
@@ -14792,21 +14805,39 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But the hunger in her eyes is insatiable. She presses"
+                "However, her eyes reveal a bottomless desire for"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "both hands to Kyle's chest and gazes down at him,"
+                "domination. Placing both hands on Kyle’s chest, she"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "whispering seductively."
+                "looks down at him from above and says in a seductive"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "voice."
               ]
             },
             {
@@ -14829,21 +14860,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Kyle…! You're not allowed to cum before I"
+                "\\SE[1] \"Kyle…! Until I come… you absolutely must"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "do… Understand?!\""
+                "not come first, …!\""
               ]
             },
             {
@@ -14861,14 +14892,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "With that declaration, Rose begins riding him with"
+                "No sooner had she said that than Rose began to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "wild, relentless thrusts."
+                "vigorously move her hips up and down on top of Kyle."
               ]
             },
             {
@@ -14898,7 +14929,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Thwack, thwack, thwack, thwack♡"
+                "Pop, pop, pop, pop♡"
               ]
             },
             {
@@ -15191,21 +15222,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Ahh! Ahh! It's amazing… Your cock is"
+                "\\SE[1] \"Ah! Ah! Oh my gosh, Kyle’s is pressing"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "crushing the softest part of my belly\""
+                "against the soft spot inside my belly…"
               ]
             },
             {
@@ -15223,14 +15254,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "inside…!♡\""
+                "crushing it…♡\""
               ]
             },
             {
@@ -15248,21 +15279,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The sound of flesh colliding fills the air repeatedly."
+                "The sound of flesh slamming against flesh echoes"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Rose's plump ass smacks mercilessly against Kyle's"
+                "repeatedly. Rosé’s voluptuous buttocks are mercilessly"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "lower abdomen."
+                "slammed against Kyle’s lower abdomen."
               ]
             },
             {
@@ -15280,21 +15311,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Ugh…! Rose, if you go that hard, I won't…"
+                "\\SE[3]: \"Uwaa...! Rose, if you go that hard, I"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "last…!\""
+                "won't be able to hold on...!\""
               ]
             },
             {
@@ -15312,21 +15343,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"No! Not yet! We're cumming together…"
+                "\\SE[1] \"No, not yet...! Let's come together,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "together!♡\""
+                "together...♡\""
               ]
             },
             {
@@ -15422,21 +15453,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A violent climax crashes over Rose, her body"
+                "A wave of intense orgasm washed over Rose, causing her"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "stiffening. The unbearable tightness pushes Kyle past"
+                "body to stiffen. That overwhelming tightness caused"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "his limits."
+                "Kyle’s rationality to vanish as well."
               ]
             },
             {
@@ -15588,7 +15619,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Splurt, splurt, spurts…♡"
+                "Splash, splash, splash-splash…♡"
               ]
             },
             {
@@ -15606,14 +15637,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Kyle grips Rose's hips tightly, pinning her in place as"
+                "Kyle gripped Rose’s hips firmly to hold her in place,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "he unleashes his scorching release deep inside her."
+                "then poured a hot torrent into the deepest part of her"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "vagina."
               ]
             },
             {
@@ -15631,14 +15669,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "No barriers. No condoms. Just raw, skin-to-skin"
+                "Of course, it’s a completely raw ejaculation—with"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "ejaculation. His hot lust fills her mind completely."
+                "absolutely no barrier in between. My mind is being"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "filled to the brim with white desire."
               ]
             },
             {
@@ -15656,14 +15701,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Nn…uuhh… It's so warm… So warm, Kyle…♡\""
+                "\\SE[1] \"Mmm… it’s so warm… It’s so warm… Kyle… ♡\""
               ]
             },
             {
@@ -15681,14 +15726,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Rose accepts every inch of him inside her, then"
+                "As Rose took all of Kyle inside her, she suddenly went"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "collapses onto his chest, her strength drained."
+                "limp and collapsed onto Kyle's chest."
               ]
             },
             {
@@ -15786,14 +15831,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Haa… haa… I―I did it again…! No way… This"
+                "\\SE[1] \"Haa… haa… I… I did it again…! No way… this"
               ]
             },
             {
@@ -15818,21 +15863,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Realizing she'd pinned him down and devoured him, Rose"
+                "Blushing at the realization that she had just pinned"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "blushes and slowly lifts her hips, breaking their"
+                "Kyle down and devoured him, Rose slowly lifted her"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "union."
+                "hips, breaking the connection with Kyle."
               ]
             },
             {
@@ -15850,7 +15895,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]――Drip… plop…"
+                "――Dripping... Drip, drip..."
               ]
             },
             {
@@ -15868,21 +15913,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The moment he's pulled free, the thick proof of Kyle's"
+                "The moment he pulled out, the rich token of love that"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "love spills from Rose's depths, dripping down toward"
+                "Kyle had poured deep inside her fell downward,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the floor."
+                "following the pull of gravity."
               ]
             },
             {
@@ -16091,7 +16136,7 @@
     },
     {
       "id": 5,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -16610,7 +16655,7 @@
     },
     {
       "id": 6,
-      "name": "ロゼ",
+      "name": "Rosé",
       "note": "",
       "pages": [
         {
@@ -16874,7 +16919,7 @@
     },
     {
       "id": 7,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -17220,7 +17265,7 @@
     },
     {
       "id": 8,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -17566,7 +17611,7 @@
     },
     {
       "id": 9,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -17912,7 +17957,7 @@
     },
     {
       "id": 10,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -18258,7 +18303,7 @@
     },
     {
       "id": 11,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -18604,7 +18649,7 @@
     },
     {
       "id": 12,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -18950,7 +18995,7 @@
     },
     {
       "id": 13,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -19296,7 +19341,7 @@
     },
     {
       "id": 14,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -19642,7 +19687,7 @@
     },
     {
       "id": 15,
-      "name": "宝箱（ダブルファング）",
+      "name": "Treasure Chest (Double Fang)",
       "note": "",
       "pages": [
         {
@@ -19803,7 +19848,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Double Fang!"
+                "I got the Double Fang!"
               ]
             },
             {
@@ -19889,7 +19934,7 @@
     },
     {
       "id": 16,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -19955,7 +20000,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Shut Silent."
+                "I got Shut Silent."
               ]
             },
             {
@@ -20049,7 +20094,7 @@
     },
     {
       "id": 17,
-      "name": "宝箱（クリスタルバングル）",
+      "name": "Treasure Chest (Crystal Bangle)",
       "note": "",
       "pages": [
         {
@@ -20210,7 +20255,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Crystal Bangle!"
+                "I got a crystal bangle!"
               ]
             },
             {

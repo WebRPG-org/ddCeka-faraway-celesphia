@@ -22088,7 +22088,7 @@
     },
     {
       "id": 8,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -22255,7 +22255,7 @@
     },
     {
       "id": 9,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -22422,7 +22422,7 @@
     },
     {
       "id": 10,
-      "name": "セレスフィア見る",
+      "name": "Watch *Ceresphere*",
       "note": "",
       "pages": [
         {
@@ -22574,14 +22574,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"W-Wait! Look at that!\""
+                "\\SE[4] \"Oh, wait…! Look at this!\""
               ]
             },
             {
@@ -22642,14 +22642,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"D-Doesn't it faintly glow?!\""
+                "\\SE[4] \"I-is that… a faint glow over there!?\""
               ]
             },
             {
@@ -22667,14 +22667,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Y-You're right! It's glowing!\""
+                "\\SE[5] \"R-really! It’s glowing!\""
               ]
             },
             {
@@ -22692,14 +22692,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Is that... Celesphia over there...?\""
+                "\\SE[3] \"Is that Ceresphere over there…?\""
               ]
             },
             {
@@ -22717,14 +22717,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Let's go!\""
+                "\\SE[5] \"Let’s go!\""
               ]
             },
             {
@@ -22917,7 +22917,7 @@
     },
     {
       "id": 11,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -23263,7 +23263,7 @@
     },
     {
       "id": 12,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -23609,7 +23609,7 @@
     },
     {
       "id": 13,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -23955,7 +23955,7 @@
     },
     {
       "id": 14,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -24301,7 +24301,7 @@
     },
     {
       "id": 15,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -24647,7 +24647,7 @@
     },
     {
       "id": 16,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -24993,7 +24993,7 @@
     },
     {
       "id": 17,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -25339,7 +25339,7 @@
     },
     {
       "id": 18,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -25685,7 +25685,7 @@
     },
     {
       "id": 19,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -26031,7 +26031,7 @@
     },
     {
       "id": 20,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -26377,7 +26377,7 @@
     },
     {
       "id": 21,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -26432,7 +26432,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Magic Water."
+                "I got some Magic Water"
               ]
             },
             {
@@ -26587,7 +26587,7 @@
     },
     {
       "id": 22,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -26642,7 +26642,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Pure Refine."
+                "I got Pure Refine"
               ]
             },
             {
@@ -26797,7 +26797,7 @@
     },
     {
       "id": 23,
-      "name": "宝箱（ロイヤルシャポー）",
+      "name": "Treasure Chest (Royal Chapeau)",
       "note": "",
       "pages": [
         {
@@ -26958,7 +26958,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Royal Chapeau!"
+                "I got the Royal Chapeau!"
               ]
             },
             {
@@ -27095,7 +27095,7 @@
     },
     {
       "id": 24,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -27150,7 +27150,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained an Elixir."
+                "I got the elixir."
               ]
             },
             {

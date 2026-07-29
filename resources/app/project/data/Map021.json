@@ -16,7 +16,7 @@
     "volume": 30
   },
   "disableDashing": false,
-  "displayName": "Lewin Forest Exit",
+  "displayName": "Exit from Lewin Forest",
   "encounterList": [],
   "encounterStep": 30,
   "height": 25,
@@ -2587,7 +2587,7 @@
     null,
     {
       "id": 1,
-      "name": "ボス(狼大)",
+      "name": "Boss (Great Wolf)",
       "note": "",
       "pages": [
         {
@@ -2629,14 +2629,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Mmm...good morning, Kyle.\""
+                "\\SE[5] \"Ahh… Good morning, Kyle -sama.\""
               ]
             },
             {
@@ -2653,14 +2653,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Good morning...\""
+                "\\SE[4] \"Good morning... I'm sorry, I completely"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "fell asleep...\""
               ]
             },
             {
@@ -2677,14 +2684,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"It's fine. This place seems safe enough.\""
+                "\\SE[3] \"It’s fine. This place looks safe, and I"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "even managed to catch a quick nap myself.\""
               ]
             },
             {
@@ -2701,14 +2715,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"So, shall we go?\""
+                "\\SE[3] \"Well, let’s go.\""
               ]
             },
             {
@@ -2725,14 +2739,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Yes! Let's get through the forest!\""
+                "\\SE[4] \"Yes, let’s go through the forest!\""
               ]
             },
             {
@@ -2749,14 +2763,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"We should be at the exit of Lewin Forest"
+                "\\SE[3] \"We’ll be at the exit of Luwin Forest"
               ]
             },
             {
@@ -2780,14 +2794,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Understood.\""
+                "\\SE[5] \"Yes\""
               ]
             },
             {
@@ -2804,7 +2818,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rustle rustle..."
+                "\\SE[0] Rustle, rustle..."
               ]
             },
             {
@@ -2821,14 +2835,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Lady Luna! Watch out!\""
+                "\\SE[4] \"Lady Luna! Watch out!\""
               ]
             },
             {
@@ -2845,7 +2859,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Suddenly, a massive wolf lunges at them. Lilian"
+                "\\SE[0] Suddenly, a giant wolf lunged at her. Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "quickly stepped forward, parried the fierce attack, and"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "powerfully knocked it back."
               ]
             },
             {
@@ -2862,14 +2890,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"What the hell is that thing?!\""
+                "\\SE[4] \"Who on earth is this guy…?\""
               ]
             },
             {
@@ -2886,14 +2914,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"It might be the forest's guardian.\""
+                "\\SE[3] \"It might be the Lord of the Forest. Watch"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "out!\""
               ]
             },
             {
@@ -2910,7 +2945,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]※Battle against Baldur of Azure Horn"
+                "\\SE[0]* Battle against Baldur of the Azure Horn"
               ]
             },
             {
@@ -2927,7 +2962,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Baldur of Azure Horn\"Grrrrrr...!\""
+                "\\SE[0] Baldur of the Azure Horn: \"Growl, growl, growl…!\""
               ]
             },
             {
@@ -2944,7 +2979,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Then, a small shadow emerges from behind Baldur."
+                "When \\SE[0] appeared, a small shadow peeked out from behind"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Baldur."
               ]
             },
             {
@@ -2961,14 +3003,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"...A child?\""
+                "\\SE[4] \"…A child?\""
               ]
             },
             {
@@ -2985,14 +3027,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"...I see. You have offspring.\""
+                "\\SE[5] \"...I see. So you wanted to protect your"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "child, didn’t you?\""
               ]
             },
             {
@@ -3009,14 +3058,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"We would never harm your child.\""
+                "\\SE[5] \"We have no intention of harming your"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "child. We just want to pass through this"
               ]
             },
             {
@@ -3033,14 +3089,38 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"I'm sorry we attacked you.\""
+                "path.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"Sorry for attacking you. Let's go.\""
               ]
             },
             {
@@ -3057,14 +3137,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"...Is that okay?\""
+                "\\SE[3] \"...Is that okay?\""
               ]
             },
             {
@@ -3081,21 +3161,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"If we take it down, we might get rare"
+                "\\SE[3] \"If you defeat it, you'll get a rare"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "materials.\""
+                "material . Maybe you can sell it for money?\""
               ]
             },
             {
@@ -3112,14 +3192,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Our goal is to gather Celesphia grass.\""
+                "\\SE[5] \"Our goal is to collect Ceresphere Grass,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "after all.\""
               ]
             },
             {
@@ -3136,14 +3223,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Your funds are tight, right?\""
+                "\\SE[3] \"You’re even short on travel money, aren’t"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "you?\""
               ]
             },
             {
@@ -3160,14 +3254,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Y-Yes…that's true, but…\""
+                "\\SE[5] \"Well… that’s true, , but things are"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "working out somehow.\""
               ]
             },
             {
@@ -3184,21 +3285,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I was hoping you could add it to my"
+                "\\SE[3] \"I’d like you to add this to my reward, ."
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "reward.\""
+                "500 gold just isn’t worth it.\""
               ]
             },
             {
@@ -3215,14 +3316,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"T-That's…well, you see…\""
+                "\\SE[5] \"W-well… you know, I’ll cover it with other"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "materials I’ve collected…\""
               ]
             },
             {
@@ -3239,38 +3347,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"…Sigh.\""
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]Behind her, Baldur of the Azure Horns quietly watched"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "them."
+                "\\SE[3] \"…Oh, well.\""
               ]
             }
           ],
@@ -3300,7 +3384,7 @@
     },
     {
       "id": 2,
-      "name": "狼子供",
+      "name": "Wolf Child",
       "note": "",
       "pages": [
         {
@@ -3360,7 +3444,7 @@
     },
     {
       "id": 3,
-      "name": "狼子供2",
+      "name": "Wolf Child 2",
       "note": "",
       "pages": [
         {
@@ -3420,7 +3504,7 @@
     },
     {
       "id": 4,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -3536,7 +3620,7 @@
     },
     {
       "id": 5,
-      "name": "ワールドマップへ",
+      "name": "Go to the World Map",
       "note": "",
       "pages": [
         {
@@ -3579,14 +3663,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Exiting to the world map."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "). Is that okay?\""
+                "\"You will be taken to the world map ( ). Is that okay?\""
               ]
             },
             {
@@ -3601,10 +3678,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -3612,7 +3685,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -3637,7 +3710,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -3726,7 +3799,7 @@
     },
     {
       "id": 6,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -3939,7 +4012,7 @@
     },
     {
       "id": 7,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -4050,7 +4123,7 @@
     },
     {
       "id": 8,
-      "name": "リリアン",
+      "name": "Lillian",
       "note": "",
       "pages": [
         {
@@ -4161,7 +4234,7 @@
     },
     {
       "id": 9,
-      "name": "自動",
+      "name": "Automatic",
       "note": "",
       "pages": [
         {
@@ -5121,14 +5194,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"We're almost at the exit of Lewin Forest.\""
+                "\\SE[3] \"We’ll be at the exit of Luwin Forest"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "soon.\""
               ]
             },
             {
@@ -5145,14 +5225,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Yes.\""
+                "\\SE[5] \"Yes\""
               ]
             },
             {
@@ -5282,14 +5362,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Lady Luna! Watch out!\""
+                "\\SE[4] \"Lady Luna! Watch out!\""
               ]
             },
             {
@@ -5723,21 +5803,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"It might be the forest's guardian. Be"
+                "\\SE[3] \"It might be the Lord of the Forest—watch"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "careful!\""
+                "out!\""
               ]
             },
             {
@@ -5779,7 +5859,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Baldr"
+                "Baldur "
               ]
             },
             {
@@ -6003,14 +6083,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Little Baldr"
+                "Little Baldur "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Kyun...\""
+                "\"Waaah...\""
               ]
             },
             {
@@ -6284,14 +6364,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"...A baby wolf?\""
+                "\\SE[4] \"…A wolf cub?\""
               ]
             },
             {
@@ -6309,14 +6389,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"...I see. You are a mother.\""
+                "\\SE[5] \"...I see. So you wanted to protect your"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "child, didn’t you?\""
               ]
             },
             {
@@ -6421,21 +6508,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"We have no intention of harming your"
+                "\\SE[5] \"We have no intention of harming your"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "child.\""
+                "child. We just want to pass through here.\""
               ]
             },
             {
@@ -6453,14 +6540,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"I'm sorry for attacking you.\""
+                "\\SE[5] \"Sorry for attacking you. Let's go.\""
               ]
             },
             {
@@ -7981,14 +8068,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"...Are you sure?\""
+                "\\SE[3] \"...Is that okay?\""
               ]
             },
             {
@@ -8006,21 +8093,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"If we take it down, we'll get rare"
+                "\\SE[3] \"If you defeat it, you’ll get some rare"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "materials.\""
+                "materials. If you sell them, you might make"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                5,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "a little money, right?\""
               ]
             },
             {
@@ -8038,14 +8150,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Our goal is to harvest the Celesphia.\""
+                "\\SE[5] \"Our only goal is to collect from"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Celesphere.\""
               ]
             },
             {
@@ -8063,14 +8182,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Your funds must be tight, right?\""
+                "\\SE[3] \"You’re even short on travel money, aren’t"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "you?\""
               ]
             },
             {
@@ -8088,14 +8214,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Yes...that's true, but...\""
+                "\\SE[5] \"Well… that’s true, but we’ve got it under"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "control.\""
               ]
             },
             {
@@ -8113,14 +8246,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Kyle.\""
+                "\\SE[4] \"Kyle\""
               ]
             },
             {
@@ -8138,21 +8271,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"I know Lady Luna is the kind of person"
+                "\\SE[4] \"I told you, , that’s the kind of person"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "who...\""
+                "Lady Luna is, didn’t I?\""
               ]
             },
             {
@@ -8170,14 +8303,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"...Oh, come on.\""
+                "\\SE[3] \"…Oh, well.\""
               ]
             },
             {
@@ -8259,9 +8392,8 @@
                 1,
                 0,
                 4,
-                "\"　Head to Greenvale Village\""
-              ],
-              "_original": "\"　グリーンベイルの村へ向かおう\""
+                "\"　Let's head to the village of Greenvale.\""
+              ]
             },
             {
               "code": 117,
@@ -8379,7 +8511,7 @@
     },
     {
       "id": 10,
-      "name": "ワープ",
+      "name": "Warp",
       "note": "",
       "pages": [
         {
@@ -8422,14 +8554,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Warp to the Lewin Forest entrance near the royal"
+                "Would you like to warp to the entrance to Lewin Forest"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "capital?"
+                "on the side facing the capital?"
               ]
             },
             {
@@ -8444,10 +8576,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -8455,7 +8583,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -8480,7 +8608,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {

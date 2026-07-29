@@ -6052,7 +6052,7 @@
     null,
     {
       "id": 1,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -6397,14 +6397,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Milee]"
+                "Mille "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"Kyle! Get back!\""
+                "\\SE[9] \"Kyle! Get back!\""
               ]
             },
             {
@@ -6713,14 +6713,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"There's more from behind...!\""
+                "\\SE[8]: \"From behind, too...!\""
               ]
             },
             {
@@ -6738,14 +6738,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Milee]"
+                "Mille "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"Damn it, we have no choice but to fight!\""
+                "\\SE[9] \"Ugh, I have no choice but to fight!\""
               ]
             },
             {
@@ -7005,14 +7005,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Monster"
+                "Monster "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Gr...ga...gya...\""
+                ": \"G... Gaga... Gya...\""
               ]
             },
             {
@@ -7060,14 +7060,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"Hah...hah...hah...\""
+                "\\SE[8] \"Haa… haa… haa…\""
               ]
             },
             {
@@ -7085,21 +7085,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Milee]"
+                "Mille "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"Hah...hah... Well done, Kyle. Just a little"
+                "\\SE[9] \"Haa… haa… Good job, Kyle . You’re almost"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "more―hang in there...!\""
+                "there—hang in there…!\""
               ]
             },
             {
@@ -7147,14 +7147,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "stop. I have no magic left, my body feels heavy, and"
+                "stop. I have no magic, my body feels sluggish, and I"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm shivering."
+                "have chills."
               ]
             },
             {
@@ -7172,7 +7172,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I was battered and broken. But Milee had been"
+                "I was battered and bruised. But Mille had been"
               ]
             },
             {
@@ -7197,7 +7197,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Thanks to that, I could take another step forward."
+                "Thanks to that, I take another step forward."
               ]
             },
             {
@@ -7500,7 +7500,7 @@
     },
     {
       "id": 2,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -7667,7 +7667,7 @@
     },
     {
       "id": 3,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -7727,7 +7727,7 @@
     },
     {
       "id": 4,
-      "name": "ミレー",
+      "name": "Millet",
       "note": "",
       "pages": [
         {
@@ -7787,7 +7787,7 @@
     },
     {
       "id": 5,
-      "name": "魔物",
+      "name": "Monster",
       "note": "",
       "pages": [
         {
@@ -7847,7 +7847,7 @@
     },
     {
       "id": 6,
-      "name": "魔物2",
+      "name": "Monster 2",
       "note": "",
       "pages": [
         {
@@ -7907,7 +7907,7 @@
     },
     {
       "id": 7,
-      "name": "雨",
+      "name": "Rain",
       "note": "",
       "pages": [
         {
@@ -8040,7 +8040,7 @@
     },
     {
       "id": 8,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -8386,7 +8386,7 @@
     },
     {
       "id": 9,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {

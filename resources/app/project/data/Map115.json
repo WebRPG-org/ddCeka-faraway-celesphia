@@ -16,7 +16,7 @@
     "volume": 20
   },
   "disableDashing": false,
-  "displayName": "Caldoon Coal Mine Exit",
+  "displayName": "Caldon Coal Mine Exit",
   "encounterList": [],
   "encounterStep": 30,
   "height": 13,
@@ -1363,7 +1363,7 @@
     null,
     {
       "id": 1,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -1513,21 +1513,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I need to find a place where I can wash off"
+                "\\SE[3] \"Let's go outside for a bit to find a place"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "this mud\""
+                "where we can wash off the mud.\""
               ]
             },
             {
@@ -1688,7 +1688,7 @@
     },
     {
       "id": 2,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -1855,7 +1855,7 @@
     },
     {
       "id": 3,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -2272,7 +2272,7 @@
     },
     {
       "id": 4,
-      "name": "リリアン",
+      "name": "Lillian",
       "note": "",
       "pages": [
         {
@@ -2689,7 +2689,7 @@
     },
     {
       "id": 5,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -3106,7 +3106,7 @@
     },
     {
       "id": 6,
-      "name": "自動イベント",
+      "name": "Automatic Events",
       "note": "",
       "pages": [
         {
@@ -3220,14 +3220,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It was already night by the time we made it out of the"
+                "By the time we left the coal mine, it was already"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "mine."
+                "night."
               ]
             },
             {
@@ -3252,14 +3252,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"……\""
+                "\\SE[3] \"...\""
               ]
             },
             {
@@ -3277,14 +3277,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"……\""
+                "\\SE[4] \"……\""
               ]
             },
             {
@@ -3302,14 +3302,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"……\""
+                "\\SE[5] \"……\""
               ]
             },
             {
@@ -3358,14 +3358,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Pfft, you two look awful.\""
+                "\\SE[5] \"Haha, you two look terrible.\""
               ]
             },
             {
@@ -3463,14 +3463,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Luna, your face is completely black.\""
+                "\\SE[3] \"Luna, your face is all black.\""
               ]
             },
             {
@@ -3495,14 +3495,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Huh?! Mine too?!\", she gasped.\""
+                "\\SE[5] \"What!? Me too!?\""
               ]
             },
             {
@@ -3529,14 +3529,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Everyone's pitch black...\""
+                "\\SE[4] \"Everyone’s all black…\""
               ]
             },
             {
@@ -3568,7 +3568,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The battle with the Clay Hydra was beyond description."
+                "The fierce battle with Clayhydra is beyond description."
               ]
             },
             {
@@ -3586,14 +3586,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It was a monster that specialized in splattering mud"
+                "Thoroughly splashed mud everywhere, kicked up a cloud"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "everywhere,"
+                "of dust ( ), and threw stones"
               ]
             },
             {
@@ -3611,7 +3611,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "its sole purpose seemingly to dirty its opponents."
+                "It was a monster that seemed to exist solely to defile"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "its opponent."
               ]
             },
             {
@@ -3629,7 +3636,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Needless to say, the result of fighting it was..."
+                "I'm sure you can imagine the outcome of a battle"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "against such an opponent."
               ]
             },
             {
@@ -3661,14 +3675,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"We've had a rough time of it...\""
+                "\\SE[5] \"I had a terrible time… While I was casting"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "a spell, some mud got in my mouth…\""
               ]
             },
             {
@@ -3686,14 +3707,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"I thought I dodged the rocks, but...\""
+                "\\SE[5] \"Just when I thought I’d dodged the rock,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "my foot got stuck in the mud and I fell"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/リリアン顔汚れ",
+                3,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "face-first…\""
               ]
             },
             {
@@ -3711,14 +3764,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I tried to wake Lilian up, but then...\""
+                "\\SE[3] \"Just as I was about to wake up that"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Lillian, I got a shower of mud on my head…\""
               ]
             },
             {
@@ -3856,14 +3916,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"We can't go into town like this.\""
+                "\\SE[5] \"We won’t be able to enter the city like"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "this, will we?\""
               ]
             },
             {
@@ -3881,21 +3948,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Yeah, I'm filthy and want to wash my whole"
+                "\\SE[5] \"Yeah, I’m all muddy and I want to wash my"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "body.\""
+                "whole body.\""
               ]
             },
             {
@@ -3913,21 +3980,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Yeah, let's see if there's a body of water"
+                "\\SE[3] \"Yeah, let's see if there's a body of water"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "nearby.\""
+                "nearby. Let's check the area a little.\""
               ]
             },
             {
@@ -3975,9 +4042,8 @@
                 1,
                 0,
                 4,
-                "\"　Search for the water's edge\""
-              ],
-              "_original": "\"　水辺を探そう\""
+                "\"　Let's Look for a Waterfront Spot\""
+              ]
             },
             {
               "code": 121,
@@ -4084,7 +4150,7 @@
     },
     {
       "id": 7,
-      "name": "炭鉱ワープ",
+      "name": "Coal Mine Warp",
       "note": "",
       "pages": [
         {
@@ -4127,7 +4193,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you want to move to the Green Vale entrance?"
+                "Would you like to go to the Greenvale side entrance?"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "(You can go back and forth)"
               ]
             },
             {
@@ -4142,10 +4215,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -4153,7 +4222,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -4178,7 +4247,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {

@@ -1465,7 +1465,7 @@
     null,
     {
       "id": 1,
-      "name": "兵士",
+      "name": "Soldier",
       "note": "",
       "pages": [
         {
@@ -1508,14 +1508,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier"
+                "Soldier "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hm? What do you want?\""
+                ": \"Huh? What do you want?\""
               ]
             },
             {
@@ -1530,10 +1530,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -1541,7 +1537,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -1658,21 +1654,21 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]Soldier"
+                "Soldier "
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\"I didn't see anything. So you should just pretend the"
+                ": \"I didn't see anything. So please just go along with"
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "same.\""
+                "that.\""
               ]
             },
             {
@@ -1709,14 +1705,21 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]Soldier"
+                "Soldier "
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\"This area is off-limits to anyone not involved.\""
+                ": \"This area is off-limits to unauthorized personnel."
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "Get out, get out.\""
               ]
             },
             {
@@ -1739,7 +1742,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -1827,14 +1830,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier"
+                "Soldier "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Get the hell out of here, and fast.\""
+                ": \"Just get in there and get out of there already.\""
               ]
             },
             {
@@ -1869,7 +1872,7 @@
     },
     {
       "id": 2,
-      "name": "出口",
+      "name": "Exit",
       "note": "",
       "pages": [
         {
@@ -1955,7 +1958,7 @@
     },
     {
       "id": 3,
-      "name": "兵士",
+      "name": "Soldier",
       "note": "",
       "pages": [
         {
@@ -1998,21 +2001,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier"
+                "Soldier "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This place used to be a warehouse, but it's been"
+                ": \"This used to be a warehouse, but we're using it as a"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "repurposed as a soldier's quarters.\""
+                "soldiers' guard post.\""
               ]
             },
             {
@@ -2047,7 +2050,7 @@
     },
     {
       "id": 4,
-      "name": "隠し移動",
+      "name": "Stealth Movement",
       "note": "",
       "pages": [
         {
@@ -2131,7 +2134,7 @@
     },
     {
       "id": 5,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -2186,7 +2189,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Magic Water."
+                "I got some Magic Water"
               ]
             },
             {

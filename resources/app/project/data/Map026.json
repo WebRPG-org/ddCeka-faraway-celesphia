@@ -1567,7 +1567,7 @@
     null,
     {
       "id": 1,
-      "name": "店主",
+      "name": "Store Owner",
       "note": "",
       "pages": [
         {
@@ -1610,21 +1610,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Inn"
+                "Inn "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"We're fully booked right now... Please come back"
+                ": \"We're currently fully booked... Please come back"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "later.\""
+                "later .\""
               ]
             },
             {
@@ -1693,14 +1693,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Inn"
+                "Inn "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Welcome, traveler.\""
+                ": \"Welcome, traveler. It’s 30G per night. Would you"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "like to stay?\""
               ]
             },
             {
@@ -1715,10 +1722,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -1726,7 +1729,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -1774,7 +1777,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]Paid 30G"
+                "I paid 30G"
               ]
             },
             {
@@ -1792,14 +1795,14 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]Inn"
+                "Inn "
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\"Please make yourself at home.\""
+                ": \"Please make yourself at home.\""
               ]
             },
             {
@@ -1848,14 +1851,14 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]Inn"
+                "Inn "
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\"It seems you don't have enough money...\""
+                ": \"It looks like I don't have enough money...\""
               ]
             },
             {
@@ -1878,7 +1881,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -1957,14 +1960,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Inn"
+                "Inn "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Welcome, travelers.\""
+                ": \"Welcome, traveler. Was that Lady Luna and her party"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "at ?\""
               ]
             },
             {
@@ -1982,21 +1992,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Inn"
+                "Inn "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"The adventurers you saved are recuperating on the 2nd"
+                ": \"The adventurer you saved is recovering on the 2nd"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "floor.\""
+                "floor. If you'd like, please go say hello.\""
               ]
             },
             {
@@ -2014,14 +2024,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Inn"
+                "Inn "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"The fee is 30G per night. Will you be staying?\""
+                ": \"The rate is 30G per night. Would you like to stay?\""
               ]
             },
             {
@@ -2036,10 +2046,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -2047,7 +2053,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -2095,7 +2101,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]Paid 30G"
+                "I paid 30G"
               ]
             },
             {
@@ -2113,14 +2119,14 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]Inn"
+                "Inn "
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\"Then please make yourself at home.\""
+                ": \"Please make yourself at home.\""
               ]
             },
             {
@@ -2169,14 +2175,14 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]Inn"
+                "Inn "
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\"It seems you don't have enough money...\""
+                ": \"It looks like I don't have enough money...\""
               ]
             },
             {
@@ -2199,7 +2205,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -2297,14 +2303,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Inn"
+                "Inn "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Good morning, traveler.\""
+                ": \"Good morning, traveler. Please come visit us again.\""
               ]
             },
             {
@@ -2348,7 +2354,7 @@
     },
     {
       "id": 2,
-      "name": "二階へ",
+      "name": "Upstairs",
       "note": "",
       "pages": [
         {
@@ -2470,21 +2476,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer"
+                "Male Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"While exploring the forest, I came across an"
+                ": \"I was exploring the forest when I spotted a huge"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "absolutely massive wolf.\""
+                "wolf. That’s the lord of the forest. There might be a"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Male Adventurer "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "bounty on it.\""
               ]
             },
             {
@@ -2562,21 +2593,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Haa... sometimes I just wanna fool around with another"
+                ": \"Sigh... You know how, sometimes, when you're with"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "adventurer at night.\""
+                "other adventurers, you just feel like getting a little"
               ]
             },
             {
@@ -2594,21 +2625,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "That guy from the same party I played with last time?"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "He hates condoms, so I went all the way..."
+                "frisky at night, right?\""
               ]
             },
             {
@@ -2626,21 +2650,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Had to get the Church to cast an anti-conception spell"
+                ": \"That guy from the same party I played with the other"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Antithesis) for me,"
+                "day—he said he hates condoms or something, so he went"
               ]
             },
             {
@@ -2658,14 +2682,85 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "and I'm definitely charging him for the spell fee...!"
+                "and came inside me bareback (nakadashi) without a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "condom.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Female Adventurer "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                ": \"It costs 1000G to get the contraceptive spell"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "(Antithesis) cast at the church.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Female Adventurer "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                ": \"I'm definitely going to make you pay for that birth"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "control spell...!\""
               ]
             },
             {
@@ -2700,7 +2795,7 @@
     },
     {
       "id": 5,
-      "name": "二階へ",
+      "name": "Upstairs",
       "note": "",
       "pages": [
         {
@@ -2779,7 +2874,7 @@
     },
     {
       "id": 6,
-      "name": "外へ",
+      "name": "Outside",
       "note": "",
       "pages": [
         {
@@ -2858,7 +2953,7 @@
     },
     {
       "id": 7,
-      "name": "外へ",
+      "name": "Outside",
       "note": "",
       "pages": [
         {
@@ -2937,7 +3032,7 @@
     },
     {
       "id": 8,
-      "name": "自動",
+      "name": "Automatic",
       "note": "",
       "pages": [
         {
@@ -3037,21 +3132,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Shopkeeper"
+                "\\SE[0] Innkeeper "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Good evening, traveler. How many rooms will you be"
+                "\"Good evening, traveler. How many rooms would you"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "needing?\""
+                "like?\""
               ]
             },
             {
@@ -3069,14 +3164,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Uh, two...\""
+                "\\SE[3] \"Um, two…\""
               ]
             },
             {
@@ -3094,14 +3189,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"O-One room is fine!\""
+                "\\SE[5] \"O-oh, one room is fine!\""
               ]
             },
             {
@@ -3158,14 +3253,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Huh?\""
+                "\\SE[3] \"Huh?\""
               ]
             },
             {
@@ -3183,14 +3278,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Shopkeeper"
+                "\\SE[0] Shopkeeper "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ah, right. Understood. 80 gold up front.\""
+                ": \"Ah, uh... Okay. That'll be 80 gold up front.\""
               ]
             },
             {
@@ -3220,7 +3315,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]80 gold was paid"
+                "I paid 80 gold"
               ]
             },
             {
@@ -3237,14 +3332,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"L-let's go.\""
+                "\\SE[5] \"L-Let’s go.\""
               ]
             },
             {
@@ -3262,7 +3357,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna grabbed Kyle's hand"
+                "Luna grabbed Kyle's hand."
               ]
             },
             {
@@ -3499,14 +3594,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"O-oi...Luna...!\""
+                "\\SE[3] \"H-hey… Luna…!\""
               ]
             },
             {
@@ -3524,14 +3619,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"W-well, let's go then.\""
+                "\\SE[4] \"W-well, let’s just go for now.\""
               ]
             },
             {
@@ -3870,14 +3965,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Good morning.\""
+                "\\SE[4] \"Good morning\""
               ]
             },
             {
@@ -3895,14 +3990,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Good morning.\""
+                "\\SE[5] \"Good morning\""
               ]
             },
             {
@@ -3920,21 +4015,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Morning... though we were all sleeping in"
+                "\\SE[3] \"Good morning. We were all sleeping"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the same bed.\""
+                "together, though.\""
               ]
             },
             {
@@ -3952,7 +4047,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]In the end, Luna and Lilian shared the same bed with"
+                "\\SE[0] In the end, Luna and Lilian ended up "
               ]
             },
             {
@@ -3984,14 +4079,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Let's go. You know where we're headed,"
+                "\\SE[3] \"Shall we go? You know where we’re headed,"
               ]
             },
             {
@@ -4016,21 +4111,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Yes, it's the \\C[1]Caldoon Coal Mine\\C[0] to the"
+                "\\SE[4] \"Yes, that’s the Caldon Coal Mine \\C[1] to the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "north.\""
+                "north of here, \\C[0].\""
               ]
             },
             {
@@ -4048,14 +4143,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Let's get going!\""
+                "\\SE[5] \"Let’s get going!\""
               ]
             },
             {
@@ -4141,9 +4236,8 @@
                 1,
                 0,
                 4,
-                "\"　Go to Caldoon Coal Mine\""
-              ],
-              "_original": "\"　カルドーン炭鉱へ行こう\""
+                "\"　Let's Go to the Caldon Coal Mine\""
+              ]
             },
             {
               "code": 117,
@@ -4255,7 +4349,7 @@
     },
     {
       "id": 9,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -4672,7 +4766,7 @@
     },
     {
       "id": 10,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -5089,7 +5183,7 @@
     },
     {
       "id": 11,
-      "name": "リリアン",
+      "name": "Lillian",
       "note": "",
       "pages": [
         {
@@ -5506,7 +5600,7 @@
     },
     {
       "id": 12,
-      "name": "明かり",
+      "name": "Light",
       "note": "",
       "pages": [
         {
@@ -5573,7 +5667,7 @@
     },
     {
       "id": 13,
-      "name": "明かり",
+      "name": "Light",
       "note": "",
       "pages": [
         {
@@ -5640,7 +5734,7 @@
     },
     {
       "id": 14,
-      "name": "明かり",
+      "name": "Light",
       "note": "",
       "pages": [
         {
@@ -5707,7 +5801,7 @@
     },
     {
       "id": 15,
-      "name": "明かり",
+      "name": "Light",
       "note": "",
       "pages": [
         {

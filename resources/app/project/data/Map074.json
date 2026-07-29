@@ -3787,7 +3787,7 @@
     null,
     {
       "id": 1,
-      "name": "受付",
+      "name": "Reception",
       "note": "",
       "pages": [
         {
@@ -3830,14 +3830,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shop Clerk"
+                "Store Clerk "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Welcome to Al-Nadia.\""
+                ": \"Welcome! Welcome to Al-Nadia.\""
               ]
             },
             {
@@ -3855,14 +3855,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shop Clerk"
+                "Clerk "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This establishment operates as a brothel. Excuse me,\""
+                ": \"This is a brothel. I’m sorry to say, but , only men"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "are allowed to use our services.\""
               ]
             },
             {
@@ -3880,21 +3887,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shop Clerk"
+                "Store Clerk "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"but we kindly ask that you refrain from bringing any"
+                ": \"If you are accompanied by someone else, please"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "companions.\""
+                "refrain from entering. We sincerely apologize.\""
               ]
             },
             {
@@ -3929,7 +3936,7 @@
     },
     {
       "id": 2,
-      "name": "ドア",
+      "name": "Door",
       "note": "",
       "pages": [
         {
@@ -3989,7 +3996,7 @@
     },
     {
       "id": 3,
-      "name": "ドア",
+      "name": "Door",
       "note": "",
       "pages": [
         {
@@ -4032,7 +4039,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]A voice comes from inside."
+                "I hear a voice coming from inside."
               ]
             },
             {
@@ -4062,14 +4069,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Woman"
+                "Woman "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hah...hah...♡ Ahh...aahn...listen...♡\""
+                ": \"Haa… haa… ♡ Ah… an… Hey… ♡ I can’t hold it in"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "anymore… ♡\""
               ]
             },
             {
@@ -4087,14 +4101,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Man"
+                "Man "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hehehe...I'm all ready over here too.\""
+                ": \"Hehehe… I’m all set too.\""
               ]
             },
             {
@@ -4134,7 +4148,7 @@
     },
     {
       "id": 4,
-      "name": "ドア",
+      "name": "Door",
       "note": "",
       "pages": [
         {
@@ -4620,7 +4634,7 @@
     },
     {
       "id": 5,
-      "name": "オナ",
+      "name": "Masturbation",
       "note": "",
       "pages": [
         {
@@ -4680,7 +4694,7 @@
     },
     {
       "id": 6,
-      "name": "男",
+      "name": "Man",
       "note": "",
       "pages": [
         {
@@ -4740,7 +4754,7 @@
     },
     {
       "id": 7,
-      "name": "女の人",
+      "name": "A woman",
       "note": "",
       "pages": [
         {
@@ -4783,21 +4797,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Woman"
+                "Woman "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Oh? A customer? ...Not that it matters. You've got a"
+                ": \"Oh, a customer? …No way. You’re here with a woman,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "girl with you.\""
+                "after all.\""
               ]
             },
             {
@@ -4815,7 +4829,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
@@ -4847,21 +4861,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Woman"
+                "Woman "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"The little one doesn't need to know. Come back when"
+                ": \"Your child doesn’t need to know about this. Come see"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "you're all grown up.\""
+                "us when you’re an adult.\""
               ]
             },
             {
@@ -4879,7 +4893,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
@@ -4911,7 +4925,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
@@ -4936,7 +4950,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
@@ -4968,14 +4982,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Woman"
+                "Woman "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Exactly. It's a shop for men.\""
+                ": \"That’s exactly it. It’s a place for guys. Come on,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "come on—we’re bothering the other customers, so let’s"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Woman "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "go home, let’s go home.\""
               ]
             },
             {
@@ -5010,7 +5056,7 @@
     },
     {
       "id": 8,
-      "name": "場所移動",
+      "name": "Change of Location",
       "note": "",
       "pages": [
         {
@@ -5089,7 +5135,7 @@
     },
     {
       "id": 9,
-      "name": "ドア",
+      "name": "Door",
       "note": "",
       "pages": [
         {
@@ -5132,21 +5178,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shop Clerk"
+                "Store Clerk "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Excuse me, that room is restricted to registered users"
+                ": \"Sir/Ma'am, that room is for registered users only."
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "only.\""
+                "Please refrain from entering.\""
               ]
             },
             {
@@ -5181,7 +5227,7 @@
     },
     {
       "id": 10,
-      "name": "パッセル",
+      "name": "Passel",
       "note": "",
       "pages": [
         {
@@ -5241,7 +5287,7 @@
     },
     {
       "id": 11,
-      "name": "パッセル自動EV",
+      "name": "Passel Automatic EV",
       "note": "",
       "pages": [
         {
@@ -5368,14 +5414,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Passel"
+                "\\SE[0] Passel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0](O-Okay... Let's go.)"
+                "\\SE[0] (O-okay... Here we go.)"
               ]
             },
             {
@@ -5517,14 +5563,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shop Clerk"
+                "\\SE[0] Clerk "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\"Welcome to \\C[1]Brothel Al-Nadia\\C[0].\""
+                "\\SE[0] \"Welcome to \\C[1] the Al-Nadia Brothel \\C[0]. Are you here to"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "use our services today?\""
               ]
             },
             {
@@ -5542,14 +5595,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Passel"
+                "\\SE[0] Passel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\"Y-Yes... Please.\""
+                "\\SE[0] \"Ah, ah… Please. Is there any room?\""
               ]
             },
             {
@@ -5566,14 +5619,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shop Clerk"
+                "\\SE[0] Store Clerk "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\"Please wait a moment.\""
+                "\\SE[0] \"Please wait a moment.\""
               ]
             },
             {
@@ -5595,14 +5648,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]The shop clerk bowed politely before quietly"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "disappearing into the back."
+                "\\SE[0] The clerk bowed and quietly disappeared into the back."
               ]
             },
             {
@@ -5619,7 +5665,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]She was probably consulting with the girls."
+                "\\SE[0] He's probably discussing it with the girl."
               ]
             },
             {
@@ -5684,14 +5730,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Passel"
+                "\\SE[0] Passel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0](Calm down... I have to..."
+                "\\SE[0] (……Calm down, I’ve got Noble Mirage)"
               ]
             },
             {
@@ -5709,21 +5755,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Passel"
+                "\\SE[0] Passel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0](With this, I can seduce that slutty"
+                "\\SE[0] (I'm going to use this to woo her and GET a"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "bride..."
+                "super-sexy wife!)"
               ]
             },
             {
@@ -5771,14 +5817,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shop Clerk"
+                "\\SE[0] Store Clerk "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\"Thank you for waiting.\""
+                "\\SE[0] \"Thank you for waiting. We have a table available"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "right now, so please follow me. This way, please.\""
               ]
             },
             {
@@ -5796,14 +5849,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Passel"
+                "\\SE[0] Passel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\"O-Okay... Let's go...!\""
+                "\\SE[0] \"O-okay… Let’s go…!\""
               ]
             },
             {
@@ -5925,7 +5978,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Passel... doing marriage hunting at a brothel?\""
+                "\"Passel, Looking for a Partner at a Brothel…?\" Do you"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "want to play ?"
               ]
             },
             {
@@ -5940,10 +6000,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -5951,7 +6007,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -5984,7 +6040,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {

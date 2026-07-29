@@ -3097,7 +3097,7 @@
     null,
     {
       "id": 1,
-      "name": "リリアン",
+      "name": "Lillian",
       "note": "",
       "pages": [
         {
@@ -3616,7 +3616,7 @@
     },
     {
       "id": 2,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -3676,7 +3676,7 @@
     },
     {
       "id": 3,
-      "name": "リリアン花嫁",
+      "name": "Lillian the Bride",
       "note": "",
       "pages": [
         {
@@ -3736,7 +3736,7 @@
     },
     {
       "id": 4,
-      "name": "自動EV",
+      "name": "Autonomous EV",
       "note": "",
       "pages": [
         {
@@ -4690,14 +4690,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lillian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"………Kyle…！\""
+                "\\SE[4] \"………Kyle…!\""
               ]
             },
             {
@@ -4722,14 +4722,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"………\""
+                "\\SE[3] \"………\""
               ]
             },
             {
@@ -4754,14 +4754,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"…...。 \\!...… \\!...\""
+                "\\SE[3] \"…You idiot. \\! You really are… \\! an"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "idiot.\""
               ]
             },
             {
@@ -4779,14 +4786,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lillian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"…Kyle！Kyle！\""
+                "\\SE[4] \"…Kyle! Kyle!\""
               ]
             },
             {
@@ -4934,14 +4941,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Lillian\""
+                "\\SE[3] \"Lillian\""
               ]
             },
             {
@@ -5278,14 +5285,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lillian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"...…！\""
+                "\\SE[4] \"Is this…!\""
               ]
             },
             {
@@ -5303,14 +5310,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"...、Lillian\""
+                "\\SE[3] \"Let’s go, Lilian.\""
               ]
             },
             {
@@ -5328,14 +5335,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lillian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Kyle！\""
+                "\\SE[4] \"Kyle!\""
               ]
             },
             {
@@ -5528,7 +5535,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]...LillianEND"
+                "The Distant Ceresphere: Lilian END"
               ]
             },
             {
@@ -5617,7 +5624,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]LillianENDING..."
+                "The flag for Lilian's ending has been set."
               ]
             },
             {
@@ -5651,14 +5658,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]LunaENDING...、"
+                "Since I've already viewed the Luna ENDING, I've met the"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "True ENDING."
+                "requirements for the True ENDING."
               ]
             },
             {
@@ -5676,7 +5683,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "...\"...END\"... ...。"
+                "When you view the ending again, the \"True End\" option ("
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                ") will appear."
               ]
             },
             {
@@ -5694,14 +5708,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "...ENDING...。 ※..."
+                "If you make that selection, you'll be able to see the"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "* You don't need to start over from New Game."
+                "True Ending. * You don't need to start over from New"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Game."
               ]
             },
             {
@@ -5729,14 +5750,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]LunaENDING..."
+                "If you also view Luna's ENDING, you'll be able to see"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "True ENDING."
+                "the True ENDING."
               ]
             },
             {
@@ -5754,7 +5775,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "...\"LunaEND\"... ...。"
+                "When you view the ending again, the \"Luna END\" option ("
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                ") will appear."
               ]
             },
             {
@@ -5772,14 +5800,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "...LunaENDING...。 ※..."
+                "If you select that option, you'll be able to see the"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "* You don't need to start over from New Game."
+                "Luna ending. * You don't need to start over from New"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Game."
               ]
             },
             {
@@ -5814,14 +5849,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "... ..."
+                "We’re giving away a useful item ( ) to players who are"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                ") to players who are doing repeat playthroughs."
+                "doing repeat playthroughs."
               ]
             },
             {
@@ -5839,7 +5874,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]...\"...\"..."
+                "Right after the game starts, there is a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "password-protected treasure chest located at , in the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "upper-left corner of the \"Eastern Gate of the Royal"
               ]
             },
             {
@@ -5857,7 +5906,25 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]..."
+                "Capital\" map."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "The password for that treasure chest is"
               ]
             },
             {
@@ -5887,7 +5954,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Q...."
+                "Q. What was the 10-character katakana name of the"
               ]
             },
             {
@@ -5919,7 +5986,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]A. Luna...Lillian"
+                "A. Luna and Lilian"
               ]
             },
             {
@@ -5937,7 +6004,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]...。"
+                "It will be "
               ]
             },
             {
@@ -5962,7 +6029,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]...。"
+                "Back to the title."
               ]
             },
             {
@@ -6012,7 +6079,7 @@
     },
     {
       "id": 5,
-      "name": "トーチ",
+      "name": "Torch",
       "note": "",
       "pages": [
         {
@@ -6072,7 +6139,7 @@
     },
     {
       "id": 6,
-      "name": "トーチ",
+      "name": "Torch",
       "note": "",
       "pages": [
         {
@@ -6132,7 +6199,7 @@
     },
     {
       "id": 7,
-      "name": "トーチ",
+      "name": "Torch",
       "note": "",
       "pages": [
         {
@@ -6193,7 +6260,7 @@
     null,
     {
       "id": 9,
-      "name": "トーチ",
+      "name": "Torch",
       "note": "",
       "pages": [
         {

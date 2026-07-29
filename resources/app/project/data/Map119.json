@@ -2437,7 +2437,7 @@
     null,
     {
       "id": 1,
-      "name": "宝箱",
+      "name": "Treasure Chest",
       "note": "",
       "pages": [
         {
@@ -2548,7 +2548,7 @@
     },
     {
       "id": 2,
-      "name": "モズリー",
+      "name": "Mozley",
       "note": "",
       "pages": [
         {
@@ -2608,7 +2608,7 @@
     },
     {
       "id": 3,
-      "name": "ロゼ",
+      "name": "Rosé",
       "note": "",
       "pages": [
         {
@@ -2668,7 +2668,7 @@
     },
     {
       "id": 4,
-      "name": "ザイン",
+      "name": "Zain",
       "note": "",
       "pages": [
         {
@@ -2728,7 +2728,7 @@
     },
     {
       "id": 5,
-      "name": "デルガド",
+      "name": "Delgado",
       "note": "",
       "pages": [
         {
@@ -2788,7 +2788,7 @@
     },
     {
       "id": 6,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -3307,7 +3307,7 @@
     },
     {
       "id": 7,
-      "name": "自動開始",
+      "name": "Automatic Start",
       "note": "",
       "pages": [
         {
@@ -3381,7 +3381,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]―――In a certain dungeon"
+                "\\SE[0]―――In a Certain Dungeon"
               ]
             },
             {
@@ -3429,21 +3429,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Mozley"
+                "Mozley "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"For a genius like me, this trap is"
+                ": \"For a genius like me, setting a trap like"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "nothing!\""
+                "this is a piece of cake!\""
               ]
             },
             {
@@ -3648,7 +3648,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "\\SE[0] Rosé "
               ]
             },
             {
@@ -3673,7 +3673,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "\\SE[0] Rosé "
               ]
             },
             {
@@ -3705,21 +3705,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Mosley"
+                "\\SE[0] Mozley "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Heh, of course... It suits a delicate girl"
+                "\"Huh, of course… It suits you, my lovely"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "like you.\""
+                "one.\""
               ]
             },
             {
@@ -3744,7 +3744,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {

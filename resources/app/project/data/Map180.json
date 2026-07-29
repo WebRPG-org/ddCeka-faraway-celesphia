@@ -1747,7 +1747,7 @@
     null,
     {
       "id": 1,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -2266,7 +2266,7 @@
     },
     {
       "id": 2,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -2785,7 +2785,7 @@
     },
     {
       "id": 3,
-      "name": "リリアン",
+      "name": "Lillian",
       "note": "",
       "pages": [
         {
@@ -3304,7 +3304,7 @@
     },
     {
       "id": 4,
-      "name": "ノエル",
+      "name": "Noel",
       "note": "",
       "pages": [
         {
@@ -3517,7 +3517,7 @@
     },
     {
       "id": 5,
-      "name": "アリア",
+      "name": "Aria",
       "note": "",
       "pages": [
         {
@@ -3577,7 +3577,7 @@
     },
     {
       "id": 6,
-      "name": "自動イベント",
+      "name": "Automatic Events",
       "note": "",
       "pages": [
         {
@@ -4107,21 +4107,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]Soon after, Noel-san stood up. When I saw her recover"
+                "\\SE[3] Before long, Noelle stood up. When I saw her, having"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "to the point of returning to her daily life, I finally"
+                "recovered enough to return to her normal life, I"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "felt relief that it was all over."
+                "finally felt relieved that it was all over."
               ]
             },
             {
@@ -4560,21 +4560,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]And then, I married Luna and Lilian. We were blessed by"
+                "\\SE[3]And then, I married Luna and Lilian. With everyone"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "everyone around us, and I was undoubtedly at the peak"
+                "around me offering their congratulations, I was"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "of happiness."
+                "undoubtedly at the peak of happiness."
               ]
             },
             {
@@ -4798,14 +4798,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]And so, Lilian and I ended up living in Luna's house as"
+                "\\SE[3]And so, Lilian and I ended up living at Luna's house,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "well..."
+                "but..."
               ]
             },
             {
@@ -4851,21 +4851,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Well, four people living together might be"
+                "\\SE[5]: \"Well, it really is a bit cramped for the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "a bit cramped...\""
+                "four of us to live here…\""
               ]
             },
             {
@@ -4892,21 +4892,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Noel]"
+                "Noel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]\"Yeah... It was originally a house Luna and"
+                "\\SE[2] \"Well… it’s a house where Luna and I used"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I lived in together...\""
+                "to live together, after all…\""
               ]
             },
             {
@@ -4977,14 +4977,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The four of them made a big decision. \\! \\C[2]Renovating the"
+                "The four of them made a major decision: \\! \\C[2] to renovate"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "house\\C[0]."
+                "their house \\C[0]."
               ]
             },
             {

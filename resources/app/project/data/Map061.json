@@ -5137,7 +5137,7 @@
     null,
     {
       "id": 1,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -5304,7 +5304,7 @@
     },
     {
       "id": 2,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -5471,7 +5471,7 @@
     },
     {
       "id": 3,
-      "name": "冒険者",
+      "name": "Adventurer",
       "note": "",
       "pages": [
         {
@@ -5514,21 +5514,53 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer"
+                "Male Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It really is. Even from this far away, the sunlight's"
+                ": \"It's true. Even though it's so far away, the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "reflecting off it and shining bright.\""
+                "sunlight is reflecting off it and making it shine. The"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Male Adventurer "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "wind blowing across the valley seems to be carrying the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "scent of the sea.\""
               ]
             },
             {
@@ -5563,7 +5595,7 @@
     },
     {
       "id": 4,
-      "name": "冒険者",
+      "name": "Adventurer",
       "note": "",
       "pages": [
         {
@@ -5606,21 +5638,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Look, over that valley... Through the mist, you can"
+                ": \"Look, beyond that valley… I can see the ocean"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "see the sea.\""
+                "through the mist. It feels like I can even smell the"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Female Adventurer "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "sea breeze from here.\""
               ]
             },
             {
@@ -5655,7 +5712,7 @@
     },
     {
       "id": 5,
-      "name": "商人",
+      "name": "Merchant",
       "note": "",
       "pages": [
         {
@@ -5698,14 +5755,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Horse Owner"
+                "Horse Owner "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Okay, okay. Scared of the height now?\""
+                ": \"All right, all right. Are you scared of the height?"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Take your time… slow and steady…!\""
               ]
             },
             {
@@ -5740,7 +5804,7 @@
     },
     {
       "id": 6,
-      "name": "馬車",
+      "name": "Horse-drawn carriage",
       "note": "",
       "pages": [
         {
@@ -5783,14 +5847,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Horse"
+                "Horse "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Neigh...\""
+                ": \"Neigh...\""
               ]
             },
             {
@@ -5825,7 +5889,7 @@
     },
     {
       "id": 7,
-      "name": "馬車",
+      "name": "Horse-drawn carriage",
       "note": "",
       "pages": [
         {
@@ -5885,7 +5949,7 @@
     },
     {
       "id": 8,
-      "name": "妖精",
+      "name": "Fairy",
       "note": "",
       "pages": [
         {
@@ -5945,7 +6009,7 @@
     },
     {
       "id": 9,
-      "name": "シスター",
+      "name": "Sister",
       "note": "",
       "pages": [
         {
@@ -5988,14 +6052,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hey! Don't get too carried away! What if you fall...!\""
+                ": \"Hey! Don’t get too excited! What if you fall…! Eek…"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I’m scared of heights…\""
               ]
             },
             {
@@ -6030,7 +6101,7 @@
     },
     {
       "id": 10,
-      "name": "猫娘",
+      "name": "Cat Girl",
       "note": "",
       "pages": [
         {
@@ -6073,21 +6144,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yay! It feels like I'm walking on air! This is the"
+                ": \"Yay! It feels like I'm walking in the sky! This is"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "best!\""
+                "the best~!\""
               ]
             },
             {
@@ -6122,7 +6193,7 @@
     },
     {
       "id": 11,
-      "name": "天使",
+      "name": "Angel",
       "note": "",
       "pages": [
         {
@@ -6165,14 +6236,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yay! I wish I could leave this view behind forever!\""
+                ": \"Yay! I wish I could capture this view.\""
               ]
             },
             {
@@ -6207,7 +6278,7 @@
     },
     {
       "id": 12,
-      "name": "冒険者",
+      "name": "Adventurer",
       "note": "",
       "pages": [
         {
@@ -6250,21 +6321,53 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer"
+                "Male Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"3000G... It hurts to spend this much, but I don't have"
+                ": \"3,000G… That’s a painful expense, but I guess I have"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "a choice. It's dangerous to go around here.\""
+                "no choice. It’s too dangerous to go any other way—I’ve"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Male Adventurer "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "got no choice but to go through here. It’s like life"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "insurance, I guess.\""
               ]
             },
             {
@@ -6330,7 +6433,7 @@
     },
     {
       "id": 13,
-      "name": "子供",
+      "name": "Children",
       "note": "",
       "pages": [
         {
@@ -6373,14 +6476,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Child"
+                "Child "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Wow! That's so high!\""
+                ": \"Wow! That’s really high!\""
               ]
             },
             {
@@ -6415,7 +6518,7 @@
     },
     {
       "id": 14,
-      "name": "子供",
+      "name": "Children",
       "note": "",
       "pages": [
         {
@@ -6458,14 +6561,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Child"
+                "Child "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Looking down makes me scared!\""
+                ": \"It's scary when I look down!\""
               ]
             },
             {
@@ -6500,7 +6603,7 @@
     },
     {
       "id": 15,
-      "name": "兵士",
+      "name": "Soldier",
       "note": "",
       "pages": [
         {
@@ -6543,14 +6646,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier"
+                "Soldier "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This is the Eldenia side.\""
+                ": \"This is the Eldenia side. If you go this way, you"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "can reach the Eldenia region.\""
               ]
             },
             {
@@ -6585,7 +6695,7 @@
     },
     {
       "id": 16,
-      "name": "兵士",
+      "name": "Soldier",
       "note": "",
       "pages": [
         {
@@ -6628,14 +6738,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier"
+                "Soldier "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"If monsters attack this bridge, it'll be a disaster.\""
+                ": \"If monsters attack this bridge, it'll be a disaster."
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "That's why we're concentrating our forces here—it's .\""
               ]
             },
             {
@@ -6670,7 +6787,7 @@
     },
     {
       "id": 17,
-      "name": "兵士",
+      "name": "Soldier",
       "note": "",
       "pages": [
         {
@@ -6713,21 +6830,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier"
+                "Soldier "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"All clear. It'd be dangerous if you fell, so stay on"
+                ": \"Everything is normal. It's dangerous to fall, so"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the bridge.\""
+                "please be careful not to run on the bridge.\""
               ]
             },
             {
@@ -6762,7 +6879,7 @@
     },
     {
       "id": 18,
-      "name": "冒険者",
+      "name": "Adventurer",
       "note": "",
       "pages": [
         {
@@ -6805,14 +6922,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I came from Eldenia. It's where I belong.\""
+                ": \"I’m from Eldenia. I’m on my way back there. Once you"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "get a pass, it’s a free pass.\""
               ]
             },
             {
@@ -6878,7 +7002,7 @@
     },
     {
       "id": 19,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -7397,7 +7521,7 @@
     },
     {
       "id": 20,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -7916,7 +8040,7 @@
     },
     {
       "id": 21,
-      "name": "リリアン",
+      "name": "Lillian",
       "note": "",
       "pages": [
         {
@@ -8435,7 +8559,7 @@
     },
     {
       "id": 22,
-      "name": "イベント",
+      "name": "Events",
       "note": "",
       "pages": [
         {
@@ -9165,14 +9289,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Hurry up, both of you! Hurry up!\""
+                "\\SE[5] \"You two, hurry! Hurry!\""
               ]
             },
             {
@@ -9190,21 +9314,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Lady Luna, you're getting too carried"
+                "\\SE[4] \"Lady Luna, you’re getting a little too"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "away!\""
+                "excited! Please calm down a bit.\""
               ]
             },
             {
@@ -9353,14 +9477,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Luna, come over here for a second.\""
+                "\\SE[3] \"Luna, come over here for a second.\""
               ]
             },
             {
@@ -9696,14 +9820,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Well, shall we go?\""
+                "\\SE[3] \"Well, let’s go.\""
               ]
             },
             {
@@ -9770,14 +9894,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[5]\"Kyle-sama...um...\""
+                "\\SE[5] \"Lord Kyle… um…\""
               ]
             },
             {
@@ -9795,14 +9919,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[3]\"？\""
+                "\\SE[3] \"?\""
               ]
             },
             {
@@ -9820,14 +9944,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[5]\"N-No, it's nothing...\""
+                "\\SE[5] \"No… it’s nothing… Let’s go to Eldenia.\""
               ]
             },
             {
@@ -9895,14 +10019,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[4]\"Kyle...\""
+                "\\SE[4] \"Kyle…\""
               ]
             },
             {
@@ -9920,14 +10044,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[3]\"？\""
+                "\\SE[3] \"?\""
               ]
             },
             {
@@ -9945,14 +10069,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[4]\"Nah, it's nothing.\""
+                "\\SE[4] \"No, it’s nothing… Let’s go to Eldenia.\""
               ]
             },
             {
@@ -10010,9 +10134,8 @@
                 1,
                 0,
                 4,
-                "\"　Go to Eldenia Town\""
-              ],
-              "_original": "\"　エルデニアの街へ行こう\""
+                "\"　Let's go to the town of Eldenia\""
+              ]
             },
             {
               "code": 222,
@@ -10153,14 +10276,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Father"
+                "Father "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"The air in the Vergan region is gentle.\""
+                ": \"The air in the Vergan region is calm. When you stand"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "on the bridge, the wind smells different.\""
               ]
             },
             {
@@ -10238,21 +10368,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Mother"
+                "Mother "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yes, it feels so good... Traveling is such a thing,"
+                ": \"Yes, it feels so good… Travel really is something,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "isn't it.\""
+                "isn’t it?\""
               ]
             },
             {

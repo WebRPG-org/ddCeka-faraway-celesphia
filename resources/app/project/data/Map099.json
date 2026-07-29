@@ -3787,7 +3787,7 @@
     null,
     {
       "id": 1,
-      "name": "ヴァルグリード",
+      "name": "Vargreed",
       "note": "",
       "pages": [
         {
@@ -3899,7 +3899,7 @@
     null,
     {
       "id": 3,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -4112,7 +4112,7 @@
     },
     {
       "id": 4,
-      "name": "リリアン",
+      "name": "Lillian",
       "note": "",
       "pages": [
         {
@@ -4325,7 +4325,7 @@
     },
     {
       "id": 5,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -4538,7 +4538,7 @@
     },
     {
       "id": 6,
-      "name": "イベント",
+      "name": "Events",
       "note": "",
       "pages": [
         {
@@ -5147,14 +5147,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Valgrind, now unconscious,"
+                "Having lost all sense of direction, Vargreid fell into"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "…"
+                "the abyss at …"
               ]
             },
             {
@@ -5361,14 +5361,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Kyle!\""
+                "\\SE[4] \"Kyle!\""
               ]
             },
             {
@@ -5386,14 +5386,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Kyle-sama!\""
+                "\\SE[5] \"Lord Kyle!\""
               ]
             },
             {
@@ -5411,7 +5411,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]………"
+                "………"
               ]
             },
             {
@@ -5429,7 +5429,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]……"
+                "……"
               ]
             },
             {
@@ -5447,7 +5447,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]…"
+                "…"
               ]
             },
             {
@@ -5477,7 +5477,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "―His consciousness faded away."
+                "――My consciousness is fading."
               ]
             },
             {
@@ -5495,14 +5495,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He had been betrayed by so many people, times when he"
+                "There were times when I was betrayed by so many people"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "had given up on ever believing in anyone."
+                "that I gave up on trusting anyone."
               ]
             },
             {
@@ -5520,14 +5520,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But thanks to the rare power of divine protection he"
+                "Still, thanks to the rare power of divine protection,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "possessed,"
+                "it was also a life in which I was appreciated by many"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "people."
               ]
             },
             {
@@ -5545,14 +5552,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]he never felt truly blessed."
+                "I didn't think I was particularly fortunate, but even"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "even so, countless lives were saved."
+                "so, countless lives were saved."
               ]
             },
             {
@@ -5605,14 +5612,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(…Father… Mother…)"
+                "(…Dad…Mom…)"
               ]
             },
             {
@@ -5630,14 +5637,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "What surfaced in his mind were the faces of his"
+                "What came to mind were the images of my parents, etched"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "parents, etched into distant memories."
+                "in my distant memories."
               ]
             },
             {
@@ -5655,7 +5662,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "His father and mother, smiling so gently."
+                "My father and mother, both wearing gentle smiles."
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "There’s something nostalgic and heartwarming about the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "sight of them."
               ]
             },
             {
@@ -5673,14 +5694,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(…Did I… do alright…?)"
+                "(……I wonder…… if I…… did the right thing……)"
               ]
             },
             {
@@ -5724,7 +5745,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]His thoughts grew hazy."
+                "My thoughts gradually grow hazy."
               ]
             },
             {
@@ -5786,14 +5807,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "(Luna…)"
+                "(Luna……)"
               ]
             },
             {
@@ -5846,14 +5867,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "(Lilian…)"
+                "(Lillian……)"
               ]
             },
             {
@@ -5916,14 +5937,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "(Lilian…)"
+                "(Lillian……)"
               ]
             },
             {
@@ -5976,14 +5997,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "(Luna…)"
+                "(Luna……)"
               ]
             },
             {
@@ -6011,14 +6032,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(…Please… stay safe… and happy…)"
+                "(……Please……stay well……and be happy……)"
               ]
             },
             {
@@ -6036,7 +6057,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Quietly, he closed his eyes in his heart."
+                "I quietly close my eyes in my mind."
               ]
             },
             {
@@ -6054,14 +6075,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "In his fading consciousness, he thought he saw their"
+                "As my consciousness began to fade, I felt as though I"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "smiles one last time."
+                "had seen the two of them smiling for the last time."
               ]
             },
             {
@@ -6173,7 +6194,7 @@
     null,
     {
       "id": 8,
-      "name": "出血1",
+      "name": "Bleeding 1",
       "note": "",
       "pages": [
         {
@@ -6195,7 +6216,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "flower_chip_Celesphia",
+            "characterName": "flower_chip_selesphia",
             "direction": 6,
             "pattern": 0,
             "characterIndex": 0
@@ -6233,7 +6254,7 @@
     },
     {
       "id": 9,
-      "name": "出血2",
+      "name": "Bleeding 2",
       "note": "",
       "pages": [
         {
@@ -6255,7 +6276,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "flower_chip_Celesphia",
+            "characterName": "flower_chip_selesphia",
             "direction": 8,
             "pattern": 2,
             "characterIndex": 0
@@ -6293,7 +6314,7 @@
     },
     {
       "id": 10,
-      "name": "出血3",
+      "name": "Bleeding 3",
       "note": "",
       "pages": [
         {
@@ -6315,7 +6336,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "flower_chip_Celesphia",
+            "characterName": "flower_chip_selesphia",
             "direction": 6,
             "pattern": 2,
             "characterIndex": 0

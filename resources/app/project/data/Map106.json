@@ -2941,7 +2941,7 @@
     null,
     {
       "id": 1,
-      "name": "不良1",
+      "name": "Delinquent 1",
       "note": "",
       "pages": [
         {
@@ -3052,7 +3052,7 @@
     },
     {
       "id": 2,
-      "name": "不良2",
+      "name": "Delinquent 2",
       "note": "",
       "pages": [
         {
@@ -3163,7 +3163,7 @@
     },
     {
       "id": 3,
-      "name": "不良3",
+      "name": "Delinquent 3",
       "note": "",
       "pages": [
         {
@@ -3274,7 +3274,7 @@
     },
     {
       "id": 4,
-      "name": "カイル（子供）",
+      "name": "Kyle (child)",
       "note": "",
       "pages": [
         {
@@ -3385,7 +3385,7 @@
     },
     {
       "id": 5,
-      "name": "自動",
+      "name": "Automatic",
       "note": "",
       "pages": [
         {
@@ -4335,14 +4335,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ugh...guh...\""
+                ": \"Guh... Ugh...\""
               ]
             },
             {
@@ -4360,14 +4360,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Punk 1"
+                "Delinquent 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Damn, you're a pain in the ass.\""
+                ": \"Man, you're such a pain.\""
               ]
             },
             {
@@ -4543,14 +4543,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Punk 1"
+                "Defect 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Let's see...\""
+                ": \"Let's see...\""
               ]
             },
             {
@@ -4589,14 +4589,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Punk 1"
+                "Delinquent 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Oho♡ You've got quite the stash, don't ya♡\""
+                ": \"Whoa♡ You've got quite a stash, don't you?♡\""
               ]
             },
             {
@@ -4659,14 +4659,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ugh...give it back...that's my money...!\""
+                ": \"Ugh... Give it back... That's my money...!\""
               ]
             },
             {
@@ -4867,14 +4867,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Delinquent 2"
+                "Delinquent 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Shut up! You should be earning money for us!\""
+                ": \"Shut up! All you have to do is make money for us!\""
               ]
             },
             {
@@ -4892,21 +4892,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Punk 1"
+                "Delinquent 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"See ya, Kyle-chan♡ Make sure to heal up with your"
+                ": \"See ya, Kyle-chan♡ Use your amazing Heal to get"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "fancy Heal skill and earn some more. I'll be back to\""
+                "better, , and make some more money for me. I'll be"
               ]
             },
             {
@@ -4924,14 +4924,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Punk 1"
+                "Delinquent 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "collect.\""
+                "coming to collect.\""
               ]
             },
             {
@@ -5296,14 +5296,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ugh...damn it...you bastard...!\""
+                ": \"Ugh... Damn it... Damn it all...!\""
               ]
             },
             {

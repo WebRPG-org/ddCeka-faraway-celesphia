@@ -12,7 +12,7 @@
       }
     ],
     "iconIndex": 0,
-    "name": "-----Light Armor-----",
+    "name": "-----Armor (Light Armor)",
     "price": 0,
     "note": "",
     "params": [
@@ -32,9 +32,7 @@
       "type": "",
       "variance": ""
     },
-    "_original": {
-      "name": "-----鎧（軽装防具）"
-    }
+    "description": ""
   },
   {
     "id": 2,
@@ -48,10 +46,10 @@
       }
     ],
     "iconIndex": 135,
-    "name": "Cloth Clothes",
+    "name": "Clothes made of fabric",
     "price": 120,
     "note": "",
-    "description": "[Light Armor]Breathable cloth clothes.\\r Clothing commonly\nworn by townsfolk in",
+    "description": "Clothing made of highly breathable fabric. This is the\neveryday attire typically worn by townspeople.",
     "params": [
       0,
       0,
@@ -68,10 +66,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "布の服",
-      "description": "【軽装防具】通気性の高い布の服。街の人が主に\r\n着用している普段着。"
     }
   },
   {
@@ -89,7 +83,7 @@
     "name": "Leather Vest",
     "price": 380,
     "note": "",
-    "description": "[Light Armor]A vest made of tanned leather.\\r Provides\nprotection against sharp",
+    "description": "A vest made of tanned leather. It provides protection\nagainst sharp fangs and blades.",
     "params": [
       0,
       0,
@@ -106,10 +100,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "レザーベスト",
-      "description": "【軽装防具】なめし革で作られたベスト。鋭い牙や\r\n刃などから守る効果がある。"
     }
   },
   {
@@ -127,7 +117,7 @@
     "name": "Hard Leather",
     "price": 650,
     "note": "",
-    "description": "[Light Armor]A vest made of hardened leather tanned with\nglue.\\r Harder than ordinary",
+    "description": "A vest made of hardened leather reinforced with glue. It’s\nsturdier than plain leather and lighter than iron, maki...",
     "params": [
       0,
       0,
@@ -144,10 +134,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ハードレザー",
-      "description": "【軽装防具】にかわで固めた硬皮のベスト。\r\nただの皮より堅く、鉄より軽いので女性にも人気。"
     }
   },
   {
@@ -165,7 +151,7 @@
     "name": "Brigandine",
     "price": 1500,
     "note": "",
-    "description": "[Light Armor]A leather garment reinforced with steel\nplates.\\r Protects against blades",
+    "description": "Clothing made of tanned leather reinforced with steel\nplates. Provides protection against blades, fangs, and...",
     "params": [
       0,
       0,
@@ -182,10 +168,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ブリガンダイン",
-      "description": "【軽装防具】鋼板で補強したなめし革製の服。\r\n刃や牙などから身を守ることが出来る。"
     }
   },
   {
@@ -203,7 +185,7 @@
     "name": "Mithril Vest",
     "price": 2980,
     "note": "",
-    "description": "[Light Armor]A garment woven from mithril silver thread.\\r\nIts complex fibers can",
+    "description": "Clothing made from mithril silver thread. The intricately\nwoven fibers deflect blows. Lightweight.",
     "params": [
       0,
       0,
@@ -220,10 +202,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ミスリルベスト",
-      "description": "【軽装防具】ミスリル銀糸で作られた服。複雑に編み込ま\r\nれた繊維により刃を受け止める。軽量。"
     }
   },
   {
@@ -238,10 +216,10 @@
       }
     ],
     "iconIndex": 135,
-    "name": "Mystic Cloth",
+    "name": "Misty Cloth",
     "price": 4400,
     "note": "",
-    "description": "[Light Armor] Fabric that allows easy movement and is\ninfused with magic.",
+    "description": "Clothing made from fabric infused with magic that allows\nfor easy movement. It also has the effect of amplifying...",
     "params": [
       0,
       0,
@@ -258,10 +236,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ミスティクロース",
-      "description": "【軽装防具】動きやすく魔力を込めた生地で作られた服。\r\n魔力を増幅させる効果も付属している。"
     }
   },
   {
@@ -279,7 +253,7 @@
     "name": "Rune Vest",
     "price": 7200,
     "note": "",
-    "description": "[Light Armor] Ancient garment with runes lining the\ninside. Enhances M. Def.",
+    "description": "An ancient garment with runic characters engraved on its\nlining. It has the effect of bringing out the wearer's...",
     "params": [
       0,
       0,
@@ -296,10 +270,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ルーンベスト",
-      "description": "【軽装防具】裏地にルーン文字が刻まれた古の服。\r\n着用者の能力を引き出す効果がある。"
     }
   },
   {
@@ -322,7 +292,7 @@
     "name": "Dragon Vest",
     "price": 9800,
     "note": "",
-    "description": "[Light Armor]A vest made of fabric developed specifically\nfor dragon resistance.\\r",
+    "description": "A vest crafted from fabric developed specifically for use\nagainst dragons. It reduces damage from fire.",
     "params": [
       0,
       0,
@@ -339,10 +309,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ドラゴンベスト",
-      "description": "【軽装防具】対ドラゴン用に研究開発された布で\r\n作られたベスト。炎を軽減させる効果がある。"
     }
   },
   {
@@ -391,7 +357,7 @@
       }
     ],
     "iconIndex": 0,
-    "name": "-----Magic Armor-----",
+    "name": "-----Armor (Magical Armor)",
     "price": 0,
     "note": "",
     "params": [
@@ -411,9 +377,7 @@
       "type": "",
       "variance": ""
     },
-    "_original": {
-      "name": "-----鎧（魔法防具）"
-    }
+    "description": ""
   },
   {
     "id": 12,
@@ -430,7 +394,7 @@
     "name": "Cotton Robe",
     "price": 110,
     "note": "",
-    "description": "[Magic Armor]A robe made of cotton fabric.\\r Slightly\nincreases magic power.",
+    "description": "A robe made of cotton fabric. It has the effect of\nslightly increasing magical power.",
     "params": [
       0,
       0,
@@ -447,10 +411,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "木綿のローブ",
-      "description": "【魔法防具】木綿の生地で作られたローブ。\r\n微量ながら魔力を増加させる効果がある。"
     }
   },
   {
@@ -468,7 +428,7 @@
     "name": "Silk Robe",
     "price": 330,
     "note": "",
-    "description": "[Magic Armor]A robe made of silk.\\r Woven with spell\nformulas, it slightly increases",
+    "description": "A robe made of silk. Magical patterns are woven into it,\nand it slightly increases magical power.",
     "params": [
       0,
       0,
@@ -485,10 +445,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "絹のローブ",
-      "description": "【魔法防具】絹で作られたローブ。術式が編み込まれ\r\n微量ながら魔力を増加させる。"
     }
   },
   {
@@ -506,7 +462,7 @@
     "name": "Felt Robe",
     "price": 630,
     "note": "",
-    "description": "[Magic Armor]A sturdy robe made of thick fabric.\\r Warm\nand excellent as winter wear.",
+    "description": "A robe made of sturdy fabric. It's warm and works great as\ncold-weather gear.",
     "params": [
       0,
       0,
@@ -523,10 +479,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "フェルトローブ",
-      "description": "【魔法防具】丈夫な布で作られたローブ。温かく\r\n防寒着としても優秀。"
     }
   },
   {
@@ -544,7 +496,7 @@
     "name": "Magic Robe",
     "price": 1400,
     "note": "",
-    "description": "[Magic Armor]A robe made of fabric infused with magic\npower.\\r Greatly increases magic",
+    "description": "A robe made from fabric imbued with magical power. The\nincrease in magical power has been amplified.",
     "params": [
       0,
       0,
@@ -561,10 +513,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "マジックローブ",
-      "description": "【魔法防具】魔力を秘めた生地で作られたローブ。\r\n魔力増加量が増大している。"
     }
   },
   {
@@ -582,7 +530,7 @@
     "name": "Mithril Robe",
     "price": 2800,
     "note": "",
-    "description": "[Magic Armor]A robe woven from mithril silver thread.\\r\nIts complex fibers can",
+    "description": "A robe made of mithril silver thread. Its intricately\nwoven fibers deflect blows. It is lightweight and allow...",
     "params": [
       0,
       0,
@@ -599,10 +547,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ミスリルローブ",
-      "description": "【魔法防具】ミスリル銀糸で作られたローブ。複雑に編み込ま\r\nれた繊維により刃を受け止める。軽量で動きやすい。"
     }
   },
   {
@@ -625,7 +569,7 @@
     "name": "Saint Robe",
     "price": 4200,
     "note": "",
-    "description": "[Magic Armor]A robe made of fabric infused with holy\npower.\\r Worn by clergy; reduces",
+    "description": "A robe made from fabric imbued with sacred power. Worn by\nclergy. It reduces damage from the Dark element.",
     "params": [
       0,
       0,
@@ -642,10 +586,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "セイントローブ",
-      "description": "【魔法防具】聖なる力を秘めた生地で作られたローブ。\r\n聖職者が着用。闇属性を軽減させる効果がある。"
     }
   },
   {
@@ -663,7 +603,7 @@
     "name": "Rune Robe",
     "price": 7000,
     "note": "",
-    "description": "[Magic Armor]A robe with runes etched into its lining.\\r\nEnhances the wearer's",
+    "description": "A robe with runic characters engraved on the lining. It\nhas the effect of bringing out the wearer's abilities.",
     "params": [
       0,
       0,
@@ -680,10 +620,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ルーンローブ",
-      "description": "【魔法防具】裏地にルーン文字が刻まれたローブ。\r\n着用者の能力を引き出す効果がある。"
     }
   },
   {
@@ -706,7 +642,7 @@
     "name": "Dragon Robe",
     "price": 9500,
     "note": "",
-    "description": "[Magic Armor]A robe made of fabric developed specifically\nfor dragon resistance.\\r",
+    "description": "A robe crafted from fabric developed specifically for use\nagainst dragons. It has the effect of reducing damage f...",
     "params": [
       0,
       0,
@@ -723,10 +659,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ドラゴンローブ",
-      "description": "【魔法防具】対ドラゴン用に研究開発された布で\r\n作られたローブ。炎を軽減させる効果がある。"
     }
   },
   {
@@ -775,7 +707,7 @@
       }
     ],
     "iconIndex": 0,
-    "name": "-----Heavy Armor-----",
+    "name": "-----Armor (Heavy Armor)",
     "price": 0,
     "note": "",
     "params": [
@@ -795,9 +727,7 @@
       "type": "",
       "variance": ""
     },
-    "_original": {
-      "name": "-----鎧（重装防具）"
-    }
+    "description": ""
   },
   {
     "id": 22,
@@ -819,7 +749,7 @@
     "name": "Bronze Armor",
     "price": 220,
     "note": "",
-    "description": "[Heavy Armor] Bronze armor. Heavy and hard to wear without\nsufficient strength.",
+    "description": "Armor made of bronze. It is heavy, and only those with\nStrength can equip it.",
     "params": [
       0,
       0,
@@ -836,10 +766,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ブロンズアーマー",
-      "description": "【重装防具】青銅で作られた鎧。重量があり、\r\n力のある者じゃないと装備するのが難しい。"
     }
   },
   {
@@ -857,7 +783,7 @@
     "name": "Iron Armor",
     "price": 420,
     "note": "",
-    "description": "[Heavy Armor]Armor made of iron.\\r Very heavy but offers\nhigh defense.",
+    "description": "Armor made of iron. It's quite heavy, but it has a\ncorrespondingly high DEF.",
     "params": [
       0,
       0,
@@ -874,10 +800,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "アイアンアーマー",
-      "description": "【重装防具】鉄で作られた鎧。かなり重たいが、\r\nその分防御力が高い。"
     }
   },
   {
@@ -895,7 +817,7 @@
     "name": "Silver Mail",
     "price": 720,
     "note": "",
-    "description": "[Heavy Armor]Armor made of silver.\\r Infused with holy\nsilver, it also provides",
+    "description": "Armor made of silver. It contains sacred silver, which\ngrants protection against magic.",
     "params": [
       0,
       0,
@@ -912,10 +834,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "シルバーメイル",
-      "description": "【重装防具】銀で作られた鎧。聖なる銀が溶け込んで\r\nおり、魔法に対する防御も可能に。"
     }
   },
   {
@@ -933,7 +851,7 @@
     "name": "Chrome Plate",
     "price": 2000,
     "note": "",
-    "description": "[Heavy Armor]Armor made of steel.\\r The heaviest type,\nsacrificing Agility for",
+    "description": "Armor made of steel. It is the heaviest, and sacrifices\nAGI to increase DEF.",
     "params": [
       0,
       0,
@@ -950,10 +868,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "クロームプレート",
-      "description": "【重装防具】鋼鉄で作られた鎧。最も重量があり\r\n敏捷性を犠牲に防御力を高めた。"
     }
   },
   {
@@ -971,7 +885,7 @@
     "name": "Mithril Armor",
     "price": 3800,
     "note": "",
-    "description": "[Heavy Armor]Armor made of mithril steel.\\r Maintains\ndefense while being as lightweight",
+    "description": "Armor crafted from mithril steel. While maintaining its\nDEF, it has been successfully lightened to the absolute...",
     "params": [
       0,
       0,
@@ -988,10 +902,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ミスリルアーマー",
-      "description": "【重装防具】ミスリル鋼で作られた鎧。防御力を残しつつ\r\n極限まで軽量化に成功した。"
     }
   },
   {
@@ -1024,7 +934,7 @@
     "name": "Crystal Mail",
     "price": 5500,
     "note": "",
-    "description": "[Heavy Armor]Armor made from magic-infused crystal.\\r\nHighly effective against magical",
+    "description": "Armor made from crystals imbued with magical power. Highly\neffective against magic.",
     "params": [
       0,
       0,
@@ -1041,10 +951,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "クリスタルメイル",
-      "description": "【重装防具】魔力を含んだ水晶で作られた鎧。\r\n対魔法に効果が高い。"
     }
   },
   {
@@ -1062,7 +968,7 @@
     "name": "Rune Plate",
     "price": 8000,
     "note": "",
-    "description": "[Heavy Armor] Ancient armor etched with runes. Enhances\nwearer's abilities.",
+    "description": "Ancient armor engraved with runes. It has the effect of\nbringing out the wearer's abilities.",
     "params": [
       0,
       0,
@@ -1079,10 +985,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ルーンプレート",
-      "description": "【重装防具】ルーンの刻まれた古の鎧。\r\n着用者の能力を引き出す効果がある。"
     }
   },
   {
@@ -1105,7 +1007,7 @@
     "name": "Dragon Armor",
     "price": 11500,
     "note": "",
-    "description": "[Heavy Armor]Armor made from steel developed specifically\nfor dragon resistance.\\r",
+    "description": "Armor crafted from steel and developed specifically for\nuse against dragons. It reduces damage from fire.",
     "params": [
       0,
       0,
@@ -1122,10 +1024,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ドラゴンアーマー",
-      "description": "【重装防具】対ドラゴン用に研究開発されたの鋼で\r\n作られた鎧。炎を軽減させる効果がある。"
     }
   },
   {
@@ -1174,7 +1072,7 @@
       }
     ],
     "iconIndex": 135,
-    "name": "-----Shields-----",
+    "name": "-----Shield",
     "price": 0,
     "note": "",
     "params": [
@@ -1194,9 +1092,7 @@
       "type": "",
       "variance": ""
     },
-    "_original": {
-      "name": "-----盾"
-    }
+    "description": ""
   },
   {
     "id": 32,
@@ -1213,7 +1109,7 @@
     "name": "Buckler",
     "price": 80,
     "note": "",
-    "description": "[Shield]A lightweight shield wielded with one hand.\\r Does\nnot hinder swift movements",
+    "description": "A lightweight shield that can be wielded with one hand. It\ndoes not hinder quick movements and is a favorite among...",
     "params": [
       0,
       0,
@@ -1230,10 +1126,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "バックラー",
-      "description": "【盾】片手で扱える軽量盾。\r\n素早い動きを阻害せず、剣士たちに愛用される。"
     }
   },
   {
@@ -1251,7 +1143,7 @@
     "name": "Round Shield",
     "price": 280,
     "note": "",
-    "description": "[Shield]A round wooden shield reinforced with an iron\nframe.\\r Balanced in offense",
+    "description": "A wooden round shield reinforced with an iron frame. It\noffers an excellent balance between offense and defense...",
     "params": [
       0,
       0,
@@ -1268,10 +1160,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ラウンドシールド",
-      "description": "【盾】鉄の枠で補強した木製の円盾。\r\n攻防のバランスに優れ、数多の兵士が頼りとする。"
     }
   },
   {
@@ -1289,7 +1177,7 @@
     "name": "Silver Tray",
     "price": 650,
     "note": "",
-    "description": "[Shield]A decorative shield made of polished silver\nplates.\\r Its dazzling luster is said",
+    "description": "A decorative shield made of polished silver plate. Its\ndazzling brilliance is considered a sacred symbol that...",
     "params": [
       0,
       0,
@@ -1306,10 +1194,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "シルバートレイ",
-      "description": "【盾】光沢ある銀板を用いた装飾盾。\r\nその眩い輝きは、邪悪を退ける聖なる象徴とされる。"
     }
   },
   {
@@ -1327,7 +1211,7 @@
     "name": "Spike Shield",
     "price": 1600,
     "note": "",
-    "description": "[Shield]A combat shield with sharp protrusions on its\nsurface.\\r Designed for",
+    "description": "A combat shield with sharp protrusions on its surface.\nDesigned for both offense and defense, it is suitable n...",
     "params": [
       0,
       0,
@@ -1344,10 +1228,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "スパイクシールド",
-      "description": "【盾】表面に鋭い突起を備えた戦闘盾。\r\n防御だけでなく、反撃にも適した攻守一体の設計。"
     }
   },
   {
@@ -1365,7 +1245,7 @@
     "name": "Mithril Shield",
     "price": 2700,
     "note": "",
-    "description": "[Shield]A high-grade shield made of mithril metal.\\r Light\nas a feather yet stronger",
+    "description": "A high-quality shield made of mithril. It is as light as a\nfeather, yet boasts strength that surpasses even steel.",
     "params": [
       0,
       0,
@@ -1382,10 +1262,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ミスリルシールド",
-      "description": "【盾】金属ミスリル製の高級盾。\r\n羽のように軽く、それでいて鋼をも凌ぐ強度を誇る。"
     }
   },
   {
@@ -1418,7 +1294,7 @@
     "name": "Crystal Shield",
     "price": 4000,
     "note": "",
-    "description": "[Shield]A beautiful shield polished from magic crystal\nstones.\\r Glows when exposed",
+    "description": "A beautiful shield crafted by polishing Magic Crystals. It\nglows whenever it catches the light and creates a barri...",
     "params": [
       0,
       0,
@@ -1435,10 +1311,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "クリスタルシールド",
-      "description": "【盾】魔魔晶石を研磨して作られた美しい盾。\r\n光を受けるたびに輝き、魔力を防ぐ結界を展開する。"
     }
   },
   {
@@ -1456,7 +1328,7 @@
     "name": "Rune Shield",
     "price": 6000,
     "note": "",
-    "description": "[Shield]A mysterious shield engraved with ancient runes.\\r\nThe engravings glow",
+    "description": "A mysterious shield engraved with ancient runes. The\ninscription glows faintly, bringing out the user's abil...",
     "params": [
       0,
       0,
@@ -1473,10 +1345,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ルーンシールド",
-      "description": "【盾】古代の符文を刻んだ神秘の盾。\r\n刻印が淡く光り、使用者の能力を引き出す。"
     }
   },
   {
@@ -1499,7 +1367,7 @@
     "name": "Dragon Shield",
     "price": 7900,
     "note": "",
-    "description": "[Shield] Steel shield developed specifically for dragon\nresistance.",
+    "description": "A shield crafted from stee specifically developed for use\nagainst dragons. It reduces damage from fire.",
     "params": [
       0,
       0,
@@ -1516,10 +1384,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ドラゴンシールド",
-      "description": "【盾】対ドラゴン用に研究開発されたの鋼で\r\n作られた盾。炎を軽減させる効果がある。"
     }
   },
   {
@@ -1552,7 +1416,7 @@
     "name": "Adamant Shield",
     "price": 30000,
     "note": "",
-    "description": "[Shield] Shield made of ultra-hard Adamantite. Absorbs\nphysical attacks.",
+    "description": "A top-of-the-line shield made of the ultra- hard metal\nAdamantite. The ultimate defensive barrier that nullifi...",
     "params": [
       0,
       0,
@@ -1569,10 +1433,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "アダマンシールド",
-      "description": "【盾】超硬金属アダマンタイト製の最高級盾。\r\nあらゆる衝撃を無に帰す、究極の防御壁。"
     }
   },
   {
@@ -1587,7 +1447,7 @@
       }
     ],
     "iconIndex": 135,
-    "name": "-----Bangles-----",
+    "name": "-----Bracelet",
     "price": 0,
     "note": "",
     "params": [
@@ -1607,9 +1467,7 @@
       "type": "",
       "variance": ""
     },
-    "_original": {
-      "name": "-----腕輪"
-    }
+    "description": ""
   },
   {
     "id": 42,
@@ -1623,10 +1481,10 @@
       }
     ],
     "iconIndex": 144,
-    "name": "Wood Bangle",
+    "name": "Wooden Bangle",
     "price": 60,
     "note": "",
-    "description": "[Bracelet] A wooden bracelet carved from natural wood.\nSimple and warm.",
+    "description": "A wooden bracelet carved from natural wood. A simple yet\nwarm finish.",
     "params": [
       0,
       0,
@@ -1643,10 +1501,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ウッドバングル",
-      "description": "【腕輪】天然木を削り出して作られた木製腕輪。\r\n素朴ながらも温もりを感じる仕上がり。"
     }
   },
   {
@@ -1664,7 +1518,7 @@
     "name": "Bronze Bangle",
     "price": 250,
     "note": "",
-    "description": "[Bracelet] A sturdy bracelet cast from bronze. Its faint\nluster evokes history.",
+    "description": "A sturdy bracelet cast from bronze. Its faint sheen is\nreminiscent of ancient warriors.",
     "params": [
       0,
       0,
@@ -1681,10 +1535,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ブロンズバングル",
-      "description": "【腕輪】青銅で鋳造された頑丈な腕輪。\r\n淡い光沢が古代の戦士たちを思わせる。"
     }
   },
   {
@@ -1702,7 +1552,7 @@
     "name": "Iron Bangle",
     "price": 600,
     "note": "",
-    "description": "[Bracelet]A heavy bracelet forged from hammered iron.\\r\nIts unyielding strength",
+    "description": "A sturdy bracelet forged by hammering iron into shape. A\nreliable, impenetrable shield that withstands the rigor...",
     "params": [
       0,
       0,
@@ -1719,10 +1569,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "アイアンバングル",
-      "description": "【腕輪】鉄を叩き上げて成形した重厚な腕輪。\r\n戦場の衝撃にも耐える、信頼の鉄壁。"
     }
   },
   {
@@ -1740,7 +1586,7 @@
     "name": "Silver Bangle",
     "price": 1400,
     "note": "",
-    "description": "[Bracelet]A heavy bracelet forged from hammered iron.\\r\nIts unyielding strength",
+    "description": "A sturdy bracelet forged by hammering iron into shape. A\nreliable, impenetrable shield that withstands the rigor...",
     "params": [
       0,
       0,
@@ -1757,10 +1603,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "シルバーバングル",
-      "description": "【腕輪】鉄を叩き上げて成形した重厚な腕輪。\r\n戦場の衝撃にも耐える、信頼の鉄壁。"
     }
   },
   {
@@ -1778,7 +1620,7 @@
     "name": "Mithril Bangle",
     "price": 2100,
     "note": "",
-    "description": "[Bracelet]A high-class bracelet crafted from mithril\nmetal.\\r Its radiant gleam, which",
+    "description": "A high-quality bracelet made of mithril. Its\nlight-reflecting brilliance amplifies the wearer's magi...",
     "params": [
       0,
       0,
@@ -1795,10 +1637,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ミスリルバングル",
-      "description": "【腕輪】金属ミスリル製の高級腕輪。\r\n光を弾くような輝きが、装着者の魔力を増幅する。"
     }
   },
   {
@@ -1831,7 +1669,7 @@
     "name": "Crystal Bangle",
     "price": 3500,
     "note": "",
-    "description": "[Bracelet]A bracelet made by processing magic crystals.\\r\nIts translucent light",
+    "description": "A bracelet crafted from a magic crystal. Its translucent\nlight gently soothes the wearer's mind.",
     "params": [
       0,
       0,
@@ -1848,10 +1686,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "クリスタルバングル",
-      "description": "【腕輪】魔晶石を加工して作られた腕輪。\r\n透き通る光が、持つ者の精神を穏やかに整える。"
     }
   },
   {
@@ -1869,7 +1703,7 @@
     "name": "Rune Bangle",
     "price": 5600,
     "note": "",
-    "description": "[Bracelet]A mysterious bracelet engraved with ancient\nrunes.\\r The markings faintly",
+    "description": "A mysterious bracelet engraved with ancient runes. The\ninscription pulses faintly, creating a barrier that war...",
     "params": [
       0,
       0,
@@ -1886,10 +1720,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ルーンバングル",
-      "description": "【腕輪】古代の符文が刻まれた神秘の腕輪。\r\n刻印が微かに脈動し、魔を遠ざける結界を生む。"
     }
   },
   {
@@ -1912,7 +1742,7 @@
     "name": "Dragon Bangle",
     "price": 7300,
     "note": "",
-    "description": "[Bracelet] Forged from dragon scales. Grants the wearer\ndragon-like defense.",
+    "description": "A bracelet forged from dragon scales. It is said that its\npower bestows the wearer with the courage and resilienc...",
     "params": [
       0,
       0,
@@ -1929,10 +1759,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ドラゴンバングル",
-      "description": "【腕輪】竜の鱗を鍛えて作られた腕輪。\r\nその力は装着者に竜の勇気と強靭さを授けるという。"
     }
   },
   {
@@ -1965,7 +1791,7 @@
     "name": "Adamant Bangle",
     "price": 9100,
     "note": "",
-    "description": "[Bracelet]A bracelet made from the ultra-hard ore\nadamantite.\\r It boasts",
+    "description": "A bracelet made of the ultra-hard mineral adamantite. It\nboasts ultimate protection that withstands any impact.",
     "params": [
       0,
       0,
@@ -1982,10 +1808,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "アダマンバングル",
-      "description": "【腕輪】超硬鉱アダマンタイト製の腕輪。\r\nいかなる衝撃にも耐える究極の守りを誇る。"
     }
   },
   {
@@ -2020,9 +1842,7 @@
       "type": "",
       "variance": ""
     },
-    "_original": {
-      "name": "-----頭（軽装防具）"
-    }
+    "description": ""
   },
   {
     "id": 52,
@@ -2039,7 +1859,7 @@
     "name": "Bandana",
     "price": 100,
     "note": "",
-    "description": "[Light Armor]A simple piece of armor twisted from cloth.\\r\nA symbol of adventurers who",
+    "description": "Simple armor made by twisting cloth. It is also a symbol\nof adventurers who fight while wiping away their sweat.",
     "params": [
       0,
       0,
@@ -2056,10 +1876,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "バンダナ",
-      "description": "【軽装防具】布をねじって作られた簡易防具。\r\n汗を拭いながら戦う冒険者の象徴でもある。"
     }
   },
   {
@@ -2077,7 +1893,7 @@
     "name": "Leather Cap",
     "price": 200,
     "note": "",
-    "description": "[Light Armor] Protective cap of tanned leather.\nWell-balanced and light.",
+    "description": "A protective helmet made of tanned leather. It strikes an\nexquisite balance between lightness and durability, mak...",
     "params": [
       0,
       0,
@@ -2094,10 +1910,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "レザーキャップ",
-      "description": "【軽装防具】なめし革で作られた防護帽。\r\n軽さと耐久性のバランスが絶妙で、狩人に好まれる。"
     }
   },
   {
@@ -2115,7 +1927,7 @@
     "name": "Fur Hat",
     "price": 400,
     "note": "",
-    "description": "[Light Armor]A hat tailored from the fur of beasts in cold\nlands.\\r It retains body",
+    "description": "A hat made from animal fur found in cold regions. It\nretains body heat, keeping you comfortable even on wint...",
     "params": [
       0,
       0,
@@ -2132,10 +1944,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "毛皮の帽子",
-      "description": "【軽装防具】寒冷地の獣毛で仕立てた帽子。\r\n体温を逃がさず、冬の旅でも快適に過ごせる。"
     }
   },
   {
@@ -2153,7 +1961,7 @@
     "name": "Turban",
     "price": 1000,
     "note": "",
-    "description": "[Light Armor]A headscarf used by desert nomads.\\r It\nshields the head from sunlight",
+    "description": "A cloth headscarf worn by the people of the desert. It\nprotects the head from the sun and sandstorms, and lend...",
     "params": [
       0,
       0,
@@ -2170,10 +1978,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ターバン",
-      "description": "【軽装防具】砂漠の民が用いる布頭巾。\r\n日差しや砂嵐から頭を守り、見た目にも威厳を与える。"
     }
   },
   {
@@ -2188,10 +1992,10 @@
       }
     ],
     "iconIndex": 130,
-    "name": "Feathered Hat",
+    "name": "Hat with a Feather",
     "price": 1500,
     "note": "",
-    "description": "[Light Armor]A hat adorned with ornate feather\ndecorations.\\r A stylish piece worn",
+    "description": "A hat adorned with elegant feathers. A stylish piece worn\nby bards and nobles.",
     "params": [
       0,
       0,
@@ -2208,10 +2012,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "羽根付き帽子",
-      "description": "【軽装防具】華やかな羽飾りをあしらった帽子。\r\n吟遊詩人や貴族が身に着ける洒落た一品。"
     }
   },
   {
@@ -2226,10 +2026,10 @@
       }
     ],
     "iconIndex": 132,
-    "name": "Black Helmet",
+    "name": "Black Met",
     "price": 2500,
     "note": "",
-    "description": "[Light Armor] Lightweight helmet of black leather.\nDesigned for evasion.",
+    "description": "A lightweight helmet made of black leather. Its design\nblends seamlessly into the shadows, making it ideal for...",
     "params": [
       0,
       0,
@@ -2246,10 +2046,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ブラックメット",
-      "description": "【軽装防具】黒革を用いた軽量ヘルム。\r\n影に溶け込むような意匠で、潜入任務に最適。"
     }
   },
   {
@@ -2267,7 +2063,7 @@
     "name": "Hunter's Hat",
     "price": 4000,
     "note": "",
-    "description": "[Light Armor]A wide-brimmed windproof hat.\\r A trusted\ncompanion for hunters traversing",
+    "description": "A wide-brimmed windproof hat. A reliable travel companion\nthat’s invaluable to hunters roaming the wilderness.",
     "params": [
       0,
       0,
@@ -2284,10 +2080,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "狩人の帽子",
-      "description": "【軽装防具】つば広の防風帽。\r\n荒野を駆ける狩人が重宝する、頼もしい旅の相棒。"
     }
   },
   {
@@ -2315,7 +2107,7 @@
     "name": "Captain's Hat",
     "price": 6000,
     "note": "",
-    "description": "[Light Armor]A hat designed for sailors.\\r Its sturdy\nconstruction withstands sea",
+    "description": "A hat designed for navigators. It is resistant to sea\nbreezes and built to withstand long voyages at sea.",
     "params": [
       0,
       0,
@@ -2332,10 +2124,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "キャプテンハット",
-      "description": "【軽装防具】航海士のために作られた帽子。\r\n潮風にも強く、海上での長旅に耐える造り。"
     }
   },
   {
@@ -2353,7 +2141,7 @@
     "name": "Royal Chapeau",
     "price": 9500,
     "note": "",
-    "description": "[Light Armor]A high-quality hat crafted from fine cloth\nand silver thread.\\r Its elegance",
+    "description": "A high-quality hat crafted from fine fabric and silver\nthread. It exudes a dignity befitting even the royal ca...",
     "params": [
       0,
       0,
@@ -2370,10 +2158,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ロイヤルシャポー",
-      "description": "【軽装防具】上質な布と銀糸で仕立てられた高級帽。\r\n王都の式典でも通用する気品を備える。"
     }
   },
   {
@@ -2408,9 +2192,7 @@
       "type": "",
       "variance": ""
     },
-    "_original": {
-      "name": "-----頭（魔法防具）"
-    }
+    "description": ""
   },
   {
     "id": 62,
@@ -2427,7 +2209,7 @@
     "name": "Pointed Hat",
     "price": 100,
     "note": "",
-    "description": "[Magic Armor] Symbolic mage hat. Its swaying form\nrepresents arcane mastery.",
+    "description": "A hat that can be considered the symbol of a wizard. The\nsight of it fluttering in the wind is seen as a sign of...",
     "params": [
       0,
       0,
@@ -2444,10 +2226,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "とんがり帽子",
-      "description": "【魔法防具】魔法使いの象徴ともいえる帽子。\r\n風を受けて揺れるその姿は、修練の証とされる。"
     }
   },
   {
@@ -2462,10 +2240,10 @@
       }
     ],
     "iconIndex": 134,
-    "name": "Copper Hairpin",
+    "name": "Copper Hair Ornament",
     "price": 250,
     "note": "",
-    "description": "[Magic Armor]A simple hair accessory made from\ncopperwork.\\r A modest talisman that",
+    "description": "A simple hair ornament crafted from copper. It also serves\nas a modest talisman to protect novice mages.",
     "params": [
       0,
       0,
@@ -2482,10 +2260,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "銅の髪飾り",
-      "description": "【魔法防具】銅細工で作られた簡素な髪飾り。\r\n初級魔術師の身を守る、ささやかな護符でもある。"
     }
   },
   {
@@ -2503,7 +2277,7 @@
     "name": "Circlet",
     "price": 450,
     "note": "",
-    "description": "[Magic Armor] Golden circlet worn on the forehead.\nSharpens magic power.",
+    "description": "A golden ring adorning the forehead. Sharpens the mind and\nbalances the flow of magical power.",
     "params": [
       0,
       0,
@@ -2520,10 +2294,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "サークレット",
-      "description": "【魔法防具】】額を飾る金の輪。\r\n精神を研ぎ澄まし、魔力の流れを均一に整える。"
     }
   },
   {
@@ -2541,7 +2311,7 @@
     "name": "Silver Hair Ornament",
     "price": 1200,
     "note": "",
-    "description": "[Magic Armor]A delicate hair accessory woven from silver\nthread.\\r It glows faintly when",
+    "description": "A delicate hair ornament woven from silver thread. When\nexposed to moonlight, it glows softly and acts as a cha...",
     "params": [
       0,
       0,
@@ -2558,10 +2328,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "銀の髪飾り",
-      "description": "【魔法防具】銀糸で織られた繊細な髪飾り。\r\n月光を受けると淡く光り、魔除けの効果を発揮する。"
     }
   },
   {
@@ -2579,7 +2345,7 @@
     "name": "Mithril Circlet",
     "price": 1700,
     "note": "",
-    "description": "[Magic Armor]A high-tier decorative piece forged from\nmithril.\\r Its exceptional magic",
+    "description": "High-grade ornamental gear forged from mithril. It has an\nextremely high magical energy conduction efficiency and...",
     "params": [
       0,
       0,
@@ -2596,10 +2362,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ミスリルサークレット",
-      "description": "【魔法防具】ミスリルを鍛えて作られた高位装飾具。\r\n魔力の伝導効率が極めて高く、賢者たちに愛用される。"
     }
   },
   {
@@ -2622,7 +2384,7 @@
     "name": "Saint Hat",
     "price": 2700,
     "note": "",
-    "description": "[Magic Armor]A hat worn by clergy during rituals.\\r It\namplifies the power of prayer",
+    "description": "A hat worn by clergy during rituals. Amplifies the power\nof prayer and wards off evil auras.",
     "params": [
       0,
       0,
@@ -2639,10 +2401,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "セイントハット",
-      "description": "【魔法防具】聖職者が儀式で被る帽子。\r\n祈りの力を増幅し、邪悪な気配を遠ざける。"
     }
   },
   {
@@ -2660,7 +2418,7 @@
     "name": "Rune Circlet",
     "price": 4200,
     "note": "",
-    "description": "[Magic Armor]A mysterious ring engraved with ancient\nscript.\\r The markings faintly glow,",
+    "description": "A mysterious ring engraved with ancient characters. The\ninscription glows faintly, creating a barrier that prot...",
     "params": [
       0,
       0,
@@ -2677,10 +2435,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ルーンサークレット",
-      "description": "【魔法防具】古代文字が刻まれた神秘の輪。\r\n刻印が微かに輝き、魔力の流れを護る結界を張る。"
     }
   },
   {
@@ -2703,7 +2457,7 @@
     "name": "Dragon Circlet",
     "price": 6500,
     "note": "",
-    "description": "[Magic Armor] Crown of polished dragon scales. Grants\ndragon-like magic power.",
+    "description": "A crown crafted from polished dragon scales. It is said\nthat the wearer gains the intimidating presence and men...",
     "params": [
       0,
       0,
@@ -2720,10 +2474,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ドラゴンサークレット",
-      "description": "【魔法防具】竜の鱗を磨き上げて作られた王冠。\r\n装着者は竜の如き威圧と精神力を得るという。"
     }
   },
   {
@@ -2753,10 +2503,10 @@
       }
     ],
     "iconIndex": 134,
-    "name": "Sage's Crown",
+    "name": "The Sage's Diadem",
     "price": 10000,
     "note": "",
-    "description": "[Magic Armor]A forehead adornment said to have been used\nby a great sage.\\r A symbol",
+    "description": "A headpiece said to have been worn by a great sage. A\nsymbol of knowledge and magical power, and a mark of on...",
     "params": [
       0,
       0,
@@ -2773,10 +2523,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "賢者の額冠",
-      "description": "【魔法防具】偉大な賢者が用いたとされる額飾り。\r\n知識と魔力の象徴であり、叡智を極めし者の証。"
     }
   },
   {
@@ -2811,9 +2557,7 @@
       "type": "",
       "variance": ""
     },
-    "_original": {
-      "name": "-----頭（重装防具）"
-    }
+    "description": ""
   },
   {
     "id": 72,
@@ -2830,7 +2574,7 @@
     "name": "Bronze Helm",
     "price": 100,
     "note": "",
-    "description": "[Heavy Armor]A beginner's helmet forged from bronze.\\r Its\nsoft luster reflects the pride",
+    "description": "A beginner's helmet forged from bronze. Its soft luster\nreflects the pride of a novice warrior.",
     "params": [
       0,
       0,
@@ -2847,10 +2591,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ブロンズヘルム",
-      "description": "【重装防具】青銅で鍛え上げられた初級兜。\r\nその柔らかな光沢は、新米戦士の誇りを映す。"
     }
   },
   {
@@ -2868,7 +2608,7 @@
     "name": "Iron Helm",
     "price": 300,
     "note": "",
-    "description": "[Heavy Armor]A sturdy helmet hammered from a solid block\nof iron.\\r It remains unshaken",
+    "description": "A sturdy helmet forged from a block of iron. It withstands\neven moderate impacts without flinching, making it a re...",
     "params": [
       0,
       0,
@@ -2885,10 +2625,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "アイアンヘルム",
-      "description": "【重装防具】鉄の塊から打ち出された堅牢な兜。\r\n多少の衝撃ではびくともせず、前線で頼られる存在。"
     }
   },
   {
@@ -2906,7 +2642,7 @@
     "name": "Silver Helm",
     "price": 550,
     "note": "",
-    "description": "[Heavy Armor]A beautiful helmet with a silver base.\\r It\nis said to repel evil",
+    "description": "A beautiful helmet with a silver finish. It is said to\nrepel evil magic and is favored by paladins.",
     "params": [
       0,
       0,
@@ -2923,10 +2659,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "シルバーヘルム",
-      "description": "【重装防具】銀を基調とした美しい兜。\r\n邪悪な魔力を弾くとされ、聖騎士に愛用されている。"
     }
   },
   {
@@ -2944,7 +2676,7 @@
     "name": "Chrome Helm",
     "price": 1300,
     "note": "",
-    "description": "[Heavy Armor]A high-grade helmet meticulously forged from\nsteel.\\r A",
+    "description": "A high-quality helmet precision-forged from steel. The\npinnacle of craftsmanship, offering both visibility and...",
     "params": [
       0,
       0,
@@ -2961,10 +2693,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "クロームヘルム",
-      "description": "【重装防具】鋼鉄を精密に鍛造した高級兜。\r\n戦場での視界と防御を両立させた職人技の結晶。"
     }
   },
   {
@@ -2982,7 +2710,7 @@
     "name": "Mithril Helm",
     "price": 2000,
     "note": "",
-    "description": "[Heavy Armor] Legendary helmet made of mithril.\nLightweight yet ultra-durable.",
+    "description": "A helmet crafted from the legendary metal mithril. It is\nsaid to be lightweight yet capable of withstanding even...",
     "params": [
       0,
       0,
@@ -2999,10 +2727,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ミスリルヘルム",
-      "description": "【重装防具】伝説の金属ミスリル製の兜。\r\n軽量でありながら、巨竜の一撃にも耐えるという。"
     }
   },
   {
@@ -3030,7 +2754,7 @@
     "name": "Crystal Helm",
     "price": 3000,
     "note": "",
-    "description": "[Heavy Armor]A helmet formed from highly transparent magic\ncrystals.\\r It shimmers,",
+    "description": "A helmet crafted from highly transparent magic crystals.\nIt reflects light and shimmers, enveloping the wearer i...",
     "params": [
       0,
       0,
@@ -3047,10 +2771,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "クリスタルヘルム",
-      "description": "【重装防具】透明度の高い魔晶で形成された兜。\r\n光を反射して輝き、装着者を神秘的に包む。"
     }
   },
   {
@@ -3068,7 +2788,7 @@
     "name": "Rune Helm",
     "price": 5000,
     "note": "",
-    "description": "[Heavy Armor] Helmet carved with runes that repel evil and\nprotect the wearer.",
+    "description": "A helmet engraved with ancient runes. The engraved runes\nward off evil and protect the mind.",
     "params": [
       0,
       0,
@@ -3085,10 +2805,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ルーンヘルム",
-      "description": "【重装防具】古代の刻印が彫り込まれた兜。\r\n刻まれたルーンが魔を払い、精神を守護する。"
     }
   },
   {
@@ -3111,7 +2827,7 @@
     "name": "Dragon Helm",
     "price": 7000,
     "note": "",
-    "description": "[Heavy Armor]A helmet refined from a dragon's scales.\\r It\nis said that its",
+    "description": "A helmet crafted by refining dragon scales. It is said\nthat whoever wears it is enveloped in the roar of a dra...",
     "params": [
       0,
       0,
@@ -3128,10 +2844,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ドラゴンヘルム",
-      "description": "【重装防具】竜の鱗を精錬して作られた兜。\r\nその装着者は竜の咆哮を纏うとも言われる。"
     }
   },
   {
@@ -3164,7 +2876,7 @@
     "name": "Adamant Helm",
     "price": 10000,
     "note": "",
-    "description": "[Heavy Armor]A helmet made from the ultra-hard metal\nadamantite.\\r It boasts",
+    "description": "A helmet made of the ultra-hard metal Adamantite. Boasting\nunparalleled DEF, it is truly hailed as the ultimate de...",
     "params": [
       0,
       0,
@@ -3181,10 +2893,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "アダマンヘルム",
-      "description": "【重装防具】超硬金属アダマンタイト製の兜。\r\n比類なき防御力を誇り、まさに究極の守りと称される。"
     }
   },
   {
@@ -3219,9 +2927,7 @@
       "type": "",
       "variance": ""
     },
-    "_original": {
-      "name": "-----装飾品系"
-    }
+    "description": ""
   },
   {
     "id": 82,
@@ -3235,10 +2941,10 @@
       }
     ],
     "iconIndex": 147,
-    "name": "Guard Stone",
+    "name": "Guardstone",
     "price": 500,
     "note": "",
-    "description": "[Accessory] Blue mineral imbued with protective power.\nCalms the wearer.",
+    "description": "A blue mineral imbued with protective power. It is said to\ncalm the heart of whoever touches it and ward off danger.",
     "params": [
       0,
       0,
@@ -3255,10 +2961,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ガードストーン",
-      "description": "【装飾品】護りの力を秘めた青い鉱石。\n触れる者の心を静め、危機を遠ざけるという。"
     }
   },
   {
@@ -3276,7 +2978,7 @@
     "name": "Guard Ring",
     "price": 1000,
     "note": "",
-    "description": "[Accessory] Ring set with a guardian stone. Feels like a\nprotective presence.",
+    "description": "A ring set with a small guardian stone. When worn, it’s as\nif an invisible shield envelops your body.",
     "params": [
       0,
       0,
@@ -3293,10 +2995,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ガードリング",
-      "description": "【装飾品】小さな守護石をはめ込んだ指輪。身に着けると\nまるで見えぬ盾が身体を包む。"
     }
   },
   {
@@ -3311,10 +3009,10 @@
       }
     ],
     "iconIndex": 147,
-    "name": "Power Stone",
+    "name": "Power Stones",
     "price": 500,
     "note": "",
-    "description": "[Accessory]A crimson pulsing magic stone. The power within\nit ignites the wearer's",
+    "description": "A red, pulsating magic stone. The power within it ignites\nthe owner's fighting spirit.",
     "params": [
       0,
       0,
@@ -3331,10 +3029,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "パワーストーン",
-      "description": "【装飾品】赤く脈打つ魔石。内に宿る力は\n持ち主の闘志を燃え上がらせる。"
     }
   },
   {
@@ -3352,7 +3046,7 @@
     "name": "Power Ring",
     "price": 1000,
     "note": "",
-    "description": "[Accessory] A ring worn by warriors. Heightens blood flow\nand increases Attack.",
+    "description": "A ring worn by warriors in search of power. It is said to\nincrease blood flow and temporarily boost strength.",
     "params": [
       0,
       0,
@@ -3369,10 +3063,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "パワーリング",
-      "description": "【装飾品】戦士が力を求めてはめる指輪。血流を高め\n筋力を一時的に強化するという。"
     }
   },
   {
@@ -3390,7 +3080,7 @@
     "name": "Magic Stone",
     "price": 500,
     "note": "",
-    "description": "[Accessory]A flawless transparent gem. It possesses\npurifying power that eases demonic",
+    "description": "A transparent gemstone free of impurities. It possesses\nthe power of purification that mitigates the interferen...",
     "params": [
       0,
       0,
@@ -3407,10 +3097,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "マジックストーン",
-      "description": "【装飾品】不純物を含まぬ透明な宝石。魔の干渉を\n和らげる浄化の力を持つ。"
     }
   },
   {
@@ -3428,7 +3114,7 @@
     "name": "Magic Ring",
     "price": 1000,
     "note": "",
-    "description": "[Accessory]A silver ring that emits a faint glow. Known as\na talisman that repels curses",
+    "description": "A silver ring that emits a faint glow. It is known as an\namulet that wards off curses and toxic fumes and protec...",
     "params": [
       0,
       0,
@@ -3445,10 +3131,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "マジックリング",
-      "description": "【装飾品】淡い光を放つ銀環。呪詛や毒気を弾き、\n心身を守る護符として知られる。"
     }
   },
   {
@@ -3471,7 +3153,7 @@
     "name": "Poison Guard",
     "price": 500,
     "note": "",
-    "description": "[Accessory]A green stone that absorbs poison. Completely\nnullifies toxins.",
+    "description": "A green stone that absorbs poison. Completely neutralizes\npoison.",
     "params": [
       0,
       0,
@@ -3488,10 +3170,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ポイズンガード",
-      "description": "【装飾品】毒を吸収する緑の石。\n毒を完全に無効化する"
     }
   },
   {
@@ -3509,7 +3187,7 @@
     "name": "Goggles",
     "price": 1000,
     "note": "",
-    "description": "[Accessory]Goggles that negate darkness. They allow clear\nvision even in pitch-black",
+    "description": "Goggles worn over the eyes. They nullify darkness.",
     "params": [
       0,
       0,
@@ -3526,10 +3204,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ゴーグル",
-      "description": "【装飾品】目にかけるゴーグル。暗闇無効化する"
     }
   },
   {
@@ -3547,7 +3221,7 @@
     "name": "Magical Stone",
     "price": 500,
     "note": "",
-    "description": "[Accessory] Amethyst that increases magic power. Resonates\nwith mana.",
+    "description": "An amethyst that increases magical power. Its glow,\nresonates with the caster's spirit.",
     "params": [
       0,
       0,
@@ -3564,10 +3238,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "マジカルストーン",
-      "description": "【装飾品】魔力を増加させる紫水晶。その輝きは\n術者の精神と共鳴する。"
     }
   },
   {
@@ -3585,7 +3255,7 @@
     "name": "Magical Ring",
     "price": 1000,
     "note": "",
-    "description": "[Accessory]An ancient ring passed down among mages. It\nregulates the flow of magic,",
+    "description": "An ancient ring passed down among mages. It regulates the\nflow of magical power and enhances the precision of spe...",
     "params": [
       0,
       0,
@@ -3602,10 +3272,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "マジカルリング",
-      "description": "【装飾品】魔導師たちの間で伝わる古環。\n魔力の流れを整え、術式の完成度を高める。"
     }
   },
   {
@@ -3628,7 +3294,7 @@
     "name": "Shut Silent",
     "price": 500,
     "note": "",
-    "description": "[Accessory]A stone imbued with magic to counter the mage's\nbane―silence. Nullifies",
+    "description": "A stone imbued with by a mage—the natural enemy of the\nSilence spell—which nullifies Silence.",
     "params": [
       0,
       0,
@@ -3645,10 +3311,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "シャットサイレント",
-      "description": "【装飾品】魔術師に天敵の沈黙に対する魔法人が\nほどこされた石。沈黙を無効化"
     }
   },
   {
@@ -3671,7 +3333,7 @@
     "name": "Shooter Ring",
     "price": 1000,
     "note": "",
-    "description": "[Accessory] Silver ring that sharpens the senses. Enhances\nprecision and Agility.",
+    "description": "A silver ring that awakens your keen senses The tension in\nyour fingertips turns a shot into a certainty.",
     "params": [
       0,
       0,
@@ -3688,10 +3350,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "シューターリング",
-      "description": "【装飾品】鋭い感覚を呼び覚ます銀の輪。\n指先に宿る緊張が、命中を確信へ変える。"
     }
   },
   {
@@ -3714,7 +3372,7 @@
     "name": "Visible Goggles",
     "price": 150,
     "note": "",
-    "description": "[Accessory]Goggles fitted with special crystal lenses.\nThey pierce illusions,",
+    "description": "Goggles embedded with a special crystal lens. Sees through\nillusions and reflects only the truth. 50% Darkness Res...",
     "params": [
       0,
       0,
@@ -3731,10 +3389,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ビジブルゴーグル",
-      "description": "【装飾品】特殊な水晶レンズを埋め込んだゴーグル。\n幻影を見抜き、真実だけを映し出す。暗闇耐性50%"
     }
   },
   {
@@ -3757,7 +3411,7 @@
     "name": "Visible Goggles S",
     "price": 1500,
     "note": "",
-    "description": "[Accessory]An upgraded observation goggle. It controls\nlight to capture even shadows",
+    "description": "An upgraded pair of observation goggles. They control\nlight, allowing you to detect even the shadows lurking...",
     "params": [
       0,
       0,
@@ -3774,10 +3428,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ビジブルゴーグルＳ",
-      "description": "【装飾品】改良型の観測ゴーグル。光を制御し、\n暗闇の奥に潜む影すら捉える。暗闇耐性100%"
     }
   },
   {
@@ -3802,10 +3452,10 @@
       }
     ],
     "iconIndex": 148,
-    "name": "Curse Guard",
+    "name": "Cars Guard",
     "price": 300,
     "note": "",
-    "description": "[Accessory]Black leather armor that seals curses. It\nabsorbs ominous auras, protecting",
+    "description": "Black leather armor that seals away curses. It absorbs\nominous auras and protects the wearer. 50% resistance t...",
     "params": [
       0,
       0,
@@ -3822,10 +3472,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "カーズガード",
-      "description": "【装飾品】呪詛を封じる黒革の防具。不穏な気配を\n吸収し、装着者を守護する。毒、呪い耐性50%"
     }
   },
   {
@@ -3850,10 +3496,10 @@
       }
     ],
     "iconIndex": 148,
-    "name": "Curse Guard S",
+    "name": "Cars Guard S",
     "price": 3000,
     "note": "",
-    "description": "[Accessory] Special armor with reinforced sealing magic.\nProtects from curses.",
+    "description": "Specially crafted armor imbued with a more powerful\nsealing spell. Enveloped in a barrier that neutralizes...",
     "params": [
       0,
       0,
@@ -3870,10 +3516,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "カーズガードＳ",
-      "description": "【装飾品】より強力な封印術を施した特製防具。\n怨念の波動を打ち消す結界を纏う。毒、呪い耐性100%"
     }
   },
   {
@@ -3901,7 +3543,7 @@
     "name": "Balance Boots",
     "price": 300,
     "note": "",
-    "description": "[Accessory]Combat boots designed for perfect balance. They\nstabilize posture, allowing",
+    "description": "Combat boots designed for optimal balance. They control\nyour center of gravity, allowing you to stand steadily...",
     "params": [
       0,
       0,
@@ -3918,10 +3560,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "バランスブーツ",
-      "description": "【装飾品】均整を極めた設計の戦闘靴。重心を制御し、\nどんな地形でも安定して立てる。スタン耐性50%"
     }
   },
   {
@@ -3949,7 +3587,7 @@
     "name": "Balance Boots S",
     "price": 3000,
     "note": "",
-    "description": "[Accessory]Magitek-enhanced boots. A single leap feels as\nlight as the wind. Stun Resist",
+    "description": "Boots enhanced with magical engineering. Each leap feels\nas light as the wind. 100% stun resistance.",
     "params": [
       0,
       0,
@@ -3966,10 +3604,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "バランスブーツＳ",
-      "description": "【装飾品】魔導工学による改良型ブーツ。跳躍の一歩が、\nまるで風のように軽やか。スタン耐性100%"
     }
   },
   {
@@ -4012,7 +3646,7 @@
     "name": "Mental Guard",
     "price": 2000,
     "note": "",
-    "description": "[Accessory] Sapphire talisman that stabilizes mental waves\nand calms agitation.",
+    "description": "A blue jade amulet that stabilizes mental waves. It calms\nagitation and helps you maintain clear judgment.",
     "params": [
       0,
       0,
@@ -4029,10 +3663,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "メンタルガード",
-      "description": "【装飾品】精神波を安定させる蒼玉の護符。動揺を鎮め、\n冷静な判断を保たせる。"
     }
   },
   {
@@ -4075,7 +3705,7 @@
     "name": "Mental Guard S",
     "price": 5000,
     "note": "",
-    "description": "[Accessory]An enhanced version using high-purity blue\ncrystal. It cuts through",
+    "description": "An enhanced version made with high-purity blue crystals.\nIt cuts off mental disturbances and increases magic res...",
     "params": [
       0,
       0,
@@ -4092,10 +3722,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "メンタルガードＳ",
-      "description": "【装飾品】高純度の蒼結晶を用いた強化版。心の乱れを断ち切り、魔術抵抗を高める。"
     }
   },
   {
@@ -4118,7 +3744,7 @@
     "name": "Enemy Radar",
     "price": 5000,
     "note": "",
-    "description": "[Accessory]A detection device that senses magical waves.\nIt alerts the wearer to enemy",
+    "description": "A device that detects magical energy waves. It senses the\npresence of enemies, allowing you to always stay one st...",
     "params": [
       0,
       0,
@@ -4135,10 +3761,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "エネミーレーダー",
-      "description": "【装飾品】魔力波を感知する観測装置。敵の気配を察知し、\n常に一歩先を読ませる。先制攻撃率アップ"
     }
   },
   {
@@ -4161,7 +3783,7 @@
     "name": "Warning Bell",
     "price": 1000,
     "note": "",
-    "description": "[Accessory]A small bell that warns of danger. It reacts to\nthe slightest tremors,",
+    "description": "A small bell that signals danger. It reacts to even the\nslightest movement and sounds an alarm for the wearer o...",
     "params": [
       0,
       0,
@@ -4178,10 +3800,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ワーニングベル",
-      "description": "【装飾品】危機を知らせる小鈴。微かな揺らぎにも反応し、\n装着者へ警鐘を鳴らす。不意打ち無効"
     }
   },
   {
@@ -4201,10 +3819,10 @@
       }
     ],
     "iconIndex": 145,
-    "name": "Fire Ring",
+    "name": "Firing",
     "price": 5000,
     "note": "",
-    "description": "[Accessory]A ring infused with crimson flame. It resonates\nwith the wearer's pulse,",
+    "description": "A ring imbued with the power of Guren. It responds to the\nwearer's heartbeat, granting a 50% increase to Fire-typ...",
     "params": [
       0,
       0,
@@ -4221,10 +3839,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ファイアリング",
-      "description": "【装飾品】紅蓮の力を宿す指輪。身に着けた者の鼓動に\n呼応し、炎属性ダメージ50%"
     }
   },
   {
@@ -4247,7 +3861,7 @@
     "name": "Ice Ring",
     "price": 5000,
     "note": "",
-    "description": "[Accessory]A ring sealing frozen breath. It fills the\nwearer's heart with icy silence.",
+    "description": "A frozen ring that traps cold air. It fills the wearer's\nheart with a freezing silence. 50% Ice Damage",
     "params": [
       0,
       0,
@@ -4264,10 +3878,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "アイスリング",
-      "description": "【装飾品】冷気を封じた氷結の指輪。装着者の心を\n凍てつく静寂で満たす。氷属性ダメージ50%"
     }
   },
   {
@@ -4287,10 +3897,10 @@
       }
     ],
     "iconIndex": 145,
-    "name": "Thunder Ring",
+    "name": "Thunderling",
     "price": 5000,
     "note": "",
-    "description": "[Accessory]A golden ring shaped like lightning. Its swift\nbrilliance guides",
+    "description": "A golden ring shaped like a bolt of lightning. Its flash,\nas swift as a bolt of lightning ( ), channels power. 50...",
     "params": [
       0,
       0,
@@ -4307,10 +3917,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "サンダーリング",
-      "description": "【装飾品】雷光を象った黄金の指輪。稲妻のように\n速き閃きが、力を導く。雷属性ダメージ50%"
     }
   },
   {
@@ -4330,10 +3936,10 @@
       }
     ],
     "iconIndex": 145,
-    "name": "Water Ring",
+    "name": "Watering",
     "price": 500,
     "note": "",
-    "description": "[Accessory]A ring of pristine blue. Its flowing magic\nmakes the wearer's movements",
+    "description": "A ring of crystal-clear blue. Its flowing magical power\ngracefully alters the wearer's movements. 50% Water-typ...",
     "params": [
       0,
       0,
@@ -4350,10 +3956,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ウォーターリング",
-      "description": "【装飾品】澄みきった蒼の指輪。流れるような魔力が、\n装着者の動きをしなやかに変える。水属性ダメージ50%"
     }
   },
   {
@@ -4376,7 +3978,7 @@
     "name": "Stone Ring",
     "price": 500,
     "note": "",
-    "description": "[Accessory] Ring bearing the earth's blessing. Its steady\nweight calms the wearer.",
+    "description": "A ring imbued with the earth's protection. Its substantial\nweight calms the mind and grants unwavering protection....",
     "params": [
       0,
       0,
@@ -4393,10 +3995,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ストーンリング",
-      "description": "【装飾品】大地の加護を宿した指輪。確かな重みが心を\n落ち着かせ、揺るがぬ守りを授ける。土属性ダメージ50%"
     }
   },
   {
@@ -4416,10 +4014,10 @@
       }
     ],
     "iconIndex": 145,
-    "name": "Wind Ring",
+    "name": "Windling",
     "price": 500,
     "note": "",
-    "description": "[Accessory]An emerald ring embodying the wind. It lightens\nthe wearer's steps,",
+    "description": "An emerald ring that embodies the wind. It lightens the\nwearer’s step, allowing them to dash like a gale. 50% W...",
     "params": [
       0,
       0,
@@ -4436,10 +4034,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ウィンドリング",
-      "description": "【装飾品】風を象る翠の指輪。装着者の足取りを軽くし、\n疾風のように駆け抜けさせる。風属性ダメージ50%"
     }
   },
   {
@@ -4462,7 +4056,7 @@
     "name": "Saint Ring",
     "price": 5000,
     "note": "",
-    "description": "[Accessory]A platinum ring sealing holy light. It purges\nfilth, wrapping the wearer",
+    "description": "A platinum ring that seals holy light. It purifies\nimpurities, and pure light envelops its wearer. Light-a...",
     "params": [
       0,
       0,
@@ -4479,10 +4073,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "セイントリング",
-      "description": "【装飾品】聖光を封じた白金の指輪。穢れを祓い、\n清らかな光が持ち主を包む。光属性ダメージ50%"
     }
   },
   {
@@ -4505,7 +4095,7 @@
     "name": "Shade Ring",
     "price": 5000,
     "note": "",
-    "description": "[Accessory]An obsidian ring harboring dark power. It\nallows the wearer to melt into",
+    "description": "A jet-black ring that harbors the power of darkness. It\nconceals itself as if melting into the shadows, bringin...",
     "params": [
       0,
       0,
@@ -4522,10 +4112,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "シェイドリング",
-      "description": "【装飾品】闇の力を秘めた漆黒の指輪。影に溶けるように\n姿を隠し、静寂をもたらす。闇属性ダメージ50%"
     }
   },
   {
@@ -4548,7 +4134,7 @@
     "name": "Medic Ring",
     "price": 1000,
     "note": "",
-    "description": "[Accessory]A ring infused with healing grace. Warm light\ngently mends wounded flesh",
+    "description": "A ring imbued with healing power. Its warm light gently\nheals wounded bodies and hearts.",
     "params": [
       0,
       0,
@@ -4565,10 +4151,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "メディックリング",
-      "description": "【装飾品】癒しの加護を宿す指輪。温かな光が、\n傷ついた肉体と心を優しく癒す。"
     }
   },
   {
@@ -4588,10 +4170,10 @@
       }
     ],
     "iconIndex": 145,
-    "name": "Guts Ring",
+    "name": "Guttling",
     "price": 20000,
     "note": "",
-    "description": "[Accessory]A steel ring symbolizing unyielding will. Even\nin dire straits, it",
+    "description": "A steel ring symbolizing an unyielding will Even in\nextreme situations, it inspires the wearer to draw upon...",
     "params": [
       0,
       0,
@@ -4608,10 +4190,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ガッツリング",
-      "description": "【装飾品】不屈の意志を象徴する鋼の指輪。極限の状況\nでも、装着者の力を奮い立たせる。TP獲得率上昇"
     }
   },
   {
@@ -4631,10 +4209,10 @@
       }
     ],
     "iconIndex": 145,
-    "name": "Sorcerer Ring",
+    "name": "Sorcerer's Ring",
     "price": 50000,
     "note": "",
-    "description": "[Accessory]A magic-etched ring that hones skill. It draws\nout latent potential,",
+    "description": "The Ring of the Magical Hour, which enhances your skills.\nIt unlocks your latent potential and sharpens your tech...",
     "params": [
       0,
       0,
@@ -4651,10 +4229,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ソーサラーリング",
-      "description": "【装飾品】技巧を高める魔刻の指輪。潜在能力を引き出し\n技の冴えを研ぎ澄ます。MP消費半減"
     }
   },
   {
@@ -4702,7 +4276,7 @@
     "name": "Elemental Guard",
     "price": 30000,
     "note": "",
-    "description": "[Accessory]Armor balancing the five great elements. It\nshrouds the wearer in a barrier",
+    "description": "Armor that balances the power of the Five Elements. It is\nenveloped in a barrier that mitigates attacks of any el...",
     "params": [
       0,
       0,
@@ -4719,10 +4293,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "エレメンタルガード",
-      "description": "【装飾品】五大元素の力を均衡させた防具。いかなる属性の\n攻撃も和らげる結界を纏う。全属性ダメージ50%"
     }
   },
   {
@@ -4795,7 +4365,7 @@
     "name": "Safety Guard",
     "price": 25000,
     "note": "",
-    "description": "[Accessory]Armor designed to deploy a defensive barrier in\nemergencies. It serves",
+    "description": "Armor that automatically deploys a defensive barrier in an\nemergency. Designed to serve as the last line of defens...",
     "params": [
       0,
       0,
@@ -4812,10 +4382,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "セーフティガード",
-      "description": "【装飾品】緊急時に自動で防御障壁を展開する防具。\n命を守る最後の壁として設計された。状態異常無効"
     }
   },
   {
@@ -4830,7 +4396,7 @@
       }
     ],
     "iconIndex": 0,
-    "name": "-----Spare",
+    "name": "-----Reserve",
     "price": 0,
     "note": "",
     "params": [
@@ -4850,9 +4416,7 @@
       "type": "",
       "variance": ""
     },
-    "_original": {
-      "name": "-----予備"
-    }
+    "description": ""
   },
   {
     "id": 118,
@@ -4886,11 +4450,7 @@
       "type": "",
       "variance": ""
     },
-    "description": "[Accessory]An earring sealed with the power of a wind\nspirit. Allows two actions per",
-    "_original": {
-      "name": "エアリアル・デュオ",
-      "description": "風の精霊の力を封じ込めたイヤリング。\n二回行動が可能になる。"
-    }
+    "description": "Earrings that contain the power of the Wind Spirit. Allows\nyou to take two actions."
   },
   {
     "id": 119,
@@ -4929,11 +4489,7 @@
       "type": "",
       "variance": ""
     },
-    "description": "[Accessory]An accessory that prevents enemies from\nspawning in dungeons. Does not",
-    "_original": {
-      "name": "フリーパス",
-      "description": "装備するとダンジョンに敵が出なくなるアクセサリー。\nボス戦は回避出来ない。装備しないと効果が無い。"
-    }
+    "description": "An accessory that prevents enemies from appearing in\ndungeons when equipped. : Boss battles cannot be avoide..."
   },
   {
     "id": 120,
@@ -4966,6 +4522,7 @@
       "formula": "",
       "type": "",
       "variance": ""
-    }
+    },
+    "description": ""
   }
 ]

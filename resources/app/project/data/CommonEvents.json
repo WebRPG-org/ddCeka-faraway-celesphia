@@ -36,7 +36,7 @@
         "parameters": []
       }
     ],
-    "name": "ミニマップ全部ON",
+    "name": "Turn on all minimaps",
     "switchId": 1,
     "trigger": 0
   },
@@ -76,7 +76,7 @@
         "parameters": []
       }
     ],
-    "name": "ミニマップ全部OFF",
+    "name": "Turn Off All Minimaps",
     "switchId": 1,
     "trigger": 0
   },
@@ -101,7 +101,7 @@
         "parameters": []
       }
     ],
-    "name": "ドア閉めSE(汎用)",
+    "name": "Door-Closing Sound Effect (General-Purpose)",
     "switchId": 1,
     "trigger": 0
   },
@@ -240,7 +240,7 @@
         "parameters": []
       }
     ],
-    "name": "プレイヤー初期化",
+    "name": "Player Initialization",
     "switchId": 1,
     "trigger": 0
   },
@@ -280,7 +280,7 @@
         "parameters": []
       }
     ],
-    "name": "プレイヤーALLOFF",
+    "name": "Player ALLOFF",
     "switchId": 1,
     "trigger": 0
   },
@@ -334,7 +334,7 @@
         "parameters": []
       }
     ],
-    "name": "プレイヤー全員通常",
+    "name": "All Players (Normal)",
     "switchId": 1,
     "trigger": 0
   },
@@ -369,7 +369,7 @@
         "parameters": []
       }
     ],
-    "name": "突っ込み",
+    "name": "Comedic Rebuttal",
     "switchId": 1,
     "trigger": 0
   },
@@ -396,7 +396,7 @@
         "parameters": []
       }
     ],
-    "name": "暗め(-50)",
+    "name": "Darker (-50)",
     "switchId": 1,
     "trigger": 0
   },
@@ -416,7 +416,7 @@
         "parameters": []
       }
     ],
-    "name": "即時フェードアウト",
+    "name": "Instant Fade-Out",
     "switchId": 1,
     "trigger": 0
   },
@@ -441,7 +441,7 @@
         "parameters": []
       }
     ],
-    "name": "HシーンBGM",
+    "name": "H-Scene BGM",
     "switchId": 1,
     "trigger": 0
   },
@@ -548,7 +548,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]The ground trembles slightly."
+          "The ground is shaking slightly."
         ]
       },
       {
@@ -576,7 +576,7 @@
         "parameters": []
       }
     ],
-    "name": "パネル1踏んだ時",
+    "name": "When you step on Panel 1",
     "switchId": 1,
     "trigger": 0
   },
@@ -607,7 +607,7 @@
         "parameters": []
       }
     ],
-    "name": "マップ移動時BGM自動再生OFF",
+    "name": "Turn Off Automatic BGM Playback When Moving on the Map",
     "switchId": 1,
     "trigger": 0
   },
@@ -714,7 +714,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]The ground trembles slightly."
+          "The ground is shaking slightly."
         ]
       },
       {
@@ -742,7 +742,7 @@
         "parameters": []
       }
     ],
-    "name": "パネル2踏んだ時",
+    "name": "When you step on Panel 2",
     "switchId": 1,
     "trigger": 0
   },
@@ -803,7 +803,7 @@
         "parameters": []
       }
     ],
-    "name": "時間：早朝",
+    "name": "Time: Early morning",
     "switchId": 1,
     "trigger": 0
   },
@@ -864,7 +864,7 @@
         "parameters": []
       }
     ],
-    "name": "時間：朝",
+    "name": "Time: Morning",
     "switchId": 1,
     "trigger": 0
   },
@@ -925,7 +925,7 @@
         "parameters": []
       }
     ],
-    "name": "時間：昼",
+    "name": "Time: Lunch",
     "switchId": 1,
     "trigger": 0
   },
@@ -986,7 +986,7 @@
         "parameters": []
       }
     ],
-    "name": "時間：夕方",
+    "name": "Time: Evening",
     "switchId": 1,
     "trigger": 0
   },
@@ -1047,7 +1047,7 @@
         "parameters": []
       }
     ],
-    "name": "時間：夜",
+    "name": "Time: Evening",
     "switchId": 1,
     "trigger": 0
   },
@@ -1108,7 +1108,7 @@
         "parameters": []
       }
     ],
-    "name": "時間：深夜",
+    "name": "Time: Late at night",
     "switchId": 1,
     "trigger": 0
   },
@@ -1124,21 +1124,13 @@
             "Noon",
             "Evening",
             "Night",
-            "Late Night",
+            "Late at night",
             "Cancel"
           ],
           5,
           0,
           2,
           0
-        ],
-        "_original": [
-          "朝",
-          "昼",
-          "夕方",
-          "夜",
-          "深夜",
-          "キャンセル"
         ]
       },
       {
@@ -1146,7 +1138,7 @@
         "indent": 0,
         "parameters": [
           0,
-          "朝"
+          "Morning"
         ]
       },
       {
@@ -1166,7 +1158,7 @@
         "indent": 0,
         "parameters": [
           1,
-          "昼"
+          "Noon"
         ]
       },
       {
@@ -1186,7 +1178,7 @@
         "indent": 0,
         "parameters": [
           2,
-          "夕方"
+          "Evening"
         ]
       },
       {
@@ -1206,7 +1198,7 @@
         "indent": 0,
         "parameters": [
           3,
-          "夜"
+          "Night"
         ]
       },
       {
@@ -1226,7 +1218,7 @@
         "indent": 0,
         "parameters": [
           4,
-          "深夜"
+          "Late at night"
         ]
       },
       {
@@ -1246,7 +1238,7 @@
         "indent": 0,
         "parameters": [
           5,
-          "キャンセル"
+          "Cancel"
         ]
       },
       {
@@ -1265,7 +1257,7 @@
         "parameters": []
       }
     ],
-    "name": "時間帯選択",
+    "name": "Select Time Slot",
     "switchId": 1,
     "trigger": 0
   },
@@ -1290,7 +1282,7 @@
         "parameters": []
       }
     ],
-    "name": "通常ボスBGM",
+    "name": "Standard Boss BGM",
     "switchId": 1,
     "trigger": 0
   },
@@ -1315,7 +1307,7 @@
         "parameters": []
       }
     ],
-    "name": "通常戦闘BGM変更",
+    "name": "Change Normal Battle BGM",
     "switchId": 1,
     "trigger": 0
   },
@@ -1340,7 +1332,7 @@
         "parameters": []
       }
     ],
-    "name": "階段の音（汎用）",
+    "name": "Sound of Footsteps on Stairs (General-Purpose)",
     "switchId": 1,
     "trigger": 0
   },
@@ -1365,7 +1357,7 @@
         "parameters": []
       }
     ],
-    "name": "宝箱開けSE（汎用）",
+    "name": "Treasure Chest Opening Sound Effect (General-Purpose)",
     "switchId": 1,
     "trigger": 0
   },
@@ -1390,7 +1382,7 @@
         "parameters": []
       }
     ],
-    "name": "ドア開けSE(汎用)",
+    "name": "Door-Opening Sound Effect (General-Purpose)",
     "switchId": 1,
     "trigger": 0
   },
@@ -1430,7 +1422,7 @@
         "parameters": []
       }
     ],
-    "name": "クエスト全開放",
+    "name": "Unlock All Quests",
     "switchId": 1,
     "trigger": 0
   },
@@ -1470,7 +1462,7 @@
         "parameters": []
       }
     ],
-    "name": "クエスト全Close",
+    "name": "Close All Quests",
     "switchId": 1,
     "trigger": 0
   },
@@ -1495,7 +1487,7 @@
         "parameters": []
       }
     ],
-    "name": "Hシーン(闇)BGM",
+    "name": "H-Scene (Dark) BGM",
     "switchId": 1,
     "trigger": 0
   },
@@ -1521,7 +1513,7 @@
         "parameters": []
       }
     ],
-    "name": "--- Hコマンド ---",
+    "name": "--- H Command ---",
     "switchId": 1,
     "trigger": 0
   },
@@ -1575,21 +1567,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]\\Se[0]Kyle"
+          "\\SE[0] Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "(What are you gonna do by showing me your"
+          "(What are you going to do with my"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "panties?)"
+          "underwear?)"
         ]
       },
       {
@@ -1607,21 +1599,46 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]\\Se[0]Kyle"
+          "\\SE[0] Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "(But sooner or later, Luna and the others"
+          "(But I wonder if there might be things that"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "will want to see too...)"
+          "Luna and the others will want to see"
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 1,
+        "parameters": [
+          "player/kyle_normal",
+          6,
+          0,
+          2,
+          ""
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "\\SE[0] Kyle "
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "eventually…?)"
         ]
       },
       {
@@ -1716,14 +1733,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Kyle"
+          "\\SE[0] Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "can you listen to me?\""
+          "\\SE[3] \"Luna, could you just listen to my request"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "for a moment?\""
         ]
       },
       {
@@ -1741,14 +1765,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Luna"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "please?\""
+          "\\SE[5] \"Yes, Lord Kyle. Please tell me what you"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "need. \""
         ]
       },
       {
@@ -1766,14 +1797,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Kyle"
+          "\\SE[0] Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "won't you?\""
+          "\\SE[3] \"…Um, could you lift your skirt up just a"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "little bit? \""
         ]
       },
       {
@@ -1791,14 +1829,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Luna"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"Huh?!\""
+          "\\SE[5] \"Huh!?\""
         ]
       },
       {
@@ -1816,14 +1854,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Luna"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"I-is that really okay with you...?\""
+          "\\SE[5] \"I-Is that really okay…?\""
         ]
       },
       {
@@ -1841,14 +1879,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Kyle"
+          "\\SE[0] Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[3]\"I'm not asking for everything all at once.\""
+          "\\SE[3] \"I wouldn’t ask for everything all at"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "once.\""
         ]
       },
       {
@@ -1866,14 +1911,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Luna"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Here, please.\""
+          "\\SE[5] \"If that’s all you need… Sure, here you"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "go.\""
         ]
       },
       {
@@ -1891,7 +1943,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Slowly lifted the hem of her skirt"
+          "Luna, keeping an eye on her surroundings, slowly lifted"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "the hem of her skirt with trembling hands."
         ]
       },
       {
@@ -1963,7 +2022,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "White lace swayed, revealing youthful, supple thighs."
+          "The white lace fluttered, revealing youthful, supple"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "thighs. And right in the center, the underwear that"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "modestly protected the young girl was exposed."
         ]
       },
       {
@@ -1981,7 +2054,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Her face turned as red as an apple."
+          "Luna's face turned as red as an apple as she exposed"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "her unguarded skin to a member of the opposite sex for"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "the first time."
         ]
       },
       {
@@ -1999,14 +2086,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Kyle"
+          "\\SE[0] Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Your legs are truly beautiful.\""
+          "\\SE[3] \"…She’s so beautiful. Even after walking"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "that much, her legs are still so beautiful.\""
         ]
       },
       {
@@ -2024,14 +2118,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Luna"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"Ah...\""
+          "\\SE[5] \"Oh...\""
         ]
       },
       {
@@ -2049,14 +2143,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Gently, as if melting away"
+          "Kyle gently touches Luna's thigh. As if gently"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "As if gently massaging it"
+          "massaging it"
         ]
       },
       {
@@ -2074,7 +2168,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]she relaxed."
+          "Thanks to his gentle touch and the warmth of Kyle’s"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "hand, Luna’s body—which had been trembling at"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "first—slowly began to relax."
         ]
       },
       {
@@ -2092,14 +2200,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Luna"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"♡...Kyle-sama...n...h\""
+          "\\SE[5] \"♡……Lord Kyle… mmm…\""
         ]
       },
       {
@@ -2143,14 +2251,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Kyle"
+          "\\SE[0] Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[3]\"Thank you, I enjoyed that.\""
+          "\\SE[3] \"Thank you, I really enjoyed it.\""
         ]
       },
       {
@@ -2168,14 +2276,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Luna"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Whenever you like...\""
+          "\\SE[5] \"Yes… if it’s just this much, I’m available"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "anytime…\""
         ]
       },
       {
@@ -2275,14 +2390,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Kyle"
+          "\\SE[0] Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "can I?\""
+          "\\SE[3] \"Lillian, will you grant my request ?\""
         ]
       },
       {
@@ -2300,14 +2415,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Lilian"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]\"Yes, please say it. Anything.\""
+          "\\SE[4] \"Yes, go ahead. Anything.\""
         ]
       },
       {
@@ -2325,14 +2440,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Kyle"
+          "\\SE[0] Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[3]\"Take off your shorts for me.\""
+          "\\SE[3] \"Please pull down your shorts.\""
         ]
       },
       {
@@ -2350,14 +2465,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Lilian"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "At least cover yourself with your hands...\""
+          "\\SE[4] \"O-okay. Please use your body to block the"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "view so no one around us can see…\""
         ]
       },
       {
@@ -2375,14 +2497,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "The sound of leather rubbing filled the air as he"
+          "Lillian reached for the rugged belt wrapped around her"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "removed them,"
+          "waist and unfastened it with a rustling sound of"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "leather, and"
         ]
       },
       {
@@ -2412,7 +2541,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "He pushed them down to his thighs."
+          "He slowly unbuttoned his shorts and pulled them down to"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "his thighs."
         ]
       },
       {
@@ -2472,14 +2608,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Lilian]"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]\"...Is this okay?\""
+          "\\SE[4] \"…Is this okay?\""
         ]
       },
       {
@@ -2497,7 +2633,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Healthy, supple curves."
+          "What was revealed were the healthy, supple curves honed"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "by the Knights' Order."
         ]
       },
       {
@@ -2515,7 +2658,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]A rounded, plump ass."
+          "And a full, shapely, "
         ]
       },
       {
@@ -2547,14 +2690,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Lilian]"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]\"...Nn...♡\""
+          "\\SE[4] \"…Mmm…♡\""
         ]
       },
       {
@@ -2572,7 +2715,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "He gently caressed it, wrapping his hands around it."
+          "Kyle's palm gently caressed her round buttocks, as if"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "to draw out his own heat."
         ]
       },
       {
@@ -2590,14 +2740,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "A healer's warm hands that seemed to heal just by"
+          "Not the rough hands of a warrior, but the warm hands of"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "touching."
+          "a healer who accepts everything and grants ."
         ]
       },
       {
@@ -2615,14 +2765,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Lilian]"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Strangely...\""
+          "\\SE[4] \"…Kyle… When you touch me, strangely"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "enough…\""
         ]
       },
       {
@@ -2666,14 +2823,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Kyle]"
+          "\\SE[0] Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[3]\"Lilian, thank you. I enjoyed that.\""
+          "\\SE[3] \"Lillian, thank you. I really enjoyed it.\""
         ]
       },
       {
@@ -2691,14 +2848,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Lilian]"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]\"Y-Yes... You can ask me anytime.\""
+          "\\SE[4] \"Ah, ah… Just let me know anytime.\""
         ]
       },
       {
@@ -2734,7 +2891,7 @@
         "parameters": []
       }
     ],
-    "name": "パンツ1",
+    "name": "Pants 1",
     "switchId": 1,
     "trigger": 0
   },
@@ -2788,21 +2945,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]\\Se[0]Kyle"
+          "\\SE[0] Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "(What the hell am I supposed to do with my"
-        ]
-      },
-      {
-        "code": 401,
-        "indent": 1,
-        "parameters": [
-          "tits...?!)"
+          "(What am I going to do about my boobs…!?)"
         ]
       },
       {
@@ -2820,14 +2970,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]\\Se[0]Kyle"
+          "\\SE[0] Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "(Maybe they'll want some someday...)"
+          "(I wonder if two of them might want one"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "someday...)"
         ]
       },
       {
@@ -2845,21 +3002,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]\\Se[0]Kyle"
+          "\\SE[0] Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "(......Nope. No milk coming out or"
+          "(…I guess not. I don’t produce breast milk"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "anything.)"
+          "or anything.)"
         ]
       },
       {
@@ -2954,14 +3111,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Kyle"
+          "\\SE[0] Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[3]\"Luna, can I touch them?\""
+          "\\SE[3] \"Luna, can I touch you?\""
         ]
       },
       {
@@ -2979,14 +3136,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Luna"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"Yes... Please go ahead.\""
+          "\\SE[5] \"Yes… here you go.\""
         ]
       },
       {
@@ -3004,7 +3161,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "He gently places his palm against her chest."
+          "Kyle stood in front of Luna and gently placed his palm"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "on her chest through her clothes."
         ]
       },
       {
@@ -3076,14 +3240,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Luna"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"Mmh...n...h\""
+          "\\SE[5] \"Mm… mm…!\""
         ]
       },
       {
@@ -3101,7 +3265,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Luna trembles slightly and leans into Kyle's chest."
+          "Luna trembled slightly and leaned against Kyle's chest."
         ]
       },
       {
@@ -3119,7 +3283,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]A steady heartbeat."
+          "Her faint yet "
         ]
       },
       {
@@ -3151,7 +3315,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]He confirms it."
+          "Kyle never treated her roughly; instead, as if to"
         ]
       },
       {
@@ -3183,14 +3347,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Luna"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"Ah...n...h...haa...\""
+          "\\SE[5] \"Ah… mm… hmm… haa…\""
         ]
       },
       {
@@ -3208,7 +3372,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Luna's cheeks flush, and she surrenders herself to"
+          "Luna's cheeks flushed as she surrendered herself to"
         ]
       },
       {
@@ -3233,7 +3397,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]He takes them in his mouth."
+          "There was none of the tragic air of before; instead, it"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "contained a touch of pure childishness."
         ]
       },
       {
@@ -3277,14 +3448,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Kyle"
+          "\\SE[0] Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[3]\"Thanks, Luna. I enjoyed that.\""
+          "\\SE[3] \"Thanks, Luna. I really enjoyed that.\""
         ]
       },
       {
@@ -3302,14 +3473,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Luna"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"Fufu...♡ Fufu...♡\""
+          "\\SE[5] \"Phew…♡ Phew…♡\""
         ]
       },
       {
@@ -3409,14 +3580,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Kyle"
+          "\\SE[0] Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[3]\"Lilian, can I borrow your chest?\""
+          "\\SE[3] \"Lillian, can I borrow your chest?\""
         ]
       },
       {
@@ -3434,14 +3605,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Lilian"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]\"Mmh...\""
+          "\\SE[4] \"Hmm…!\""
         ]
       },
       {
@@ -3459,7 +3630,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Lilian doesn't resist and surrenders herself to Kyle."
+          "Lillian didn't resist; she surrendered herself to Kyle."
         ]
       },
       {
@@ -3531,7 +3702,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]Lilian"
+          "\\SE[0] Lilian "
         ]
       },
       {
@@ -3556,7 +3727,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Kyle touches her ample swell."
+          "Kyle touched her full, rounded curves."
         ]
       },
       {
@@ -3574,7 +3745,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "A definite softness, like a woman's."
+          "The genuine tenderness of a woman— —resting atop a"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "spirit forged through training as a knight."
         ]
       },
       {
@@ -3592,7 +3770,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Lilian lets out a sultry moan."
+          "As Kyle massaged her, applying gentle pressure, Lillian"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "let out a sensuous moan."
         ]
       },
       {
@@ -3610,14 +3795,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Lilian"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]\"Mmh...nn...Kyle...\""
+          "\\SE[4] \"Mmm… mmm… Kyle…\""
         ]
       },
       {
@@ -3635,7 +3820,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "She savors his warmth lovingly."
+          "Lillian placed her hand on top of Kyle’s and cherished"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "its warmth with tenderness."
         ]
       },
       {
@@ -3679,14 +3871,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Kyle"
+          "\\SE[0] Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[3]\"Fuu, I enjoyed that.\""
+          "\\SE[3] \"Phew, that was a real treat.\""
         ]
       },
       {
@@ -3704,14 +3896,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Lilian"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]\"Are you done already...?\""
+          "\\SE[4] \"Is that all…?\""
         ]
       },
       {
@@ -3747,7 +3939,7 @@
         "parameters": []
       }
     ],
-    "name": "おっぱい1",
+    "name": "Boobs 1",
     "switchId": 1,
     "trigger": 0
   },
@@ -3801,14 +3993,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Kyle"
+          "Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "(I can't kiss myself, after all)"
+          "(I guess I can't kiss myself, after all)"
         ]
       },
       {
@@ -3903,14 +4095,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Kyle]"
+          "\\SE[0] Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[3]\"Luna...\""
+          "\\SE[3] \"Luna…\""
         ]
       },
       {
@@ -3928,14 +4120,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Luna]"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"Kyle-sama...mnh...\""
+          "\\SE[5] \"Lord Kyle… hmm…\""
         ]
       },
       {
@@ -3953,14 +4145,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "She gave a small nod, signaling him to close the"
+          "Without hesitation, Luna closed her eyelashes, and when"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "distance."
+          "she slightly tucked her chin back—a subtle signal—Kyle"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "leaned in closer."
         ]
       },
       {
@@ -4032,14 +4231,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "At first, it was a gentle kiss, like feathers brushing"
+          "At first, it was a gentle kiss, as if feathers were"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "together."
+          "brushing against each other."
         ]
       },
       {
@@ -4057,7 +4256,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Softly pressing together."
+          "The warmth of Kyle's lips gently touched Luna's soft"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "lips."
         ]
       },
       {
@@ -4075,7 +4281,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]A tender, loving touch."
+          "It was a gentle, "
         ]
       },
       {
@@ -4107,14 +4313,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Kyle]"
+          "\\SE[0] Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[3]\"Luna, I'm going to deepen it a bit.\""
+          "\\SE[3] \"Luna, I’m going to go a little deeper.\""
         ]
       },
       {
@@ -4132,7 +4338,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "As he whispered, Kyle's lips pressed a little harder."
+          "As he whispered, Kyle pressed his lips against hers"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "just a little harder."
         ]
       },
       {
@@ -4150,7 +4363,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Sliding deeper into her uncharted territory."
+          "Just as Luna gasped in surprise and parted her lips"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "slightly, Kyle’s hot tongue slid into her uncharted"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "territory."
         ]
       },
       {
@@ -4168,14 +4395,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Luna]"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"Mmh...mnh...mnhu...!\""
+          "\\SE[5] \"Mm… mm… mmh…!\""
         ]
       },
       {
@@ -4193,14 +4420,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "The sensation of her mouth being caressed, tongues"
+          "The sensation of being caressed inside my mouth, with"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "intertwining."
+          "our tongues intertwining."
         ]
       },
       {
@@ -4218,7 +4445,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Every time she was led by Kyle's tongue,"
+          "Every time I let Kyle lead me and entangle me, a"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "sensation— —that feels like it’s numbing my very"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "brain—rushes through my entire body."
         ]
       },
       {
@@ -4236,14 +4477,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Luna's grip tightened, and she tried to wrap her own"
+          "Luna tightened her grip, becoming so absorbed in the"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "tongue around his in return―"
+          "melting sensation that she found herself wanting to"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "entwine her tongue with his in return."
         ]
       },
       {
@@ -4292,14 +4540,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]she was melting."
+          "When their lips finally parted, Luna’s eyes wandered"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "completely lost in the moment."
+          "completely into the void, completely lost in the"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "moment."
         ]
       },
       {
@@ -4317,14 +4572,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Luna]"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"Fwah...hah...Kyle-sama...♡\""
+          "\\SE[5] \"Huh… Haa… Lord Kyle…♡\""
         ]
       },
       {
@@ -4424,14 +4679,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Kyle]"
+          "\\SE[0] Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[3]\"Lilian...\""
+          "\\SE[3] \"Lillian…\""
         ]
       },
       {
@@ -4449,14 +4704,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Lilian]"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]\"Fufu, it's my turn now, Kyle.\""
+          "\\SE[4] \"Hehe, it’s my turn now, Kyle.\""
         ]
       },
       {
@@ -4474,7 +4729,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "She actively pressed her lips to his."
+          "Lillian pulled Kyle's head toward her and took the"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "initiative to press her lips against his."
         ]
       },
       {
@@ -4546,14 +4808,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "With practiced movements, she pried open Kyle's lips"
+          "With a practiced motion, she parted Kyle's lips and,"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "and invaded with her tongue,"
+          "with her tongue, sensually caressed the inside of his"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "mouth."
         ]
       },
       {
@@ -4571,7 +4840,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "overwhelming him with scorching heat."
+          "Lillian's tongue was powerful yet supple, and its"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "intensity was almost enough to overwhelm Kyle."
         ]
       },
       {
@@ -4589,14 +4865,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Lilian]"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]\"Mm...fuu...! How is it, Kyle...?\""
+          "\\SE[4] \"Hmm… Phew… Well, what do you think,"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "Kyle…?\""
         ]
       },
       {
@@ -4614,7 +4897,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "The reins were firmly in his hands."
+          "Lilian parted her lips slightly and smiled"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "provocatively. But by the time she noticed the"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "intensity in Kyle’s eyes, he had already taken control."
         ]
       },
       {
@@ -4632,14 +4929,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Kyle]"
+          "\\SE[0] Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[3]\"...Huh, Lilian's pretty assertive.\""
+          "\\SE[3] \"…Huh, Lilian’s pretty proactive.\""
         ]
       },
       {
@@ -4657,14 +4954,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "A kiss that surpassed deep and heavy―this was \"serious\""
+          "The very next moment, Kyle gave her a deep, intense"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "stuff."
+          "kiss—one that far exceeded Lilian’s wildest imaginings."
         ]
       },
       {
@@ -4682,14 +4979,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Lilian]"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]\"Hh―!? Mnh, mmh...!\""
+          "\\SE[4] \"Huh…!? Mm, mmph…!\""
         ]
       },
       {
@@ -4707,14 +5004,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Kyle's tongue ravaged Lilian's mouth, dominating her"
+          "Kyle's tongue ravages the inside of Lilian's mouth,"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "completely."
+          "taking control of it."
         ]
       },
       {
@@ -4732,7 +5029,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Her mind went blank in an instant."
+          "Lilian’s mind went completely blank in an instant as"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "Kyle caressed her with calculated, relentless"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "tenderness."
         ]
       },
       {
@@ -4781,14 +5092,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Lilian]"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "So intense... hah... hah...\""
+          "\\SE[4] \"Ah… Haa… ♡n, Kyle… It’s so intense… Phew…"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "Phew…\""
         ]
       },
       {
@@ -4806,7 +5124,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "All she could do was cling to his warmth."
+          "Lillian, melted into a puddle, could do nothing but"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "cling to his warmth."
         ]
       },
       {
@@ -4842,7 +5167,7 @@
         "parameters": []
       }
     ],
-    "name": "キス",
+    "name": "Kiss",
     "switchId": 1,
     "trigger": 0
   },
@@ -4921,14 +5246,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Luna"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"Kyle-sama.\""
+          "\\SE[5] \"Lord Kyle\""
         ]
       },
       {
@@ -4946,14 +5271,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Lilian"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]\"Kyle.\""
+          "\\SE[4] \"Kyle\""
         ]
       },
       {
@@ -4971,21 +5296,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Luna"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"It's not fair that you only look at us all"
+          "\\SE[5] \"It’s unfair that you’re only looking at"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "the time.\""
+          "us, so please show us Lord Kyle’s boobs.\""
         ]
       },
       {
@@ -5003,14 +5328,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Kyle"
+          "\\SE[0] Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[3]\"Huh?! W-why...\""
+          "\\SE[3] \"Huh!? W-what?\""
         ]
       },
       {
@@ -5028,21 +5353,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Lilian"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]\"Because it's unfair that you only tease"
+          "\\SE[4] \"It’s not fair that you’re always"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "us!\""
+          "humiliating us!\""
         ]
       },
       {
@@ -5067,14 +5392,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Kyle"
+          "\\SE[0] Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "It's not funny, is it?\""
+          "\\SE[3] \"Hey, there’s nothing fun about looking at"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "my boobs, right!?\""
         ]
       },
       {
@@ -5092,14 +5424,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Luna"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"Well...you do have a point.\""
+          "\\SE[5] \"Well… I suppose you’re right.\""
         ]
       },
       {
@@ -5117,14 +5449,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Luna"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"Then, in return, show us your panties.\""
+          "\\SE[5] \"Well then, show me your underwear"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "instead!\""
         ]
       },
       {
@@ -5142,14 +5481,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Kyle"
+          "\\SE[0] Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[3]\"Huh?\""
+          "\\SE[3] \"Huh?\""
         ]
       },
       {
@@ -5167,14 +5506,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Lilian"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]\"Y-yeah! Show us, Kyle...!\""
+          "\\SE[4] \"Y-yes, that’s right! Show me, Kyle…!\""
         ]
       },
       {
@@ -5239,14 +5578,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Luna"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Right?♡\""
+          "\\SE[5] \"Haa… haa… ♡ Lord Kyle seems excited too,"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "doesn’t he? … ♡\""
         ]
       },
       {
@@ -5264,14 +5610,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Lilian"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]\"Fufufu, are you all worked up?~\""
+          "\\SE[4] \"Hehehe, have you been holding it in~?\""
         ]
       },
       {
@@ -5289,14 +5635,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Kyle"
+          "\\SE[0] Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[3]\"J-just drop it already.\""
+          "\\SE[3] \"That’s—that’s enough, right?\""
         ]
       },
       {
@@ -5314,14 +5660,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Luna"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"Show us what's under them...!\""
+          "\\SE[5] \"Please let me see inside…!\""
         ]
       },
       {
@@ -5412,7 +5758,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "I was forced down against my will."
+          "I was forced to get off"
         ]
       },
       {
@@ -5430,14 +5776,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Luna"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"Hah...hah...♡So...big...so lewd...♡\""
+          "\\SE[5] \"Haa… haa… ♡ That’s amazing… so sexy… ♡\""
         ]
       },
       {
@@ -5455,14 +5801,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Lilian"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]\"…♡♡♡\""
+          "\\SE[4] \"…♡♡♡\""
         ]
       },
       {
@@ -5506,14 +5852,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Kyle"
+          "\\SE[0] Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[3]\"D-don't just pull them down like that...!"
+          "\\SE[3] \"D-don’t just put me down like that…!"
         ]
       },
       {
@@ -5620,14 +5966,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Kyle"
+          "\\SE[0] Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[3]\"Luna, can I look too?\""
+          "\\SE[3] \"Luna, can I take a look?\""
         ]
       },
       {
@@ -5645,14 +5991,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Luna"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"Eh...?!\""
+          "\\SE[5] \"Huh…!\""
         ]
       },
       {
@@ -5670,14 +6016,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Luna"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Please hide them...!"
+          "\\SE[5] \"O-okay. Please hide it so no one else can"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "see it…!\""
         ]
       },
       {
@@ -5695,7 +6048,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]She removes them one by one."
+          "Kyle stood in front of Luna and began unbuttoning her"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "shirt, one button at a time."
         ]
       },
       {
@@ -5767,14 +6127,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Luna]"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"……♡♡♡\""
+          "\\SE[5] \"……♡♡♡\""
         ]
       },
       {
@@ -5792,7 +6152,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Her untouched twin mounds are revealed."
+          "There, two pristine mounds, framed by translucent white"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "skin, are revealed."
         ]
       },
       {
@@ -5810,7 +6177,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Luna] blushes shyly."
+          "Luna blushed shyly."
         ]
       },
       {
@@ -5908,14 +6275,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "[Kyle] moves behind her and cups those soft, pliant"
+          "Kyle moved behind her and placed his hands on her soft"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "mounds in his hands."
+          "curves."
         ]
       },
       {
@@ -5933,21 +6300,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]He confirms their shape."
+          "And without ever handling her roughly, as if to soothe"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "soothe her tension, he gently traced circular motions"
+          "her tension, he gently traced circular motions to feel"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "to feel the softness of her white skin."
+          "the softness of her white skin."
         ]
       },
       {
@@ -5965,21 +6332,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Luna]"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "It feels like it's going to transmit"
+          "\\SE[5] \"Ah…! Ahh…! ♡ Lord Kyle… I feel like I can"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "directly...!"
+          "hear your heartbeat right through me…\""
         ]
       },
       {
@@ -5997,14 +6364,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "The texture of her skin clings to him, unlike through"
+          "A skin texture that feels like it’s clinging to"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "her clothes."
+          "you—different from how it feels through clothing."
         ]
       },
       {
@@ -6022,7 +6389,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "All she can do is stare at Kyle."
+          "Luna is swept away by the warmth of Kyle’s palm, and"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "with a dreamy gaze, she can do nothing but look for"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "Kyle."
         ]
       },
       {
@@ -6040,14 +6421,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Kyle]"
+          "\\SE[0] Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[3]\"Luna, you're so beautiful.\""
+          "\\SE[3] \"Luna, you’re so beautiful.\""
         ]
       },
       {
@@ -6162,7 +6543,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]He rolls them gently."
+          "Kyle pressed his lips against the pink tip and gently"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "rolled it around in his mouth."
         ]
       },
       {
@@ -6180,14 +6568,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Each time, Luna writhes."
+          "A sensation like an electric current flows from the tip"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "every time it does, Luna writhes."
+          "of Luna, and every time it does, Luna writhes."
         ]
       },
       {
@@ -6205,14 +6593,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Luna]"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Kyle-sama... Kyle-sama...♡"
+          "\\SE[5] \"Fuuuuh…♡ Lord Kyle… Lord Kyle…♡\""
         ]
       },
       {
@@ -6230,14 +6618,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "They're swollen and stand proudly, pointing toward the"
+          "Under Kyle’s relentless caresses with his tongue,"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "sky."
+          "Luna’s small nipple swelled with blood and stood erect,"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "pointing straight up toward the sky."
         ]
       },
       {
@@ -6286,21 +6681,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Kyle]"
+          "\\SE[0] Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[3]\"Thank you, Luna. I've thoroughly enjoyed"
-        ]
-      },
-      {
-        "code": 401,
-        "indent": 1,
-        "parameters": [
-          "them.\""
+          "\\SE[3] \"Thanks, Luna. I really enjoyed that.\""
         ]
       },
       {
@@ -6318,7 +6706,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Luna"
+          "\\SE[0] Luna "
         ]
       },
       {
@@ -6432,7 +6820,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Is this okay?"
+          "\\SE[0] Kyle "
         ]
       },
       {
@@ -6464,7 +6852,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]Lilian"
+          "\\SE[0] Lilian "
         ]
       },
       {
@@ -6496,7 +6884,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "[Lilian] doesn't resist and surrenders herself to Kyle."
+          "Lillian didn't resist; she surrendered herself to Kyle."
         ]
       },
       {
@@ -6568,7 +6956,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "[Lilian] slowly rolls up the fabric."
+          "Lillian slowly pulls back the fabric."
         ]
       },
       {
@@ -6586,7 +6974,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Her plump, firm twin mounds spring free."
+          "There, atop supple muscles that spoke of daily"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "training, a pair of full, firm mounds emerged, ."
         ]
       },
       {
@@ -6684,7 +7079,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "He kneads them, confirming their softness and firmness."
+          "Kyle grasped the weight with both hands as if to lift"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "it, then kneaded it, as if to check its softness and"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "firmness."
         ]
       },
       {
@@ -6702,7 +7111,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]Lilian"
+          "\\SE[0] Lilian "
         ]
       },
       {
@@ -6727,7 +7136,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "[Lilian] places her own hand over Kyle's."
+          "Lillian placed her hand on top of Kyle's."
         ]
       },
       {
@@ -6745,7 +7154,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]She applies pressure."
+          "He applied pressure to make his heat penetrate her body"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "even more deeply."
         ]
       },
       {
@@ -6763,7 +7179,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[3]Kyle"
+          "\\SE[0] Kyle "
         ]
       },
       {
@@ -6885,7 +7301,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "He gently stimulates her with his tongue."
+          "Kyle gently teases the protrusion at the tip of"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "Lilian's swell with his tongue."
         ]
       },
       {
@@ -6903,7 +7326,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Then he coats her in saliva, making her slick."
+          "I roll the round tip around with my tongue, suck on it,"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "and make it slippery with my saliva."
         ]
       },
       {
@@ -6921,7 +7351,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]You're licking me so much..."
+          "\\SE[0] Lilian "
         ]
       },
       {
@@ -6953,14 +7383,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "After teasing one to a peak, he attacks the other just"
+          "After sharpening one side, he pressed on to sharpen the"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "as thoroughly."
+          "other side as well."
         ]
       },
       {
@@ -6978,7 +7408,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "She's filled with a melting, dripping pleasure."
+          "Lillian’s voluptuous breasts were now fully exposed,"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "and she was completely overcome by a sensation of"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "melting ecstasy."
         ]
       },
       {
@@ -7027,7 +7471,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[3]Kyle"
+          "\\SE[0] Kyle "
         ]
       },
       {
@@ -7052,7 +7496,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]Lilian"
+          "\\SE[0] Lilian "
         ]
       },
       {
@@ -7095,7 +7539,7 @@
         "parameters": []
       }
     ],
-    "name": "おっぱい2",
+    "name": "Boobs 2",
     "switchId": 1,
     "trigger": 0
   },
@@ -7161,14 +7605,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Luna]"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"Kyle-sama...\""
+          "\\SE[5] \"Lord Kyle…\""
         ]
       },
       {
@@ -7186,14 +7630,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Lilian]"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]\"Kyle...\""
+          "\\SE[4] \"Kyle…\""
         ]
       },
       {
@@ -7258,14 +7702,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Luna]"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"Hehe, even Kyle-sama is like this...\""
+          "\\SE[5] \"Hehe, even Lord Kyle is like this…\""
         ]
       },
       {
@@ -7283,14 +7727,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Lilian]"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]\"I'll take it off for you.\""
+          "\\SE[4] \"I’m going to take your clothes off.\""
         ]
       },
       {
@@ -7381,14 +7825,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Luna]"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"Kyle-sama's...♡\""
+          "\\SE[5] \"Lord Kyle’s…♡\""
         ]
       },
       {
@@ -7406,14 +7850,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Lilian]"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]\"It's so... lewd...♡\""
+          "\\SE[4] \"That's so... naughty♡\""
         ]
       },
       {
@@ -7504,14 +7948,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Luna]"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"Mmh... mmh... it's so hard...\""
+          "\\SE[5] \"Hmm… hmm… it’s so hard…\""
         ]
       },
       {
@@ -7607,14 +8051,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Lilian]"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]\"Hah... hah... it's amazing...\""
+          "\\SE[4] \"Phew… phew… That was amazing…\""
         ]
       },
       {
@@ -7663,21 +8107,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Kyle]"
+          "\\SE[0] Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[3]\"Uh, uuuh... I-I can't help but want to..."
-        ]
-      },
-      {
-        "code": 401,
-        "indent": 1,
-        "parameters": [
-          "do it!\""
+          "\\SE[3] \"Ugh, ugh… I’m, I’m gonna want to do it…!\""
         ]
       },
       {
@@ -7695,14 +8132,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Luna]"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"♡\""
+          "\\SE[5] \"♡\""
         ]
       },
       {
@@ -7720,14 +8157,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Lilian]"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]\"♡\""
+          "\\SE[4] \"♡\""
         ]
       },
       {
@@ -7827,14 +8264,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Luna]"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"Hah... hah...♡\""
+          "\\SE[5] \"Phew… phew… ♡\""
         ]
       },
       {
@@ -7852,14 +8289,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Luna]"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"Kyle-sama...♡\""
+          "\\SE[5] \"Lord Kyle…♡\""
         ]
       },
       {
@@ -8011,14 +8448,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Luna]"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"♡♡♡\""
+          "\\SE[5] \"♡♡♡\""
         ]
       },
       {
@@ -8036,14 +8473,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Luna]"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"I'll help you, Kyle-sama.\""
+          "\\SE[5] \"Lord Kyle… I’ll help you.\""
         ]
       },
       {
@@ -8129,14 +8566,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Luna reaches out with her pale, slender fingers toward"
+          "Luna extended her slender white fingers toward Kyle's"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Kyle's heat."
+          "source of heat."
         ]
       },
       {
@@ -8154,14 +8591,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "The heat of his manhood and its strong, throbbing pulse"
+          "Moved by the intensity that symbolized that man and the"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "make Luna's heart"
+          "powerful, throbbing beat of his heart, Luna’s own heart"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "pounded so fiercely it felt as though it might shatter."
         ]
       },
       {
@@ -8179,14 +8623,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Luna]"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"move... too...♡\""
+          "\\SE[5] \"I'll move it... okay? ♡\""
         ]
       },
       {
@@ -8412,14 +8856,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Luna wraps her palm around Kyle himself and begins to"
+          "Luna wrapped her palm around Kyle himself and slid her"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "stroke him up and down."
+          "hand up and down ."
         ]
       },
       {
@@ -8437,14 +8881,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Kyle]"
+          "\\SE[0] Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[3]\"Uh... aah... ahh...!\""
+          "\\SE[3] \"U… ah…!\""
         ]
       },
       {
@@ -8462,14 +8906,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Kyle lets out a sigh, a mix of conquest and pleasure"
+          "Kyle lets out a sigh that’s a mix of a sense of"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "intertwined."
+          "conquest and pleasure."
         ]
       },
       {
@@ -8492,14 +8936,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Luna]"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"Is this... okay, Kyle-sama...?\""
+          "\\SE[5] \"Lord Kyle… Is this… how it’s done…?\""
         ]
       },
       {
@@ -8725,14 +9169,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Luna watches with fascination as Kyle trembles in"
+          "Luna felt a sense of exhilaration that went beyond"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "pleasure within her grasp."
+          "shame at the fact that Kyle was trembling with pleasure"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "in her hands."
         ]
       },
       {
@@ -8755,14 +9206,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Kyle]"
+          "\\SE[0] Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[3]\"Ahh...yes! Just like that...Luna...!\""
+          "\\SE[3] \"Ah… okay…! Luna…!\""
         ]
       },
       {
@@ -9011,14 +9462,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "As Kyle's moans grow more heated, Luna's movements"
+          "As Kyle gasped, Luna's movements gradually grew more"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "follow suit,"
+          "intense, accelerating smoothly."
         ]
       },
       {
@@ -9036,14 +9487,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Luna listens to the sweet, pained whimpers escaping"
+          "Luna felt the pained yet sweet moans escaping from"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Kyle's throat,"
+          "Kyle’s throat— —rush through her mind like the most"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "potent aphrodisiac."
         ]
       },
       {
@@ -9066,21 +9524,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Kyle]"
+          "\\SE[0] Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[3]\"...Ah! Luna... I'm gonna cum... I'm gonna"
-        ]
-      },
-      {
-        "code": 401,
-        "indent": 1,
-        "parameters": [
-          "cum...!\""
+          "\\SE[3] \"…! Luna… I’m coming… I’m going to come…!\""
         ]
       },
       {
@@ -9098,14 +9549,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Luna]"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"Yes...Kyle-sama... Take it all...♡\""
+          "\\SE[5] \"Yes… Lord Kyle…♡ Please… take it all"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "out…!\""
         ]
       },
       {
@@ -9509,14 +9967,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Kyle's hips jerk violently as the hot proof of his"
+          "Kyle's hips jerked violently, and the hot proof of life"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "release"
+          "surged out vigorously at ."
         ]
       },
       {
@@ -9534,14 +9992,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Luna]"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"Aah...♡ Kyle-sama... It's so hot...♡\""
+          "\\SE[5] \"Ah…♡ Lord Kyle… you’re so hot…♡\""
         ]
       },
       {
@@ -9576,14 +10034,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Luna doesn't try to escape, instead catching every last"
+          "Instead of running away, Luna caught the hot spray"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "drop in her small palm,"
+          "head-on with her tiny palm."
         ]
       },
       {
@@ -9601,7 +10059,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "so much that it threatens to spill between her fingers."
+          "Poured so generously that it trickles through the"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "fingers— , a milky-white testament to life."
         ]
       },
       {
@@ -9619,14 +10084,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Luna]"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"Kyle-sama...♡ I've received it all...♡\""
+          "\\SE[5] \"Lord Kyle…♡ I’ve accepted it…♡\""
         ]
       },
       {
@@ -9644,14 +10109,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "She cradles the warmth staining her hand with tender"
+          "Luna gazed at "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "care,"
+          "—as if cherishing the heat that had stained her"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "hands—with a look of pride."
         ]
       },
       {
@@ -9777,14 +10249,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Lilian]"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]\"Mm... Got it...\""
+          "\\SE[4] \"Hmm… I see…\""
         ]
       },
       {
@@ -9936,14 +10408,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Lilian]"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]\"It's my turn... isn't it?\""
+          "\\SE[4] \"It’s my turn… I guess.\""
         ]
       },
       {
@@ -9987,7 +10459,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Lilian kneels before Kyle, facing him directly."
+          "Lillian moved to stand directly in front of Kyle and"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "knelt down. Then, with her supple fingertips, she"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "enveloped Kyle’s heated body."
         ]
       },
       {
@@ -10047,7 +10533,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "She brings her face close to Kyle's fierce spear,"
+          "Lillian brings her face close to Kyle's ferocious spear"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "and sniffs it to get a better sense of its scent."
         ]
       },
       {
@@ -10065,14 +10558,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Lilian]"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]\"Sniff... sniff...♡ Hah... Kyle's scent...♡\""
+          "\\SE[4] \"Sniff… sniff… ♡ Hmm… Kyle’s scent… ♡\""
         ]
       },
       {
@@ -10090,14 +10583,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "The aroma rising from Kyle's most intimate place―his"
+          "Lillian couldn't hide her excitement at the scent of"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "very essence―"
+          "Kyle himself wafting from his private parts."
         ]
       },
       {
@@ -10115,14 +10608,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Kyle]"
+          "\\SE[0] Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[3]\"Lilian... please...\""
+          "\\SE[3] \"Lillian… please.\""
         ]
       },
       {
@@ -10348,7 +10841,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Lilian, eager to fulfill his request,"
+          "In response to Kyle's request, Lilian wraps her supple"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "fingers around Kyle's source of heat."
         ]
       },
       {
@@ -10371,14 +10871,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Lilian]"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]\"Aah... Kyle...♡ So much...\""
+          "\\SE[4] \"Ah… Kyle…♡ I’m getting so hot…\""
         ]
       },
       {
@@ -10396,14 +10896,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Lilian sets to work, her fingertips dancing to bring"
+          "To please Kyle, Lilian stimulates him with complex"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "him pleasure."
+          "movements that make her fingertips seem to entwine"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "around him."
         ]
       },
       {
@@ -10629,14 +11136,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Kyle]"
+          "\\SE[0] Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[3]\"Uh... aah...! Lilian...!\""
+          "\\SE[3] \"Ugh… Ah… Lilian…\""
         ]
       },
       {
@@ -10654,14 +11161,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Kyle can't hold back his cries as the pleasure"
-        ]
-      },
-      {
-        "code": 401,
-        "indent": 1,
-        "parameters": [
-          "overwhelms him."
+          "Unable to contain the pleasure, Kyle lets out a moan."
         ]
       },
       {
@@ -10684,14 +11184,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Each time Kyle's throat lets out a moan, Lilian watches"
+          "Every time Kyle's throat made a gasping sound, Lilian"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "with satisfaction,"
+          "smiled contentedly."
         ]
       },
       {
@@ -10709,14 +11209,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Lilian]"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]\"This is just the beginning...\""
+          "\\SE[4] \"I’m not done yet… This is nothing.\""
         ]
       },
       {
@@ -10993,7 +11493,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Kyle's hips tremble."
+          "Kyle's hips tremble."
         ]
       },
       {
@@ -11011,7 +11511,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Lilian locks eyes with him, never looking away."
+          "Lillian kept her gaze fixed on Kyle's eyes as she"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "accelerated the movement of her fingertips with"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "increasing intensity and persistence."
         ]
       },
       {
@@ -11283,21 +11797,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Kyle]"
+          "\\SE[0] Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[3]\"Nn...! Lilian... I'm gonna cum, I'm gonna"
-        ]
-      },
-      {
-        "code": 401,
-        "indent": 1,
-        "parameters": [
-          "cum...!\""
+          "\\SE[3] \"…! Lilian… I’m coming, I’m coming…!\""
         ]
       },
       {
@@ -11315,14 +11822,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Lilian]"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]\"It's okay...! Cum inside me, Kyle...♡\""
+          "\\SE[4] \"Okay…! Kyle, come inside me…♡\""
         ]
       },
       {
@@ -11495,14 +12002,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Just before he ejaculated, Lilian took Kyle's tip into"
+          "Just as he was about to ejaculate, Lilian took the tip"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "her mouth."
+          "of Kyle's penis into her mouth."
         ]
       },
       {
@@ -11520,14 +12027,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Kyle thrust forward with force, right into Lilian's"
-        ]
-      },
-      {
-        "code": 401,
-        "indent": 1,
-        "parameters": [
-          "mouth."
+          "Kyle then forcefully ejaculated into Lillian's mouth."
         ]
       },
       {
@@ -11562,14 +12062,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Lilian]"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]\"…♡…♡…♡\""
+          "\\SE[4] \"…♡…♡…♡\""
         ]
       },
       {
@@ -11587,14 +12087,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Lilian tightened her lips around him, determined not to"
+          "Lillian clenched her lips as if to hold onto that heat,"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "let a single drop escape."
+          "and accepted it with an ecstatic expression."
         ]
       },
       {
@@ -11643,14 +12143,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Lilian]"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]\"Mmh, so much...♡\""
+          "\\SE[4] \"Hehe, so many…♡\""
         ]
       },
       {
@@ -11686,7 +12186,7 @@
         "parameters": []
       }
     ],
-    "name": "手コキ",
+    "name": "Handjob",
     "switchId": 1,
     "trigger": 0
   },
@@ -11740,14 +12240,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Kyle"
+          "Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "(Honestly... that was... unexpected.)"
+          "(Come on... that's a bit much)"
         ]
       },
       {
@@ -11765,14 +12265,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Luna"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"Kyle-sama~\""
+          "\\SE[5] \"Lord Kyle\""
         ]
       },
       {
@@ -11802,14 +12302,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Luna"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"Mwah~\""
+          "\\SE[5] \"Mwah\""
         ]
       },
       {
@@ -11832,14 +12332,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Lilian"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]\"Kyle...\""
+          "\\SE[4] \"Kyle\""
         ]
       },
       {
@@ -11869,14 +12369,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Lilian"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]\"Nn...\""
+          "\\SE[4] \"Hmm...\""
         ]
       },
       {
@@ -11899,7 +12399,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Kyle"
+          "Kyle "
         ]
       },
       {
@@ -12001,21 +12501,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Luna"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"Yes... Kyle-sama... anything you"
-        ]
-      },
-      {
-        "code": 401,
-        "indent": 1,
-        "parameters": [
-          "desire...!\""
+          "\\SE[5] \"Yes… Lord Kyle… Whatever you need…!\""
         ]
       },
       {
@@ -12033,7 +12526,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Luna knelt devotedly on the floor and"
+          "Luna devotedly knelt on the floor and slipped between"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "Kyle's legs."
         ]
       },
       {
@@ -12105,14 +12605,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Luna"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"Hah...♡ Kyle-sama...♡\""
+          "\\SE[5] \"Haa…♡ Lord Kyle…♡\""
         ]
       },
       {
@@ -12156,7 +12656,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Luna gathered her courage and"
+          "Luna mustered her courage and pressed her lips against"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "Kyle, who was flushed with fever."
         ]
       },
       {
@@ -12228,7 +12735,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "her small mouth slowly took in Kyle's heated length."
+          "Her small mouth slowly took in Kyle's heat."
         ]
       },
       {
@@ -12246,7 +12753,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Luna blushed as she watched Kyle's reaction,"
+          "Luna blushed and looked up at Kyle with a gaze to gauge"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "his reaction."
         ]
       },
       {
@@ -12448,7 +12962,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "and began to serve him with fervent devotion."
+          "Luna purrs as she immerses herself in her work."
         ]
       },
       {
@@ -12466,7 +12980,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "She traced the tip with her tongue, clumsy but earnest."
+          "I traced its outline with the tip of my tongue and,"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "though I was still getting the hang of it, tried my"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "best to suck it up."
         ]
       },
       {
@@ -12489,14 +13017,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Kyle"
+          "Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[3]\"Aah... Luna... that feels amazing...!\""
+          "\\SE[3] \"Ah... Luna... That's amazing...!\""
         ]
       },
       {
@@ -12710,7 +13238,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Luna's eyes welled up with joy at Kyle's words."
+          "Luna's eyes, brimming with joy, welled up at Kyle's"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "words."
         ]
       },
       {
@@ -12728,7 +13263,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "The delight of being needed erased all of Luna's shame."
+          "The longed-for ecstasy gradually erases Luna's sense of"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "shame."
         ]
       },
       {
@@ -12751,14 +13293,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Luna"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"Mm... nn... lelo... lelo...♡\""
+          "\\SE[5] \"Mmm… mmm… lick… lick… ♡\""
         ]
       },
       {
@@ -12988,7 +13530,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Kyle's breathing grew ragged, his body tensing."
+          "Kyle's breathing grew heavy, and his body went rigid."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "Luna sensed that this was the signal that it was over."
         ]
       },
       {
@@ -13011,14 +13560,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Luna"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"Mm... nn... Kyle-sama...\""
+          "\\SE[5] \"Mmm… mmm… Lord Kyle… Please take it out…"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "♡\""
         ]
       },
       {
@@ -13405,14 +13961,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Luna"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"～～～♡♡♡\""
+          "\\SE[5] \"~~~♡♡♡\""
         ]
       },
       {
@@ -13430,7 +13986,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "The moment Kyle's voice trembled, a hot flash surged―"
+          "The moment Kyle let out a trembling cry, a searing"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "flash was violently unleashed inside Luna’s mouth."
         ]
       },
       {
@@ -13448,7 +14011,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Luna's eyes widened as she took in every drop of"
+          "Luna's eyes widened as she took in all the overwhelming"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "evidence at ."
         ]
       },
       {
@@ -13497,14 +14067,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Luna"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"Hah... haah...♡ Kyle-sama...♡\""
+          "\\SE[5] \"Haa… haa… ♡ Lord Kyle…… ♡\""
         ]
       },
       {
@@ -13522,7 +14092,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "A single strand of cum escaped Luna's mouth,"
+          "A single strand of milky-white fluid that Luna couldn’t"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "quite contain trickled from her mouth, leaving a trail"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "behind it as it fell."
         ]
       },
       {
@@ -13622,21 +14206,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Lilian"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]\"...Of course. I'd be happy to take care of"
-        ]
-      },
-      {
-        "code": 401,
-        "indent": 1,
-        "parameters": [
-          "the rest...♡\""
+          "\\SE[4] \"…Of course. I’d be happy to…♡\""
         ]
       },
       {
@@ -13654,7 +14231,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Lilian moved without hesitation to Kyle's lap,"
+          "Without hesitation, Lilian knelt down between Kyle's"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "legs."
         ]
       },
       {
@@ -13726,14 +14310,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0]Luna"
+          "\\SE[0] Luna "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[5]\"Kyle...♡\""
+          "\\SE[5] \"Kyle...♡\""
         ]
       },
       {
@@ -13831,7 +14415,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Lilian's mouth was so hot, and her tongue..."
+          "Lillian's mouth was very hot, and her tongue served"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "Kyle vigorously, striving to give him even more"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "pleasure."
         ]
       },
       {
@@ -13854,14 +14452,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Lilian]"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]\"...Nn...! Mmh...\""
+          "\\SE[4] \"…Hmm…! Mmm…!\""
         ]
       },
       {
@@ -14075,14 +14673,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Lilian's throat let out small, repeated sounds, her"
+          "Lillian's throat made soft, repeated sounds, and her"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "abundant hair"
+          "thick hair swayed on Kyle's lap."
         ]
       },
       {
@@ -14100,7 +14698,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "A mature woman like Lilian devotedly"
+          "Kyle felt a surge of excitement at the fact that a"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "mature woman like Lilian was so devotedly seeking him"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "out."
         ]
       },
       {
@@ -14123,14 +14735,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Kyle]"
+          "Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[3]\"...Ah, Lilian...!\""
+          "\\SE[3] \"…Lillian…!\""
         ]
       },
       {
@@ -14148,7 +14760,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "A restrained, low groan escaped Kyle's lips."
+          "A low, uncontrollable groan escapes Kyle's lips. That"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "fact stirs Lilian's feminine instincts."
         ]
       },
       {
@@ -14378,14 +14997,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Lilian's tongue relentlessly teased Kyle's sensitive"
+          "Lillian's tongue relentlessly teased Kyle's sensitive"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "spot"
+          "spot."
         ]
       },
       {
@@ -14403,14 +15022,39 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Occasionally, she'd lift her face to meet Kyle's gaze."
+          "Every now and then, she would look up and lock eyes"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Her eyes burned with desire"
+          "with Kyle. Her eyes were drenched in lust, filled with"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "a thirst for him to break her even more—to take her"
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 1,
+        "parameters": [
+          "",
+          0,
+          0,
+          2,
+          ""
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "even deeper."
         ]
       },
       {
@@ -14624,14 +15268,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Lilian]"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]\"...Nn, mmh...! Kyle...!\""
+          "\\SE[4] \"…Hmm, mmm…! Kyle…!\""
         ]
       },
       {
@@ -14649,14 +15293,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Kyle]"
+          "Kyle "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[3]\"Aah...! I'm gonna cum...!\""
+          "\\SE[3] \"Ah... I'm... gonna... come...!\""
         ]
       },
       {
@@ -14841,14 +15485,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Kyle's arousal reached its peak, a white flash shooting"
+          "Kyle's excitement reached its peak, and a white flash"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "down Lilian's throat"
+          "was violently unleashed into the depths of Lilian's"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "throat."
         ]
       },
       {
@@ -14866,14 +15517,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Lilian]"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]\"～～♡♡\""
+          "\\SE[4] \"~~♡♡\""
         ]
       },
       {
@@ -14891,7 +15542,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Lilian accepted every drop with tender devotion."
+          "Lillian accepted it all as if cherishing it."
         ]
       },
       {
@@ -14909,14 +15560,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "The burning proof filled her throat one after another,"
+          "Though waves of searing sensation poured into her"
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "yet she didn't turn away"
+          "throat one after another, far from turning her face"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "away, she tried to take Kyle in even deeper."
         ]
       },
       {
@@ -14965,7 +15623,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Eventually, Kyle's body relaxed"
+          "Soon, as the strength drained from Kyle’s body, Lilian"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "slowly pulled away."
         ]
       },
       {
@@ -14983,14 +15648,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[0][Lilian]"
+          "\\SE[0] Lilian "
         ]
       },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "\\SE[4]\"Did that satisfy you, Kyle?\""
+          "\\SE[4] \"Are you satisfied, Kyle?\""
         ]
       },
       {
@@ -15026,7 +15691,7 @@
         "parameters": []
       }
     ],
-    "name": "フェラ",
+    "name": "Blowjob",
     "switchId": 1,
     "trigger": 0
   },
@@ -15103,7 +15768,7 @@
         "parameters": []
       }
     ],
-    "name": "ロゼラストバトル2",
+    "name": "Roselast Battle 2",
     "switchId": 1,
     "trigger": 0
   },
@@ -15128,7 +15793,7 @@
         "parameters": []
       }
     ],
-    "name": "ロゼイベントBGM",
+    "name": "Rosé Event BGM",
     "switchId": 1,
     "trigger": 0
   },
@@ -15153,7 +15818,7 @@
         "parameters": []
       }
     ],
-    "name": "ロゼラストバトル",
+    "name": "Roselast Battle",
     "switchId": 1,
     "trigger": 0
   },
@@ -15175,14 +15840,14 @@
         "code": 401,
         "indent": 0,
         "parameters": [
-          "Do you want to return to the entrance of the Sanctuary"
+          "Shall we go back to the entrance to the forest leading"
         ]
       },
       {
         "code": 401,
         "indent": 0,
         "parameters": [
-          "Forest?"
+          "to the sanctuary?"
         ]
       },
       {
@@ -15197,10 +15862,6 @@
           0,
           2,
           0
-        ],
-        "_original": [
-          "はい",
-          "いいえ"
         ]
       },
       {
@@ -15208,7 +15869,7 @@
         "indent": 0,
         "parameters": [
           0,
-          "はい"
+          "Yes"
         ]
       },
       {
@@ -15250,7 +15911,7 @@
         "indent": 0,
         "parameters": [
           1,
-          "いいえ"
+          "No"
         ]
       },
       {
@@ -15269,7 +15930,7 @@
         "parameters": []
       }
     ],
-    "name": "ログストーン使用",
+    "name": "Using Logstone",
     "switchId": 1,
     "trigger": 0
   },
@@ -15294,7 +15955,7 @@
         "parameters": []
       }
     ],
-    "name": "汎用場所移動SE",
+    "name": "General-Purpose Site Relocation SE",
     "switchId": 1,
     "trigger": 0
   },
@@ -15319,7 +15980,7 @@
         "parameters": []
       }
     ],
-    "name": "ロゼH BGM",
+    "name": "Rosé H BGM",
     "switchId": 1,
     "trigger": 0
   },
@@ -15344,7 +16005,7 @@
         "parameters": []
       }
     ],
-    "name": "ロゼ通常バトル",
+    "name": "Rosé's Regular Battle",
     "switchId": 1,
     "trigger": 0
   },
@@ -15369,7 +16030,7 @@
         "parameters": []
       }
     ],
-    "name": "ロゼボスバトル",
+    "name": "Rosé Boss Battle",
     "switchId": 1,
     "trigger": 0
   },
@@ -15382,7 +16043,7 @@
         "parameters": []
       }
     ],
-    "name": "--- 汎用 ---",
+    "name": "--- General ---",
     "switchId": 1,
     "trigger": 0
   },
@@ -15444,7 +16105,7 @@
         "parameters": []
       }
     ],
-    "name": "現在の画面色保存",
+    "name": "Save Current Screen Colors",
     "switchId": 1,
     "trigger": 0
   },
@@ -15527,7 +16188,7 @@
         "parameters": []
       }
     ],
-    "name": "元の画面色に戻す",
+    "name": "Restore the original screen colors",
     "switchId": 1,
     "trigger": 0
   },
@@ -15549,7 +16210,7 @@
         "parameters": []
       }
     ],
-    "name": "回想モードALL OFF",
+    "name": "Flashback Mode: ALL OFF",
     "switchId": 1,
     "trigger": 0
   },
@@ -15571,7 +16232,7 @@
         "parameters": []
       }
     ],
-    "name": "雨を降らせる",
+    "name": "Make it rain",
     "switchId": 1,
     "trigger": 0
   },
@@ -15763,7 +16424,7 @@
         "parameters": []
       }
     ],
-    "name": "バトル後コモンイベント",
+    "name": "Post-Battle Common Event",
     "switchId": 1,
     "trigger": 0
   },
@@ -15776,7 +16437,7 @@
         "parameters": []
       }
     ],
-    "name": "--- クエスト ---",
+    "name": "--- Quests ---",
     "switchId": 1,
     "trigger": 0
   },
@@ -15810,7 +16471,7 @@
         "parameters": []
       }
     ],
-    "name": "スライムゼリー報告",
+    "name": "Slime Jelly Report",
     "switchId": 1,
     "trigger": 0
   },
@@ -15861,7 +16522,7 @@
         "parameters": []
       }
     ],
-    "name": "ゴブリン討伐受注",
+    "name": "Accept the Goblin Extermination Quest",
     "switchId": 1,
     "trigger": 0
   },
@@ -15923,7 +16584,7 @@
         "parameters": []
       }
     ],
-    "name": "ゴブリン報告",
+    "name": "Goblin Report",
     "switchId": 1,
     "trigger": 0
   },
@@ -15946,7 +16607,7 @@
         "parameters": []
       }
     ],
-    "name": "大きな鳥の卵報告",
+    "name": "Report on a Large Bird's Egg",
     "switchId": 1,
     "trigger": 0
   },
@@ -15968,7 +16629,7 @@
         "parameters": []
       }
     ],
-    "name": "大きな鳥の卵受注",
+    "name": "Order for Large Bird Eggs",
     "switchId": 1,
     "trigger": 0
   },
@@ -16022,7 +16683,7 @@
         "parameters": []
       }
     ],
-    "name": "お花を集めて報告",
+    "name": "Collect Flowers and Report",
     "switchId": 1,
     "trigger": 0
   },
@@ -16044,7 +16705,7 @@
         "parameters": []
       }
     ],
-    "name": "スカーレッド受注",
+    "name": "Scarlet Order",
     "switchId": 1,
     "trigger": 0
   },
@@ -16066,7 +16727,7 @@
         "parameters": []
       }
     ],
-    "name": "スカーレッド報告",
+    "name": "Scarlet Report",
     "switchId": 1,
     "trigger": 0
   },
@@ -16088,7 +16749,7 @@
         "parameters": []
       }
     ],
-    "name": "銀の儀式杯受注",
+    "name": "Order for the Silver Ceremonial Cup",
     "switchId": 1,
     "trigger": 0
   },
@@ -16120,7 +16781,7 @@
         "parameters": []
       }
     ],
-    "name": "銀の儀式杯報告",
+    "name": "Report on the Silver Ritual Cup",
     "switchId": 1,
     "trigger": 0
   },
@@ -16171,7 +16832,7 @@
         "parameters": []
       }
     ],
-    "name": "ゾンビ討伐受注",
+    "name": "Accept a Zombie Hunt Quest",
     "switchId": 1,
     "trigger": 0
   },
@@ -16233,7 +16894,7 @@
         "parameters": []
       }
     ],
-    "name": "ゾンビ討伐報告",
+    "name": "Zombie Extermination Report",
     "switchId": 1,
     "trigger": 0
   },
@@ -16256,7 +16917,7 @@
         "parameters": []
       }
     ],
-    "name": "謎のパーツ報告",
+    "name": "Report on a Mysterious Part",
     "switchId": 1,
     "trigger": 0
   },
@@ -16279,7 +16940,7 @@
         "parameters": []
       }
     ],
-    "name": "ミステレグ報告",
+    "name": "Mysterege Report",
     "switchId": 1,
     "trigger": 0
   },
@@ -16302,7 +16963,7 @@
         "parameters": []
       }
     ],
-    "name": "リビングスタチュー報告",
+    "name": "Living Statue Report",
     "switchId": 1,
     "trigger": 0
   },
@@ -16336,7 +16997,7 @@
         "parameters": []
       }
     ],
-    "name": "サボテン報告",
+    "name": "Cactus Report",
     "switchId": 1,
     "trigger": 0
   },
@@ -16359,7 +17020,7 @@
         "parameters": []
       }
     ],
-    "name": "盗賊団の隠し宝報告",
+    "name": "Report on the Bandits' Hidden Treasure",
     "switchId": 1,
     "trigger": 0
   },
@@ -16393,7 +17054,7 @@
         "parameters": []
       }
     ],
-    "name": "Rスライム報告",
+    "name": "R-Slime Report",
     "switchId": 1,
     "trigger": 0
   },
@@ -16444,7 +17105,7 @@
         "parameters": []
       }
     ],
-    "name": "デザートウルフ討伐受注",
+    "name": "Accept the Desert Wolf Quest",
     "switchId": 1,
     "trigger": 0
   },
@@ -16506,7 +17167,7 @@
         "parameters": []
       }
     ],
-    "name": "デザートウルフ討伐報告",
+    "name": "Dessert Wolf Defeat Report",
     "switchId": 1,
     "trigger": 0
   },
@@ -16528,7 +17189,7 @@
         "parameters": []
       }
     ],
-    "name": "ノーブルミラージュ受注",
+    "name": "Noble Mirage Orders",
     "switchId": 1,
     "trigger": 0
   },
@@ -16550,7 +17211,7 @@
         "parameters": []
       }
     ],
-    "name": "ノーブルミラージュ報告",
+    "name": "Noble Mirage Report",
     "switchId": 1,
     "trigger": 0
   },
@@ -16697,7 +17358,7 @@
         "parameters": []
       }
     ],
-    "name": "フリーパス装備チェック",
+    "name": "Free Pass Equipment Check",
     "switchId": 1,
     "trigger": 0
   },
@@ -16719,7 +17380,7 @@
         "parameters": []
       }
     ],
-    "name": "盗賊団の隠し宝受領",
+    "name": "Receiving the Bandits' Hidden Treasure",
     "switchId": 1,
     "trigger": 0
   },

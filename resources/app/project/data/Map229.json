@@ -1363,7 +1363,7 @@
     null,
     {
       "id": 1,
-      "name": "イゾルダ",
+      "name": "Isolde",
       "note": "",
       "pages": [
         {
@@ -1423,7 +1423,7 @@
     },
     {
       "id": 2,
-      "name": "レイナード",
+      "name": "Reynard",
       "note": "",
       "pages": [
         {
@@ -1483,7 +1483,7 @@
     },
     {
       "id": 3,
-      "name": "妹",
+      "name": "Little Sister",
       "note": "",
       "pages": [
         {
@@ -1543,7 +1543,7 @@
     },
     {
       "id": 4,
-      "name": "自動",
+      "name": "Automatic",
       "note": "",
       "pages": [
         {
@@ -1670,14 +1670,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]But one night, I caught Reynard meeting someone in"
+                "\\SE[2] But one night, "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "secret."
+                "caught Reynard having a secret meeting with someone."
               ]
             },
             {
@@ -1695,7 +1695,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]Startled, I moved closer―and"
+                "\\SE[2] Startled, I approached—"
               ]
             },
             {
@@ -1713,7 +1713,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]it was Izolda's \\C[2]younger sister\\C[0]."
+                "\\SE[2] It turned out to be Isolde's \\C[2] younger sister \\C[0]."
               ]
             },
             {
@@ -1738,7 +1738,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]From the conversation I overheard, I learned"
+                "\\SE[2] And then I found out from a conversation I overheard."
               ]
             },
             {
@@ -1756,14 +1756,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]that Reynard was conspiring with her sister to"
+                "\\SE[2] Reynard is conspiring with his sister to eliminate"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "eliminate Izolda―and the child in her womb as well."
+                "both Isolde and the child she is carrying, ."
               ]
             },
             {

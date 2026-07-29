@@ -16577,7 +16577,7 @@
     null,
     {
       "id": 1,
-      "name": "下の階へ",
+      "name": "Downstairs",
       "note": "",
       "pages": [
         {
@@ -16657,7 +16657,7 @@
     },
     {
       "id": 2,
-      "name": "死んだ冒険者",
+      "name": "Dead Adventurer",
       "note": "",
       "pages": [
         {
@@ -16700,7 +16700,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
@@ -16743,14 +16743,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"...Probably one of the party members...\""
+                "\\SE[5] \"…Probably one of the party members…\""
               ]
             },
             {
@@ -16768,14 +16768,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"...Let's hurry on.\""
+                "\\SE[5] \"…Let’s hurry on.\""
               ]
             },
             {
@@ -16869,7 +16869,7 @@
     },
     {
       "id": 3,
-      "name": "血痕",
+      "name": "Bloodstain",
       "note": "",
       "pages": [
         {
@@ -16891,7 +16891,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "flower_chip_Celesphia",
+            "characterName": "flower_chip_selesphia",
             "direction": 6,
             "pattern": 0,
             "characterIndex": 0
@@ -16980,7 +16980,7 @@
     },
     {
       "id": 4,
-      "name": "上の階へ",
+      "name": "Upstairs",
       "note": "",
       "pages": [
         {
@@ -17060,7 +17060,7 @@
     },
     {
       "id": 5,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -17406,7 +17406,7 @@
     },
     {
       "id": 6,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -17752,7 +17752,7 @@
     },
     {
       "id": 7,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -18098,7 +18098,7 @@
     },
     {
       "id": 8,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -18444,7 +18444,7 @@
     },
     {
       "id": 9,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -18790,7 +18790,7 @@
     },
     {
       "id": 10,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -19136,7 +19136,7 @@
     },
     {
       "id": 11,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -19482,7 +19482,7 @@
     },
     {
       "id": 12,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -19828,7 +19828,7 @@
     },
     {
       "id": 13,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -20174,7 +20174,7 @@
     },
     {
       "id": 14,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -20229,7 +20229,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained a small ore."
+                "I got a small piece of ore."
               ]
             },
             {
@@ -20381,7 +20381,7 @@
     },
     {
       "id": 15,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -20436,7 +20436,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Monster Bone."
+                "I obtained a monster's bone."
               ]
             },
             {
@@ -20588,7 +20588,7 @@
     },
     {
       "id": 16,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -20643,7 +20643,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained a small ore."
+                "I got a small piece of ore."
               ]
             },
             {
@@ -20795,7 +20795,7 @@
     },
     {
       "id": 17,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -20850,7 +20850,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained a small ore."
+                "I got a small piece of ore."
               ]
             },
             {
@@ -21002,7 +21002,7 @@
     },
     {
       "id": 18,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -21057,7 +21057,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Monster Bone."
+                "I obtained a monster's bone."
               ]
             },
             {
@@ -21209,7 +21209,7 @@
     },
     {
       "id": 19,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -21264,7 +21264,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained a small ore."
+                "I got a small piece of ore."
               ]
             },
             {
@@ -21416,7 +21416,7 @@
     },
     {
       "id": 20,
-      "name": "宝箱（ブロンズバングル）",
+      "name": "Treasure Chest (Bronze Bangle)",
       "note": "",
       "pages": [
         {
@@ -21577,7 +21577,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Bronze Bangle!"
+                "I got a bronze bangle!"
               ]
             },
             {
@@ -21663,7 +21663,7 @@
     },
     {
       "id": 21,
-      "name": "宝箱（ゴーグル）",
+      "name": "Treasure Chest (Goggles)",
       "note": "",
       "pages": [
         {
@@ -21824,7 +21824,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Goggles!"
+                "I got some goggles!"
               ]
             },
             {
@@ -21924,7 +21924,7 @@
     null,
     {
       "id": 36,
-      "name": "トロッコ",
+      "name": "Mine Car",
       "note": "",
       "pages": [
         {
@@ -21985,7 +21985,7 @@
     },
     {
       "id": 37,
-      "name": "トロッコ",
+      "name": "Mine Car",
       "note": "",
       "pages": [
         {
@@ -22046,7 +22046,7 @@
     },
     {
       "id": 38,
-      "name": "トロッコ",
+      "name": "Mine Car",
       "note": "",
       "pages": [
         {
@@ -22107,7 +22107,7 @@
     },
     {
       "id": 39,
-      "name": "トロッコ",
+      "name": "Mine Car",
       "note": "",
       "pages": [
         {

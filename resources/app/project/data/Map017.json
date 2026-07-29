@@ -16,7 +16,7 @@
     "volume": 30
   },
   "disableDashing": false,
-  "displayName": "Lewin Forest",
+  "displayName": "Luwin Forest",
   "encounterList": [
     {
       "troopId": 2,
@@ -15080,15 +15080,7 @@
             "pattern": 0,
             "characterIndex": 0
           },
-          "list": [
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Shadows begin to envelop..."
-              ]
-            }
-          ],
+          "list": [],
           "moveFrequency": 3,
           "moveRoute": {
             "list": [
@@ -15175,7 +15167,7 @@
     },
     {
       "id": 3,
-      "name": "抜け道",
+      "name": "Loophole",
       "note": "",
       "pages": [
         {
@@ -15383,7 +15375,7 @@
     },
     {
       "id": 4,
-      "name": "抜け道",
+      "name": "Loophole",
       "note": "",
       "pages": [
         {
@@ -15591,7 +15583,7 @@
     },
     {
       "id": 5,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -15804,7 +15796,7 @@
     },
     {
       "id": 6,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -15915,7 +15907,7 @@
     },
     {
       "id": 7,
-      "name": "リリアン",
+      "name": "Lillian",
       "note": "",
       "pages": [
         {
@@ -16026,7 +16018,7 @@
     },
     {
       "id": 8,
-      "name": "自動",
+      "name": "Automatic",
       "note": "",
       "pages": [
         {
@@ -16414,7 +16406,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]The three of them walked down the quiet forest path."
+                "\\SE[0] The three of them were walking along a quiet forest"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "path."
               ]
             },
             {
@@ -16432,14 +16431,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sunlight filtering through the trees cast dappled"
+                "\\SE[0] The sunlight filtering through the trees casts a mottled pattern on the ground, and "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "patterns on the ground,"
+                "the sound of the wind rustling the leaves is soothing"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "to the ears."
               ]
             },
             {
@@ -16607,21 +16613,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"This is a lovely forest... I can hear the"
+                "\\SE[5] \"What a lovely forest… I can hear the trees"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "trees breathing.\""
+                "breathing .\""
               ]
             },
             {
@@ -16674,14 +16680,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Yes, the air is so clear here.\""
+                "\\SE[4] \"Yes, the air is very clear. It’s the kind"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "of forest where it wouldn’t be surprising to"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                2,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "find elves living there.\""
               ]
             },
             {
@@ -16699,21 +16737,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"You can tell the state of the forest just"
+                "\\SE[3] \"How could you possibly know the state of"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "like that?\""
+                "the forest?\""
               ]
             },
             {
@@ -16731,14 +16769,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Yes. We elves, the long-eared folk, live in"
+                "\\SE[5] \"Yes, we elves—the long-eared ones—live in"
               ]
             },
             {
@@ -16763,21 +16801,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"We listen to the forest's voice and feel"
+                "\\SE[5] \"I can hear the voice of the forest and"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "its breath.\""
+                "feel its breath,\" she said."
               ]
             },
             {
@@ -16795,21 +16833,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"That's amazing. I can't sense any of that"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "at all.\""
+                "\\SE[3] \"That’s amazing. I don’t get it at all.\""
               ]
             },
             {
@@ -16827,21 +16858,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Along with the forest's voice, we can also"
+                "\\SE[4] \"Along with the sounds of the forest, you"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "sense the breathing of monsters.\""
+                "can hear the monsters breathing, too, can’t"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                6,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "you?\""
               ]
             },
             {
@@ -16859,14 +16915,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Yes, let's proceed with caution.\""
+                "\\SE[5] \"Okay, let’s proceed with caution.\""
               ]
             },
             {
@@ -16977,9 +17033,8 @@
                 1,
                 0,
                 4,
-                "\"　Pass through Lewin Forest\""
-              ],
-              "_original": "\"　ルウィンの森を通り抜けよう\""
+                "\"　Let's go through Lewin Forest\""
+              ]
             },
             {
               "code": 222,
@@ -17079,7 +17134,7 @@
     },
     {
       "id": 9,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -17195,7 +17250,7 @@
     },
     {
       "id": 10,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -17435,7 +17490,7 @@
     },
     {
       "id": 11,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -17490,7 +17545,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Red Mushroom."
+                "I got a red mushroom."
               ]
             },
             {
@@ -17642,7 +17697,7 @@
     },
     {
       "id": 12,
-      "name": "宝箱（アイアンソード）",
+      "name": "Treasure Chest (Iron Sword)",
       "note": "",
       "pages": [
         {
@@ -17804,7 +17859,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Iron Sword!"
+                "I got the Iron Sword!"
               ]
             },
             {
@@ -17941,7 +17996,7 @@
     },
     {
       "id": 13,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -17996,7 +18051,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained a white flower."
+                "I got some white flowers."
               ]
             },
             {
@@ -18148,7 +18203,7 @@
     },
     {
       "id": 14,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -18203,7 +18258,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained a white flower."
+                "I got some white flowers."
               ]
             },
             {
@@ -18355,7 +18410,7 @@
     },
     {
       "id": 15,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -18701,7 +18756,7 @@
     },
     {
       "id": 16,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -19047,7 +19102,7 @@
     },
     {
       "id": 17,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -19393,7 +19448,7 @@
     },
     {
       "id": 18,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -19739,7 +19794,7 @@
     },
     {
       "id": 19,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -19794,7 +19849,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained the Yellow Flower."
+                "I got a yellow flower."
               ]
             },
             {
@@ -19946,7 +20001,7 @@
     },
     {
       "id": 20,
-      "name": "ワープ",
+      "name": "Warp",
       "note": "",
       "pages": [
         {
@@ -19989,7 +20044,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Warp to the Lewin Forest, Green Vale exit?"
+                "Would you like to warp to the Greenvale exit of Lewin"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Forest?"
               ]
             },
             {
@@ -20004,10 +20066,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -20015,7 +20073,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -20040,7 +20098,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {

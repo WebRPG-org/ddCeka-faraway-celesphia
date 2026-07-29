@@ -1363,7 +1363,7 @@
     null,
     {
       "id": 1,
-      "name": "外へ",
+      "name": "Outside",
       "note": "",
       "pages": [
         {
@@ -1435,7 +1435,7 @@
     },
     {
       "id": 2,
-      "name": "ヨルナギ",
+      "name": "Yorunagi",
       "note": "",
       "pages": [
         {
@@ -1621,14 +1621,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]？？？"
+                "???"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"Hello. Chosen one.\" I am Yornagi.\""
+                "\\SE[9] \"Hello, Chosen One. I am Yornagi.\""
               ]
             },
             {
@@ -1646,21 +1646,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Yornagi"
+                "Yorunagi "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"I never expected anyone to play through Rose's route a"
+                "\\SE[9] \"I never thought anyone would actually play through"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "second time.\""
+                "the Rose arc a second time.\""
               ]
             },
             {
@@ -1678,14 +1678,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Yornagi"
+                "Yorunagi "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"Maybe... one in a thousand? Something like that.\""
+                "\\SE[9] \"Probably… about one in 1,000, or something like"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "that?\""
               ]
             },
             {
@@ -1703,21 +1710,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Yornagi"
+                "Yorunagi "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"For someone who's gone that far...\\C[1]just for you\\C[0], I have"
+                "\\SE[9] \"For you, \\C[1] who've played this far, \\C[0]... there's a"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "a special gift.\""
+                "special gift just for you.\""
               ]
             },
             {
@@ -1735,21 +1742,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Yornagi"
+                "Yorunagi "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"That's right―\\C[3]a next episode preview\\C[0]. I'll show you"
+                "\\SE[9] \"That’s right, \\C[3] next episode preview \\C[0]. We’ll be"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "information about my next work.\""
+                "showing you information about Yorunagi’s next project.\""
               ]
             },
             {
@@ -1767,14 +1774,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Yornagi"
+                "Yorunagi "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"Now then, let's get right to it. Please, enjoy.\""
+                "\\SE[9] \"Well then, let’s get right to it. Please go ahead.\""
               ]
             },
             {
@@ -1993,14 +2000,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Yorunagi"
+                "Yorunagi "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"Next time, I plan to make something like this.\""
+                "\\SE[9] \"Here's what I plan to make next.\""
               ]
             },
             {
@@ -2018,21 +2025,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Yorunagi"
+                "Yorunagi "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"Completely different from fantasy, it's a modern"
+                "\\SE[9]: \"In stark contrast to fantasy, this is a contemporary"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "setting with no battles.\""
+                "story, and there are no battles.\""
               ]
             },
             {
@@ -2050,21 +2057,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Yorunagi"
+                "Yorunagi "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"Through three years of manga club activities, I hope"
+                "\\SE[9]: \"Through my three years of activities in the manga"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "to draw something nostalgic.\""
+                "club, I hope to create stories that capture the essence"
               ]
             },
             {
@@ -2082,21 +2089,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Yorunagi"
+                "Yorunagi "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"The erotic scenes will be tamer than this one, but"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "please look forward to the usual situations.\""
+                "of 'Aoharu' .\""
               ]
             },
             {
@@ -2114,14 +2114,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Yorunagi"
+                "Yorunagi "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"Oh, right, that's right.\""
+                "\\SE[9]: \"The erotic scenes will be a bit tamer in this title,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "but please look forward to the usual staple scenarios.\""
               ]
             },
             {
@@ -2139,21 +2146,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Yorunagi"
+                "Yorunagi "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"This is a \\C[2]multi-ending\\C[0] and \\C[2]completion\\C[0] free Rose arc"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "special gift, only for you \\c[2]who would play it a second\""
+                "\\SE[9] \"Oh, that’s right.\""
               ]
             },
             {
@@ -2171,14 +2171,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Yorunagi"
+                "Yorunagi "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "time\\C[0] to the extent of \\C[3]you\\C[0].\""
+                "\\SE[9] \"This is a Rosé chapter with no \\C[2] multi-endings, \\C[0] no \\C[2]"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "deep gameplay, \\C[0] or anything else—it’s a \\c[2] second"
               ]
             },
             {
@@ -2196,21 +2203,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Yorunagi"
+                "Yorunagi "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"I'd really appreciate it if you didn't post this on"
+                "playthrough \\C[0] that’s so special 0xF00 33—a special gift \\c[4]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "SNS. \\C[2]It's a secret\\C[0]. Keep it quiet from the walkthrough\""
+                "that I’ve shown only to you \\C[0].\""
               ]
             },
             {
@@ -2228,14 +2235,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Yorunagi"
+                "Yorunagi "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "sites too, okay?\""
+                "\\SE[9] \"It would be great if you could avoid posting this on"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "social media. \\C[2] It’s a secret \\C[0]. People who run"
               ]
             },
             {
@@ -2253,21 +2267,39 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Yorunagi"
+                "Yorunagi "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"Well then, goodbye. Let's meet again in the next"
+                "walkthrough sites, please keep this under wraps.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "work.\""
+                "Yorunagi "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[9] \"Well then, goodbye. See you in the next installment.\""
               ]
             },
             {

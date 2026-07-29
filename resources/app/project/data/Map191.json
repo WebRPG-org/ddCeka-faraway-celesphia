@@ -16,7 +16,7 @@
     "volume": 40
   },
   "disableDashing": false,
-  "displayName": "Sacred Grove Forest",
+  "displayName": "The Sacred Forest",
   "encounterList": [],
   "encounterStep": 30,
   "height": 39,
@@ -4951,7 +4951,7 @@
     null,
     {
       "id": 1,
-      "name": "リーフフォールの村へ",
+      "name": "To the Village of Leaffall",
       "note": "",
       "pages": [
         {
@@ -4994,7 +4994,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Return to Leaf Fall Village?"
+                "Do you want to go back to Leaffall Village?"
               ]
             },
             {
@@ -5009,10 +5009,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -5020,7 +5016,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -5052,7 +5048,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -5192,7 +5188,7 @@
     },
     {
       "id": 2,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -5366,7 +5362,7 @@
     },
     {
       "id": 3,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -5885,7 +5881,7 @@
     },
     {
       "id": 4,
-      "name": "ロゼ",
+      "name": "Rosé",
       "note": "",
       "pages": [
         {
@@ -6098,7 +6094,7 @@
     },
     {
       "id": 5,
-      "name": "シスター・アルマ",
+      "name": "Sister Alma",
       "note": "",
       "pages": [
         {
@@ -6209,7 +6205,7 @@
     },
     {
       "id": 6,
-      "name": "自動イベント",
+      "name": "Automatic Events",
       "note": "",
       "pages": [
         {
@@ -6257,9 +6253,8 @@
                 1,
                 0,
                 4,
-                "\"　Go to the ruins deep inside the Sanctuary Forest\""
-              ],
-              "_original": "\"　聖域の森の奥にある遺跡へ行こう\""
+                "\"　Let's go to the ruins deep in the Sacred Forest.\""
+              ]
             },
             {
               "code": 211,
@@ -6825,21 +6820,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Thick trees loom overhead, their dense foliage letting"
+                "A thin morning mist was seeping out from among the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "only a faint morning mist seep through. The darkness"
+                "dense, lush trees. It was a darkness that seemed to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "stretched endlessly."
+                "stretch on forever."
               ]
             },
             {
@@ -6899,14 +6894,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alma"
+                "Sister Alma "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"This is the Sacred Grove.\""
+                "\\SE[8]: \"This is the Sacred Forest.\""
               ]
             },
             {
@@ -6924,21 +6919,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alma"
+                "Sister Alma "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"Deep within this forest lies an ancient"
+                "\\SE[8]: \"There is an ancient temple deep within"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "temple. The sacred grounds lie even further\""
+                "this forest. The sanctuary lies even deeper"
               ]
             },
             {
@@ -6956,14 +6951,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alma"
+                "Sister Alma "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "beyond.\""
+                "within.\""
               ]
             },
             {
@@ -6981,21 +6976,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Got it. So we just head for the temple"
+                "\\SE[1] \"I get it. So I just need to head for the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "first, right?\""
+                "temple first, right?\""
               ]
             },
             {
@@ -7013,21 +7008,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alma"
+                "Sister Alma "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"It's a dense forest. The terrain is easy to"
+                "\\SE[8]: \"This is a deep forest. It's easy to lose"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "lose your bearings in. Please be very\""
+                "your bearings and get lost here. Please be"
               ]
             },
             {
@@ -7045,14 +7040,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alma"
+                "Sister Alma "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "careful.\""
+                "very careful.\""
               ]
             },
             {
@@ -7096,14 +7091,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alma"
+                "Sister Alma "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"Please take this.\""
+                "\\SE[8]: \"Please take this.\""
               ]
             },
             {
@@ -7143,7 +7138,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained \\C[3]Log Stone\\C[0]"
+                "I obtained the \\C[3] Log Stone \\C[0]"
               ]
             },
             {
@@ -7161,21 +7156,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alma"
+                "Sister Alma "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"This is a magical tool that lets you return"
+                "\\SE[8]: \"This is a magical artifact that allows"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "to a specific location.\""
+                "you to return to a specific location.\""
               ]
             },
             {
@@ -7193,21 +7188,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alma"
+                "Sister Alma "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"I've registered the entrance to this \\C[3]Sacred"
+                "\\SE[8]: \"I’ve saved the \\C[3] entrance to the Sacred"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Grove\\C[0]. Use it if you ever get lost and have\""
+                "Forest \\C[0]. Please use this if you ever get"
               ]
             },
             {
@@ -7225,14 +7220,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alma"
+                "Sister Alma "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "no other choice.\""
+                "lost and don’t know what to do.\""
               ]
             },
             {
@@ -7281,14 +7276,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alma"
+                "Sister Alma "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"Also, Kyle-sama, this is for you.\""
+                "\\SE[8]: \"And Mr. Kyle, please take a look at"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "this.\""
               ]
             },
             {
@@ -7363,7 +7365,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Obtained \\C[3]Blank Holy Talisman\\C[0]"
+                "I obtained the \\C[3] Blank Talisman \\C[0]."
               ]
             },
             {
@@ -7381,21 +7383,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alma"
+                "Sister Alma "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"This can transfer the effects of a curse"
+                "\\SE[8]: \"This allows you to transfer the curse"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "onto it using the power of light.\""
+                "using the magic of light.\""
               ]
             },
             {
@@ -7413,21 +7415,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alma"
+                "Sister Alma "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"Take the weakened curse from the sacred"
+                "\\SE[8]: \"Please transfer the curse—which has been"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "grounds, transfer it to this talisman, and\""
+                "weakened within the sanctuary—to this"
               ]
             },
             {
@@ -7445,14 +7447,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alma"
+                "Sister Alma "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "then burn it.\""
+                "talisman , and then burn it.\""
               ]
             },
             {
@@ -7496,14 +7498,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Understood. Thank you, Sister Alma.\""
+                "\\SE[3] \"Got it. Thanks, Sister Alma.\""
               ]
             },
             {
@@ -7587,21 +7589,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma"
+                "Sister Alma "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(I also wish to give you a personal \\C[3]reward\\C[0],"
+                "(Also, since I’d like to pay you a separate \\C[3]"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "so please come to \\C[3]my room\\C[0].)"
+                "gratuity \\C[0], please come to \\C[3] my room \\C[0].)"
               ]
             },
             {
@@ -7888,14 +7890,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Sister, Rose, get behind me―\""
+                "\\SE[3]: \"Sister, Rose, get behind me…\""
               ]
             },
             {
@@ -8001,14 +8003,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Rose?!\""
+                "\\SE[3] \"Rosé!?\""
               ]
             },
             {
@@ -8026,14 +8028,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Just leave it to me.\""
+                "\\SE[1] \"Never mind. Just leave it to me.\""
               ]
             },
             {
@@ -8313,14 +8315,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Wait... are you \\C[2]Fang the Martial Artist\\C[0]?!\""
+                "\\SE[3]: \"No way—could it be \\C[2] Fighter <Fang> \\C[0]!?\""
               ]
             },
             {
@@ -8338,14 +8340,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Hmph. What do you think?\""
+                "\\SE[1] \"Heh. What do you think?\""
               ]
             },
             {
@@ -8363,14 +8365,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I'm counting on you. Take the front line.\""
+                "\\SE[3]: \"I’m counting on you. You’ve got the front"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "lines covered.\""
               ]
             },
             {
@@ -8423,21 +8432,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alma"
+                "Sister Alma "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"Then I shall return to the village. May the"
+                "\\SE[8]: \"Well then, I'll be heading back to the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "blessings of Goddess Fortuna be with\""
+                "village. May the goddess Fortuna watch over"
               ]
             },
             {
@@ -8455,7 +8464,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Alma"
+                "Sister Alma "
               ]
             },
             {
@@ -8524,7 +8533,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose has joined the party."
+                "Rosé joined the party."
               ]
             },
             {
@@ -8542,14 +8551,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Alright, let's go, Rose.\""
+                "\\SE[3] \"All right, let’s go, Rose.\""
               ]
             },
             {
@@ -8567,14 +8576,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Yeah. Let's go!\""
+                "\\SE[1] \"Yeah. Let’s go!\""
               ]
             },
             {
@@ -8611,7 +8620,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There are a few events scattered throughout the forest."
+                "There are several events in the forest."
               ]
             },
             {
@@ -8629,14 +8638,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You can proceed without seeing them―there's no penalty."
+                "There's no penalty for skipping this and moving on."
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Enjoy at your own pace."
+                "Feel free to enjoy the game however you like."
               ]
             },
             {
@@ -8805,7 +8814,7 @@
     },
     {
       "id": 7,
-      "name": "モンスター",
+      "name": "Monster",
       "note": "",
       "pages": [
         {

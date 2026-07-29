@@ -1363,7 +1363,7 @@
     null,
     {
       "id": 1,
-      "name": "イゾルダ",
+      "name": "Isolde",
       "note": "",
       "pages": [
         {
@@ -1423,7 +1423,7 @@
     },
     {
       "id": 2,
-      "name": "レイナード",
+      "name": "Reynard",
       "note": "",
       "pages": [
         {
@@ -1646,7 +1646,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]――And so she became with child."
+                "\\SE[2]—And she became pregnant."
               ]
             },
             {
@@ -1664,14 +1664,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]When she pressed him for marriage, Reynard reluctantly"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "nodded."
+                "\\SE[2] When pressed to marry, Reynard reluctantly nodded."
               ]
             },
             {
@@ -1689,7 +1682,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]She never noticed."
+                "\\SE[2] She didn't notice."
               ]
             },
             {
@@ -1707,7 +1700,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[2]That his answer held not a single shred of love."
+                "\\SE[2] The fact that there wasn't a shred of love in that"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "reply."
               ]
             },
             {

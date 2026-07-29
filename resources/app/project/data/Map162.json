@@ -1771,7 +1771,7 @@
     null,
     {
       "id": 1,
-      "name": "松明",
+      "name": "Torch",
       "note": "",
       "pages": [
         {
@@ -1831,7 +1831,7 @@
     },
     {
       "id": 2,
-      "name": "松明",
+      "name": "Torch",
       "note": "",
       "pages": [
         {
@@ -1891,7 +1891,7 @@
     },
     {
       "id": 3,
-      "name": "松明",
+      "name": "Torch",
       "note": "",
       "pages": [
         {
@@ -1951,7 +1951,7 @@
     },
     {
       "id": 4,
-      "name": "松明",
+      "name": "Torch",
       "note": "",
       "pages": [
         {
@@ -2011,7 +2011,7 @@
     },
     {
       "id": 5,
-      "name": "宝箱（エアリアル・デュオ）",
+      "name": "Treasure Chest (Aerial Duo)",
       "note": "",
       "pages": [
         {
@@ -2191,7 +2191,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Congratulations on clearing the puzzle!"
+                "Congratulations on solving the puzzle!"
               ]
             },
             {
@@ -2218,7 +2218,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Aerial Duo!"
+                "I got the Aerial Duo!"
               ]
             },
             {
@@ -2381,7 +2381,7 @@
     },
     {
       "id": 7,
-      "name": "帰る",
+      "name": "Go home",
       "note": "",
       "pages": [
         {
@@ -2424,7 +2424,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you want to return to the puzzle entrance?"
+                "Do you want to go back to the puzzle entrance?"
               ]
             },
             {
@@ -2439,10 +2439,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -2450,7 +2446,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -2482,7 +2478,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {

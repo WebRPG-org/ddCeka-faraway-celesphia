@@ -16,7 +16,7 @@
     "volume": 30
   },
   "disableDashing": false,
-  "displayName": "Lewin Forest",
+  "displayName": "Luwin Forest",
   "encounterList": [
     {
       "troopId": 3,
@@ -15068,7 +15068,7 @@
     null,
     {
       "id": 1,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -15184,7 +15184,7 @@
     },
     {
       "id": 2,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -15412,7 +15412,7 @@
     },
     {
       "id": 3,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -15467,7 +15467,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained the Yellow Flower."
+                "I got a yellow flower."
               ]
             },
             {
@@ -15619,7 +15619,7 @@
     },
     {
       "id": 4,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -15965,7 +15965,7 @@
     },
     {
       "id": 5,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -16311,7 +16311,7 @@
     },
     {
       "id": 6,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -16657,7 +16657,7 @@
     },
     {
       "id": 7,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -17003,7 +17003,7 @@
     },
     {
       "id": 8,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -17349,7 +17349,7 @@
     },
     {
       "id": 9,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -17695,7 +17695,7 @@
     },
     {
       "id": 10,
-      "name": "宝箱（絹のローブ）",
+      "name": "Treasure Chest (Silk Robe)",
       "note": "",
       "pages": [
         {
@@ -17858,7 +17858,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained a Power Stone!"
+                "I got a power stone!"
               ]
             },
             {
@@ -17995,7 +17995,7 @@
     },
     {
       "id": 11,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -18050,7 +18050,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Blue Mushroom."
+                "I got a blue mushroom."
               ]
             },
             {
@@ -18202,7 +18202,7 @@
     },
     {
       "id": 12,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -18257,7 +18257,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained a red flower."
+                "I got a red flower."
               ]
             },
             {
@@ -18409,7 +18409,7 @@
     },
     {
       "id": 13,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -18464,7 +18464,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained a red flower."
+                "I got a red flower."
               ]
             },
             {
@@ -18616,7 +18616,7 @@
     },
     {
       "id": 14,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -18671,7 +18671,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained the Yellow Flower."
+                "I got a yellow flower."
               ]
             },
             {
@@ -18823,7 +18823,7 @@
     },
     {
       "id": 15,
-      "name": "ボス前回復",
+      "name": "Healing Before the Boss Fight",
       "note": "",
       "pages": [
         {
@@ -18866,14 +18866,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Restore all HP/MP?"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "(once only)"
+                "Do you want to fully restore your HP/MP? (once only)"
               ]
             },
             {
@@ -18888,10 +18881,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -18899,7 +18888,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -18937,7 +18926,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Fully recovered."
+                "I've fully recovered."
               ]
             },
             {
@@ -18958,7 +18947,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {

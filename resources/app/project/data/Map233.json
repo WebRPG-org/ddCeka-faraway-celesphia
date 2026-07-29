@@ -16837,7 +16837,7 @@
     null,
     {
       "id": 1,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -17356,7 +17356,7 @@
     },
     {
       "id": 2,
-      "name": "自動エンディング",
+      "name": "Automatic Ending",
       "note": "",
       "pages": [
         {
@@ -17467,7 +17467,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]―――――――――"
+                "―――――――――"
               ]
             },
             {
@@ -17485,7 +17485,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]――――――"
+                "――――――"
               ]
             },
             {
@@ -17503,7 +17503,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]―――"
+                "―――"
               ]
             },
             {
@@ -17552,7 +17552,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]――A distant bell toll echoes."
+                "―――The sound of a bell can be heard from afar"
               ]
             },
             {
@@ -17731,14 +17731,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"...Congratulations, Rose. Be happy,\""
+                "\\SE[3] \"………Congratulations, Rose. I hope you’ll be"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "happy.\""
               ]
             },
             {
@@ -18111,14 +18118,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I love you. I adore you. I'll never forget you... ―"
+                "\"I like you. I love you. I'll never, ever forget..."
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Rose\""
+                "—Rose\""
               ]
             },
             {
@@ -18150,14 +18157,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Damn it... writing that without asking me,\""
+                "\\SE[3]: \"Seriously... writing all that on his"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "own.\""
               ]
             },
             {
@@ -19991,14 +20005,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "――The sound of the bell faded into the distance. The"
+                "―――The sound of the bell fades into the distance. The"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "cheers faded as well."
+                "cheers fade into the distance as well."
               ]
             },
             {
@@ -20023,7 +20037,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He looked up at the sky―high, vast, and endless."
+                "When I looked up at the sky, it was high, vast, and"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "seemed to stretch on forever."
               ]
             },
             {
@@ -20048,14 +20069,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Rose chose to put down roots. In one place. With one"
+                "Rose chose to put down roots. In one place, with one"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "human. \\! That was Rose's answer."
+                "person. \\! That was the answer Rose had come up with."
               ]
             },
             {
@@ -20080,14 +20101,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Kyle chose to keep moving. From town to town. From"
+                "Kyle made his choice, too. From town to town. From"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "encounter to encounter. He chose to never stop walking."
+                "encounter to encounter. He chose to keep moving"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "forward."
               ]
             },
             {
@@ -20112,14 +20140,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Neither was right. Neither was wrong. They simply chose"
+                "Neither is necessarily right. It’s just that each has"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "different paths."
+                "chosen their own path."
               ]
             },
             {
@@ -20144,14 +20172,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "What kind of meeting awaited him in the next town? What"
+                "I wonder what kind of encounters await me in the next"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "kind of request would be waiting?"
+                "town. I wonder what kind of quests are waiting for me."
               ]
             },
             {
@@ -20176,7 +20204,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The sky was high, the road stretched on."
+                "The sky is high, and the road stretches on."
               ]
             },
             {
@@ -20201,7 +20229,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The adventurer's feet never stopped―"
+                "An adventurer's journey never ends—"
               ]
             },
             {
@@ -20226,7 +20254,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "――Celesphia of the Distant Skies v2.0――"
+                "―――Distant Ceresphere v2.0―――"
               ]
             },
             {
@@ -20251,7 +20279,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Planning: Yornagi"
+                "Project "
               ]
             },
             {
@@ -20283,7 +20311,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Scenario: Yornagi"
+                "Scenario "
               ]
             },
             {
@@ -20315,7 +20343,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Illustration: Yornagi"
+                "Illustration "
               ]
             },
             {
@@ -20347,7 +20375,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Development & Script: Yornagi"
+                "Development & Scripting "
               ]
             },
             {
@@ -20379,7 +20407,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Character Design: Yornagi"
+                "Character Design "
               ]
             },
             {
@@ -20411,7 +20439,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Events: Yornagi"
+                "Event "
               ]
             },
             {
@@ -20443,7 +20471,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Level Design: Yornagi"
+                "Level Design "
               ]
             },
             {
@@ -20515,14 +20543,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "With this, the tale of \"Celesphia of the Distant Skies\""
+                "With that, the story of *The Distant Ceresphere* comes"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "reaches its end."
+                "to a close at ."
               ]
             },
             {
@@ -20540,14 +20568,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Thank you for watching all the way to the True End, and"
+                "Thank you so much for watching all the way through the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "this Rose End."
+                "True Ending and this Rose Ending."
               ]
             },
             {
@@ -20565,7 +20593,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Truly, thank you so much. ―Yornagi"
+                "Thank you so, so much. "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "―――Yorunagi"
               ]
             },
             {
@@ -21104,7 +21139,7 @@
     },
     {
       "id": 11,
-      "name": "モブ",
+      "name": "Mob",
       "note": "",
       "pages": [
         {

@@ -4537,7 +4537,7 @@
     null,
     {
       "id": 1,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -4711,7 +4711,7 @@
     },
     {
       "id": 2,
-      "name": "魔法陣",
+      "name": "Magic Circle",
       "note": "",
       "pages": [
         {
@@ -4822,7 +4822,7 @@
     },
     {
       "id": 3,
-      "name": "魔法陣",
+      "name": "Magic Circle",
       "note": "",
       "pages": [
         {
@@ -4933,7 +4933,7 @@
     },
     {
       "id": 4,
-      "name": "魔法陣",
+      "name": "Magic Circle",
       "note": "",
       "pages": [
         {
@@ -5044,7 +5044,7 @@
     },
     {
       "id": 5,
-      "name": "魔法陣",
+      "name": "Magic Circle",
       "note": "",
       "pages": [
         {
@@ -5155,7 +5155,7 @@
     },
     {
       "id": 6,
-      "name": "魔法陣中央",
+      "name": "Center of the Magic Circle",
       "note": "",
       "pages": [
         {
@@ -5266,7 +5266,7 @@
     },
     {
       "id": 7,
-      "name": "魔法陣",
+      "name": "Magic Circle",
       "note": "",
       "pages": [
         {
@@ -5377,7 +5377,7 @@
     },
     {
       "id": 8,
-      "name": "魔法陣",
+      "name": "Magic Circle",
       "note": "",
       "pages": [
         {
@@ -5488,7 +5488,7 @@
     },
     {
       "id": 9,
-      "name": "魔法陣",
+      "name": "Magic Circle",
       "note": "",
       "pages": [
         {
@@ -5599,7 +5599,7 @@
     },
     {
       "id": 10,
-      "name": "魔法陣",
+      "name": "Magic Circle",
       "note": "",
       "pages": [
         {
@@ -5710,7 +5710,7 @@
     },
     {
       "id": 11,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -6229,7 +6229,7 @@
     },
     {
       "id": 12,
-      "name": "ロゼ",
+      "name": "Rosé",
       "note": "",
       "pages": [
         {
@@ -6493,7 +6493,7 @@
     },
     {
       "id": 13,
-      "name": "イベント",
+      "name": "Events",
       "note": "",
       "pages": [
         {
@@ -6548,7 +6548,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There's a battle coming up. Are you ready?"
+                "A battle is about to begin. Are you ready?"
               ]
             },
             {
@@ -6563,10 +6563,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -6574,7 +6570,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -6600,7 +6596,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -7165,21 +7161,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Despite the miasma-choked forest and the ruins"
+                "Despite being located in a forest filled with miasma"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "surrounding it, this area alone was enveloped in a"
+                "and within the ruins, this area alone was enveloped in"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "serene, almost sacred atmosphere."
+                "an atmosphere of tranquility."
               ]
             },
             {
@@ -7197,14 +7193,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"So this is... the sacred ground.\""
+                "\\SE[1] \"This is… the sanctuary.\""
               ]
             },
             {
@@ -7222,14 +7218,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Yeah. No doubt. What a pristine place.\""
+                "\\SE[3]: \"Ah. No doubt about it. What a pristine"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "land.\""
               ]
             },
             {
@@ -7247,14 +7250,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It was like a sterile chamber. Here, they could rewrite"
+                "It’s like a cleanroom. Here, I can rewrite the false"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the corrupted truth of the curse into the correct one."
+                "facts about the curse into the true facts."
               ]
             },
             {
@@ -7272,14 +7275,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Let's get started right away.\""
+                "\\SE[1] \"Let's get started right away.\""
               ]
             },
             {
@@ -7297,14 +7300,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Right. Rose, stand in the center.\""
+                "\\SE[3]: \"Ah. Rose, stand in the center.\""
               ]
             },
             {
@@ -7525,7 +7528,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Kyle pressed a blank holy talisman against Rose's back."
+                "Kyle stuck a blank talisman on Rose's back."
               ]
             },
             {
@@ -7569,14 +7572,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Here we go, Rose.\""
+                "\\SE[3] \"Let's go, Rose.\""
               ]
             },
             {
@@ -7606,14 +7609,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Then, he poured in the purest cleansing power of the"
+                "And then, I channel the power of purification— , the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "divine blessing's light magic."
+                "purest form of divine light magic—into it."
               ]
             },
             {
@@ -7683,7 +7686,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3] \"……!\""
               ]
             },
             {
@@ -7734,14 +7744,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A black mist-like substance peeled away from Rose and"
+                "Something like a black mist peeled away from Rosé and"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "was absorbed into the blank holy talisman."
+                "was drawn into the blank talisman."
               ]
             },
             {
@@ -7759,14 +7769,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Ugh... nn...\""
+                "\\SE[1] \"Ugh… Ugh…\""
               ]
             },
             {
@@ -7784,21 +7794,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Hang in there, Rose... Just a little more,"
+                "\\SE[3]: \"Hang in there, Rose... You're almost"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "endure it...!\""
+                "there—just hang in there a little"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "longer...!\""
               ]
             },
             {
@@ -7816,21 +7851,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The sensation of something clinging to her body being"
+                "The sensation of something peeling away from your body."
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "stripped away―it was like having her skin peeled off."
+                "It must be similar to having your skin peeled off. It’s"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It had to hurt."
+                "bound to hurt."
               ]
             },
             {
@@ -7903,21 +7938,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Just as the curse's description was being transcribed"
+                "Just as the curse is being transcribed one character at"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "one character at a time, black patterns emerged on the"
+                "a time, a black pattern begins to emerge on the blank"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "blank talisman."
+                "page labeled ."
               ]
             },
             {
@@ -7935,21 +7970,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "And as the black patterns spread to the edges of the"
+                "Then, the black pattern spread all the way to the edge"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "talisman, the black mist spilling from Rose faded, then"
+                "of the talisman. The black mist that had poured out of"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "vanished entirely. The curse had been fully transferred"
+                "Rose faded and then vanished. The curse had been"
               ]
             },
             {
@@ -7967,7 +8002,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "to the talisman."
+                "completely transferred to the talisman."
               ]
             },
             {
@@ -7999,14 +8034,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"It's done. Rose.\""
+                "\\SE[3] \"It’s over, Rose.\""
               ]
             },
             {
@@ -8170,14 +8205,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"...It's... over?\""
+                "\\SE[1] \"...Is it... over?\""
               ]
             },
             {
@@ -8195,21 +8230,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Yeah. Now all that's left is to incinerate"
+                "\\SE[3]: \"Ah. All that's left is to burn this"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "this talisman...!\""
+                "sacred symbol...!\""
               ]
             },
             {
@@ -8227,7 +8262,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Kyle infused it with his magic. Then―"
+                "Kyle channeled his magic. Then…"
               ]
             },
             {
@@ -8364,14 +8399,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Black mist burst from the talisman as if devouring it,"
+                "Suddenly, a black mist burst forth as if devouring the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "swirling and expanding, taking shape."
+                "sacred symbol, swirling in a vortex as it spread out"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "and took shape."
               ]
             },
             {
@@ -8401,7 +8443,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "And it formed into the figure of a grotesque monster."
+                "And it took the form of a monstrous creature."
               ]
             },
             {
@@ -8419,14 +8461,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"W-What?!\""
+                "\\SE[3] \"What…!?\""
               ]
             },
             {
@@ -8444,14 +8486,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"……！！！\""
+                "\\SE[1] \"……!!!\""
               ]
             },
             {
@@ -8483,14 +8525,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "At that moment, something surged into the minds of the"
+                "At that moment, something flooded into both of their"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "two of them."
+                "minds."
               ]
             },
             {
@@ -8732,14 +8774,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Izolda...?!\""
+                "\\SE[3] \"Izo… Ruda…!?\""
               ]
             },
             {
@@ -8757,14 +8799,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Yes... I saw it too...\""
+                "\\SE[1]: \"Yeah... I saw it too...\""
               ]
             },
             {
@@ -8794,7 +8836,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"---Hateful... hateful... hateful...!\""
+                "\"―――I hate you… I hate you… I hate you…!\""
               ]
             },
             {
@@ -8812,21 +8854,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"---Everything in this world is hateful...!"
+                "\"―――I hate everything in this world…! I hate"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Happiness is hateful...! Nothing is left"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "that I don't hate...!!\""
+                "happiness…! I hate absolutely everything…!!\""
               ]
             },
             {
@@ -8853,14 +8888,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"...I do pity you.\""
+                "\\SE[1] \"...I do feel sorry for him.\""
               ]
             },
             {
@@ -8885,21 +8920,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"But it has nothing to do with me. It's just"
+                "\\SE[1] \"But that’s none of my business. Isn’t it"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "that you simply lacked the eyes to see a\""
+                "just that you, , didn’t know how to pick a"
               ]
             },
             {
@@ -8917,14 +8952,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "real man.\""
+                "man?\""
               ]
             },
             {
@@ -8976,21 +9011,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"---I won't forgive you! Anything that finds"
+                "\"―――I won’t forgive you! Anyone who finds"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "happiness... I'll kill it all! Every last"
+                "happiness… I’ll kill them all, every last"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "thing!!!!\""
+                "one of them!!!!\""
               ]
             },
             {
@@ -9043,14 +9078,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Here she comes!\""
+                "\\SE[3] \"Here they come!\""
               ]
             },
             {
@@ -9068,14 +9103,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Yes, I'll send you straight to the"
+                "\\SE[1]: \"Yeah, I’ll send you right back to the"
               ]
             },
             {
@@ -9248,14 +9283,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"...! My body...!\""
+                "\\SE[3] \"………! My body can’t take it anymore…!\""
               ]
             },
             {
@@ -9280,7 +9315,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Izolda's body gradually crumbles away."
+                "Isolda's body is gradually falling apart."
               ]
             },
             {
@@ -9298,14 +9333,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"---Aaaah!! At least I'll take one of you"
+                "\"―――Aaaah!! I’ll at least take one of you"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "with me...!!\""
+                "down with me to …!!!\""
               ]
             },
             {
@@ -9323,14 +9358,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"...This...!\""
+                "\\SE[3] \"…You…!\""
               ]
             },
             {
@@ -9360,14 +9395,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Kyle, step back.\""
+                "\\SE[1] \"Kyle’s hanging back.\""
               ]
             },
             {
@@ -9394,14 +9429,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"I'll handle the rest. Just watch, Kyle.\""
+                "\\SE[1] \"I’ll handle the rest on my own. Kyle, just"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "watch.\""
               ]
             },
             {
@@ -9419,14 +9461,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"...Understood.\""
+                "\\SE[3] \"………Okay.\""
               ]
             },
             {
@@ -9553,14 +9595,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Izolda... I'll make this quick for you.\""
+                "\\SE[1] \"Isolde. …I’ll put you out of your misery"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "now.\""
               ]
             },
             {
@@ -9674,14 +9723,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Eternal Flashing Fist Barrage!!\""
+                "\\SE[1] \"Kuru Flash Combo!!!\""
               ]
             },
             {
@@ -9853,14 +9902,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"...Be happy in your next life.\""
+                "\\SE[1] \"…I hope you’ll be happy in the next life.\""
               ]
             },
             {
@@ -9878,14 +9927,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Izolda's crumbling body. Within it, a faint glimpse of"
+                "Isolde’s body was crumbling away. Amid the ruins, I"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "her phantom seemed to smile."
+                "thought I saw a faint phantom of Isolde— —that seemed"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "to be smiling."
               ]
             },
             {
@@ -9931,7 +9987,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]--------(Thank you)"
+                "―――――(Thank you)"
               ]
             },
             {
@@ -10042,14 +10098,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Good work. Rose.\""
+                "\\SE[3] \"Good work, Rose.\""
               ]
             },
             {
@@ -10067,14 +10123,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Haa~... I'm exhausted... Finally done...\""
+                "\\SE[1] \"Ugh, I’m exhausted… It’s finally over…\""
               ]
             },
             {
@@ -10158,14 +10214,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Then suddenly, a large amount of sand began pouring out"
+                "Suddenly, a large amount of sand poured out from"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "from between Rose's clothes."
+                "between Rose's clothes."
               ]
             },
             {
@@ -10199,21 +10255,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"W-What the―?! My underwear just turned into"
+                "\\SE[1]: \"W-wow, that was a shock… All of a sudden,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "a pile of sand all of a sudden...\""
+                "my underwear turned into sand…\""
               ]
             },
             {
@@ -10262,21 +10318,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"A-And I'm not wearing any panties right"
+                "\\SE[1] \"W-wait, I’m not wearing any panties! Does"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "now?! Are you saying we're walking back to\""
+                "that mean I have to walk all the way back to"
               ]
             },
             {
@@ -10294,14 +10350,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the village like this?!\""
+                "the village like this!?\""
               ]
             },
             {
@@ -10457,14 +10513,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Then let's head back.\""
+                "\\SE[3] \"Well then, I guess I'll head home.\""
               ]
             },
             {
@@ -10482,14 +10538,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Yeah! Let's go home!\""
+                "\\SE[1] \"That’s right! Let’s go home!\""
               ]
             },
             {
@@ -10512,21 +10568,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Oh, but there's somewhere I want to stop by"
+                "\\SE[1]: \"Oh, there’s somewhere I want to stop by"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "before we go back to the mansion.\""
+                "before we head back to the mansion.\""
               ]
             },
             {
@@ -10544,14 +10600,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Of course, you'll come with me, right?\""
+                "\\SE[1] \"Of course you’ll go out with me, right?\""
               ]
             },
             {
@@ -10569,14 +10625,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Huh? Where...?\""
+                "\\SE[3] \"Huh? Where...?\""
               ]
             },
             {
@@ -10594,7 +10650,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Save?"
+                "Do you want to save?"
               ]
             },
             {
@@ -10609,10 +10665,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -10620,7 +10672,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -10638,7 +10690,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -10755,7 +10807,7 @@
     },
     {
       "id": 14,
-      "name": "イゾルダ",
+      "name": "Isolde",
       "note": "",
       "pages": [
         {
@@ -10917,7 +10969,7 @@
     },
     {
       "id": 15,
-      "name": "ボス前回復",
+      "name": "Healing Before the Boss Fight",
       "note": "",
       "pages": [
         {
@@ -10960,14 +11012,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Restore all HP/MP?"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "(once only)"
+                "Do you want to fully restore your HP/MP? (once only)"
               ]
             },
             {
@@ -10982,10 +11027,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -10993,7 +11034,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -11031,7 +11072,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Fully recovered."
+                "I've fully recovered."
               ]
             },
             {
@@ -11052,7 +11093,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -11148,7 +11189,7 @@
     },
     {
       "id": 16,
-      "name": "白紙の聖符",
+      "name": "Blank Amulet",
       "note": "",
       "pages": [
         {
@@ -11170,7 +11211,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "flower_chip_Celesphia",
+            "characterName": "flower_chip_selesphia",
             "direction": 2,
             "pattern": 1,
             "characterIndex": 5

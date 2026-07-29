@@ -3037,7 +3037,7 @@
     null,
     {
       "id": 1,
-      "name": "店員",
+      "name": "Store Clerk",
       "note": "",
       "pages": [
         {
@@ -3097,7 +3097,7 @@
     },
     {
       "id": 2,
-      "name": "ランプ",
+      "name": "Lamp",
       "note": "",
       "pages": [
         {
@@ -3164,7 +3164,7 @@
     },
     {
       "id": 3,
-      "name": "ランプ",
+      "name": "Lamp",
       "note": "",
       "pages": [
         {
@@ -3231,7 +3231,7 @@
     },
     {
       "id": 4,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -3398,7 +3398,7 @@
     },
     {
       "id": 5,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -3917,7 +3917,7 @@
     },
     {
       "id": 6,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -4436,7 +4436,7 @@
     },
     {
       "id": 7,
-      "name": "リリアン",
+      "name": "Lillian",
       "note": "",
       "pages": [
         {
@@ -4956,7 +4956,7 @@
     null,
     {
       "id": 9,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -5016,7 +5016,7 @@
     },
     {
       "id": 10,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -5076,7 +5076,7 @@
     },
     {
       "id": 11,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -5136,7 +5136,7 @@
     },
     {
       "id": 12,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -5196,7 +5196,7 @@
     },
     {
       "id": 13,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -5256,7 +5256,7 @@
     },
     {
       "id": 14,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -5316,7 +5316,7 @@
     },
     {
       "id": 15,
-      "name": "自動",
+      "name": "Automatic",
       "note": "",
       "pages": [
         {
@@ -5710,21 +5710,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Next time, we should base it more on our"
+                "\\SE[4] \"Next time, let’s base it more on"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "actual jobs.\""
+                "professions— how about a knight and an"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "instructor, for example!?\""
               ]
             },
             {
@@ -5742,21 +5767,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"That wouldn't be a manzai routine―it'd be a"
+                "\\SE[3] \"That’s not manzai—it’s a skit, isn’t it?"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "skit, wouldn't it?\""
+                "Manzai is based on ordinary conversations"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "you hear on the street…\""
               ]
             },
             {
@@ -5774,14 +5824,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"But then the impact would be too weak.\""
+                "\\SE[3] \"But that wouldn’t make enough of an"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "impact. We need a look that really grabs"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "people’s attention…!\""
               ]
             },
             {
@@ -6050,7 +6132,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "We got all worked up talking about comedy."
+                "We had a passionate discussion about comedy."
               ]
             },
             {
@@ -6108,14 +6190,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Aah, I can't take it anymore!\""
+                "\\SE[4] \"Oh, we’re out!\""
               ]
             },
             {
@@ -6133,14 +6215,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Let's do one more round!\""
+                "\\SE[5] \"Let’s have another one!\""
               ]
             },
             {
@@ -6219,21 +6301,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"W-Wait, you two...you're drinking too"
+                "\\SE[3] \"Huh, you two… haven’t you had a little too"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "much...!?\""
+                "much to drink…!?\""
               ]
             },
             {
@@ -6296,14 +6378,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"I'm so frustrated I could scream~!\""
+                "\\SE[5] \"I’m so, so frustrated~!\""
               ]
             },
             {
@@ -6330,14 +6412,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Next time, we're definitely winning!\""
+                "\\SE[4] \"Let’s definitely win the championship next"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "time!\""
               ]
             },
             {
@@ -6373,21 +6462,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Have you forgotten what we're actually here"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "for...?\""
+                "\\SE[3] \"Haven’t you forgotten your purpose…?\""
               ]
             },
             {
@@ -6459,14 +6541,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Why does the alcohol disappear so fast...?\""
+                "\\SE[5] \"Why does the alcohol run out so fast~…\""
               ]
             },
             {
@@ -6484,14 +6566,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"I don't know... One more round!\""
+                "\\SE[4] \"I don’t know~… Let’s have another one ~…\""
               ]
             },
             {
@@ -6570,14 +6652,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"………\""
+                "\\SE[3] \"………\""
               ]
             },
             {
@@ -6725,7 +6807,7 @@
     null,
     {
       "id": 18,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -6785,7 +6867,7 @@
     },
     {
       "id": 19,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -6845,7 +6927,7 @@
     },
     {
       "id": 20,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -6905,7 +6987,7 @@
     },
     {
       "id": 21,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -6965,7 +7047,7 @@
     },
     {
       "id": 22,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -7025,7 +7107,7 @@
     },
     {
       "id": 23,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -7085,7 +7167,7 @@
     },
     {
       "id": 24,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -7145,7 +7227,7 @@
     },
     {
       "id": 25,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -7205,7 +7287,7 @@
     },
     {
       "id": 26,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -7265,7 +7347,7 @@
     },
     {
       "id": 27,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -7325,7 +7407,7 @@
     },
     {
       "id": 28,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -7385,7 +7467,7 @@
     },
     {
       "id": 29,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -7445,7 +7527,7 @@
     },
     {
       "id": 30,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -7505,7 +7587,7 @@
     },
     {
       "id": 31,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -7565,7 +7647,7 @@
     },
     {
       "id": 32,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -7625,7 +7707,7 @@
     },
     {
       "id": 33,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -7685,7 +7767,7 @@
     },
     {
       "id": 34,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -7745,7 +7827,7 @@
     },
     {
       "id": 35,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -7805,7 +7887,7 @@
     },
     {
       "id": 36,
-      "name": "ランプ",
+      "name": "Lamp",
       "note": "",
       "pages": [
         {
@@ -7872,7 +7954,7 @@
     },
     {
       "id": 37,
-      "name": "ランプ",
+      "name": "Lamp",
       "note": "",
       "pages": [
         {
@@ -7939,7 +8021,7 @@
     },
     {
       "id": 38,
-      "name": "ランプ",
+      "name": "Lamp",
       "note": "",
       "pages": [
         {
@@ -8006,7 +8088,7 @@
     },
     {
       "id": 39,
-      "name": "ランプ",
+      "name": "Lamp",
       "note": "",
       "pages": [
         {
@@ -8073,7 +8155,7 @@
     },
     {
       "id": 40,
-      "name": "ランプ",
+      "name": "Lamp",
       "note": "",
       "pages": [
         {

@@ -6127,7 +6127,7 @@
     null,
     {
       "id": 1,
-      "name": "馬車",
+      "name": "Horse-drawn carriage",
       "note": "",
       "pages": [
         {
@@ -6200,7 +6200,7 @@
           "directionFix": true,
           "image": {
             "tileId": 0,
-            "characterName": "flower_chip_Celesphia",
+            "characterName": "flower_chip_selesphia",
             "direction": 8,
             "pattern": 1,
             "characterIndex": 0
@@ -6238,7 +6238,7 @@
     },
     {
       "id": 2,
-      "name": "馬車後",
+      "name": "Behind the Carriage",
       "note": "",
       "pages": [
         {
@@ -6349,7 +6349,7 @@
     },
     {
       "id": 3,
-      "name": "兵士1",
+      "name": "Soldier 1",
       "note": "",
       "pages": [
         {
@@ -6460,7 +6460,7 @@
     },
     {
       "id": 4,
-      "name": "兵士2",
+      "name": "Soldier 2",
       "note": "",
       "pages": [
         {
@@ -6571,7 +6571,7 @@
     },
     {
       "id": 5,
-      "name": "兵士3",
+      "name": "Soldier 3",
       "note": "",
       "pages": [
         {
@@ -6682,7 +6682,7 @@
     },
     {
       "id": 6,
-      "name": "兵士4",
+      "name": "Soldier 4",
       "note": "",
       "pages": [
         {
@@ -6793,7 +6793,7 @@
     },
     {
       "id": 7,
-      "name": "兵士5",
+      "name": "Soldier 5",
       "note": "",
       "pages": [
         {
@@ -6904,7 +6904,7 @@
     },
     {
       "id": 8,
-      "name": "兵士6",
+      "name": "Soldier 6",
       "note": "",
       "pages": [
         {
@@ -6977,7 +6977,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "flower_chip_Celesphia",
+            "characterName": "flower_chip_selesphia",
             "direction": 6,
             "pattern": 0,
             "characterIndex": 0
@@ -7015,7 +7015,7 @@
     },
     {
       "id": 9,
-      "name": "兵士7",
+      "name": "Soldier 7",
       "note": "",
       "pages": [
         {
@@ -7088,7 +7088,7 @@
           "directionFix": true,
           "image": {
             "tileId": 0,
-            "characterName": "flower_chip_Celesphia",
+            "characterName": "flower_chip_selesphia",
             "direction": 6,
             "pattern": 1,
             "characterIndex": 0
@@ -7126,7 +7126,7 @@
     },
     {
       "id": 10,
-      "name": "兵士8",
+      "name": "Soldier 8",
       "note": "",
       "pages": [
         {
@@ -7199,7 +7199,7 @@
           "directionFix": true,
           "image": {
             "tileId": 0,
-            "characterName": "flower_chip_Celesphia",
+            "characterName": "flower_chip_selesphia",
             "direction": 6,
             "pattern": 2,
             "characterIndex": 0
@@ -7237,7 +7237,7 @@
     },
     {
       "id": 11,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -7297,7 +7297,7 @@
     },
     {
       "id": 12,
-      "name": "魔物1",
+      "name": "Monster 1",
       "note": "",
       "pages": [
         {
@@ -7357,7 +7357,7 @@
     },
     {
       "id": 13,
-      "name": "魔物2",
+      "name": "Monster 2",
       "note": "",
       "pages": [
         {
@@ -7417,7 +7417,7 @@
     },
     {
       "id": 14,
-      "name": "魔物3",
+      "name": "Monster 3",
       "note": "",
       "pages": [
         {
@@ -7477,7 +7477,7 @@
     },
     {
       "id": 15,
-      "name": "魔物4",
+      "name": "Monster 4",
       "note": "",
       "pages": [
         {
@@ -7537,7 +7537,7 @@
     },
     {
       "id": 16,
-      "name": "魔物5",
+      "name": "Monster 5",
       "note": "",
       "pages": [
         {
@@ -7597,7 +7597,7 @@
     },
     {
       "id": 17,
-      "name": "魔物6",
+      "name": "Monster 6",
       "note": "",
       "pages": [
         {
@@ -7657,7 +7657,7 @@
     },
     {
       "id": 18,
-      "name": "魔物7",
+      "name": "Monster 7",
       "note": "",
       "pages": [
         {
@@ -7717,7 +7717,7 @@
     },
     {
       "id": 19,
-      "name": "魔物8",
+      "name": "Monster 8",
       "note": "",
       "pages": [
         {
@@ -7790,7 +7790,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "flower_chip_Celesphia",
+            "characterName": "flower_chip_selesphia",
             "direction": 8,
             "pattern": 0,
             "characterIndex": 0
@@ -7828,7 +7828,7 @@
     },
     {
       "id": 20,
-      "name": "魔物9",
+      "name": "Monster 9",
       "note": "",
       "pages": [
         {
@@ -7901,7 +7901,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "flower_chip_Celesphia",
+            "characterName": "flower_chip_selesphia",
             "direction": 6,
             "pattern": 0,
             "characterIndex": 0
@@ -7939,7 +7939,7 @@
     },
     {
       "id": 21,
-      "name": "魔物10",
+      "name": "Monster 10",
       "note": "",
       "pages": [
         {
@@ -8012,7 +8012,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "flower_chip_Celesphia",
+            "characterName": "flower_chip_selesphia",
             "direction": 8,
             "pattern": 2,
             "characterIndex": 0
@@ -8050,7 +8050,7 @@
     },
     {
       "id": 22,
-      "name": "魔物11",
+      "name": "Monster 11",
       "note": "",
       "pages": [
         {
@@ -8123,7 +8123,7 @@
           "directionFix": true,
           "image": {
             "tileId": 0,
-            "characterName": "flower_chip_Celesphia",
+            "characterName": "flower_chip_selesphia",
             "direction": 6,
             "pattern": 2,
             "characterIndex": 0
@@ -8161,7 +8161,7 @@
     },
     {
       "id": 23,
-      "name": "魔物12",
+      "name": "Monster 12",
       "note": "",
       "pages": [
         {
@@ -8221,7 +8221,7 @@
     },
     {
       "id": 24,
-      "name": "魔物13",
+      "name": "Monster 13",
       "note": "",
       "pages": [
         {
@@ -8281,7 +8281,7 @@
     },
     {
       "id": 25,
-      "name": "荷物2",
+      "name": "Luggage 2",
       "note": "",
       "pages": [
         {
@@ -8341,7 +8341,7 @@
     },
     {
       "id": 26,
-      "name": "宝箱3",
+      "name": "Treasure Chest 3",
       "note": "",
       "pages": [
         {
@@ -8401,7 +8401,7 @@
     },
     {
       "id": 27,
-      "name": "荷物1",
+      "name": "Bag 1",
       "note": "",
       "pages": [
         {
@@ -8461,7 +8461,7 @@
     },
     {
       "id": 28,
-      "name": "荷物",
+      "name": "Luggage",
       "note": "",
       "pages": [
         {
@@ -8521,7 +8521,7 @@
     },
     {
       "id": 29,
-      "name": "魔物14",
+      "name": "Monster 14",
       "note": "",
       "pages": [
         {
@@ -8581,7 +8581,7 @@
     },
     {
       "id": 30,
-      "name": "魔物15",
+      "name": "Monster 15",
       "note": "",
       "pages": [
         {
@@ -8641,7 +8641,7 @@
     },
     {
       "id": 31,
-      "name": "魔物16",
+      "name": "Monster 16",
       "note": "",
       "pages": [
         {
@@ -8701,7 +8701,7 @@
     },
     {
       "id": 32,
-      "name": "魔物17",
+      "name": "Monster 17",
       "note": "",
       "pages": [
         {
@@ -8761,7 +8761,7 @@
     },
     {
       "id": 33,
-      "name": "魔物18",
+      "name": "Monster 18",
       "note": "",
       "pages": [
         {
@@ -8821,7 +8821,7 @@
     },
     {
       "id": 34,
-      "name": "魔物19",
+      "name": "Monster 19",
       "note": "",
       "pages": [
         {
@@ -8881,7 +8881,7 @@
     },
     {
       "id": 35,
-      "name": "自動",
+      "name": "Automatic",
       "note": "",
       "pages": [
         {
@@ -8957,14 +8957,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "As we ventured deeper into the mountains and the day"
+                "As we ventured deeper into the mountains, the incident"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "turned to night, the incident occurred."
+                "occurred just as the day was turning into night."
               ]
             },
             {
@@ -9013,7 +9013,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\{\"Enemy attack―!!\"\\}"
+                "\\{ \"The enemy is attacking!!!!\" \\}"
               ]
             },
             {
@@ -9255,14 +9255,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Captain"
+                "Captain "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hold the front line!\""
+                ": \"Let's hold the front!\""
               ]
             },
             {
@@ -9741,14 +9741,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Monster"
+                "Monster "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Gumomooo!!\""
+                ": \"Gmooooh!!!\""
               ]
             },
             {
@@ -9766,7 +9766,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Leave the front to us! Watch our backs!\""
+                "\"Leave the front to us! We've got the back covered!\""
               ]
             },
             {
@@ -10661,7 +10661,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Damn it... there are too many of them...!\""
+                "\"Damn, there are so many...!\""
               ]
             },
             {
@@ -11063,14 +11063,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Holy Light!\""
+                ": \"Holy Light!\""
               ]
             },
             {
@@ -11132,7 +11132,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]We fought desperately."
+                "We fought back with all our might."
               ]
             },
             {
@@ -11150,14 +11150,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But the long journey and repeated battles had pushed us"
+                "However, due to the journey so far and the repeated"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "to our limits."
+                "battles, 's fatigue had reached its peak."
               ]
             },
             {
@@ -11175,7 +11175,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "That weakness lasted only a moment."
+                "That moment of weakness lasted only an instant."
               ]
             },
             {
@@ -13444,7 +13444,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "One by one, our comrades fell."
+                "One by one, they fall"
               ]
             },
             {
@@ -13622,7 +13622,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"M-More monsters...!\""
+                "\"Oh no, more monsters...!\""
               ]
             },
             {
@@ -14147,7 +14147,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Kyle, retreat!!\""
+                "\"Kyle, get out of the way!!\""
               ]
             },
             {
@@ -15315,7 +15315,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"K-Kyle... run...!\""
+                "\"Kyle... Run...!\""
               ]
             },
             {
@@ -15735,7 +15735,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Before I knew it, I was alone."
+                "Before I knew it, I was all alone."
               ]
             },
             {
@@ -15882,7 +15882,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I gathered as much of our supplies as I could carry."
+                "I gathered up as much luggage as I could carry,"
               ]
             },
             {
@@ -16739,7 +16739,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]And then I ran."
+                "I ran away."
               ]
             },
             {

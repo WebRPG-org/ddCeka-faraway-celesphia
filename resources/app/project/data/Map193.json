@@ -3475,7 +3475,7 @@
     null,
     {
       "id": 1,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -3649,7 +3649,7 @@
     },
     {
       "id": 2,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -3823,7 +3823,7 @@
     },
     {
       "id": 3,
-      "name": "ロゼイベント2",
+      "name": "Rosé Event 2",
       "note": "",
       "pages": [
         {
@@ -3866,14 +3866,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rosie Event (2/12)"
+                "Rosé Event (2/12) "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Play \"Throb 1\"?"
+                "\"Uzuki 1\" : Do you want to play this?"
               ]
             },
             {
@@ -3888,10 +3888,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -3899,7 +3895,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -3925,7 +3921,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -4150,14 +4146,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"…Gh…!!\""
+                "\\SE[1] \"………!!\""
               ]
             },
             {
@@ -4285,21 +4281,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"I-I'm sorry…!! My body's throbbing…! Just"
+                "\\SE[1] \"I'm sorry...!! My body's tingling...! Just"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "let me do this for a bit…!\""
+                "let me do this for a little while...!\""
               ]
             },
             {
@@ -4317,14 +4313,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Rose clings to him tightly, holding him close as if"
+                "Rosé threw her arms around me tightly. I held her"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "burying herself in his chest."
+                "close, as if to bury her in my chest."
               ]
             },
             {
@@ -4401,14 +4397,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"…♡…♡…♡\""
+                "\\SE[1] \"Hmm…♡ Hmm…♡ Hmm…♡\""
               ]
             },
             {
@@ -4426,14 +4422,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Her body jerks and twitches uncontrollably. Is this the"
+                "My body is twitching uncontrollably. Could this be the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "curse activating?"
+                "effect of the curse being activated?"
               ]
             },
             {
@@ -4451,14 +4447,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Rose…! Are you okay…?\""
+                "\\SE[3] \"Rose...! Are you okay...?\""
               ]
             },
             {
@@ -4476,21 +4472,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Uh…aahh…! Pleasure is running through me…♡"
+                "\\SE[1] \"Ugh… Ahh… A wave of pleasure is rushing"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Aah…!!\""
+                "through me…!…♡ Ahhh…!\""
               ]
             },
             {
@@ -4527,14 +4523,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Hah…! Hah…! Hah…!!\""
+                "\\SE[1] \"Haa…! Haa…! Haa…!…\""
               ]
             },
             {
@@ -4616,14 +4612,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"A-are you okay…?\""
+                "\\SE[3] \"A-are you okay…?\""
               ]
             },
             {
@@ -4641,14 +4637,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Y-yeah… Sorry… It's settled down…\""
+                "\\SE[1] \"U-uh… sorry… I’m okay now…\""
               ]
             },
             {
@@ -4800,7 +4796,7 @@
     },
     {
       "id": 4,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -5319,7 +5315,7 @@
     },
     {
       "id": 5,
-      "name": "ロゼ",
+      "name": "Rosé",
       "note": "",
       "pages": [
         {
@@ -5532,7 +5528,7 @@
     },
     {
       "id": 6,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -5878,7 +5874,7 @@
     },
     {
       "id": 7,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -6224,7 +6220,7 @@
     },
     {
       "id": 8,
-      "name": "宝箱（毛皮の帽子）",
+      "name": "Treasure Chest (Fur Hat)",
       "note": "",
       "pages": [
         {
@@ -6385,7 +6381,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained the Fur Hat!"
+                "I got a fur hat!"
               ]
             },
             {

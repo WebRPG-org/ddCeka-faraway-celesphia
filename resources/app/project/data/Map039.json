@@ -1363,7 +1363,7 @@
     null,
     {
       "id": 1,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -1882,7 +1882,7 @@
     },
     {
       "id": 2,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -2401,7 +2401,7 @@
     },
     {
       "id": 3,
-      "name": "自動イベント",
+      "name": "Automatic Events",
       "note": "",
       "pages": [
         {
@@ -2728,14 +2728,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I-is this really okay? Really...\""
+                "\\SE[3] \"I-is that okay? Really…\""
               ]
             },
             {
@@ -2753,14 +2753,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Yes, please use the right side.\""
+                "\\SE[5] \"Yes, please use the right side. I always"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "use the left side, you see.\""
               ]
             },
             {
@@ -2924,14 +2931,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Then I won't hold back.\""
+                "\\SE[3] \"Well then, I’ll go ahead and use it.\""
               ]
             },
             {
@@ -2949,14 +2956,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Goodnight, Kyle-sama.\""
+                "\\SE[5] \"Good night, Lord Kyle.\""
               ]
             },
             {
@@ -2974,14 +2981,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Yeah, goodnight, Luna.\""
+                "\\SE[3] \"Ah, good night, Luna.\""
               ]
             },
             {
@@ -3246,14 +3253,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Oh? What are you doing, Kyle-sama?\""
+                "\\SE[5] \"Oh, what are you doing, Lord Kyle?\""
               ]
             },
             {
@@ -3271,21 +3278,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Ah, it's a daily habit. I'm writing in my"
+                "\\SE[3] \"Oh, it’s part of my daily routine. I keep"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "diary.\""
+                "a diary.\""
               ]
             },
             {
@@ -3303,14 +3310,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Hmm... That sounds nice. Someday...\""
+                "\\SE[5] \"Huh… That sounds nice. I’d like to read"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "someday.\""
               ]
             },
             {
@@ -3328,21 +3342,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Whether it's interesting to others or"
+                "\\SE[3] \"I don’t know if this will be interesting"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "not...\""
+                "to others, but eventually… Okay.\""
               ]
             },
             {
@@ -3391,14 +3405,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Goodnight, Luna.\""
+                "\\SE[3] \"Good night, Luna\""
               ]
             },
             {
@@ -3416,14 +3430,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Goodnight, Kyle-sama.\""
+                "\\SE[5] \"Good night, Lord Kyle.\""
               ]
             },
             {
@@ -3811,7 +3825,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle gently held Luna's hand."
+                "Kyle was gently holding Luna's hand."
               ]
             },
             {
@@ -3829,7 +3843,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
@@ -3854,7 +3868,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
@@ -3886,7 +3900,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
@@ -3911,7 +3925,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
@@ -3971,21 +3985,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Come to think of it, Kyle-sama appeared in"
+                "(Come to think of it, Lord Kyle appeared in"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "my dream...)."
+                "my dream...)"
               ]
             },
             {
@@ -4003,14 +4017,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Are you alright?\""
+                "\\SE[3] \"Are you okay?\""
               ]
             },
             {
@@ -4037,7 +4051,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
@@ -4076,7 +4090,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
@@ -4101,7 +4115,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
@@ -4133,7 +4147,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
@@ -4158,7 +4172,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
@@ -4279,7 +4293,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
@@ -4304,21 +4318,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Heehee, Kyle-sama's sleeping face is so"
+                "(Hehe, Lord Kyle looks so cute when he's"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "cute)."
+                "sleeping)"
               ]
             },
             {
@@ -4354,7 +4368,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "Luna "
               ]
             },
             {
@@ -4445,21 +4459,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(It should be fine if I snuggle up a little"
+                "(It's okay if we stick together just a"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "closer, right...?)."
+                "little, right…?)"
               ]
             },
             {
@@ -4546,14 +4560,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Goodnight, Kyle-sama...)."
+                "(Good night, Lord Kyle…)"
               ]
             },
             {
@@ -4723,14 +4737,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Wait, does Luna sleep like this...?)."
+                "(Could it be that Luna tosses and turns in"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "her sleep…?)"
               ]
             },
             {
@@ -4779,7 +4800,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
@@ -4997,14 +5018,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"K-Kyle-sama?!\""
+                "\\SE[5] \"L-Lord Kyle!?\""
               ]
             },
             {
@@ -5022,14 +5043,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"S-S-S-Sorry!\""
+                "\\SE[5] \"I-I-I-I’m so sorry! I just ended up using"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "it as a pillow…!\""
               ]
             },
             {
@@ -5047,14 +5075,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"It's fine. You seem to have slept well.\""
+                "\\SE[3] \"That’s fine. Looks like you got some"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "sleep. I’m making breakfast outside, so come"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                2,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "out once you’re ready.\""
               ]
             },
             {
@@ -5247,14 +5307,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Lilian, wake up. It's morning.\""
+                "\\SE[3] \"Lillian, wake up. It’s morning.\""
               ]
             },
             {
@@ -5272,14 +5332,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Huh?! N-No, I wasn't sleeping!\""
+                "\\SE[4] \"Whoa!? No, I’m not asleep. Good morning,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Lady Luna!\""
               ]
             },
             {
@@ -5297,21 +5364,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Where exactly are you looking to see"
+                "\\SE[3] \"How on earth is that supposed to look like"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Luna?!\""
+                "Luna!?\""
               ]
             },
             {
@@ -5338,14 +5405,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Heehee, it really is lively♪)."
+                "(Hehe, it's really lively♪)"
               ]
             },
             {
@@ -5363,14 +5430,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(I wish every day could be like this...)"
+                "(I wish days like this would go on"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "forever...)"
               ]
             },
             {
@@ -5532,7 +5606,7 @@
     },
     {
       "id": 4,
-      "name": "ルーナ回想",
+      "name": "Luna's Flashback",
       "note": "",
       "pages": [
         {
@@ -5757,7 +5831,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]And then... the night I was tormented by my dreams,"
+                "\\SE[5] And then... the night I was tormented by a nightmare"
               ]
             },
             {
@@ -5775,14 +5849,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]so suffocating, so terrifying I couldn't even"
+                "\\SE[5] It was so painful, and I was so scared I couldn't even"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "breathe..."
+                "breathe... When I opened my eyes,"
               ]
             },
             {
@@ -5800,7 +5874,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]he gently took my hand in his,"
+                "\\SE[5] He gently held my hand, and quietly stayed by my side."
               ]
             },
             {
@@ -5818,14 +5892,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]Luna"
+                "\\SE[5] As if to say, \"No words are needed…\" They"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "They simply gave me their warmth."
+                "simply gave me their warmth."
               ]
             },
             {
@@ -5843,14 +5917,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]At that moment, something inside my chest seemed to"
+                "\\SE[5] At that very moment, something deep inside my heart"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "melt away,"
+                "seemed to melt away, unraveling... \\! and I fell in"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "love."
               ]
             },
             {
@@ -5899,7 +5980,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]but... we never had the time to share those feelings."
+                "\\SE[5]But... we weren't given much time to express those"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "feelings."
               ]
             },
             {

@@ -4423,7 +4423,7 @@
     null,
     {
       "id": 1,
-      "name": "滝",
+      "name": "Waterfall",
       "note": "",
       "pages": [
         {
@@ -4484,7 +4484,7 @@
     },
     {
       "id": 2,
-      "name": "滝",
+      "name": "Waterfall",
       "note": "",
       "pages": [
         {
@@ -4545,7 +4545,7 @@
     },
     {
       "id": 3,
-      "name": "滝",
+      "name": "Waterfall",
       "note": "",
       "pages": [
         {
@@ -4606,7 +4606,7 @@
     },
     {
       "id": 4,
-      "name": "滝",
+      "name": "Waterfall",
       "note": "",
       "pages": [
         {
@@ -4667,7 +4667,7 @@
     },
     {
       "id": 5,
-      "name": "滝",
+      "name": "Waterfall",
       "note": "",
       "pages": [
         {
@@ -4728,7 +4728,7 @@
     },
     {
       "id": 6,
-      "name": "滝",
+      "name": "Waterfall",
       "note": "",
       "pages": [
         {
@@ -4789,7 +4789,7 @@
     },
     {
       "id": 7,
-      "name": "滝",
+      "name": "Waterfall",
       "note": "",
       "pages": [
         {
@@ -4850,7 +4850,7 @@
     },
     {
       "id": 8,
-      "name": "滝",
+      "name": "Waterfall",
       "note": "",
       "pages": [
         {
@@ -4911,7 +4911,7 @@
     },
     {
       "id": 9,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -5078,7 +5078,7 @@
     },
     {
       "id": 10,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -5245,7 +5245,7 @@
     },
     {
       "id": 11,
-      "name": "イベント",
+      "name": "Events",
       "note": "",
       "pages": [
         {
@@ -5288,7 +5288,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There's a battle coming up. Are you ready?"
+                "A battle is about to begin. Are you ready?"
               ]
             },
             {
@@ -5303,10 +5303,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -5314,7 +5310,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -5340,7 +5336,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -5529,14 +5525,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Hah... haah...\""
+                "\\SE[5] \"Haa… haa…\""
               ]
             },
             {
@@ -5554,14 +5550,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Lady Luna, would you like to take a break?\""
+                "\\SE[4] \"Lady Luna, would you like to take a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "break?\""
               ]
             },
             {
@@ -5579,14 +5582,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"No, I'm fine! We're almost there.\""
+                "\\SE[5] \"No, I’m fine! Our destination is right"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "there . We don’t have time to stop walking.\""
               ]
             },
             {
@@ -5604,21 +5614,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"That's the spirit. Alright, let's move"
+                "\\SE[3] \"That’s the spirit. All right, let’s move"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "forward.\""
+                "on.\""
               ]
             },
             {
@@ -5939,14 +5949,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"You all okay?\""
+                "\\SE[3] \"Are you guys okay?\""
               ]
             },
             {
@@ -5964,14 +5974,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Yes, we're safe.\""
+                "\\SE[4] \"Yes, I’m fine.\""
               ]
             },
             {
@@ -5989,21 +5999,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"A dragon's been circling overhead since"
+                "\\SE[5] \"There have been several dragons flying"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "just now...\""
+                "overhead for a while now, haven’t there?\""
               ]
             },
             {
@@ -6021,14 +6031,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Let's hurry before it attacks!\""
+                "\\SE[4] \"Let’s hurry on before we get attacked!\""
               ]
             },
             {
@@ -6450,21 +6460,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"W-What was that just now...? It suddenly"
+                "\\SE[4] \"W-What was that just now…? Did it suddenly"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "turned night...\""
+                "turn into in the middle of the night…!?\""
               ]
             },
             {
@@ -6482,21 +6492,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"No, it's not night... It's something"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "unimaginably...\""
+                "\\SE[5] \"No, it’s an incredibly huge dragon…!\""
               ]
             },
             {
@@ -6514,14 +6517,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"......Let's hurry.\""
+                "\\SE[3] \"...Let’s hurry on.\""
               ]
             },
             {
@@ -6625,7 +6628,7 @@
     },
     {
       "id": 12,
-      "name": "ドラゴン",
+      "name": "Dragon",
       "note": "",
       "pages": [
         {
@@ -6685,7 +6688,7 @@
     },
     {
       "id": 13,
-      "name": "宝箱（ドラゴンサークレット）",
+      "name": "Treasure Chest (Dragon Circlet)",
       "note": "",
       "pages": [
         {
@@ -6846,7 +6849,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained the Dragon Circlet!"
+                "I got the Dragon Circlet!"
               ]
             },
             {
@@ -6932,7 +6935,7 @@
     },
     {
       "id": 14,
-      "name": "ヴァルグリード",
+      "name": "Vargreed",
       "note": "",
       "pages": [
         {

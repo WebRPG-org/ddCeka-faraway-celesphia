@@ -3787,7 +3787,7 @@
     null,
     {
       "id": 1,
-      "name": "アイスヴェール",
+      "name": "Ice Veil",
       "note": "",
       "pages": [
         {
@@ -3847,7 +3847,7 @@
     },
     {
       "id": 2,
-      "name": "出血1",
+      "name": "Bleeding 1",
       "note": "",
       "pages": [
         {
@@ -3869,7 +3869,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "flower_chip_Celesphia",
+            "characterName": "flower_chip_selesphia",
             "direction": 6,
             "pattern": 0,
             "characterIndex": 0
@@ -3907,7 +3907,7 @@
     },
     {
       "id": 3,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -4120,7 +4120,7 @@
     },
     {
       "id": 4,
-      "name": "リリアン",
+      "name": "Lillian",
       "note": "",
       "pages": [
         {
@@ -4333,7 +4333,7 @@
     },
     {
       "id": 5,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -4546,7 +4546,7 @@
     },
     {
       "id": 6,
-      "name": "イベント",
+      "name": "Events",
       "note": "",
       "pages": [
         {
@@ -4686,14 +4686,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Ice Coffin!!\""
+                "\\SE[5] \"Ice Coffin!!\""
               ]
             },
             {
@@ -4728,21 +4728,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Lilian! I'll buy you time! In the meantime,"
+                "\\SE[5] \"Lillian! I’ll buy us some time! In the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Kyle-sama...!\""
+                "meantime, please take care of Lord Kyle…!\""
               ]
             },
             {
@@ -4760,14 +4760,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Got it!\""
+                "\\SE[4] \"Yes!\""
               ]
             },
             {
@@ -4992,14 +4992,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"I've got you!\""
+                "\\SE[4] \"I've got it!\""
               ]
             },
             {
@@ -5017,14 +5017,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"We're escaping!\""
+                "\\SE[5] \"I'm escaping!\""
               ]
             },
             {
@@ -5338,7 +5338,7 @@
     },
     {
       "id": 7,
-      "name": "アイスヴェール",
+      "name": "Ice Veil",
       "note": "",
       "pages": [
         {
@@ -5398,7 +5398,7 @@
     },
     {
       "id": 8,
-      "name": "出血3",
+      "name": "Bleeding 3",
       "note": "",
       "pages": [
         {
@@ -5420,7 +5420,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "flower_chip_Celesphia",
+            "characterName": "flower_chip_selesphia",
             "direction": 6,
             "pattern": 2,
             "characterIndex": 0
@@ -5458,7 +5458,7 @@
     },
     {
       "id": 9,
-      "name": "出血2",
+      "name": "Bleeding 2",
       "note": "",
       "pages": [
         {
@@ -5480,7 +5480,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "flower_chip_Celesphia",
+            "characterName": "flower_chip_selesphia",
             "direction": 8,
             "pattern": 2,
             "characterIndex": 0
@@ -5519,7 +5519,7 @@
     null,
     {
       "id": 11,
-      "name": "アイスヴェール",
+      "name": "Ice Veil",
       "note": "",
       "pages": [
         {

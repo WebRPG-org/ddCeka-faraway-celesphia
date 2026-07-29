@@ -2458,7 +2458,7 @@
     null,
     {
       "id": 1,
-      "name": "階段",
+      "name": "Stairs",
       "note": "",
       "pages": [
         {
@@ -2542,7 +2542,7 @@
     },
     {
       "id": 2,
-      "name": "階段",
+      "name": "Stairs",
       "note": "",
       "pages": [
         {
@@ -2626,7 +2626,7 @@
     },
     {
       "id": 3,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -2972,7 +2972,7 @@
     },
     {
       "id": 4,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -3318,7 +3318,7 @@
     },
     {
       "id": 5,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -3664,7 +3664,7 @@
     },
     {
       "id": 6,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -3719,7 +3719,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Magical Drop."
+                "I got a Magical Drop"
               ]
             },
             {
@@ -3871,7 +3871,7 @@
     },
     {
       "id": 7,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -3926,7 +3926,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained 100 gold."
+                "I got 100 gold"
               ]
             },
             {

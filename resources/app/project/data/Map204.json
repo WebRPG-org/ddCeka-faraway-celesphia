@@ -16,7 +16,7 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Ruined Sanctuary B2",
+  "displayName": "The Decaying Sanctuary B2",
   "encounterList": [
     {
       "troopId": 47,
@@ -3963,7 +3963,7 @@
     null,
     {
       "id": 1,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -4137,7 +4137,7 @@
     },
     {
       "id": 2,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -4311,7 +4311,7 @@
     },
     {
       "id": 3,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -4657,7 +4657,7 @@
     },
     {
       "id": 4,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -5003,7 +5003,7 @@
     },
     {
       "id": 5,
-      "name": "宝箱（エレメンタルガード）",
+      "name": "Treasure Chest (Elemental Guard)",
       "note": "",
       "pages": [
         {
@@ -5164,7 +5164,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Elemental Guard!"
+                "I got the Elemental Guard!"
               ]
             },
             {

@@ -3823,7 +3823,7 @@
     null,
     {
       "id": 1,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -3997,7 +3997,7 @@
     },
     {
       "id": 2,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -4171,7 +4171,7 @@
     },
     {
       "id": 3,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -4345,7 +4345,7 @@
     },
     {
       "id": 4,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -4519,7 +4519,7 @@
     },
     {
       "id": 5,
-      "name": "ロゼイベント1",
+      "name": "Rosé Event 1",
       "note": "",
       "pages": [
         {
@@ -4562,14 +4562,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose Event (1/12)"
+                "Rosé Event (1/12) "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Activate Curse\"?\""
+                "\"Cursed Activation\" : Do you want to play this?"
               ]
             },
             {
@@ -4584,10 +4584,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -4595,7 +4591,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -4621,7 +4617,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -4874,14 +4870,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Damn it, which way should I go...\""
+                "\\SE[3]: \"This is a real headache. Which way should"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I go...?\""
               ]
             },
             {
@@ -4899,14 +4902,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Yeah...\""
+                "\\SE[1] \"I guess so…\""
               ]
             },
             {
@@ -4976,14 +4979,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Kyaa―――!!\""
+                "\\SE[1] \"Eek………!!\""
               ]
             },
             {
@@ -5117,14 +5120,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Rose!\""
+                "\\SE[3] \"Rose!\""
               ]
             },
             {
@@ -5154,14 +5157,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"...!!\""
+                "\\SE[1] \"………!!\""
               ]
             },
             {
@@ -5179,14 +5182,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"...The curse is activating...!\""
+                "\\SE[3]: \"…The curse is activating…!\""
               ]
             },
             {
@@ -5204,21 +5207,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The curse's power is growing stronger. Perhaps it's"
+                "The power of the curse is growing stronger. Could it be"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "because we're nearing the sacred grounds that it might"
+                "because the Sanctuary—which might break the curse"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "break free on its own."
+                "itself—is drawing near?"
               ]
             },
             {
@@ -5250,14 +5253,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Hah... hah... hah...\""
+                "\\SE[1] \"Haa… haa… haa…\""
               ]
             },
             {
@@ -5287,21 +5290,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Rose, are you okay...? Does your body"
+                "\\SE[3]: \"Rose, are you okay…? Does your body"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "hurt...?\""
+                "hurt…?\""
               ]
             },
             {
@@ -5319,14 +5322,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"I'm fine... it's calmed down... now...\""
+                "\\SE[1] \"It’s okay, I’m calming down… so…\""
               ]
             },
             {
@@ -5344,21 +5347,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"It's not pain... it's more like... my body"
+                "\\SE[1] \"It’s not pain, but —or rather, my body is"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "is throbbing... I guess...///\""
+                "tingling… or something like that… ///\""
               ]
             },
             {
@@ -5376,14 +5379,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"\\C[2]I just feel like doing... lewd things\\C[0]...\""
+                "\\SE[1] \"It’s more like… I feel like doing \\C[0] naughty"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "things \\C[0]…\""
               ]
             },
             {
@@ -5424,21 +5434,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"W-well, if it's too much, just tell me."
+                "\\SE[3] \"Anyway, just let me know if things get too"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There might be something I can do.\""
+                "tough. Maybe there’s something I can do to"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/カイル顔赤らめ",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "help.\""
               ]
             },
             {
@@ -5456,14 +5491,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Rose]"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"O-okay...\""
+                "\\SE[1] \"O-okay, I get it.\""
               ]
             },
             {
@@ -5652,7 +5687,7 @@
     },
     {
       "id": 6,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -6171,7 +6206,7 @@
     },
     {
       "id": 7,
-      "name": "ロゼ",
+      "name": "Rosé",
       "note": "",
       "pages": [
         {
@@ -6385,7 +6420,7 @@
     null,
     {
       "id": 9,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -6731,7 +6766,7 @@
     },
     {
       "id": 10,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {

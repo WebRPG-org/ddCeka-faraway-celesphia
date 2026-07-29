@@ -16,7 +16,7 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Arseleon Great Bridge",
+  "displayName": "Arcelion Bridge",
   "encounterList": [],
   "encounterStep": 30,
   "height": 17,
@@ -1771,7 +1771,7 @@
     null,
     {
       "id": 1,
-      "name": "兵隊",
+      "name": "Soldier",
       "note": "",
       "pages": [
         {
@@ -1814,21 +1814,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier"
+                "Soldier "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This is the Arseleon Great Bridge. You'll need a pass"
+                ": \"This is the ArseLeon Bridge. You’ll need a pass to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "to cross...\""
+                "cross… Oh, you have one. My apologies. Please go"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Soldier "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "ahead.\""
               ]
             },
             {
@@ -1863,7 +1888,7 @@
     },
     {
       "id": 2,
-      "name": "兵隊",
+      "name": "Soldier",
       "note": "",
       "pages": [
         {
@@ -1906,14 +1931,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier"
+                "Soldier "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"From here on out, this is the Eldenia region.\""
+                ": \"From here on, you’ll be entering the Eldenia region."
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "The monsters here are ferocious. Be careful…\""
               ]
             },
             {
@@ -1948,7 +1980,7 @@
     },
     {
       "id": 3,
-      "name": "兵隊",
+      "name": "Soldier",
       "note": "",
       "pages": [
         {
@@ -1991,21 +2023,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier"
+                "Soldier "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"If monsters get through from here, it'll be a"
+                ": \"If monsters pass through here to the other side,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "disaster.\""
+                "it'll be a disaster. We're the ones protecting you from"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Soldier "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "the monsters.\""
               ]
             },
             {
@@ -2040,7 +2097,7 @@
     },
     {
       "id": 4,
-      "name": "兵隊",
+      "name": "Soldier",
       "note": "",
       "pages": [
         {
@@ -2083,21 +2140,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier"
+                "Soldier "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I'm checking the inventory of supplies. Don't talk to"
+                ": \"I'm checking the inventory of my supplies. Please"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "me.\""
+                "don't talk to me.\""
               ]
             },
             {
@@ -2132,7 +2189,7 @@
     },
     {
       "id": 5,
-      "name": "兵隊",
+      "name": "Soldier",
       "note": "",
       "pages": [
         {
@@ -2175,21 +2232,78 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier"
+                "Soldier "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"They say treasure from a bandit gang that existed long"
+                ": \"They say there’s treasure from a band of thieves"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "ago is hidden in the desert.\""
+                "that existed long ago hidden in the desert or"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Soldier "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "something… Well, it’s a romantic notion, I guess. But"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "you’ll probably just end up getting attacked by"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Soldier "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "monsters and dying.\""
               ]
             },
             {
@@ -2224,7 +2338,7 @@
     },
     {
       "id": 6,
-      "name": "兵隊",
+      "name": "Soldier",
       "note": "",
       "pages": [
         {
@@ -2267,14 +2381,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier"
+                "Soldier "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It's desert from here on out.\""
+                ": \"From here on, it's desert. Monsters roam the area."
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Be careful.\""
               ]
             },
             {
@@ -2292,14 +2413,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier"
+                "Soldier "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"The beasts of Valdeen have intelligence,\""
+                ": \"Some of the beasts of Valdine possess intelligence,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "and there are even some that speak something resembling"
               ]
             },
             {
@@ -2317,14 +2445,39 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier"
+                "Soldier "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"so stay sharp.\""
+                "language.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Soldier "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                ": \"Be very careful.\""
               ]
             },
             {
@@ -2359,7 +2512,7 @@
     },
     {
       "id": 7,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -2526,7 +2679,7 @@
     },
     {
       "id": 8,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -2693,7 +2846,7 @@
     },
     {
       "id": 9,
-      "name": "門の下",
+      "name": "Under the Gate",
       "note": "",
       "pages": [
         {
@@ -2906,7 +3059,7 @@
     },
     {
       "id": 10,
-      "name": "門の下",
+      "name": "Under the Gate",
       "note": "",
       "pages": [
         {
@@ -2949,14 +3102,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Arseleon Private Guard"
+                "Arseon Private Guard "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Let me see your pass... Yes, confirmed.\""
+                ": \"May I see your pass… Yes, I’ve verified it. Have a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "safe trip.\""
               ]
             },
             {
@@ -3144,7 +3304,7 @@
     },
     {
       "id": 11,
-      "name": "回復ポイント",
+      "name": "Recovery Points",
       "note": "",
       "pages": [
         {
@@ -3187,14 +3347,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Recover?"
+                "Do you want to restore it? *You can restore it as many"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*You can restore it as many times as you like."
+                "times as you like."
               ]
             },
             {
@@ -3209,10 +3369,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -3220,7 +3376,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -3272,7 +3428,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Recovered."
+                "I've recovered."
               ]
             },
             {
@@ -3285,7 +3441,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {

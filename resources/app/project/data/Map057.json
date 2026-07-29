@@ -1501,7 +1501,7 @@
     },
     {
       "id": 3,
-      "name": "外へ",
+      "name": "Outside",
       "note": "",
       "pages": [
         {
@@ -1573,7 +1573,7 @@
     },
     {
       "id": 4,
-      "name": "宝箱",
+      "name": "Treasure Chest",
       "note": "",
       "pages": [
         {
@@ -1616,7 +1616,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]It's empty..."
+                "It's empty inside..."
               ]
             },
             {
@@ -1634,14 +1634,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Or so it seemed, but upon closer inspection, there was"
+                "I thought that was it, but when I looked closer, there"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "an item at the bottom!"
+                "was an item at the bottom!"
               ]
             },
             {
@@ -1681,7 +1681,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]You obtained a Magic Herb!"
+                "I got the Magic Herb!"
               ]
             },
             {
@@ -1775,7 +1775,7 @@
     },
     {
       "id": 5,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -2121,7 +2121,7 @@
     },
     {
       "id": 6,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -2176,7 +2176,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Obtained Ancient Sculpture Fragment."
+                "I acquired a fragment of an ancient sculpture."
               ]
             },
             {

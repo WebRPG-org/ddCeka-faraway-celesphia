@@ -1771,7 +1771,7 @@
     null,
     {
       "id": 1,
-      "name": "村長",
+      "name": "Village Chief",
       "note": "",
       "pages": [
         {
@@ -1814,14 +1814,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Village Chief"
+                "Village Chief "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Welcome, traveler. I am the chief of this village.\""
+                ": \"Welcome, traveler. I am the chief of this village,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                ".\""
               ]
             },
             {
@@ -1839,14 +1846,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Village Chief"
+                "Village Chief "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Lately, bandits have been appearing around here...\""
+                ": \"Bandits have been appearing around here lately… It"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "seems they’re committing crimes in an organized"
               ]
             },
             {
@@ -1864,14 +1878,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Village Chief"
+                "Village Chief "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"You look skilled, but they're a large group.\""
+                "manner.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Village Chief "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                ": \"You seem to be quite skilled, but your opponents"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "outnumber you . Please be very careful.\""
               ]
             },
             {
@@ -2016,7 +2062,7 @@
     },
     {
       "id": 3,
-      "name": "神父",
+      "name": "Priest",
       "note": "",
       "pages": [
         {
@@ -2059,14 +2105,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Priest"
+                "Priest "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hohoho, I am not the village chief.\""
+                ": \"Ho ho ho, I'm not the village chief, you know.\""
               ]
             },
             {
@@ -2084,21 +2130,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Priest"
+                "Priest "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Since there's no space, I'm borrowing the village"
+                ": \"Since we have no place of our own, we are borrowing"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "chief's house to\""
+                "the village chief's house to practice our faith.\""
               ]
             },
             {
@@ -2116,14 +2162,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Priest"
+                "Father "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"If you're feeling unwell, that is\""
+                ": \"If you're not feeling well or anything like that,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "please feel free to come see me anytime.\""
               ]
             },
             {
@@ -2189,7 +2242,7 @@
     },
     {
       "id": 4,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -2254,7 +2307,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Revive Soul."
+                "I got Revive Soul"
               ]
             },
             {
@@ -2348,7 +2401,7 @@
     },
     {
       "id": 5,
-      "name": "シスター",
+      "name": "Sister",
       "note": "",
       "pages": [
         {
@@ -2391,21 +2444,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister"
+                "Sister "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"The spell 'Antithesis' literally means to stop"
+                ": \"Abortion (Antithesis), as the name suggests, can"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "pregnancy,\""
+                "stop a pregnancy and terminate it.\""
               ]
             },
             {
@@ -2423,14 +2476,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister"
+                "Sister "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"but its power is beyond even divine blessing,\""
+                ": \"However, you cannot wield it based on the attribute"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "of divine protection alone; you must belong to the"
               ]
             },
             {
@@ -2448,14 +2508,78 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister"
+                "Sister "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"so only a select few can wield it.\""
+                "Church, offer prayers to God for three days and three"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "nights, and receive a revelation from .\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Sister "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                ": \"That’s why there are only a few people who can"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "handle it. It’s only natural that we receive such"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Sister "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "generous donations.\""
               ]
             },
             {

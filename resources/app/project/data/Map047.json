@@ -1891,7 +1891,7 @@
     },
     {
       "id": 3,
-      "name": "外へ",
+      "name": "Outside",
       "note": "",
       "pages": [
         {
@@ -1970,7 +1970,7 @@
     },
     {
       "id": 4,
-      "name": "店員",
+      "name": "Store Clerk",
       "note": "",
       "pages": [
         {
@@ -2013,14 +2013,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Arcane Tools Shopkeeper"
+                "Magical Item Shop Clerk "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Welcome! I'm Shiro Noir!\""
+                ": \"Welcome! I'm Shiro Noir!\""
               ]
             },
             {
@@ -2089,14 +2089,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Arcane Tools Shopkeeper"
+                "Magical Item Shop Clerk "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"We look forward to seeing you again!\""
+                ": \"We look forward to seeing you again!\""
               ]
             },
             {
@@ -2131,7 +2131,7 @@
     },
     {
       "id": 5,
-      "name": "客",
+      "name": "Customer",
       "note": "",
       "pages": [
         {
@@ -2174,14 +2174,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer"
+                "Male Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hey... The staff here are cute, huh?\""
+                ": \"Hey... the clerk here is cute, isn't she?\""
               ]
             },
             {
@@ -2199,21 +2199,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer"
+                "Male Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I wonder if I could get close to them... But I can't"
+                ": \"I wonder if there's any way I can get closer to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "use magic... Sigh.\""
+                "her... But I can't use magic... Sigh.\""
               ]
             },
             {
@@ -2291,14 +2291,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shop Clerk"
+                "Shop Clerk "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"No one really knows how monsters are born.\""
+                ": \"As for how monsters are born... , we don't really"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "know for sure.\""
               ]
             },
             {
@@ -2316,21 +2323,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shop Clerk"
+                "Shop Clerk "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"One theory says they're born when a living creature's"
+                ": \"According to one theory, it is said to be born when"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "corpse mixes with miasma...\""
+                "the corpse of a living creature mixes with miasma.\""
               ]
             },
             {
@@ -2348,21 +2355,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shop Clerk"
+                "Store Clerk "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"The Academy's been researching this too. Maybe one"
+                ": \"I hear the Academy is making progress on this kind"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "day, monsters will be wiped out entirely.\""
+                "of research, too. Maybe there’s even a future where"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Store Clerk "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "monsters are completely eradicated.\""
               ]
             },
             {

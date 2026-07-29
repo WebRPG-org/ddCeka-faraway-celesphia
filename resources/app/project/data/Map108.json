@@ -1363,7 +1363,7 @@
     null,
     {
       "id": 1,
-      "name": "料理",
+      "name": "Cooking",
       "note": "",
       "pages": [
         {
@@ -1474,7 +1474,7 @@
     },
     {
       "id": 2,
-      "name": "料理2",
+      "name": "Dish 2",
       "note": "",
       "pages": [
         {
@@ -1585,7 +1585,7 @@
     },
     {
       "id": 3,
-      "name": "料理3",
+      "name": "Dishes 3",
       "note": "",
       "pages": [
         {
@@ -1696,7 +1696,7 @@
     },
     {
       "id": 4,
-      "name": "お姉さん",
+      "name": "Big Sister",
       "note": "",
       "pages": [
         {
@@ -1807,7 +1807,7 @@
     },
     {
       "id": 5,
-      "name": "カイル(幼少期)",
+      "name": "Kyle (as a child)",
       "note": "",
       "pages": [
         {
@@ -1918,7 +1918,7 @@
     },
     {
       "id": 6,
-      "name": "荷物",
+      "name": "Luggage",
       "note": "",
       "pages": [
         {
@@ -1940,7 +1940,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "flower_chip_Celesphia",
+            "characterName": "flower_chip_selesphia",
             "direction": 2,
             "pattern": 2,
             "characterIndex": 1
@@ -2029,7 +2029,7 @@
     },
     {
       "id": 7,
-      "name": "ドア",
+      "name": "Door",
       "note": "",
       "pages": [
         {
@@ -2089,7 +2089,7 @@
     },
     {
       "id": 8,
-      "name": "自動",
+      "name": "Automatic",
       "note": "",
       "pages": [
         {
@@ -2165,14 +2165,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle (Boy)"
+                "Kyle (boy) "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Wow, this much! Can I really eat all this?\""
+                ": \"Wow, this much! Can I really eat all this?\""
               ]
             },
             {
@@ -2190,14 +2190,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Misabel"
+                "Misabel "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Of course! Sometimes you gotta stuff yourself full!\""
+                ": \"Of course! You’ve got to eat your fill every once in"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "a while!\""
               ]
             },
             {
@@ -2215,7 +2222,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle (Boy)"
+                "Kyle (boy) "
               ]
             },
             {
@@ -2395,14 +2402,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle (Boy)"
+                "Kyle (boy) "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Why am I suddenly so sleepy… Could it be… sleeping"
+                ": \"Why am I suddenly so sleepy… Could it be… sleeping"
               ]
             },
             {
@@ -2569,7 +2576,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle (Boy)"
+                "Kyle (boy) "
               ]
             },
             {
@@ -2603,7 +2610,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle (Boy)"
+                "Kyle (boy) "
               ]
             },
             {

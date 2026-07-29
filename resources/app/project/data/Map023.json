@@ -16,7 +16,7 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Greenvale Village",
+  "displayName": "The Village of Greenvale",
   "encounterList": [],
   "encounterStep": 30,
   "height": 40,
@@ -7237,7 +7237,7 @@
     null,
     {
       "id": 1,
-      "name": "ドア",
+      "name": "Door",
       "note": "",
       "pages": [
         {
@@ -7297,7 +7297,7 @@
     },
     {
       "id": 2,
-      "name": "ドア",
+      "name": "Door",
       "note": "",
       "pages": [
         {
@@ -7529,7 +7529,7 @@
     },
     {
       "id": 3,
-      "name": "ドア",
+      "name": "Door",
       "note": "",
       "pages": [
         {
@@ -7761,7 +7761,7 @@
     },
     {
       "id": 4,
-      "name": "ドア",
+      "name": "Door",
       "note": "",
       "pages": [
         {
@@ -8226,7 +8226,7 @@
     },
     {
       "id": 5,
-      "name": "ドア",
+      "name": "Door",
       "note": "",
       "pages": [
         {
@@ -8286,7 +8286,7 @@
     },
     {
       "id": 6,
-      "name": "ドア",
+      "name": "Door",
       "note": "",
       "pages": [
         {
@@ -8518,7 +8518,7 @@
     },
     {
       "id": 7,
-      "name": "ドア",
+      "name": "Door",
       "note": "",
       "pages": [
         {
@@ -8784,7 +8784,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]The door is locked."
+                "It's locked."
               ]
             },
             {
@@ -8819,7 +8819,7 @@
     },
     {
       "id": 8,
-      "name": "モブ",
+      "name": "Mob",
       "note": "",
       "pages": [
         {
@@ -8879,7 +8879,7 @@
     },
     {
       "id": 9,
-      "name": "モブ",
+      "name": "Mob",
       "note": "",
       "pages": [
         {
@@ -8939,7 +8939,7 @@
     },
     {
       "id": 10,
-      "name": "モブ",
+      "name": "Mob",
       "note": "",
       "pages": [
         {
@@ -8999,7 +8999,7 @@
     },
     {
       "id": 11,
-      "name": "モブ",
+      "name": "Mob",
       "note": "",
       "pages": [
         {
@@ -9059,7 +9059,7 @@
     },
     {
       "id": 12,
-      "name": "モブ",
+      "name": "Mob",
       "note": "",
       "pages": [
         {
@@ -9119,7 +9119,7 @@
     },
     {
       "id": 13,
-      "name": "モブ",
+      "name": "Mob",
       "note": "",
       "pages": [
         {
@@ -9179,7 +9179,7 @@
     },
     {
       "id": 14,
-      "name": "モブ",
+      "name": "Mob",
       "note": "",
       "pages": [
         {
@@ -9222,21 +9222,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Villager"
+                "Villager "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This village is unusual―it's like one big company"
+                ": \"This village is unusual in that the whole village is"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "running the whole place.\""
+                "run like one big company.\""
               ]
             },
             {
@@ -9254,21 +9254,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Villager"
+                "Villager "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Every job has a manual, and if someone's absent, they"
+                ": \"Various jobs have been standardized, so if a"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "just fill the shift.\""
+                "position becomes vacant, someone can step in to fill"
               ]
             },
             {
@@ -9286,14 +9286,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Villager"
+                "Villager "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It's amazing, isn't it?\""
+                "it.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Villager "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                ": \"They’ve even adopted a shift system. That’s pretty"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "amazing, isn’t it?\""
               ]
             },
             {
@@ -9379,7 +9411,7 @@
     },
     {
       "id": 15,
-      "name": "モブ",
+      "name": "Mob",
       "note": "",
       "pages": [
         {
@@ -9422,14 +9454,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Villager"
+                "Villager "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hey, have you been to Lewin Forest?\""
+                ": \"Hey, have you been to Luwin Forest yet?\""
               ]
             },
             {
@@ -9444,10 +9476,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -9455,7 +9483,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -9473,21 +9501,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Old Man"
+                "Elder "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Lewin Forest is where the daughter of the Goddess"
+                ": \"There’s a legend that says the Forest of Luwin was"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Seratus-sama,\""
+                "the convalescent home of Lady Luwin, the daughter of"
               ]
             },
             {
@@ -9505,14 +9533,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Old Man"
+                "Elder "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Lady Lewin, was seen bathing."
+                "the goddess Seratus.\""
               ]
             },
             {
@@ -9530,21 +9558,53 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Old Man"
+                "Elder "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "If she's still alive, she'd be thousands of years"
+                ": \"There are even some adventurers who claim to have"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "old...\""
+                "seen Lord Lewin bathing…\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Old Woman "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                ": \"If I were still alive today, I’d be some old hag"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "thousands of years old, wouldn’t I…?\""
               ]
             },
             {
@@ -9557,7 +9617,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -9575,21 +9635,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Villager"
+                "Villager "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Well, if you ever get the chance, you should go see"
+                ": \"Well, you should go check it out if you get the"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "for yourself.\""
+                "chance. It’s a nice forest.\""
               ]
             },
             {
@@ -9634,7 +9694,7 @@
     },
     {
       "id": 16,
-      "name": "モブ",
+      "name": "Mob",
       "note": "",
       "pages": [
         {
@@ -9677,21 +9737,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Nice village... Sometimes you find good men in places"
+                ": \"What a nice village... You can sometimes find a"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "like this.\""
+                "handsome guy in a place like this.\""
               ]
             },
             {
@@ -9777,7 +9837,7 @@
     },
     {
       "id": 17,
-      "name": "モブ",
+      "name": "Mob",
       "note": "",
       "pages": [
         {
@@ -9820,14 +9880,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Villager"
+                "Villager "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hey, this is Greenvale Village.\""
+                ": \"Hey, this is Greenvale Village. Adventurers are"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "gathering at the tavern.\""
               ]
             },
             {
@@ -9913,7 +9980,7 @@
     },
     {
       "id": 18,
-      "name": "明かり",
+      "name": "Light",
       "note": "",
       "pages": [
         {
@@ -9980,7 +10047,7 @@
     },
     {
       "id": 19,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -10147,7 +10214,7 @@
     },
     {
       "id": 20,
-      "name": "明かり",
+      "name": "Light",
       "note": "",
       "pages": [
         {
@@ -10214,7 +10281,7 @@
     },
     {
       "id": 21,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -10381,7 +10448,7 @@
     },
     {
       "id": 22,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -10548,7 +10615,7 @@
     },
     {
       "id": 23,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -10715,7 +10782,7 @@
     },
     {
       "id": 24,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -10882,7 +10949,7 @@
     },
     {
       "id": 25,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -11049,7 +11116,7 @@
     },
     {
       "id": 26,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -11216,7 +11283,7 @@
     },
     {
       "id": 27,
-      "name": "酒場へ",
+      "name": "To the bar",
       "note": "",
       "pages": [
         {
@@ -11288,7 +11355,7 @@
     },
     {
       "id": 28,
-      "name": "自動初回イベント",
+      "name": "Automatic First-Time Event",
       "note": "",
       "pages": [
         {
@@ -11469,14 +11536,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"This is Greenvale Village.\""
+                "\\SE[3] \"This is the village of Greenvale.\""
               ]
             },
             {
@@ -11514,14 +11581,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"It's such a peaceful and lovely village.\""
+                "\\SE[5] \"This is such a peaceful and lovely"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "village.\""
               ]
             },
             {
@@ -11539,21 +11613,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"It also serves as a resting place for"
+                "\\SE[3] \"This place also serves as an inn for"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "adventurers.\""
+                "adventurers, so many adventurers stop by"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                2,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "here.\""
               ]
             },
             {
@@ -11581,14 +11680,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"And here?\""
+                "\\SE[4] \"Where am I?\""
               ]
             },
             {
@@ -11606,14 +11705,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"This is the shopping district.\""
+                "\\SE[3] \"This is the shopping district, and there’s"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "a big tavern here.\""
               ]
             },
             {
@@ -11631,21 +11737,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Next, we'll have to cross the mountains,"
+                "\\SE[4] \"We’ll be crossing a mountain next, so"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "so...\""
+                "let’s make sure to restock our supplies.\""
               ]
             },
             {
@@ -11683,21 +11789,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Once we've finished preparing everything,"
+                "\\SE[3] \"Well, once we’re all set, let’s head to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "let's meet up at the tavern.\""
+                "the tavern and have something delicious to"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                3,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "eat.\""
               ]
             },
             {
@@ -11715,14 +11846,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Yes! I'm looking forward to it!\""
+                "\\SE[5] \"Yes! I’m looking forward to it!\""
               ]
             },
             {
@@ -11759,9 +11890,8 @@
                 1,
                 0,
                 4,
-                "\"　Go to the Tavern\""
-              ],
-              "_original": "\"　酒場へ行こう\""
+                "\"　Let's go to a bar\""
+              ]
             },
             {
               "code": 222,
@@ -11902,7 +12032,7 @@
     },
     {
       "id": 29,
-      "name": "進入禁止",
+      "name": "No Entry",
       "note": "",
       "pages": [
         {
@@ -11962,7 +12092,7 @@
     },
     {
       "id": 30,
-      "name": "店員",
+      "name": "Store Clerk",
       "note": "",
       "pages": [
         {
@@ -12005,14 +12135,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Villager"
+                "Villager "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This is the Greenveil branch of the Guild.\""
+                ": \"This is the Greenvale branch of the guild. If you'd"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "like to take on a job, please come inside.\""
               ]
             },
             {
@@ -12141,14 +12278,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Villager"
+                "Villager "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Do you know the local legend?\""
+                ": \"Do you know the stories from this region?\""
               ]
             },
             {
@@ -12163,10 +12300,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -12174,7 +12307,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -12192,14 +12325,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Villager"
+                "Villager "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Ah, I see. Well then, that's fine. Hah hah hah!\""
+                ": \"Is that so? Well, that’s fine then. Ho ho ho.\""
               ]
             },
             {
@@ -12212,7 +12345,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -12230,14 +12363,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Villager"
+                "Villager "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"This area is called the Ceratus region because\",\""
+                ": \"This area is called the Seratus Region because ,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "long ago, during the time when the gods were at war"
               ]
             },
             {
@@ -12255,21 +12395,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Villager"
+                "Villager "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"it's said that where the Goddess Ceratus fell, grass"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "and trees grew,\""
+                "with one another—\""
               ]
             },
             {
@@ -12287,14 +12420,78 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Villager"
+                "Villager "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"and this place became its central area.\""
+                ": \"There is a legend that, from the spot where the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "goddess Seratus fell, plants began to grow, water"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Villager "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "sprang forth, and the earth was nourished.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Villager "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                ": \"I hear this area is the heart of it all, and that’s"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "why they started calling it the Seratus Region.\""
               ]
             },
             {
@@ -12390,7 +12587,7 @@
     },
     {
       "id": 32,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -12909,7 +13106,7 @@
     },
     {
       "id": 33,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -13428,7 +13625,7 @@
     },
     {
       "id": 34,
-      "name": "リリアン",
+      "name": "Lillian",
       "note": "",
       "pages": [
         {
@@ -13947,7 +14144,7 @@
     },
     {
       "id": 35,
-      "name": "村人EV終了",
+      "name": "\"Villager EV\" Ends",
       "note": "",
       "pages": [
         {
@@ -14651,14 +14848,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ori"
+                "Ori "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"U-um!\""
+                "\\SE[1] \"Uh, excuse me!\""
               ]
             },
             {
@@ -14703,14 +14900,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ori"
+                "Ori "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Maybe…he…Darim…did something…\""
+                "\\SE[1] \"Could it be that guy… Did Darim ask him to"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "do something ?\""
               ]
             },
             {
@@ -14755,21 +14959,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3](Damn it… I can't let the request details"
+                "\\SE[3] (Oh, no... I can't very well reveal the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "slip…)"
+                "details of the request.)"
               ]
             },
             {
@@ -14787,14 +14991,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Ah, uh… I mean…\""
+                "\\SE[3] \"Ah, ah—… Um…\""
               ]
             },
             {
@@ -14812,21 +15016,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ori"
+                "Ori "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"I-I have something to talk to you about"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "regarding Darim.\""
+                "\\SE[1]: \"Um, I’d like to talk to you about Darim.\""
               ]
             },
             {
@@ -15002,14 +15199,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ori"
+                "Ori "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"I've known for a while that Darim has"
+                "\\SE[1]: \"I’ve known for a while now that Darim has"
               ]
             },
             {
@@ -15034,14 +15231,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ori"
+                "Ori "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"But…\""
+                "\\SE[1] \"But…\""
               ]
             },
             {
@@ -15086,14 +15283,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ori"
+                "Ori "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"To be honest… Darim's… that kind of…\""
+                "\\SE[1]: \"To be honest... I'm not really"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "comfortable with that side of Darim.\""
               ]
             },
             {
@@ -15111,21 +15315,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ori"
+                "Ori "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"He's always been the type to show up"
+                "\\SE[1] \"Ever since way back, he’d show up wherever"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "wherever I go, pretending it's a\""
+                "I went, pretending it was a coincidence, \\!"
               ]
             },
             {
@@ -15143,14 +15347,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ori"
+                "Ori "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "coincidence.\""
+                "acting strangely familiar, \\! acting like he"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "was my boyfriend without my permission, and"
               ]
             },
             {
@@ -15168,21 +15379,71 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ori"
+                "Ori "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"He's always been so… clingy, pushing his"
+                "trying to carry my bags.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "roze_party",
+                5,
+                0,
+                2,
+                ""
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "way into my space…\""
+                "Ori "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1] \"Ever since way back, I’ve felt like he’s"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "been persistently closing in on me… It just"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "roze_party",
+                5,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Ori "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "makes me feel really uncomfortable.\""
               ]
             },
             {
@@ -15200,14 +15461,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"I-Is that so?\""
+                "\\SE[5] \"I-Is that so?\""
               ]
             },
             {
@@ -15225,21 +15486,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ori"
+                "Ori "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"He always tries to give me presents, you"
+                "\\SE[1] \"You’re trying to give me a present, aren’t"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "know.\""
+                "you? I’ve noticed that, too.\""
               ]
             },
             {
@@ -15257,14 +15518,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4](Oh no… this is bad…)"
+                "\\SE[4] (Oh, oh no...)"
               ]
             },
             {
@@ -15282,21 +15543,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ori"
+                "Ori "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"I have no intention of accepting anything"
+                "\\SE[1] \"I have no intention of accepting anything"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "from Darim.\""
+                "from Darim. And there’s absolutely no way"
               ]
             },
             {
@@ -15314,21 +15575,78 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ori"
+                "Ori "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"I plan to leave this village and live in"
+                "I’d go out with him.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "roze_party",
+                5,
+                0,
+                2,
+                ""
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the royal capital.\""
+                "Ori "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1] \"I’m planning to leave this village and"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "live in the capital. \\! Could you please"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "roze_party",
+                5,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Ori "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "tell him this so I can put some distance"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "between myself and Darim?\""
               ]
             },
             {
@@ -15346,7 +15664,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"…Ori-san. I understand how you feel. But"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "as for conveying those words for you…\""
               ]
             },
             {
@@ -15364,7 +15696,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ori"
+                "Ori "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1] \"I hate to say this myself. Just the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "thought of seeing his face, or seeing his"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "roze_party",
+                5,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Ori "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "reaction… just imagining it…\""
               ]
             },
             {
@@ -15382,7 +15753,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"Precisely because these are painful words,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I think it’s better if you say them"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                5,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "yourself.\""
               ]
             },
             {
@@ -15400,7 +15810,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3] \"We can’t go that far. The rest is up to"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "the two of you. I’m sorry.\""
               ]
             },
             {
@@ -15418,7 +15842,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ori"
+                "Ori "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[1] \"I see… Well, I understand.\""
               ]
             },
             {
@@ -15558,7 +15989,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3] \"I never expected this to happen.\""
               ]
             },
             {
@@ -15576,7 +16014,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"It doesn't look like this is going to end"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "well.\""
               ]
             },
             {
@@ -15603,7 +16055,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[4] \"...Is there any way we could watch that"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "chaotic scene ?\""
               ]
             },
             {
@@ -15670,7 +16136,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"Lillian.\""
               ]
             },
             {
@@ -15726,7 +16199,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"I want to see it, too.\""
               ]
             },
             {
@@ -15839,7 +16319,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]K"
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[3] \"You two should both stop…\""
               ]
             },
             {
@@ -16017,7 +16504,7 @@
     },
     {
       "id": 36,
-      "name": "オリィ",
+      "name": "Ori",
       "note": "",
       "pages": [
         {
@@ -16060,14 +16547,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Woman"
+                "Woman "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Sigh... so boring. This village is really dull...\""
+                ": \"Ugh… This is so boring. This village is really"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "dull…\""
               ]
             },
             {
@@ -16085,21 +16579,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Woman"
+                "Woman "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Adventurers sure have it good... so free... I wish I"
+                ": \"Being an adventurer is so great… so free… I’m so"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "could be one.\""
+                "jealous.\""
               ]
             },
             {
@@ -16134,7 +16628,7 @@
     },
     {
       "id": 37,
-      "name": "オリィHイベ",
+      "name": "Ori H Event",
       "note": "",
       "pages": [
         {
@@ -16177,7 +16671,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Darlim's Confession\""
+                "\"Dalim's Confession\""
               ]
             },
             {
@@ -16207,7 +16701,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "※Contains more explicit content than a typical H scene."
+                "*This content contains material that is more explicit"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "than typical H scenes. If this is not your thing, we"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "recommend skipping it."
               ]
             },
             {
@@ -16225,7 +16733,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Play?"
+                "Would you like to play it?"
               ]
             },
             {
@@ -16240,10 +16748,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -16251,7 +16755,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -16277,7 +16781,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -16497,14 +17001,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Darim"
+                "\\SE[0] Darim "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Sigh, what a nice night.\""
+                "\"Phew, what a nice night.\""
               ]
             },
             {
@@ -16522,14 +17026,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Darim"
+                "\\SE[0] Darim "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Finally, the Scarred ring is done.\""
+                "\"I’ve finally finished the Scarlet Ring."
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I’ll give this to Oli as a present.\""
               ]
             },
             {
@@ -16547,21 +17058,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Darim"
+                "\\SE[0] Darim "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"She'll definitely be happy. And then I'll"
+                "\"I’m sure she’ll be happy. And then she’ll"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "kiss her…\""
+                "kiss me and we’ll start dating… hehehe\""
               ]
             },
             {
@@ -16579,21 +17090,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Darim"
+                "\\SE[0] Darim "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I've been celibate for a week, and I've got"
+                "\"I’ve gone a week without masturbating, and"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "condoms too.\""
+                "I’ve got a condom. Perfect. All right, let’s"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "roze_party",
+                4,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Darim "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "go.\""
               ]
             },
             {
@@ -16732,7 +17268,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"…Mmh… Mmh…\""
+                "\\SE[1] \"………Hmm………Hmm…………\""
               ]
             },
             {
@@ -16829,7 +17365,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"…Ah… Ahh…\""
+                "\\SE[1] \"…Ah………!\""
               ]
             },
             {
@@ -16912,21 +17448,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Darim"
+                "\\SE[0] Darim "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"When I actually go to confess, I get"
+                "\"Man, I get so nervous right when I’m about"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "nervous…\""
+                "to confess…\""
               ]
             },
             {
@@ -16944,14 +17480,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Darim"
+                "\\SE[0] Darim "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Alright, let's go…!\""
+                "\"All right, let’s go…!\""
               ]
             },
             {
@@ -17034,14 +17570,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ori."
+                "Ori "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"…Hey… Really…\""
+                "\\SE[1] \"...Hey... really...\""
               ]
             },
             {
@@ -17059,14 +17595,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]？？？"
+                "??? "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"…It's not a lie… I'm serious…\""
+                "\"…It’s not a lie… I’m serious…\""
               ]
             },
             {
@@ -17084,14 +17620,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Darim"
+                "\\SE[0] Darim "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Voices…? Is someone coming?\""
+                "\"I hear voices... Is someone coming?\""
               ]
             },
             {
@@ -17118,14 +17654,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Darim"
+                "\\SE[0] Darim "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Maybe I should take a quick look…\""
+                "\"Let's take a quick peek...\""
               ]
             },
             {
@@ -18167,14 +18703,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Darim"
+                "Darim "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"...Ori...\""
+                ": \"…Ori…\""
               ]
             },
             {
@@ -18192,14 +18728,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ori."
+                "Ori "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"...You were watching?\""
+                "\\SE[1] \"...You were watching, weren’t you?\""
               ]
             },
             {
@@ -18226,14 +18762,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Ori."
+                "Ori "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"...Won't you come in?\""
+                "\\SE[1] \"...Why don’t you come in?\""
               ]
             },
             {
@@ -18371,7 +18907,7 @@
     },
     {
       "id": 38,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -18436,7 +18972,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Antiparalysis."
+                "I got Anti-Paralyze."
               ]
             },
             {
@@ -18530,7 +19066,7 @@
     },
     {
       "id": 39,
-      "name": "ダリム",
+      "name": "Dalim",
       "note": "",
       "pages": [
         {
@@ -18590,7 +19126,7 @@
     },
     {
       "id": 40,
-      "name": "間男",
+      "name": "The Other Man",
       "note": "",
       "pages": [
         {
@@ -18701,7 +19237,7 @@
     },
     {
       "id": 41,
-      "name": "間男2",
+      "name": "The Other Man 2",
       "note": "",
       "pages": [
         {
@@ -18812,7 +19348,7 @@
     },
     {
       "id": 42,
-      "name": "ルーナたち雑談EV",
+      "name": "Luna and Friends: Casual Chat EV",
       "note": "",
       "pages": [
         {
@@ -18855,7 +19391,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Luna is an Academy graduate\""
+                "\"Luna is an Academy graduate.\" Would you like to see ?"
               ]
             },
             {
@@ -18870,10 +19406,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -18881,7 +19413,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -18907,7 +19439,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -19113,14 +19645,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"How did you learn magic, Luna?\""
+                "\\SE[3] \"How did Luna learn magic? She seems to be"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "quite skilled at it.\""
               ]
             },
             {
@@ -19138,21 +19677,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"My mother was highly skilled with magic,"
+                "\\SE[5] \"My mother was very skilled in magic, so"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "so...\""
+                "she taught me all sorts of things from a"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "young age.\""
               ]
             },
             {
@@ -19170,21 +19734,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Hehe, you and I are a bit alike in that"
+                "\\SE[5] \"Hehe, in that respect, you might be a"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "regard, Kyle-sama.\""
+                "little like Lord Kyle.\""
               ]
             },
             {
@@ -19202,14 +19766,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Lady Luna is a graduate of the \\C[2]Academy\\C[0].\""
+                "\\SE[4] \"After all, Lady Luna \\C[2] is a graduate of the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Academy \\C[0].\""
               ]
             },
             {
@@ -19236,14 +19807,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Wait, Luna went to the \\C[2]Academy\\C[0]?\""
+                "\\SE[3] \"Wait, did Luna \\C[2] go to the Academy \\C[0]?\""
               ]
             },
             {
@@ -19275,7 +19846,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]The \\C[2]Academy\\C[0] is..."
+                "What is \"\\SE[0]\\C[2] Academy \\C[0]\"?"
               ]
             },
             {
@@ -19292,14 +19863,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]a place where they teach what magic is, how to cast"
+                "\\SE[0] What is magic? How is it cast? And what sustains the world? "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "it, and what shapes the world."
+                "—"
               ]
             },
             {
@@ -19317,14 +19888,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]From magical theory to practical combat, history, and"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "even magic ecology―"
+                "\\SE[0] The premier educational institution offering a comprehensive education in everything from magical theory to practical application, history, and magical ecology "
               ]
             },
             {
@@ -19342,14 +19906,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]admission is highly selective, limited to those with"
+                "\\SE[0] Admission is highly competitive, attracting talented"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "exceptional magical aptitude or noble lineage."
+                "individuals from all over the country—not only those"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "with exceptional magical abilities and the children of"
               ]
             },
             {
@@ -19367,21 +19938,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Graduates go on to serve in the Royal Magi Corps,"
+                "nobles, but even those known as \"child prodigies\" from"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "high-ranking government positions, or as leading"
+                "the region."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "scholars in research institutes."
+                "\\SE[0] After graduation, many go on to hold key positions within the kingdom—such as members of the Royal Mage Corps, ministerial-level officials, and chief scholars at research institutes "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "—and are said to be the ones who shape the nation’s"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "future ."
               ]
             },
             {
@@ -19413,21 +20009,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Yes. Though only up to the intermediate"
+                "\\SE[5] \"Yes. It was only middle school, but I was"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "level.\""
+                "enrolled there from age twelve to fifteen.\""
               ]
             },
             {
@@ -19444,14 +20040,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I bet getting in is tough, huh?\""
+                "\\SE[3] \"It’s hard enough just to get in, isn’t"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "it?\""
               ]
             },
             {
@@ -19469,21 +20072,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Yes. The entrance exams alone take a whole"
+                "\\SE[5] \"Yes. The entrance exams alone took a whole"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "week...\""
+                "week… I heard that fewer than forty students"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                5,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "passed that year.\""
               ]
             },
             {
@@ -19501,14 +20129,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Wait, isn't tuition fully waived too?\""
+                "\\SE[4] \"I’m pretty sure all tuition fees are"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "waived, right?\""
               ]
             },
             {
@@ -19526,21 +20161,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Yes. The nation covers everything―food,"
+                "\\SE[5] \"Yes. The government covers all our basic"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "clothing, and lodging.\""
+                "needs—food, clothing, and shelter. It’s all"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "funded by taxes.\""
               ]
             },
             {
@@ -19558,21 +20218,53 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"In return...\\C[1]'We are the ones who will shape"
+                "\\SE[5] \"In return, though… \\C[1] as ‘those who support"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the nation's future.'\\C[0]\""
+                "the future of the nation’ \\C[0] , you’ll be"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                4,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "expected to deliver results befitting that"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "role.\""
               ]
             },
             {
@@ -19590,14 +20282,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"You can handle two elements, Luna, and\""
+                "\\SE[3] \"Luna can handle two attributes, and wasn’t"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "she one of the top-tier users of those?\""
               ]
             },
             {
@@ -19615,21 +20314,53 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Oh no, not at all. There aren't many"
+                "\\SE[5] \"No, no. There are plenty of people with"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "two-element users at the Academy―\""
+                "two attributes at the Academy , and… there"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                3,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "were even some with more magical power than"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "me .\""
               ]
             },
             {
@@ -19647,14 +20378,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"I'm just mid-tier, really...\""
+                "\\SE[5] \"I’d say I’m just about mid-tier… , I"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "guess.\""
               ]
             },
             {
@@ -19672,21 +20410,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"No way... The world really is full of"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "talent...\""
+                "\\SE[3] \"No way… The world sure is big…\""
               ]
             },
             {
@@ -19704,21 +20435,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"At the Academy, we don't just train in"
+                "\\SE[5] \"At the Academy, they didn’t just train in"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "magic―\""
+                "magic; they also conducted various kinds of"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "research.\""
               ]
             },
             {
@@ -19744,14 +20500,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Research?\""
+                "\\SE[3] \"Research?\""
               ]
             },
             {
@@ -19769,21 +20525,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Yes. The grand fountains in the royal"
+                "\\SE[5] \"Yes. The large fountain in the capital and"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "capital and the streetlamps that stay lit\""
+                "the streetlights that stay lit even at night"
               ]
             },
             {
@@ -19801,14 +20557,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "even at night,"
+                "are almost entirely the result of the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Academy’s research.\""
               ]
             },
             {
@@ -19826,21 +20589,78 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"are stabilized by circulating magic"
+                "\\SE[5] \"Mechanisms for maintaining a stable"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "essence, ensuring a steady flow of water―\""
+                "circulation of magical energy to draw up a"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                4,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "fixed amount of water , as well as… formulas"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "for controlling the magical energy needed to"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                4,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "maintain the light , and so on.\""
               ]
             },
             {
@@ -19858,21 +20678,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"and about half of the convenient systems in"
+                "\\SE[4] \"About half of all the convenient systems"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "this world,\""
+                "in the world are based on technology"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                2,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "developed by the Academy, aren’t they?\""
               ]
             },
             {
@@ -19890,21 +20735,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"That's amazing. Luna, you've also"
+                "\\SE[3] \"That’s amazing. Was Luna involved in that"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "contributed to that research, right?\""
+                "research, too?\""
               ]
             },
             {
@@ -19922,14 +20767,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Yes. I've assisted with the experiments―\""
+                "\\SE[5] \"Yes, I was assisting with the experiment"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                ".\""
               ]
             },
             {
@@ -19956,21 +20808,53 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"adjusting devices that visualize the flow"
+                "\\SE[5] \"I was in charge of adjusting the devices"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "of magical energy and\""
+                "that visualize the flow of magical power and"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                2,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "recording errors in magic circles… \\! It was"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "mundane work, but I really enjoyed it.\""
               ]
             },
             {
@@ -19988,21 +20872,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Wait, that's basically being a researcher,"
+                "\\SE[3] \"Isn’t that exactly what a ‘researcher’"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "isn't it?\""
+                "is?\""
               ]
             },
             {
@@ -20020,21 +20904,53 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Oh no, not at all. I only helped with the"
+                "\\SE[5] \"No, no, it was really just small favors."
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "smallest of tasks.\""
+                "But when I see something take shape and make"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                2,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "people’s lives easier, it makes me so"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "happy.\""
               ]
             },
             {
@@ -20052,14 +20968,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"'Magic exists to help others.'\""
+                "\\SE[5] \"I felt very strongly that ‘magic is meant"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "to help others,’\" she said."
               ]
             },
             {
@@ -20086,14 +21009,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"That sounds just like you, Luna.\""
+                "\\SE[4] \"That’s just like you, Lady Luna, isn’t"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "it?\""
               ]
             },
             {
@@ -20111,14 +21041,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Yeah, that's so like you, Luna.\""
+                "\\SE[3] \"That’s definitely like Luna. So that’s"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "reflected in the magic item shop as well?\""
               ]
             },
             {
@@ -20136,14 +21073,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Yes. Those experiences―\""
+                "\\SE[5] \"Yes, those experiences are still with me.\""
               ]
             },
             {
@@ -20170,14 +21107,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Speaking of which, the Academy uniforms―\""
+                "\\SE[4] \"Come to think of it, the Academy uniforms"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "are super cute!!\""
               ]
             },
             {
@@ -20195,14 +21139,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I've always wanted to see them.\""
+                "\\SE[3] \"I kind of wanted to see that. It would’ve"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "looked great on Luna.\""
               ]
             },
             {
@@ -20229,21 +21180,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"W-well, even if you look at them, they're"
+                "\\SE[5] \"I-It’s not like watching something like"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "not that interesting...\""
+                "that is any fun…! Ugh!\""
               ]
             },
             {

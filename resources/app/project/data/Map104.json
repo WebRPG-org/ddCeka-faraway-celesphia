@@ -1387,7 +1387,7 @@
     null,
     {
       "id": 1,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -1906,7 +1906,7 @@
     },
     {
       "id": 2,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -2425,7 +2425,7 @@
     },
     {
       "id": 3,
-      "name": "リリアン",
+      "name": "Lillian",
       "note": "",
       "pages": [
         {
@@ -2944,7 +2944,7 @@
     },
     {
       "id": 4,
-      "name": "画像表示",
+      "name": "Image Display",
       "note": "",
       "pages": [
         {
@@ -2987,7 +2987,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]// Mini Window"
+                "// Mini Window"
               ]
             },
             {
@@ -3066,7 +3066,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "// Standing Illustration (Big Window)"
+                "// Character Art (Large Window)"
               ]
             },
             {
@@ -3145,7 +3145,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]// Animation"
+                "// Anime"
               ]
             },
             {
@@ -3300,7 +3300,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]// Two Standing Illustrations"
+                "// Two character portraits"
               ]
             },
             {
@@ -3433,9 +3433,8 @@
                 1,
                 0,
                 4,
-                "\"　Pass through Lewin Forest\""
-              ],
-              "_original": "\"　ルウィンの森を通り抜けよう\""
+                "\"　Let's go through Lewin Forest\""
+              ]
             },
             {
               "code": 355,
@@ -3691,7 +3690,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Everyone is normal"
+                "Everyone Normal"
               ]
             },
             {
@@ -3803,7 +3802,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Everyone lie on your backs"
+                "Everyone on their backs"
               ]
             },
             {
@@ -3915,7 +3914,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Everyone, sit down."
+                "Everyone, sit down."
               ]
             },
             {
@@ -4181,7 +4180,7 @@
     },
     {
       "id": 9,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -4348,7 +4347,7 @@
     },
     {
       "id": 10,
-      "name": "明かり",
+      "name": "Light",
       "note": "",
       "pages": [
         {
@@ -4458,7 +4457,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lights ON"
+                "Lights ON"
               ]
             },
             {
@@ -4544,7 +4543,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lights off"
+                "Lights OFF"
               ]
             },
             {
@@ -4787,7 +4786,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Display animation"
+                "Displaying Anime Images"
               ]
             },
             {
@@ -5235,7 +5234,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]SE Test"
+                "SE Test"
               ]
             },
             {
@@ -5253,7 +5252,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Normal Play"
+                "Normal Playback"
               ]
             },
             {
@@ -5295,7 +5294,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Loop Play"
+                "Loop Playback"
               ]
             },
             {
@@ -5307,7 +5306,7 @@
                 "SEループ開始",
                 {
                   "id": "loop1",
-                  "name": "Battle1",
+                  "name": "Battle 1",
                   "volume": "90",
                   "pitch": "100",
                   "pan": "0"
@@ -5325,7 +5324,7 @@
               "code": 657,
               "indent": 0,
               "parameters": [
-                "SE名 = Battle1"
+                "SE名 = Battle 1"
               ]
             },
             {
@@ -5371,7 +5370,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Stop Loop Play"
+                "Stop Loop Playback"
               ]
             },
             {
@@ -5408,7 +5407,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]W Loop Play"
+                "W-Loop Playback"
               ]
             },
             {
@@ -5420,7 +5419,7 @@
                 "SEループ開始",
                 {
                   "id": "loop1",
-                  "name": "dlc/ピストン/ピストンB肌がぶつかり合う（ゆっくり）10回",
+                  "name": "dlc/Piston/Piston B: Skin-to-Skin Contact (Slow) 10 Times",
                   "volume": "90",
                   "pitch": "100",
                   "pan": "0"
@@ -5438,7 +5437,7 @@
               "code": 657,
               "indent": 0,
               "parameters": [
-                "SE名 = dlc/ピストン/ピストンB肌がぶつかり合う（ゆっくり）10…"
+                "SE名 = dlc/Piston/Piston B: Skin-to-Skin Contact (Slow) 10 Times"
               ]
             },
             {
@@ -5471,7 +5470,7 @@
                 "SEループ開始",
                 {
                   "id": "loop2",
-                  "name": "dlc/くちゅ音(手コキ・手マンetc)/くちゅ_3",
+                  "name": "dlc/Slurping Sounds (Handjob, Fingering, etc.)/Slurp_3",
                   "volume": "140",
                   "pitch": "130",
                   "pan": "0"
@@ -5489,7 +5488,7 @@
               "code": 657,
               "indent": 0,
               "parameters": [
-                "SE名 = dlc/くちゅ音(手コキ・手マンetc)/くちゅ_3"
+                "SE名 = dlc/Slurping Sounds (Handjob, Fingering, etc.)/Slurp_3"
               ]
             },
             {
@@ -5528,7 +5527,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Stop Only Squelch Sound (Press)"
+                "Stop only the slurping sound (press)"
               ]
             },
             {
@@ -5565,7 +5564,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Play Again"
+                "Play Again"
               ]
             },
             {
@@ -5577,7 +5576,7 @@
                 "SEループ開始",
                 {
                   "id": "loop2",
-                  "name": "dlc/くちゅ音(手コキ・手マンetc)/くちゅ_3",
+                  "name": "dlc/Slurping Sounds (Handjob, Fingering, etc.)/Slurp_3",
                   "volume": "140",
                   "pitch": "130",
                   "pan": "0"
@@ -5595,7 +5594,7 @@
               "code": 657,
               "indent": 0,
               "parameters": [
-                "SE名 = dlc/くちゅ音(手コキ・手マンetc)/くちゅ_3"
+                "SE名 = dlc/Slurping Sounds (Handjob, Fingering, etc.)/Slurp_3"
               ]
             },
             {
@@ -5634,7 +5633,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Stop Only Piston Sound (Press)"
+                "Only the piston sound stops (when pressed)"
               ]
             },
             {
@@ -5671,7 +5670,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Play Again"
+                "Play Again"
               ]
             },
             {
@@ -5683,7 +5682,7 @@
                 "SEループ開始",
                 {
                   "id": "loop1",
-                  "name": "dlc/ピストン/ピストンA肌がぶつかり合う（ゆっくり）1回",
+                  "name": "dlc/Piston/Piston A: Skin-to-Skin Contact (Slow) 1 Time",
                   "volume": "90",
                   "pitch": "100",
                   "pan": "0"
@@ -5701,7 +5700,7 @@
               "code": 657,
               "indent": 0,
               "parameters": [
-                "SE名 = dlc/ピストン/ピストンA肌がぶつかり合う（ゆっくり）1…"
+                "SE名 = dlc/Piston/Piston A: Skin-to-Skin Contact (Slow) 1 Time"
               ]
             },
             {
@@ -5740,7 +5739,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Stop All"
+                "Stop Everything"
               ]
             },
             {
@@ -5828,7 +5827,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Play from the middle of the sound effect"
+                "Play from the middle of the SE"
               ]
             },
             {
@@ -5846,7 +5845,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Play from the beginning (normal playback)"
+                "From 0 (Normal Playback)"
               ]
             },
             {
@@ -5876,7 +5875,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Press to stop"
+                "Press to Stop"
               ]
             },
             {
@@ -5899,7 +5898,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Play from 1 second"
+                "Starting at 1 second"
               ]
             },
             {
@@ -5911,7 +5910,7 @@
                 "SEを途中から再生",
                 {
                   "id": "seek1",
-                  "name": "v/4/No.44_(激しく感じて絶頂)",
+                  "name": "v/4/No. 44_(Intense Sensations and Climax)",
                   "volume": "90",
                   "pitch": "100",
                   "pan": "0",
@@ -5930,7 +5929,7 @@
               "code": 657,
               "indent": 0,
               "parameters": [
-                "SE名 = v/4/No.44_(激しく感じて絶頂)"
+                "SE名 = v/4/No. 44_(Intense Sensations and Climax)"
               ]
             },
             {
@@ -5976,7 +5975,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Press to stop"
+                "Press to Stop"
               ]
             },
             {
@@ -6013,7 +6012,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Play from 2 seconds"
+                "Starting at 2 seconds"
               ]
             },
             {
@@ -6025,7 +6024,7 @@
                 "SEを途中から再生",
                 {
                   "id": "seek1",
-                  "name": "v/4/No.44_(激しく感じて絶頂)",
+                  "name": "v/4/No. 44_(Intense Sensations and Climax)",
                   "volume": "90",
                   "pitch": "100",
                   "pan": "0",
@@ -6044,7 +6043,7 @@
               "code": 657,
               "indent": 0,
               "parameters": [
-                "SE名 = v/4/No.44_(激しく感じて絶頂)"
+                "SE名 = v/4/No. 44_(Intense Sensations and Climax)"
               ]
             },
             {
@@ -6090,7 +6089,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Press to stop"
+                "Press to Stop"
               ]
             },
             {
@@ -6127,7 +6126,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Play from 3.5 seconds"
+                "Starting at 3.5 seconds"
               ]
             },
             {
@@ -6139,7 +6138,7 @@
                 "SEを途中から再生",
                 {
                   "id": "seek1",
-                  "name": "v/4/No.44_(激しく感じて絶頂)",
+                  "name": "v/4/No. 44_(Intense Sensations and Climax)",
                   "volume": "90",
                   "pitch": "100",
                   "pan": "0",
@@ -6158,7 +6157,7 @@
               "code": 657,
               "indent": 0,
               "parameters": [
-                "SE名 = v/4/No.44_(激しく感じて絶頂)"
+                "SE名 = v/4/No. 44_(Intense Sensations and Climax)"
               ]
             },
             {
@@ -6204,7 +6203,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Press to stop"
+                "Press to Stop"
               ]
             },
             {
@@ -6258,7 +6257,7 @@
     },
     {
       "id": 19,
-      "name": "ノエル",
+      "name": "Noel",
       "note": "",
       "pages": [
         {
@@ -6471,7 +6470,7 @@
     },
     {
       "id": 20,
-      "name": "アリア",
+      "name": "Aria",
       "note": "",
       "pages": [
         {

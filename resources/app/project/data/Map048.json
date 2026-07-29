@@ -2659,7 +2659,7 @@
     null,
     {
       "id": 1,
-      "name": "ランプ",
+      "name": "Lamp",
       "note": "",
       "pages": [
         {
@@ -2719,7 +2719,7 @@
     },
     {
       "id": 2,
-      "name": "ランプ",
+      "name": "Lamp",
       "note": "",
       "pages": [
         {
@@ -2779,7 +2779,7 @@
     },
     {
       "id": 3,
-      "name": "ドア",
+      "name": "Door",
       "note": "",
       "pages": [
         {
@@ -3270,7 +3270,7 @@
     },
     {
       "id": 4,
-      "name": "ドア",
+      "name": "Door",
       "note": "",
       "pages": [
         {
@@ -3761,7 +3761,7 @@
     },
     {
       "id": 5,
-      "name": "上の階へ",
+      "name": "Upstairs",
       "note": "",
       "pages": [
         {
@@ -3840,7 +3840,7 @@
     },
     {
       "id": 6,
-      "name": "上の階へ",
+      "name": "Upstairs",
       "note": "",
       "pages": [
         {
@@ -3919,7 +3919,7 @@
     },
     {
       "id": 7,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -4093,7 +4093,7 @@
     },
     {
       "id": 8,
-      "name": "宿屋店員",
+      "name": "Inn Clerk",
       "note": "",
       "pages": [
         {
@@ -4136,21 +4136,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Innkeeper"
+                "Inn Clerk "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Welcome, traveler. It's 120 gold for one night's"
+                ": \"Welcome, traveler. It’s 120 gold per night— —would"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "stay.\""
+                "you like to stay the night?\""
               ]
             },
             {
@@ -4165,10 +4165,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -4176,7 +4172,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -4240,14 +4236,14 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]Innkeeper"
+                "Inn Clerk "
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\"We look forward to your next visit.\""
+                ": \"We look forward to seeing you again.\""
               ]
             },
             {
@@ -4275,14 +4271,21 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]Innkeeper"
+                "Inn Clerk "
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\"It seems you don't have enough money...\""
+                ": \"Unfortunately, it looks like you don't have enough"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "money...\""
               ]
             },
             {
@@ -4310,7 +4313,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -4328,14 +4331,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Innkeeper"
+                "Inn Clerk "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"We look forward to your next visit.\""
+                ": \"We look forward to seeing you again.\""
               ]
             },
             {
@@ -4414,14 +4417,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Innkeeper"
+                "Inn Clerk "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Welcome, traveler. It's 120 gold for the night, but\""
+                ": \"Welcome, traveler. It’s 120 gold per night— —would"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "you like to stay the night?\""
               ]
             },
             {
@@ -4436,10 +4446,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -4447,7 +4453,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -4479,7 +4485,14 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "would you like to have sex with Luna?"
+                "Do you want to have sex with Luna? *This will use up a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "condom* *There is no penalty if you say no.*"
               ]
             },
             {
@@ -4494,10 +4507,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -4505,7 +4514,7 @@
               "indent": 2,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -4539,7 +4548,7 @@
               "indent": 2,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -4589,14 +4598,14 @@
               "code": 401,
               "indent": 3,
               "parameters": [
-                "\\SE[0]Innkeeper"
+                "Inn Clerk "
               ]
             },
             {
               "code": 401,
               "indent": 3,
               "parameters": [
-                "\"We look forward to your next visit.\""
+                ": \"We look forward to seeing you again.\""
               ]
             },
             {
@@ -4634,14 +4643,21 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\SE[0]Innkeeper"
+                "Inn Clerk "
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\"It seems you don't have enough money...\""
+                ": \"Unfortunately, it looks like you don't have enough"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "money...\""
               ]
             },
             {
@@ -4669,7 +4685,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -4687,14 +4703,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Innkeeper"
+                "Inn Clerk "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"We look forward to your next visit.\""
+                ": \"We look forward to seeing you again.\""
               ]
             },
             {
@@ -4782,14 +4798,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Innkeeper"
+                "Inn Clerk "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Oh my, you haven't had dinner yet. I'll bring it up to"
+                ": \"Oh, your meal isn't ready yet. I'll bring it up to"
               ]
             },
             {
@@ -4905,14 +4921,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Innkeeper"
+                "Inn Clerk "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ahh, so busy, so busy! This one and this one...!\""
+                ": \"Oh, I’m so busy, so busy! This and this…! Um, what"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "else do I need?\""
               ]
             },
             {
@@ -4947,7 +4970,7 @@
     },
     {
       "id": 11,
-      "name": "宝箱（マジックドロップ）",
+      "name": "Treasure Chest (Magic Drop)",
       "note": "",
       "pages": [
         {
@@ -5108,7 +5131,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Magic Drop!"
+                "I got a Magic Drop!"
               ]
             },
             {
@@ -5194,7 +5217,7 @@
     },
     {
       "id": 12,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -5259,7 +5282,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Rock Crab Claw."
+                "I got the Rock Club's Claw"
               ]
             },
             {
@@ -5353,7 +5376,7 @@
     },
     {
       "id": 13,
-      "name": "はーと",
+      "name": "Heart",
       "note": "",
       "pages": [
         {

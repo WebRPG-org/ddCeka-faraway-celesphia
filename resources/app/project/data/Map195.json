@@ -4473,7 +4473,7 @@
     null,
     {
       "id": 1,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -4647,7 +4647,7 @@
     },
     {
       "id": 2,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -4821,7 +4821,7 @@
     },
     {
       "id": 3,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -4995,7 +4995,7 @@
     },
     {
       "id": 4,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -5169,7 +5169,7 @@
     },
     {
       "id": 5,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -5343,7 +5343,7 @@
     },
     {
       "id": 6,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -5862,7 +5862,7 @@
     },
     {
       "id": 7,
-      "name": "ロゼ",
+      "name": "Rosé",
       "note": "",
       "pages": [
         {
@@ -6126,7 +6126,7 @@
     },
     {
       "id": 8,
-      "name": "ロゼイベント7",
+      "name": "Rosé Event 7",
       "note": "",
       "pages": [
         {
@@ -6169,14 +6169,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rosie Event (7/12)"
+                "Do you want to play the Rosé Event (7/12) \"Growing"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Play 'Intensifying Activation'\"?"
+                "Vitality\" ?"
               ]
             },
             {
@@ -6191,10 +6191,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -6202,7 +6198,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -6228,7 +6224,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -6751,14 +6747,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Uwa...aah...!!\""
+                "\\SE[1] \"Uwaa… Aahh…!!\""
               ]
             },
             {
@@ -7109,14 +7105,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Suddenly stumbling, Rose is pulled toward the cliff,"
+                "As Rose suddenly staggered and was pulled toward the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "but Kyle desperately grabs her hand to stop her."
+                "cliff, Kyle desperately caught her hand."
               ]
             },
             {
@@ -7148,14 +7144,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Rose! Rose! Hold on!\""
+                "\\SE[3]: \"Rose! Rose! Pull yourself together!\""
               ]
             },
             {
@@ -7173,14 +7169,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Aaah...a...a...!!\""
+                "\\SE[1] \"Ah… ah… ah……!\""
               ]
             },
             {
@@ -7198,21 +7194,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Rose! Rose! Damn it, I'm pulling you up by"
+                "\\SE[3]: \"Rosé! Rosé! Damn it, I’m dragging you out"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "force!\""
+                "by force!\""
               ]
             },
             {
@@ -7230,14 +7226,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He puts all his strength into it and yanks her up"
+                "Put all your strength into it and pull it up with all"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "roughly!"
+                "your might!"
               ]
             },
             {
@@ -7255,14 +7251,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Ooooh!!\""
+                "\\SE[3] \"Whoa!!\""
               ]
             },
             {
@@ -7569,14 +7565,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Hah...hah... Damn... That was close...\""
+                "\\SE[3] \"Haa… haa… Man… That was close…\""
               ]
             },
             {
@@ -7620,14 +7616,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"...Hh...! Hh...! Hh...!\""
+                "\\SE[1] \"…! …! …!\""
               ]
             },
             {
@@ -7645,7 +7641,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Rose's body trembles in spasms, as if she's climaxing."
+                "Rosé's body is twitching and shaking as if she were"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "reaching climax."
               ]
             },
             {
@@ -7663,14 +7666,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Rose! Rose! Hold on...!\""
+                "\\SE[3]: \"Rose! Rose! Pull yourself together…!\""
               ]
             },
             {
@@ -7688,14 +7691,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He holds her trembling body close and calls out to her"
+                "He held Rose, who was trembling, close and called out"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "repeatedly."
+                "to her time and time again."
               ]
             },
             {
@@ -7779,14 +7782,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Hah...! Hah...! Hah...!\""
+                "\\SE[1] \"Haa…! Haa…! Haa…!\""
               ]
             },
             {
@@ -7804,21 +7807,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"That was dangerous... Pleasure surged"
+                "\\SE[1] \"That was insane… It was so intense that I"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "through me so intensely it nearly made me\""
+                "almost blacked out— a wave of pleasure shot"
               ]
             },
             {
@@ -7836,14 +7839,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "black out...\""
+                "straight through my body…!\""
               ]
             },
             {
@@ -7861,21 +7864,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"My mind went blank... I almost collapsed,"
+                "\\SE[1] \"My mind went completely blank… and just as"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "and then I realized I was at the edge of a\""
+                "I was about to fall, I realized I was"
               ]
             },
             {
@@ -7893,14 +7896,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "cliff...\""
+                "standing on the edge of a cliff…\""
               ]
             },
             {
@@ -7918,21 +7921,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"My life expectancy just dropped."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Seriously.\""
+                "\\SE[3]: \"It's shortened my life. Seriously.\""
               ]
             },
             {
@@ -7950,14 +7946,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"I'm sorry... Thank you, Kyle. Really...\""
+                "\\SE[1] \"I’m sorry… Thank you, Kyle. Really…\""
               ]
             },
             {
@@ -8056,21 +8052,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Is the curse's activation getting stronger,"
+                "\\SE[3]: \"Could it be that the curse is getting"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "maybe?\""
+                "stronger?\""
               ]
             },
             {
@@ -8088,21 +8084,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"It seems so. Maybe we're close to the"
+                "\\SE[1]: \"It seems so. Maybe we’re close to the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "sacred site. My resistance might be"
+                "Sanctuary. Maybe my resistance is growing"
               ]
             },
             {
@@ -8120,39 +8116,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "stronger\""
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "ver2/ver2_roze4",
-                6,
-                0,
-                2,
-                ""
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[0]Rose"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "because I think I'm about to be exorcised.\""
+                "because I think I’m about to be purified.\""
               ]
             },
             {
@@ -8170,21 +8141,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"So we're on the right path, huh? Can you go"
+                "\\SE[3] \"So we’re on the right track, then. Can we"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "on, Rose?\""
+                "do this, Rose?\""
               ]
             },
             {
@@ -8202,14 +8173,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Yes... Let's go. Just a little further.\""
+                "\\SE[1] \"Yeah… Let’s go. Just a little further.\""
               ]
             },
             {
@@ -8354,7 +8325,7 @@
     },
     {
       "id": 9,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -8700,7 +8671,7 @@
     },
     {
       "id": 10,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {

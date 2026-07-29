@@ -5437,7 +5437,7 @@
     null,
     {
       "id": 1,
-      "name": "明かり",
+      "name": "Light",
       "note": "",
       "pages": [
         {
@@ -5567,7 +5567,7 @@
     },
     {
       "id": 2,
-      "name": "セレスフィア",
+      "name": "Ceresphere",
       "note": "",
       "pages": [
         {
@@ -5589,7 +5589,7 @@
           "directionFix": true,
           "image": {
             "tileId": 0,
-            "characterName": "flower_chip_Celesphia",
+            "characterName": "flower_chip_selesphia",
             "direction": 2,
             "pattern": 1,
             "characterIndex": 0
@@ -6053,14 +6053,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A small flower garden stretched out before them, bathed"
+                "There, a small flower garden stretched out, bathed in"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "in Moonlight."
+                "moonlight."
               ]
             },
             {
@@ -6085,14 +6085,39 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The countless grasses and flowers swaying in the wind"
+                "The countless flowers and grasses swaying in the breeze"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "seemed to welcome the three quietly."
+                "seemed to be quietly welcoming the three of them. At"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "the center of it all, a particularly eye-catching"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "flower was blooming."
               ]
             },
             {
@@ -6117,7 +6142,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It was a white flower, brimming with soft light."
+                "It was a white flower bathed in soft light."
               ]
             },
             {
@@ -6142,7 +6167,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Its translucent petals shimmered with a pale blue glow."
+                "The petals, so thin they were almost transparent,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "glowed a pale blue and swayed gently, as if in harmony"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "with the stars in the night sky."
               ]
             },
             {
@@ -6202,7 +6241,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Celesphia―"
+                "Ceresphere—"
               ]
             },
             {
@@ -6259,14 +6298,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"So this is... Celesphia...!\""
+                "\\SE[4] \"So this is… Ceresphere…!\""
               ]
             },
             {
@@ -6284,14 +6323,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"How beautiful...\""
+                "\\SE[3] \"What beauty…\""
               ]
             },
             {
@@ -6309,14 +6348,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Let's pick it and head back down...!\""
+                "\\SE[5] \"Let’s pick some and head back down the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "mountain…!\""
               ]
             },
             {
@@ -6428,14 +6474,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"The mountain... it's shaking?!\""
+                "\\SE[3] \"The mountain… is shaking!?\""
               ]
             },
             {
@@ -6491,14 +6537,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"It's an eruption! Everyone, get away―!\""
+                "\\SE[4] \"It’s an eruption! Everyone, please get"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "away…!\""
               ]
             },
             {
@@ -6602,7 +6655,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Kyaaaaaaa―!!!\""
+                "\"Aaaah...!!!\" \"Uwaaah...!!\""
               ]
             },
             {
@@ -6731,7 +6784,7 @@
     },
     {
       "id": 3,
-      "name": "明かり移動",
+      "name": "Light Movement",
       "note": "",
       "pages": [
         {
@@ -6817,7 +6870,7 @@
     },
     {
       "id": 4,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -7030,7 +7083,7 @@
     },
     {
       "id": 5,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -7243,7 +7296,7 @@
     },
     {
       "id": 6,
-      "name": "リリアン",
+      "name": "Lillian",
       "note": "",
       "pages": [
         {
@@ -7528,14 +7581,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]「……！！！」"
+                "\\SE[5] \"……!!!\""
               ]
             },
             {

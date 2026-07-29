@@ -38,9 +38,7 @@
       "type": "",
       "variance": ""
     },
-    "_original": {
-      "name": "-----剣"
-    }
+    "description": ""
   },
   {
     "id": 2,
@@ -63,7 +61,7 @@
     "price": 180,
     "wtypeId": 4,
     "note": "",
-    "description": "[Sword]A sword made of bronze. Standard performance\noverall.",
+    "description": "A sword made of bronze. It has very standard performance.",
     "params": [
       0,
       0,
@@ -80,10 +78,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ブロンズソード",
-      "description": "【剣】青銅で作られた剣。至って標準的な性能"
     }
   },
   {
@@ -107,7 +101,7 @@
     "price": 480,
     "wtypeId": 4,
     "note": "",
-    "description": "[Sword]A sword made of iron. Its sharpness is enhanced and\nis the standard equipment",
+    "description": "A sword made of iron. Its sharpness has been enhanced, and\nit is standard issue for the town's soldiers.",
     "params": [
       0,
       0,
@@ -124,10 +118,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "アイアンソード",
-      "description": "【剣】鉄で作られた剣。鋭さが強化されており\r\n街の兵士の標準装備となっている。"
     }
   },
   {
@@ -156,7 +146,7 @@
     "price": 880,
     "wtypeId": 4,
     "note": "",
-    "description": "[Sword]A sword made of silver. Coated with holy silver, it\nis highly effective against",
+    "description": "A sword made of silver. It is coated with holy silver, and\nis highly effective against the Undead attribute.",
     "params": [
       0,
       0,
@@ -173,10 +163,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "シルバーソード",
-      "description": "【剣】銀で作られた剣。聖なる銀でコーティングされており、\r\n不死属性に効果が高い。"
     }
   },
   {
@@ -200,7 +186,7 @@
     "price": 1500,
     "wtypeId": 4,
     "note": "",
-    "description": "[Sword]A sword made of steel. Heavy and powerful when\nswung, it also boosts defense.",
+    "description": "A sword made of steel. It is heavy and can be swung at\nenemies. It deals significant damage and also boosts DEF.",
     "params": [
       0,
       0,
@@ -217,10 +203,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "クロームソード",
-      "description": "【剣】鋼鉄で作られた剣。重さもあり、敵に叩きつける\r\n威力も大きい。防御力にも効果がある。"
     }
   },
   {
@@ -244,7 +226,7 @@
     "price": 3300,
     "wtypeId": 4,
     "note": "",
-    "description": "[Sword]A sword made of mithril steel. Lightweight and\nbeautiful, it is also a work",
+    "description": "A sword made of mithril. It is lightweight, beautiful to\nlook at, and has value as a work of art.",
     "params": [
       0,
       0,
@@ -261,10 +243,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ミスリルソード",
-      "description": "【剣】ミスリル鋼で作られた剣。軽く、見た目も美しく、\r\n芸術品としても価値がある。"
     }
   },
   {
@@ -288,7 +266,7 @@
     "price": 5200,
     "wtypeId": 4,
     "note": "",
-    "description": "[Sword]A sword made of crystal infused with magic power.\nIt also increases the wielder's",
+    "description": "A sword made of crystal imbued with magical power. It also\nhas the effect of amplifying the user's magical power.",
     "params": [
       0,
       0,
@@ -305,10 +283,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "クリスタルソード",
-      "description": "【剣】魔力を含んだ水晶で作られた剣。\r\n使用者の魔力を増大させる効果もある。"
     }
   },
   {
@@ -332,7 +306,7 @@
     "price": 7500,
     "wtypeId": 4,
     "note": "",
-    "description": "[Sword]An ancient sword engraved with runes. It faintly\nemanates magic power and boosts",
+    "description": "An ancient sword engraved with runes. It faintly radiates\nmagical power and enhances the user's abilities.",
     "params": [
       0,
       0,
@@ -349,10 +323,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ルーンブレード",
-      "description": "【剣】ルーン文字が刻まれた古の剣。ほのかに魔力を\r\n帯びており、使用者の能力を引き上げる。"
     }
   },
   {
@@ -381,7 +351,7 @@
     "price": 15000,
     "wtypeId": 4,
     "note": "",
-    "description": "[Sword]A sword forged to slay dragons. Its blade is\nspecially treated for maximum",
+    "description": "A sword forged to slay dragons. It features a special\nblade finish that is highly effective against dragons.",
     "params": [
       0,
       0,
@@ -398,10 +368,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ドラゴンバスター",
-      "description": "【剣】ドラゴンを屠るために作られた剣。特殊な刃加工を\r\n施してあり、竜族に対して効果大。"
     }
   },
   {
@@ -426,11 +392,11 @@
       }
     ],
     "iconIndex": 97,
-    "name": "Elf Sword",
+    "name": "Elfin Sword",
     "price": 30000,
     "wtypeId": 4,
     "note": "",
-    "description": "[Sword]A legendary sword passed down among the elves.\nLight as paper, its wielder",
+    "description": "A legendary sword passed down among the Elves. Light as\npaper, it is said that its wielder danced like the wind...",
     "params": [
       0,
       0,
@@ -447,10 +413,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "エルフィンソード",
-      "description": "【剣】エルフ族に伝わる伝説の剣。紙のように軽く、\r\nその使用者は風のように舞い、敵を屠ったという。"
     }
   },
   {
@@ -630,7 +592,7 @@
       }
     ],
     "iconIndex": 0,
-    "name": "-----Mace",
+    "name": "-----Mallet",
     "price": 0,
     "wtypeId": 0,
     "note": "",
@@ -651,9 +613,7 @@
       "type": "",
       "variance": ""
     },
-    "_original": {
-      "name": "-----槌"
-    }
+    "description": ""
   },
   {
     "id": 16,
@@ -691,7 +651,7 @@
     "price": 160,
     "wtypeId": 8,
     "note": "",
-    "description": "[Mace]A blunt weapon made of oak. Easy to handle and\nbeginner-friendly. Highly",
+    "description": "A bludgeoning weapon made of oak. Easy to handle Ideal for\nbeginners. Highly effective against undead and demons",
     "params": [
       0,
       0,
@@ -708,10 +668,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ウッドメイス",
-      "description": "【槌】かしの木で作られた殴打武器。扱いやすく\r\n入門用。不死、悪魔に効果大"
     }
   },
   {
@@ -750,7 +706,7 @@
     "price": 410,
     "wtypeId": 8,
     "note": "",
-    "description": "[Mace]A blunt weapon made of bronze. Its attack power is\nenhanced. Highly effective",
+    "description": "A bludgeoning weapon made of bronze. Its ATK has been\nenhanced. Highly effective against Undead and Demons",
     "params": [
       0,
       0,
@@ -767,10 +723,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ブロンズメイス",
-      "description": "【槌】青銅で作られた殴打武器。攻撃力が強化されている。\r\n不死、悪魔に効果大"
     }
   },
   {
@@ -809,7 +761,7 @@
     "price": 770,
     "wtypeId": 8,
     "note": "",
-    "description": "[Mace]A blunt weapon made of iron. Weight distribution is\nconsidered for ease of use",
+    "description": "A bludgeoning weapon made of iron. Designed so that even\nwomen can wield it, with careful consideration given to...",
     "params": [
       0,
       0,
@@ -826,10 +778,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "アイアンメイス",
-      "description": "【槌】鉄で作られた殴打武器。女子にも扱えるよう\r\n重量配分が考慮されている。不死、悪魔に効果大"
     }
   },
   {
@@ -868,7 +816,7 @@
     "price": 1450,
     "wtypeId": 8,
     "note": "",
-    "description": "[Mace]A blunt weapon made of silver. Blessed with holy\npower, it is highly effective",
+    "description": "A bludgeoning weapon made of silver. It has been blessed\nby the Holy One and is highly effective against undead...",
     "params": [
       0,
       0,
@@ -885,10 +833,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "シルバーメイス",
-      "description": "【槌】銀で作られた殴打武器。聖の施しを受けており\r\n不死、悪魔に効果大"
     }
   },
   {
@@ -927,7 +871,7 @@
     "price": 3100,
     "wtypeId": 8,
     "note": "",
-    "description": "[Mace]A blunt weapon made of mithril steel. Beautifully\ndecorated, it is often equipped",
+    "description": "A bludgeoning weapon made of mithril steel. It is\nbeautifully decorated. It is commonly wielded by priest...",
     "params": [
       0,
       0,
@@ -944,10 +888,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ミスリルメイス",
-      "description": "【槌】ミスリル鋼で作られた殴打武器。美しく装飾もあり\r\n都心の神官などがよく装備している。不死、悪魔に効果大"
     }
   },
   {
@@ -986,7 +926,7 @@
     "price": 4900,
     "wtypeId": 8,
     "note": "",
-    "description": "[Mace] A magic crystal mace. Difficult to craft and very\nvaluable.",
+    "description": "A bludgeoning weapon made from crystal imbued with magical\npower. Difficult to craft and expensive. Highly effecti...",
     "params": [
       0,
       0,
@@ -1003,10 +943,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "クリスタルメイス",
-      "description": "【槌】魔力を含んだ水晶で作られた殴打武器。\r\n加工が難しく、高価。不死、悪魔に効果大"
     }
   },
   {
@@ -1045,7 +981,7 @@
     "price": 7500,
     "wtypeId": 8,
     "note": "",
-    "description": "[Mace]A blunt weapon engraved with runes. Highly effective\nagainst undead and demons.",
+    "description": "A bludgeoning weapon engraved with runes. Highly effective\nagainst undead and demons. It is imbued with ancient ma...",
     "params": [
       0,
       0,
@@ -1062,10 +998,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ルーンメイス",
-      "description": "【槌】ルーン文字が刻まれた殴打武器。不死、悪魔に効果大\r\n古の魔力を帯びており、持ち主の能力を引き出す。"
     }
   },
   {
@@ -1105,11 +1037,11 @@
       }
     ],
     "iconIndex": 108,
-    "name": "Dragon Crusher",
+    "name": "Dragon Slayer",
     "price": 14700,
     "wtypeId": 8,
     "note": "",
-    "description": "[Mace]A blunt weapon forged to split a dragon's skull.\nHeavy and requires training",
+    "description": "A bludgeoning weapon designed to crush a dragon's head. It\nrequires training to wield effectively. Highly effectiv...",
     "params": [
       0,
       0,
@@ -1126,10 +1058,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ドラゴン砕き",
-      "description": "【槌】ドラゴンの頭を割るために作られた殴打武器。\r\n重く扱うには修練が必要。不死、悪魔、竜に効果大"
     }
   },
   {
@@ -1173,7 +1101,7 @@
     "price": 30000,
     "wtypeId": 8,
     "note": "",
-    "description": "[Mace]A legendary hammer imbued with the power of the\nearth. Highly effective against",
+    "description": "A legendary hammer imbued with the power of the earth.\nHighly effective against Undead and Demons. Legend has...",
     "params": [
       0,
       0,
@@ -1190,10 +1118,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ミョルニール",
-      "description": "【槌】大地の力を秘めた伝説のハンマー。不死、悪魔効果大\r\n大地を割ったという伝承がある。装備でクェイク使用可。"
     }
   },
   {
@@ -1413,7 +1337,7 @@
       }
     ],
     "iconIndex": 0,
-    "name": "-----Staff",
+    "name": "-----Cane",
     "price": 0,
     "wtypeId": 0,
     "note": "",
@@ -1434,9 +1358,7 @@
       "type": "",
       "variance": ""
     },
-    "_original": {
-      "name": "-----杖"
-    }
+    "description": ""
   },
   {
     "id": 31,
@@ -1460,11 +1382,11 @@
       }
     ],
     "iconIndex": 101,
-    "name": "Wooden Staff",
+    "name": "Wood Staff",
     "price": 130,
     "wtypeId": 9,
     "note": "",
-    "description": "[Staff] A staff of oak. Designed to serve as a catalyst\nfor spells.",
+    "description": "A staff made of oak. Spells are woven into it to serve as\na conduit for magical power.",
     "params": [
       0,
       0,
@@ -1481,10 +1403,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ウッドスタッフ",
-      "description": "【杖】かしの木で作られた杖。魔力の媒体となるように\r\n術式が編み込まれている。"
     }
   },
   {
@@ -1513,7 +1431,7 @@
     "price": 380,
     "wtypeId": 9,
     "note": "",
-    "description": "[Staff]A staff made of bronze. It amplifies magic power\nchanneled through it, increasing",
+    "description": "A staff made of bronze. It amplifies magical power through\nthe staff to enhance its effects.",
     "params": [
       0,
       0,
@@ -1530,10 +1448,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ブロンズスタッフ",
-      "description": "【杖】青銅で作られた杖。杖を通じて魔力を増幅させ\r\n効果を増大させる。"
     }
   },
   {
@@ -1562,7 +1476,7 @@
     "price": 750,
     "wtypeId": 9,
     "note": "",
-    "description": "[Staff] A staff made of iron. Its solid core is great for\nparrying swords.",
+    "description": "A staff made of iron. It has an iron core inside, and can\neven block a sword.",
     "params": [
       0,
       0,
@@ -1579,10 +1493,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "アイアンスタッフ",
-      "description": "【杖】鉄で作られた杖。中に鉄の芯が入っており\r\n剣を受け止める事も出来る。"
     }
   },
   {
@@ -1616,7 +1526,7 @@
     "price": 1480,
     "wtypeId": 9,
     "note": "",
-    "description": "[Staff]A staff made of silver. Its magic formulas are more\ncomplex, and it amplifies",
+    "description": "A staff made of silver. Its spell formula has become more\ncomplex, and the amount of magical power it amplifies h...",
     "params": [
       0,
       0,
@@ -1633,10 +1543,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "シルバースタッフ",
-      "description": "【杖】銀で作られた杖。術式も複雑になり、\r\n増幅させる魔力も増えた。不死属性に効果大"
     }
   },
   {
@@ -1665,7 +1571,7 @@
     "price": 3500,
     "wtypeId": 9,
     "note": "",
-    "description": "[Staff] A staff of mithril. Exquisitely crafted, it is a\ntrue work of art.",
+    "description": "A staff made of mithril steel. It is so beautifully\ncrafted that it holds value even as a work of art.",
     "params": [
       0,
       0,
@@ -1682,10 +1588,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ミスリルワンド",
-      "description": "【杖】ミスリル鋼で作られた杖。美術品としても価値も\r\nあるほど、美しい加工がなされている。"
     }
   },
   {
@@ -1714,7 +1616,7 @@
     "price": 5500,
     "wtypeId": 9,
     "note": "",
-    "description": "[Staff]A staff made of crystal infused with magic power.\nIt maximizes the wielder's",
+    "description": "A staff made of crystal imbued with magical power. It\nallows the user to unleash their full magical potential",
     "params": [
       0,
       0,
@@ -1731,10 +1633,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "クリスタルワンド",
-      "description": "【杖】魔力を含んだ水晶で作られた杖。使用者の\r\n魔力を最大限引き出す事が出来る。"
     }
   },
   {
@@ -1763,7 +1661,7 @@
     "price": 8100,
     "wtypeId": 9,
     "note": "",
-    "description": "[Staff] Engraved with runes. Ancient magic draws out the\nwielder's power.",
+    "description": "A staff engraved with runes. It is imbued with ancient\nmagic and brings out the owner's abilities.",
     "params": [
       10,
       20,
@@ -1780,10 +1678,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ルーンスタッフ",
-      "description": "【杖】ルーン文字が刻まれた杖。\r\n古の魔力を帯びており、持ち主の能力を引き出す。"
     }
   },
   {
@@ -1817,7 +1711,7 @@
     "price": 13900,
     "wtypeId": 9,
     "note": "",
-    "description": "[Staff]A staff made from a dragon, amplifying the caster's\nmagic power.",
+    "description": "A staff crafted from a dragon that amplifies the caster's\nmagical power. Borrows the dragon's power; when equippe...",
     "params": [
       0,
       0,
@@ -1834,10 +1728,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ドラゴンコーリング",
-      "description": "【杖】術者の魔力を増幅させるドラゴンから作られた杖。\r\nドラゴンの力を借り、装備するとフレイム使用可。"
     }
   },
   {
@@ -1866,7 +1756,7 @@
     "price": 30000,
     "wtypeId": 9,
     "note": "",
-    "description": "[Staff]A staff made from the thousand-year-old tree of\nElheim. The tree",
+    "description": "A staff crafted from the Millennium Tree of Elheim. The\ntree itself is imbued with magical power, allowing the...",
     "params": [
       10,
       50,
@@ -1883,10 +1773,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "エルヘイム",
-      "description": "【杖】エルヘイムの千年樹から作られた杖。樹自体、\r\n魔力を帯びており、使用者の魔力の限界を超える。"
     }
   },
   {
@@ -2146,7 +2032,7 @@
       }
     ],
     "iconIndex": 106,
-    "name": "",
+    "name": "--- Fist",
     "price": 0,
     "wtypeId": 0,
     "note": "",
@@ -2167,9 +2053,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "--- 拳"
     }
   },
   {
@@ -2563,9 +2446,7 @@
       "type": "",
       "variance": ""
     },
-    "_original": {
-      "name": "-----弓"
-    }
+    "description": ""
   },
   {
     "id": 57,
@@ -2594,11 +2475,11 @@
       }
     ],
     "iconIndex": 102,
-    "name": "Wooden Bow",
+    "name": "Wood Bow",
     "price": 100,
     "wtypeId": 6,
     "note": "",
-    "description": "[Bow]A sturdy wooden longbow designed for combat.",
+    "description": "A longbow made of sturdy wood for combat.",
     "params": [
       0,
       0,
@@ -2615,10 +2496,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ウッドボウ",
-      "description": "【弓】丈夫な木材で作られた戦闘用の長弓。"
     }
   },
   {
@@ -2648,11 +2525,11 @@
       }
     ],
     "iconIndex": 102,
-    "name": "Lap Bow",
+    "name": "Wrapped Bow",
     "price": 250,
     "wtypeId": 6,
     "note": "",
-    "description": "[Bow]A sturdy wooden longbow reinforced with animal sinew,\ndesigned for combat.",
+    "description": "A longbow made of sturdy wood and animal tendons, designed\nfor combat.",
     "params": [
       0,
       0,
@@ -2669,10 +2546,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ラップドボウ",
-      "description": "【弓】丈夫な木材と動物の腱で作られた戦闘用の長弓。"
     }
   },
   {
@@ -2706,7 +2579,7 @@
     "price": 500,
     "wtypeId": 6,
     "note": "",
-    "description": "[Bow]A longbow made of silver, designed for combat.",
+    "description": "A longbow made of silver and designed for combat.",
     "params": [
       0,
       0,
@@ -2723,10 +2596,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "シルバーボウ",
-      "description": "【弓】銀で作られた戦闘用の長弓。"
     }
   },
   {
@@ -2760,7 +2629,7 @@
     "price": 1500,
     "wtypeId": 6,
     "note": "",
-    "description": "[Bow]A longbow reinforced with steel, designed for combat.",
+    "description": "A combat longbow reinforced with steel.",
     "params": [
       0,
       0,
@@ -2777,10 +2646,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "スチールボウ",
-      "description": "【弓】鋼鉄材で補強された戦闘用の長弓。"
     }
   },
   {
@@ -2814,7 +2679,7 @@
     "price": 3000,
     "wtypeId": 6,
     "note": "",
-    "description": "[Bow]A longbow made of mithril silver, designed for\ncombat.",
+    "description": "A combat longbow made of mithril silver.",
     "params": [
       0,
       0,
@@ -2831,10 +2696,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ミスリルボウ",
-      "description": "【弓】ミスリル銀で作られた戦闘用の長弓。"
     }
   },
   {
@@ -2868,7 +2729,7 @@
     "price": 4500,
     "wtypeId": 6,
     "note": "",
-    "description": "[Bow]A longbow reinforced with crystal infused with magic\npower, designed for",
+    "description": "A combat longbow reinforced with magic-infused crystals.",
     "params": [
       0,
       0,
@@ -2885,10 +2746,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "クリスタルボウ",
-      "description": "【弓】魔力を含んだ水晶で補強された戦闘用の長弓。"
     }
   },
   {
@@ -2922,7 +2779,7 @@
     "price": 6000,
     "wtypeId": 6,
     "note": "",
-    "description": "[Bow]A longbow engraved with runes, designed for combat.",
+    "description": "A longbow engraved with runic characters, designed for\ncombat.",
     "params": [
       0,
       0,
@@ -2939,10 +2796,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ルーンボウ",
-      "description": "【弓】ルーン文字が刻まれた戦闘用の長弓。"
     }
   },
   {
@@ -2976,7 +2829,7 @@
     "price": 10000,
     "wtypeId": 6,
     "note": "",
-    "description": "[Bow]A longbow made from a dragon's whisker, designed for\ncombat.",
+    "description": "A combat longbow made from a dragon's whiskers.",
     "params": [
       0,
       0,
@@ -2993,10 +2846,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ドラゴンボウ",
-      "description": "【弓】ドラゴンのヒゲで作られた戦闘用の長弓。"
     }
   },
   {
@@ -3026,11 +2875,11 @@
       }
     ],
     "iconIndex": 102,
-    "name": "Elven Bow",
+    "name": "Elvenbow",
     "price": 15000,
     "wtypeId": 6,
     "note": "",
-    "description": "[Bow]A bow made from the sacred wood of the fairy forest.",
+    "description": "A bow crafted from a sacred tree that grows in the Fairy\nForest.",
     "params": [
       0,
       0,
@@ -3047,10 +2896,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "エルブンボウ",
-      "description": "【弓】妖精の森に生える霊木から作られた弓。"
     }
   },
   {
@@ -3080,11 +2925,11 @@
       }
     ],
     "iconIndex": 102,
-    "name": "Zodiac Bow: Sagittarius",
+    "name": "The Zodiac Bow · Sagittarius",
     "price": 30000,
     "wtypeId": 6,
     "note": "",
-    "description": "[Bow]A bow embedded with a Sagittarius Zodiac Stone.",
+    "description": "A bow inlaid with the zodiac stone of Sagittarius .",
     "params": [
       0,
       0,
@@ -3101,10 +2946,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "黄道弓・サジタリウス",
-      "description": "【弓】射手座のゾディアックストーンが埋め込まれた弓。"
     }
   },
   {
@@ -3244,7 +3085,7 @@
       }
     ],
     "iconIndex": 106,
-    "name": "",
+    "name": "--- Nails",
     "price": 0,
     "wtypeId": 0,
     "note": "",
@@ -3265,9 +3106,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "--- 爪"
     }
   },
   {
@@ -3287,11 +3125,11 @@
       }
     ],
     "iconIndex": 106,
-    "name": "",
+    "name": "Wooden Fist",
     "price": 0,
     "wtypeId": 2,
     "note": "",
-    "description": "",
+    "description": "A guard made of sturdy wood that protects the fist.",
     "params": [
       0,
       0,
@@ -3308,10 +3146,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "木拳",
-      "description": "【爪】丈夫な木材で作られた拳を守るガード。"
     }
   },
   {
@@ -3331,11 +3165,11 @@
       }
     ],
     "iconIndex": 106,
-    "name": "",
+    "name": "Cat Claw",
     "price": 920,
     "wtypeId": 2,
     "note": "",
-    "description": "",
+    "description": "A guard designed to protect the fist, featuring sharp\nprotrusions. It deals both bludgeoning and slashing dam...",
     "params": [
       0,
       0,
@@ -3352,10 +3186,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "キャットクロー",
-      "description": "【爪】拳を守るガードの部分に鋭利な突起が付いたもの。\n打撃と共に斬撃のダメージまで与える。"
     }
   },
   {
@@ -3375,11 +3205,11 @@
       }
     ],
     "iconIndex": 106,
-    "name": "",
+    "name": "Knuckle Impact",
     "price": 2780,
     "wtypeId": 2,
     "note": "",
-    "description": "",
+    "description": "Gloves made of leather and reinforced with metal plates.\nThey fit snugly around the fist, are easy to handle, an...",
     "params": [
       0,
       0,
@@ -3396,10 +3226,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ナックルインパクト",
-      "description": "【爪】皮で出来たグローブに鉄板で補強されたもの。\n拳になじみ、扱いやすい上に攻撃力もある。"
     }
   },
   {
@@ -3419,11 +3245,11 @@
       }
     ],
     "iconIndex": 106,
-    "name": "",
+    "name": "Fireblow",
     "price": 4800,
     "wtypeId": 2,
     "note": "",
-    "description": "",
+    "description": "Gloves imbued with the blessing of a Fire- elemental\nspirit. They deal both physical and magical damage.",
     "params": [
       0,
       0,
@@ -3440,10 +3266,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ファイアブロウ",
-      "description": "【爪】火属性の精霊の加護をまとわせたグローブ。\n打撃と共に魔法攻撃も与える。"
     }
   },
   {
@@ -3463,11 +3285,11 @@
       }
     ],
     "iconIndex": 106,
-    "name": "",
+    "name": "Double Fang",
     "price": 2780,
     "wtypeId": 2,
     "note": "",
-    "description": "",
+    "description": "These gloves are made of thick leather and reinforced with\niron on each finger, maximizing ATK while maintaining a...",
     "params": [
       10,
       0,
@@ -3484,10 +3306,6 @@
       "formula": "",
       "type": "",
       "variance": ""
-    },
-    "_original": {
-      "name": "ダブルファング",
-      "description": "【爪】分厚い皮で出来たグローブに鉄で各指ごとに補強し、\n可動域を保ちつつ、限界まで攻撃力を上げた。"
     }
   },
   {
@@ -5847,7 +5665,8 @@
       "formula": "",
       "type": "",
       "variance": ""
-    }
+    },
+    "description": ""
   },
   {
     "id": 135,
@@ -5886,7 +5705,8 @@
       "formula": "",
       "type": "",
       "variance": ""
-    }
+    },
+    "description": ""
   },
   {
     "id": 136,
@@ -5925,7 +5745,8 @@
       "formula": "",
       "type": "",
       "variance": ""
-    }
+    },
+    "description": ""
   },
   {
     "id": 137,
@@ -5964,7 +5785,8 @@
       "formula": "",
       "type": "",
       "variance": ""
-    }
+    },
+    "description": ""
   },
   {
     "id": 138,
@@ -6003,7 +5825,8 @@
       "formula": "",
       "type": "",
       "variance": ""
-    }
+    },
+    "description": ""
   },
   {
     "id": 139,
@@ -6042,7 +5865,8 @@
       "formula": "",
       "type": "",
       "variance": ""
-    }
+    },
+    "description": ""
   },
   {
     "id": 140,
@@ -6081,6 +5905,7 @@
       "formula": "",
       "type": "",
       "variance": ""
-    }
+    },
+    "description": ""
   }
 ]

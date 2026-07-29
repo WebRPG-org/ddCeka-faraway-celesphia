@@ -16,7 +16,7 @@
     "volume": 80
   },
   "disableDashing": false,
-  "displayName": "Caldoon Mine",
+  "displayName": "Caldon Coal Mine",
   "encounterList": [
     {
       "troopId": 23,
@@ -5457,7 +5457,7 @@
     },
     {
       "id": 2,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -5757,7 +5757,7 @@
     },
     {
       "id": 3,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -6103,7 +6103,7 @@
     },
     {
       "id": 4,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -6449,7 +6449,7 @@
     },
     {
       "id": 5,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -6795,7 +6795,7 @@
     },
     {
       "id": 6,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -7141,7 +7141,7 @@
     },
     {
       "id": 7,
-      "name": "宝箱（ピュアリファイン）",
+      "name": "Treasure Chest (Pure Refine)",
       "note": "",
       "pages": [
         {
@@ -7302,7 +7302,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Pure Refine!"
+                "I got Pure Refine!"
               ]
             },
             {
@@ -7388,7 +7388,7 @@
     },
     {
       "id": 8,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -7443,7 +7443,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained a small ore."
+                "I got a small piece of ore."
               ]
             },
             {

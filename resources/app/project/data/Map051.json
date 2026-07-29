@@ -16,7 +16,7 @@
     "volume": 15
   },
   "disableDashing": false,
-  "displayName": "Cawil Ruins Entrance",
+  "displayName": "Entrance to the Kawiru Ruins",
   "encounterList": [],
   "encounterStep": 999,
   "height": 26,
@@ -2689,7 +2689,7 @@
     null,
     {
       "id": 1,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -2732,7 +2732,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you want to go to the world map?"
+                "Would you like to go to the world map?"
               ]
             },
             {
@@ -2747,10 +2747,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -2758,7 +2754,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -2783,7 +2779,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {

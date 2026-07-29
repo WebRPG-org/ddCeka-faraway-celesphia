@@ -16,7 +16,7 @@
     "volume": 10
   },
   "disableDashing": false,
-  "displayName": "Caldoon Coal Mine Entrance",
+  "displayName": "Entrance to the Caldon Coal Mine",
   "encounterList": [],
   "encounterStep": 30,
   "height": 34,
@@ -4321,7 +4321,7 @@
     null,
     {
       "id": 1,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -4488,7 +4488,7 @@
     },
     {
       "id": 2,
-      "name": "炭鉱の中へ",
+      "name": "Inside the Coal Mine",
       "note": "",
       "pages": [
         {
@@ -4655,7 +4655,7 @@
     },
     {
       "id": 3,
-      "name": "倒れ冒険者",
+      "name": "Fallen Adventurer",
       "note": "",
       "pages": [
         {
@@ -4749,14 +4749,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Injured Adventurer"
+                "Wounded Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I can't move... I'll hide here.\""
+                ": \"I don't think I can move... I'm hiding here.\""
               ]
             },
             {
@@ -4774,14 +4774,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Injured Adventurer"
+                "Wounded Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ugh...ggh...it hurts...! Sorry...those bastards are\""
+                ": \"Ugh... ugh... it hurts...! I'm sorry... please save"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "them... I'm counting on you...!\""
               ]
             },
             {
@@ -4918,7 +4925,7 @@
     },
     {
       "id": 4,
-      "name": "血痕",
+      "name": "Bloodstain",
       "note": "",
       "pages": [
         {
@@ -4940,7 +4947,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "flower_chip_Celesphia",
+            "characterName": "flower_chip_selesphia",
             "direction": 8,
             "pattern": 2,
             "characterIndex": 0
@@ -5029,7 +5036,7 @@
     },
     {
       "id": 5,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -5446,7 +5453,7 @@
     },
     {
       "id": 6,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -5863,7 +5870,7 @@
     },
     {
       "id": 7,
-      "name": "リリアン",
+      "name": "Lillian",
       "note": "",
       "pages": [
         {
@@ -6280,7 +6287,7 @@
     },
     {
       "id": 8,
-      "name": "初回自動EV",
+      "name": "First-Time Automatic EV",
       "note": "",
       "pages": [
         {
@@ -6736,14 +6743,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"！\""
+                "\\SE[5] \"!\""
               ]
             },
             {
@@ -6991,14 +6998,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Wait, Luna!\""
+                "\\SE[3] \"Wait, Luna!\""
               ]
             },
             {
@@ -7016,14 +7023,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"No! Lady Luna!\""
+                "\\SE[4] \"No, you can’t, Lady Luna!\""
               ]
             },
             {
@@ -7041,14 +7048,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"W-What are you two...?!\""
+                "\\SE[5] \"W-what are you two doing…!?\""
               ]
             },
             {
@@ -7080,7 +7087,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Of course, there was a reason I stopped them."
+                "\\SE[0] Of course, there was a reason I tried to stop him."
               ]
             },
             {
@@ -7098,7 +7105,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]The person lying there is actually one of the bandits,"
+                "\\SE[0] The person lying on the ground is actually a member of the band of thieves, and "
               ]
             },
             {
@@ -7130,7 +7137,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]and cases like this are far too common."
+                "\\SE[0] There are countless examples like this."
               ]
             },
             {
@@ -7148,14 +7155,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]So, if you see someone collapsed on the road,"
+                "Since it's \\SE[0], if you see someone lying on the street,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "."
+                "the golden rule is to first call out to them from a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "short distance away— ."
               ]
             },
             {
@@ -7173,14 +7187,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]don't approach them alone―stay alert and keep your"
+                "\\SE[0] It’s also a good idea to avoid approaching alone and to stay alert to your surroundings "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "guard up."
+                "(as someone might be hiding) ."
               ]
             },
             {
@@ -7274,14 +7288,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I'll go. Lilian, keep watch.\""
+                "\\SE[3] \"I’ll go. Lilian, get ready.\""
               ]
             },
             {
@@ -7299,14 +7313,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Got it. Be careful, Kyle.\""
+                "\\SE[4] \"Got it. Be careful, Kyle.\""
               ]
             },
             {
@@ -7443,14 +7457,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3](There doesn't seem to be anyone around.)"
+                "\\SE[3] (There doesn't seem to be anyone around.)"
               ]
             },
             {
@@ -7532,14 +7546,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Are you alright?\""
+                "\\SE[3] \"Are you okay?\""
               ]
             },
             {
@@ -7557,7 +7571,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Adventurer"
+                "\\SE[0] Adventurer "
               ]
             },
             {
@@ -7582,14 +7596,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(He's badly injured...)"
+                "(That's a terrible injury...)"
               ]
             },
             {
@@ -7606,14 +7620,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I'll heal you now.\""
+                "\\SE[3] \"I'll take care of you right now.\""
               ]
             },
             {
@@ -7640,7 +7654,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle administered a basic healing treatment."
+                "\\SE[0] Kyle provided only minimal healing. "
               ]
             },
             {
@@ -7681,14 +7695,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Adventurer"
+                "\\SE[0] Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ahh... You're an adventurer...?\""
+                "\"Ah… an adventurer…? You saved me… Sorry, I’m in your"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "debt…\""
               ]
             },
             {
@@ -7705,14 +7726,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"What happened?\""
+                "\\SE[3] \"What happened?\""
               ]
             },
             {
@@ -7730,21 +7751,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Adventurer"
+                "\\SE[0] Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"We were hunting the bandits that have been popping up"
+                "\"We’ve come here to take down the band of thieves"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "around here,\""
+                "that’s been roaming this area…\""
               ]
             },
             {
@@ -7762,14 +7783,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Adventurer"
+                "\\SE[0] Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"but there were too many of them... We got ambushed...\""
+                "\"But there were so many of them, and we ended up"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "getting beaten…\""
               ]
             },
             {
@@ -7849,14 +7877,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Bandits?\""
+                "\\SE[4] \"A band of thieves?\""
               ]
             },
             {
@@ -7874,21 +7902,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Adventurer"
+                "\\SE[0] Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yeah, they've been active lately, targeting"
+                "\"Ah, those are the guys who’ve been hanging around here"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "adventurers and cargo...\""
+                "lately, preying on adventurers and their cargo.\""
               ]
             },
             {
@@ -7906,21 +7934,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Adventurer"
+                "\\SE[0] Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"We were scouting the area and found their hideout in"
+                "\"We searched the area and discovered that there was"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the mines...\""
+                "apparently a hideout inside the coal mine , so we went"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Adventurer "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "in, but we were ambushed…\""
               ]
             },
             {
@@ -7938,14 +7991,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"A party? So there are others?\""
+                "\\SE[5] \"So, if it’s a party, does that mean there"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "are other people too?\""
               ]
             },
             {
@@ -7963,21 +8023,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Adventurer"
+                "\\SE[0] Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yeah... We were a seven-person party, but I'm the only"
+                "\"Ah… We came as a party of seven, but I was the only"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "one left...\""
+                "one who barely managed to escape… If they’re still"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Adventurer "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "alive, they might still be inside…\""
               ]
             },
             {
@@ -8004,14 +8089,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"We'll help.\""
+                "\\SE[5] \"Let's help them\""
               ]
             },
             {
@@ -8067,14 +8152,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Huh?!\""
+                "\\SE[3] \"Huh!?\""
               ]
             },
             {
@@ -8092,14 +8177,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"There isn't a moment to spare.\""
+                "\\SE[5] \"There’s not a moment to spare. Let’s head"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "there right away.\""
               ]
             },
             {
@@ -8117,14 +8209,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Yes, you're right.\""
+                "\\SE[4] \"Yes, that’s right.\""
               ]
             },
             {
@@ -8142,7 +8234,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]We're only three people,"
+                "\\SE[0] There are only three of us, and "
               ]
             },
             {
@@ -8217,14 +8309,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Wait―hold on...!\""
+                "\\SE[3] \"Wait… w-wait a minute…!\""
               ]
             },
             {
@@ -8242,14 +8334,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"But I guess you won't listen.\""
+                "\\SE[3] \"But you won’t listen even if I say that,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "will you?\""
               ]
             },
             {
@@ -8267,21 +8366,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Yes. We can't just leave people in"
+                "\\SE[5] \"Yes, I can't move on without helping"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "trouble.\""
+                "someone in trouble.\""
               ]
             },
             {
@@ -8299,14 +8398,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Listen to me, both of you.\""
+                "\\SE[3] \"All right, you two, listen carefully.\""
               ]
             },
             {
@@ -8324,21 +8423,53 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"We don't need to fight. If we can help"
+                "\\SE[3] \"There’s no need to fight. If we can help,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "them, we help―\""
+                "we’ll help; if not, we’ll back off and"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                5,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "report it to the guild. Please follow these"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "instructions.\""
               ]
             },
             {
@@ -8356,14 +8487,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Understood! Let's go!\""
+                "\\SE[4] \"Got it! Let’s go!\""
               ]
             },
             {
@@ -8411,9 +8542,8 @@
                 1,
                 0,
                 4,
-                "\"　Find the bandit hideout\""
-              ],
-              "_original": "\"　盗賊団のアジトを探そう\""
+                "\"　Let's find the bandits' hideout\""
+              ]
             },
             {
               "code": 203,
@@ -8558,7 +8688,7 @@
     },
     {
       "id": 9,
-      "name": "血痕",
+      "name": "Bloodstain",
       "note": "",
       "pages": [
         {
@@ -8580,7 +8710,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "flower_chip_Celesphia",
+            "characterName": "flower_chip_selesphia",
             "direction": 6,
             "pattern": 0,
             "characterIndex": 0
@@ -8669,7 +8799,7 @@
     },
     {
       "id": 10,
-      "name": "ワープポイント",
+      "name": "Warp Point",
       "note": "",
       "pages": [
         {
@@ -8712,14 +8842,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Head to the B2 Mine Shaft?"
+                "Are you going to Coal Mine B2? *You can travel back and"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*You can travel back and forth."
+                "forth."
               ]
             },
             {
@@ -8734,10 +8864,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -8745,7 +8871,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -8770,7 +8896,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -8815,7 +8941,7 @@
     },
     {
       "id": 11,
-      "name": "盗賊団の決闘",
+      "name": "The Bandits' Duel",
       "note": "",
       "pages": [
         {
@@ -8858,7 +8984,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "※There's a battle ahead. Are you ready?"
+                "*There will be combat. "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Are you ready?*"
               ]
             },
             {
@@ -8873,10 +9006,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -8884,7 +9013,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -8910,7 +9039,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -9520,14 +9649,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Male Adventurer"
+                "\\SE[0] Male Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"You two! Are you alright?!\""
+                "\"Hey, you guys! Are you all right?!\""
               ]
             },
             {
@@ -9663,14 +9792,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Woman 2"
+                "Female Adventurer 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Uu...u...\""
+                ": \"Ugh... ugh...\""
               ]
             },
             {
@@ -9688,14 +9817,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Woman 1"
+                "Female Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Sniff...ugh...ugh...\""
+                ": \"Sniff… Ugh… Ugh…\""
               ]
             },
             {
@@ -9713,14 +9842,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer"
+                "Male Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"What about the others...?\""
+                ": \"What about... the others...?\""
               ]
             },
             {
@@ -9738,7 +9867,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna shook her head quietly."
+                "Luna quietly shook her head."
               ]
             },
             {
@@ -9756,14 +9885,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer"
+                "Male Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I see...\""
+                ": \"I see...\""
               ]
             },
             {
@@ -9781,14 +9910,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"We need to leave...now.\""
+                "\\SE[3] \"Let’s get out of here quickly…\""
               ]
             },
             {
@@ -9835,21 +9964,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Boss"
+                "\\SE[0] Leader "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"There they are! Surround them, you"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "bastards!\""
+                "\"There he is! Surround him, you bastards!\""
               ]
             },
             {
@@ -10293,21 +10415,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Boss"
+                "\\SE[0] Okashira "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"You sons of bitches...you killed my men,"
+                "\"That bastard… He killed my henchman, and on"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "and you think\""
+                "top of that, he even took our slave…!\""
               ]
             },
             {
@@ -10347,14 +10469,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Chief"
+                "Okashira "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"you'll walk away alive?!\""
+                ": \"Don't think you'll make it back alive!!\""
               ]
             },
             {
@@ -10426,14 +10548,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"They don't belong to you!\""
+                "\\SE[5] \"That’s not yours, is it?! Stealing"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "people’s money and valuables, humiliating"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "them, and even taking their lives…!\""
               ]
             },
             {
@@ -10473,14 +10627,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Have some shame!\""
+                "\\SE[5] \"Have some shame!\""
               ]
             },
             {
@@ -10498,21 +10652,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Boss"
+                "\\SE[0] Okashira "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Shut the fuck up! Kill the men! Take the"
+                "\"Shut up! Kill all the men! Capture the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "women alive and―\""
+                "women and turn them into slaves!\""
               ]
             },
             {
@@ -10540,7 +10694,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"\"\"Ooooooh!!!!!\"\"\""
+                "\"\"\"\"Wooooo!!!!\"\"\"\""
               ]
             },
             {
@@ -10570,14 +10724,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Kyle-sama, Lilian.\""
+                "\\SE[5] \"Lord Kyle, Lilian\""
               ]
             },
             {
@@ -10595,21 +10749,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"If we prolong this, we'll be at a"
+                "\\SE[5] \"If this drags on, it’ll put us at a"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "disadvantage. We'll take out their leader"
+                "disadvantage. Let’s take out the commander"
               ]
             },
             {
@@ -10627,14 +10781,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "in\""
+                "in one fell swoop.\""
               ]
             },
             {
@@ -10652,39 +10806,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "one go.\""
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "player/runa_normal",
-                1,
-                0,
-                2,
-                ""
+                "\\SE[5] \"Could you please help me get rid of the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\SE[5]\"Could you handle the cleanup, please?\""
+                "dew?\""
               ]
             },
             {
@@ -10733,14 +10869,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Leave it to me!\""
+                "\\SE[4] \"Leave it to me!\""
               ]
             },
             {
@@ -10789,14 +10925,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Got it. I'll handle the rear!\""
+                "\\SE[3] \"Got it, I’ve got your back!\""
               ]
             },
             {
@@ -10814,14 +10950,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Here we go!\""
+                "\\SE[5] \"Let’s go!\""
               ]
             },
             {
@@ -11155,14 +11291,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Boss"
+                "\\SE[0] Okashira "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Gh...guh...! Damn it...!\""
+                "\"Guh... gah...! Damn it...!\""
               ]
             },
             {
@@ -11283,7 +11419,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Thief Archer"
+                "Rogue Archer "
               ]
             },
             {
@@ -11690,14 +11826,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"That time...!\""
+                "\\SE[5] \"Back then…!\""
               ]
             },
             {
@@ -11715,14 +11851,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"You're returning the favor...!\""
+                "\\SE[3] \"So you’ve paid me back…!\""
               ]
             },
             {
@@ -11968,14 +12104,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Boss"
+                "\\SE[0] Oka Shira "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"P-please...! Spare me...!\""
+                "\"P-please…! Let me off…!\" \"I’ll turn over a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "new leaf! I’ll pay everything back and turn"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/mob_normal",
+                4,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Oka Shira "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "myself in…!\""
               ]
             },
             {
@@ -12058,14 +12226,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Chief"
+                "Okashira "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"So...please! I beg you! Just my life...!\""
+                ": \"So… please! I beg you, for the love of"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "God, just spare my life…!\""
               ]
             },
             {
@@ -12092,14 +12267,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"……\""
+                "\\SE[5] \"……\""
               ]
             },
             {
@@ -12117,14 +12292,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"…Any last words?\""
+                "\\SE[5] \"…Is there anything else you’d like to"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "say?\""
               ]
             },
             {
@@ -12151,14 +12333,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Boss"
+                "\\SE[0] Okashira "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"N-no…stop…!\""
+                "\"S-stop...!\""
               ]
             },
             {
@@ -12176,14 +12358,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Ice Edge!\""
+                "\\SE[5] \"Ice Edge!\""
               ]
             },
             {
@@ -12224,14 +12406,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]The ice bullet Luna fired struck deep into the"
+                "\\SE[0] The ice bullets Luna fired pierced the villain's chest deeply, "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "villain's chest."
+                "embedding themselves in it over and over."
               ]
             },
             {
@@ -12249,14 +12431,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Chief"
+                "Okashira "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Gah…hack…\""
+                ": \"G... gah...\""
               ]
             },
             {
@@ -12346,14 +12528,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer"
+                "Male Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Now! Hah!\""
+                ": \"Now's the time! Haah!\""
               ]
             },
             {
@@ -12445,14 +12627,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Woman 1"
+                "Female Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Take this!\""
+                ": \"Youuu!!\""
               ]
             },
             {
@@ -12544,14 +12726,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer Woman 2"
+                "Female Adventurer 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hah!\""
+                ": \"Haaah!!\""
               ]
             },
             {
@@ -12817,14 +12999,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Thief"
+                "Thief "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hiiiee―!\""
+                ": \"E-eek!\" : \"Run!\""
               ]
             },
             {
@@ -13365,14 +13547,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer"
+                "Male Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"You lot! That was fucking amazing!\""
+                ": \"You guys! You’re seriously amazing! Just the three"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "of you wiped out that band of thieves!\""
               ]
             },
             {
@@ -13528,21 +13717,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"No, no―it was all thanks to everyone"
+                "\\SE[5] \"No, no—it’s all thanks to you guys for"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "keeping them occupied.\""
+                "holding them off!\""
               ]
             },
             {
@@ -13560,14 +13749,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Female Adventurer 2"
+                "\\SE[0] Female Adventurer 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Thank you…so much…for saving us…\""
+                "\"Thank you so much... for saving me.\""
               ]
             },
             {
@@ -13585,14 +13774,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I'm glad you're all safe.\""
+                "\\SE[3] \"I’m glad you’re safe.\""
               ]
             },
             {
@@ -13610,14 +13799,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"We couldn't save everyone…\""
+                "\\SE[3] \"I couldn’t save everyone, but…\""
               ]
             },
             {
@@ -13635,14 +13824,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Female Adventurer 1"
+                "\\SE[0] Female Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"No…it was our own arrogance…\""
+                "\"No, we were just overconfident… We thought"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "that individual thieves weren’t much of a"
               ]
             },
             {
@@ -13660,21 +13856,78 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Female Adventurer 1"
+                "\\SE[0] Female Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"But because we underestimated them, we were"
+                "threat.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/モブ顔2",
+                4,
+                0,
+                2,
+                ""
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "attacked as a group.\""
+                "\\SE[0] Female Adventurer 1"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\"However, because we underestimated them, we"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "came under a coordinated attack, were split"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/モブ顔2",
+                4,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Female Adventurer 1"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "up, and ended up being taken down one by"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "one…\""
               ]
             },
             {
@@ -13701,21 +13954,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"For now, let's be grateful we're still"
+                "\\SE[4] \"For now, let’s just be glad we’re still"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "alive.\""
+                "alive. We’ll have our debriefing later.\""
               ]
             },
             {
@@ -13733,7 +13986,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Female Adventurer 1"
+                "\\SE[0] Female Adventurer 1"
               ]
             },
             {
@@ -13758,14 +14011,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer"
+                "Male Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"We're heading back to \\C[2]Greenvale Village\\C[0] for now.\""
+                ": \"We're going to head back to \\C[2] Greenvale Village \\C[0] for"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "now. All three of us need to rest up a bit.\""
               ]
             },
             {
@@ -13783,14 +14043,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Male Adventurer"
+                "Male Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"What about you two?\""
+                ": \"What are you guys going to do?\""
               ]
             },
             {
@@ -13808,21 +14068,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"We'll pass through the mines and head to"
+                "\\SE[5] \"We're leaving the coal mine and heading"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the Vergan region.\""
+                "for the Vergan region .\""
               ]
             },
             {
@@ -13840,14 +14100,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Male Adventurer"
+                "\\SE[0] Male Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I see. Well, good luck on your journey.\""
+                "\"I see. I wish you good luck on your journey. I’ll be"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "sure to report your achievements to the guild.\""
               ]
             },
             {
@@ -13865,14 +14132,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Yeah. Now that the bandits are gone…\""
+                "\\SE[4] \"Yes, please tell them that now that the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "bandits are gone, they can rest easy.\""
               ]
             },
             {
@@ -13890,21 +14164,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Female Adventurer 2"
+                "\\SE[0] Female Adventurer 2"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"May Goddess Fortuna's blessings be with"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "you.\""
+                "\"May the goddess Fortuna be with us…!\""
               ]
             },
             {
@@ -13922,21 +14189,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Yeah, and may Goddess Fortuna's blessings"
+                "\\SE[3] \"Ah, and may the goddess Fortuna bless you"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "be with you too!\""
+                "as well!\""
               ]
             },
             {
@@ -13954,14 +14221,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Take care on your journey! If fate allows,\""
+                "\\SE[4] \"Have a safe trip! If fate allows, let’s"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "meet again!\""
               ]
             },
             {
@@ -13979,14 +14253,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Female Adventurer 1"
+                "\\SE[0] Female Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Thank you…so much…!\""
+                "\"Thank you so much…! Um, I’d like to thank"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "you properly, so please do come back…!\""
               ]
             },
             {
@@ -14245,14 +14526,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Alright, let's go.\""
+                "\\SE[3] \"All right, let’s go.\""
               ]
             },
             {
@@ -14270,14 +14551,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Yeah!\""
+                "\\SE[4] \"Really?!\""
               ]
             },
             {
@@ -14295,14 +14576,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Yes!\""
+                "\\SE[5] \"Yes!\""
               ]
             },
             {
@@ -14339,7 +14620,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]The sky was so high, so blue..."
+                "\\SE[0]——The sky was very high and blue."
               ]
             },
             {
@@ -14357,14 +14638,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The rustling of the forest faded into silence, and the"
+                "The rustling of the forest fell silent, and the wind"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "wind gently stirred the leaves."
+                "gently rustled the leaves."
               ]
             },
             {
@@ -14382,7 +14663,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "As the remnants of battle slowly faded away,"
+                "As the afterglow of the battle began to fade, a blue"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "that seemed to envelop everything spread out before us."
               ]
             },
             {
@@ -14410,9 +14698,8 @@
                 1,
                 0,
                 4,
-                "\"　Go through Caldoon Coal Mine again\""
-              ],
-              "_original": "\"　改めてカルドーン炭鉱を抜けよう\""
+                "\"　Let's make our way out of the Caldon Coal Mine again.\""
+              ]
             },
             {
               "code": 117,
@@ -14554,7 +14841,7 @@
     },
     {
       "id": 12,
-      "name": "モブ冒険者1",
+      "name": "Mob Adventurer 1",
       "note": "",
       "pages": [
         {
@@ -14665,7 +14952,7 @@
     },
     {
       "id": 13,
-      "name": "モブ冒険者2",
+      "name": "Mob Adventurer 2",
       "note": "",
       "pages": [
         {
@@ -14776,7 +15063,7 @@
     },
     {
       "id": 14,
-      "name": "お頭",
+      "name": "Boss",
       "note": "",
       "pages": [
         {
@@ -14938,7 +15225,7 @@
     },
     {
       "id": 15,
-      "name": "盗賊",
+      "name": "Thief",
       "note": "",
       "pages": [
         {
@@ -15100,7 +15387,7 @@
     },
     {
       "id": 16,
-      "name": "盗賊",
+      "name": "Thief",
       "note": "",
       "pages": [
         {
@@ -15262,7 +15549,7 @@
     },
     {
       "id": 17,
-      "name": "盗賊弓狙い",
+      "name": "Targeting the Thief's Bow",
       "note": "",
       "pages": [
         {
@@ -15424,7 +15711,7 @@
     },
     {
       "id": 18,
-      "name": "盗賊",
+      "name": "Thief",
       "note": "",
       "pages": [
         {
@@ -15535,7 +15822,7 @@
     },
     {
       "id": 19,
-      "name": "盗賊",
+      "name": "Thief",
       "note": "",
       "pages": [
         {
@@ -15697,7 +15984,7 @@
     },
     {
       "id": 20,
-      "name": "盗賊",
+      "name": "Thief",
       "note": "",
       "pages": [
         {
@@ -15859,7 +16146,7 @@
     },
     {
       "id": 21,
-      "name": "盗賊",
+      "name": "Thief",
       "note": "",
       "pages": [
         {
@@ -15970,7 +16257,7 @@
     },
     {
       "id": 22,
-      "name": "盗賊",
+      "name": "Thief",
       "note": "",
       "pages": [
         {
@@ -16081,7 +16368,7 @@
     },
     {
       "id": 23,
-      "name": "盗賊",
+      "name": "Thief",
       "note": "",
       "pages": [
         {
@@ -16192,7 +16479,7 @@
     },
     {
       "id": 24,
-      "name": "盗賊",
+      "name": "Thief",
       "note": "",
       "pages": [
         {
@@ -16303,7 +16590,7 @@
     },
     {
       "id": 25,
-      "name": "盗賊後1",
+      "name": "After the Thief, Part 1",
       "note": "",
       "pages": [
         {
@@ -16465,7 +16752,7 @@
     },
     {
       "id": 26,
-      "name": "盗賊後3",
+      "name": "After the Thief, Part 3",
       "note": "",
       "pages": [
         {
@@ -16627,7 +16914,7 @@
     },
     {
       "id": 27,
-      "name": "盗賊4",
+      "name": "Thief 4",
       "note": "",
       "pages": [
         {
@@ -16738,7 +17025,7 @@
     },
     {
       "id": 28,
-      "name": "盗賊後2",
+      "name": "After the Thief, Part 2",
       "note": "",
       "pages": [
         {
@@ -16900,7 +17187,7 @@
     },
     {
       "id": 29,
-      "name": "盗賊5",
+      "name": "Thief 5",
       "note": "",
       "pages": [
         {
@@ -17011,7 +17298,7 @@
     },
     {
       "id": 30,
-      "name": "バルドル",
+      "name": "Baldur",
       "note": "",
       "pages": [
         {
@@ -17071,7 +17358,7 @@
     },
     {
       "id": 31,
-      "name": "炭鉱ワープ",
+      "name": "Coal Mine Warp",
       "note": "",
       "pages": [
         {
@@ -17114,7 +17401,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you want to move to the Arseleon side exit?"
+                "Would you like to go to the Arseon side exit? (You can"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "go back and forth)"
               ]
             },
             {
@@ -17129,10 +17423,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -17140,7 +17430,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -17186,7 +17476,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -17282,7 +17572,7 @@
     },
     {
       "id": 32,
-      "name": "ボス前回復",
+      "name": "Healing Before the Boss Fight",
       "note": "",
       "pages": [
         {
@@ -17325,14 +17615,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Restore all HP/MP?"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "(once only)"
+                "Do you want to fully restore your HP/MP? (once only)"
               ]
             },
             {
@@ -17347,10 +17630,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -17358,7 +17637,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -17396,7 +17675,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Fully recovered."
+                "I've fully recovered."
               ]
             },
             {
@@ -17417,7 +17696,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {

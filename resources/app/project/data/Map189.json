@@ -1567,7 +1567,7 @@
     null,
     {
       "id": 1,
-      "name": "外に出る",
+      "name": "Go outside",
       "note": "",
       "pages": [
         {
@@ -1653,7 +1653,7 @@
     },
     {
       "id": 2,
-      "name": "休む",
+      "name": "Take a break",
       "note": "",
       "pages": [
         {
@@ -1696,21 +1696,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(I thought Rose would already be"
+                "(I was sure Rose had gone to bed already,"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "resting...)."
+                "but...)"
               ]
             },
             {
@@ -1728,21 +1728,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Well, I'll just rest first without worrying"
+                "(Well, I guess I'll just go to sleep without"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "about it.)"
+                "worrying about it.)"
               ]
             },
             {
@@ -1760,7 +1760,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Would you like to rest?"
+                "Are you taking a day off?"
               ]
             },
             {
@@ -1775,10 +1775,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -1786,7 +1782,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -1812,7 +1808,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -1908,9 +1904,8 @@
                 1,
                 0,
                 4,
-                "\"　Go outside the village and head to the Sanctuary Forest\""
-              ],
-              "_original": "\"　村の外に出て聖域の森へ向かおう\""
+                "\"　Let's head out of the village and make our way to the Sacred Forest.\""
+              ]
             },
             {
               "code": 121,
@@ -2052,14 +2047,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma"
+                "Sister Alma "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"Good morning.\""
+                "\\SE[8] \"Good morning.\""
               ]
             },
             {
@@ -2077,21 +2072,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Morning! Both of you. Perfect day for an"
+                "\\SE[1] \"Good morning, you two! It’s a perfect day"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "adventure!\""
+                "for an adventure!\""
               ]
             },
             {
@@ -2109,14 +2104,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Good morning, Sister Alma. Rose.\""
+                "\\SE[3] \"Good morning, Sister Rose.\""
               ]
             },
             {
@@ -2134,14 +2129,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma"
+                "Sister Alma "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"Once you're ready, we can set out.\""
+                "\\SE[8]: \"Let's set out once we're ready.\""
               ]
             },
             {
@@ -2159,21 +2154,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Sister Alma"
+                "Sister Alma "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"Once we leave the village, I'll guide you"
+                "\\SE[8]: \"If you could just step outside the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "to the \\C[3]Sanctuary Forest\\C[0].\""
+                "village, I'll guide you the rest of the way \\C[3]"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "ver2/ver2_alma1",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Sister Alma "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "to the Sacred Forest \\C[0].\""
               ]
             },
             {
@@ -2191,14 +2211,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Got it. We'll meet up later.\""
+                "\\SE[3] \"Got it. Let's meet up later.\""
               ]
             },
             {
@@ -2216,14 +2236,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rose"
+                "Rosé "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[1]\"Alright, let's go!\""
+                "\\SE[1] \"All right, let’s go!\""
               ]
             },
             {
@@ -2394,7 +2414,7 @@
     },
     {
       "id": 3,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -2913,7 +2933,7 @@
     },
     {
       "id": 4,
-      "name": "ロゼ",
+      "name": "Rosé",
       "note": "",
       "pages": [
         {
@@ -3126,7 +3146,7 @@
     },
     {
       "id": 5,
-      "name": "シスター・アルマ",
+      "name": "Sister Alma",
       "note": "",
       "pages": [
         {
@@ -3237,7 +3257,7 @@
     },
     {
       "id": 6,
-      "name": "休憩",
+      "name": "Break",
       "note": "",
       "pages": [
         {
@@ -3280,7 +3300,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Rest your body?"
+                "Would you like to rest your body?"
               ]
             },
             {
@@ -3295,10 +3315,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -3306,7 +3322,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -3356,7 +3372,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -3401,7 +3417,7 @@
     },
     {
       "id": 7,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -3466,7 +3482,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Pure Refine."
+                "I got Pure Refine"
               ]
             },
             {

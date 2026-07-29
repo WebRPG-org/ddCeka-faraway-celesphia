@@ -16,7 +16,7 @@
     "volume": 10
   },
   "disableDashing": false,
-  "displayName": "Lewin Forest Entrance",
+  "displayName": "Entrance to Lewin Forest",
   "encounterList": [],
   "encounterStep": 30,
   "height": 25,
@@ -2587,7 +2587,7 @@
     null,
     {
       "id": 1,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -2708,7 +2708,7 @@
     },
     {
       "id": 2,
-      "name": "ワールドマップへ",
+      "name": "Go to the World Map",
       "note": "",
       "pages": [
         {
@@ -2751,21 +2751,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Exiting to the world map."
+                "You will be taken to the World Map. Is that okay? *Your"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Is that okay? *Your HP and MP will be fully restored"
+                "HP and MP will be fully restored when you reach the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "when you reach the World Map."
+                "World Map."
               ]
             },
             {
@@ -2780,10 +2780,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -2791,7 +2787,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -2824,7 +2820,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {

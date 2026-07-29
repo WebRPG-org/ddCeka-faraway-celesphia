@@ -8299,7 +8299,7 @@
     null,
     {
       "id": 1,
-      "name": "前のフロアへ戻る",
+      "name": "Return to the Previous Floor",
       "note": "",
       "pages": [
         {
@@ -8415,14 +8415,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Now's our chance. Let's save them.\""
+                "\\SE[5] \"Now is our chance. Let's save them.\""
               ]
             },
             {
@@ -8627,14 +8627,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"！\""
+                "\\SE[5] \"!\""
               ]
             },
             {
@@ -8652,14 +8652,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"...Kyle... I hear voices...\""
+                "\\SE[4] \"…Kyle… I can hear a voice…\""
               ]
             },
             {
@@ -8677,7 +8677,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] This must be the bandits' hideout further"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "in here."
               ]
             },
             {
@@ -8695,7 +8702,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "I stifled my voice and nodded."
               ]
             },
             {
@@ -8832,7 +8839,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\"N-no...! S-stop...help...! No...!\""
+                "\\SE[0] \"No... oh...! Stop... help me...! No...!\""
               ]
             },
             {
@@ -8850,7 +8857,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]A faint voice could be heard"
+                "I could faintly hear a voice."
               ]
             },
             {
@@ -8944,7 +8951,7 @@
     },
     {
       "id": 4,
-      "name": "通行止め1",
+      "name": "Road Closure 1",
       "note": "",
       "pages": [
         {
@@ -8987,7 +8994,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"N-no... I don't want... it hurts... Ah...\""
+                "\"…No… Stop… It hurts… Ah…\""
               ]
             },
             {
@@ -9005,7 +9012,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A voice comes from deep inside. Let's go check it out."
+                "I hear a voice coming from way up in the back. Let's go"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "check it out."
               ]
             },
             {
@@ -9122,7 +9136,7 @@
     },
     {
       "id": 5,
-      "name": "通行止め1",
+      "name": "Road Closure 1",
       "note": "",
       "pages": [
         {
@@ -9165,7 +9179,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"N-no... I don't want... it hurts... Ah...\""
+                "\"…No… Stop… It hurts… Ah…\""
               ]
             },
             {
@@ -9183,7 +9197,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A voice comes from deep inside. Let's go check it out."
+                "I hear a voice coming from way up in the back. Let's go"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "check it out."
               ]
             },
             {
@@ -9300,7 +9321,7 @@
     },
     {
       "id": 6,
-      "name": "盗賊団EV",
+      "name": "The EV Bandits",
       "note": "",
       "pages": [
         {
@@ -9424,7 +9445,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This event contains explicit content."
+                "*This video contains explicit content. If this is not"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "your cup of tea, you can skip it."
               ]
             },
             {
@@ -9442,7 +9470,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Skip it?"
+                "Would you like to skip this?"
               ]
             },
             {
@@ -9457,10 +9485,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "スキップしない",
-                "スキップする"
               ]
             },
             {
@@ -9468,7 +9492,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "スキップしない"
+                "Don't skip"
               ]
             },
             {
@@ -9885,7 +9909,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]What was happening there was a feast of depravity."
+                "\\SE[0] A banquet was taking place there."
               ]
             },
             {
@@ -9903,14 +9927,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]The scoundrels were toying with the surviving female"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "adventurers."
+                "\\SE[0] The scoundrels who were tormenting the surviving female adventurer had gathered there "
               ]
             },
             {
@@ -9928,14 +9945,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]\\Se[0]Female Adventurer"
+                "\\SE[0] Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"N-No...! S-Stop...! Please stop...!\""
+                "\"Oh no…! I don’t want this…! Please stop…!\""
               ]
             },
             {
@@ -9953,14 +9970,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]\\Se[0]Thief"
+                "\\SE[0] Bandit "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Heh-heh! Come on, come on! Feels good, doesn't it?\""
+                "\"Hahahaha! Take that! Take that! Feels good, doesn’t"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "it?!\""
               ]
             },
             {
@@ -9978,21 +10002,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]\\Se[0]Female Adventurer"
+                "\\SE[0] Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"H-Help...! Someone...! No...! It hurts...!"
+                "\"Help… me! Someone…! No… it hurts…! It"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "It hurts...!\""
+                "hurts…!\""
               ]
             },
             {
@@ -10041,14 +10065,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]\\Se[0]Thief"
+                "\\SE[0] Bandit "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Shut up! Stop your whining!\""
+                "\"Shut up! Stop whining!\""
               ]
             },
             {
@@ -10092,14 +10116,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "He brought his fist down on her face without"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "hesitation."
+                "He mercilessly brought his fist down on his face"
               ]
             },
             {
@@ -10117,14 +10134,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]\\Se[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "(This is awful...!)"
+                "(That's awful...!)"
               ]
             },
             {
@@ -10152,14 +10169,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]\\Se[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "(……）"
+                "(……)"
               ]
             },
             {
@@ -10177,14 +10194,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]\\Se[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "(…）"
+                "(...)"
               ]
             },
             {
@@ -10202,14 +10219,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "There was nothing she could do. If she rushed out now,"
+                "There's nothing I can do right now. If I rush in"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "she'd only endanger them."
+                "recklessly, they'll probably use those girls as a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "shield."
               ]
             },
             {
@@ -10227,14 +10251,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]\\Se[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "(Lady Luna, please endure this..."
+                "(Lady Luna, please hold on here… Let’s wait"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "for an opening)"
               ]
             },
             {
@@ -10252,14 +10283,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]\\Se[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "(Y-Yes... I understand...)"
+                "(Uh... okay...)"
               ]
             },
             {
@@ -10277,14 +10308,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "All she could do was hold her breath and wait for an"
+                "There's nothing to do but hold my breath and wait"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "opening."
+                "quietly until an opening appears."
               ]
             },
             {
@@ -10371,7 +10402,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]The feast continued."
+                "The party continues"
               ]
             },
             {
@@ -10389,14 +10420,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]\\Se[0]Thief"
+                "\\SE[0] Thief "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Oho-♡ Feels so good-♡\""
+                "\"Ohhh♡ That feels so good♡\""
               ]
             },
             {
@@ -10414,14 +10445,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]\\Se[0]Thief"
+                "\\SE[0] Thief "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"You idiot, don't cum inside her,\""
+                "\"You idiot, don’t cum inside her, because I’m going to"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "be the next one to stick it in.\""
               ]
             },
             {
@@ -10439,14 +10477,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]\\Se[0]Thief"
+                "\\SE[0] Bandit "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Come on, suck it properly! Gya-ha-ha!\""
+                "\"Hey, suck it better than that! Hahahaha!\""
               ]
             },
             {
@@ -10464,14 +10502,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Once one was finished, another took their turn to use"
+                "Once one is done, another takes his turn to play with"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "the woman's body."
+                "her body"
               ]
             },
             {
@@ -10515,14 +10553,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]\\Se[0]Thief"
+                "\\SE[0] Thief "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Heh-heh, I'll stir you up with my fingers!\""
+                "\"Come on, come on—I’m gonna dig right in with my"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "fingers!\""
               ]
             },
             {
@@ -10604,14 +10649,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "His fingers were forced inside, stirring her insides"
+                "A finger was forcefully thrust inside me, and my vagina"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "roughly."
+                "was raked around"
               ]
             },
             {
@@ -10629,14 +10674,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]\\Se[0]Female Adventurer"
+                "\\SE[0] Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Nn-Ah! It hurts! Stop! Ahh-Ah!\""
+                "\"Unhhh! That hurts! Stop! Ahhhhh…!\""
               ]
             },
             {
@@ -10654,21 +10699,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]\\Se[0]Thief"
+                "\\SE[0] Bandit "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Gya-ha-ha! You say you don't like it, but you're"
+                "\"Hahahaha! You’re saying you don’t want to, but you’re"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "already leaking!\""
+                "peeing yourself!\""
               ]
             },
             {
@@ -10760,14 +10805,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Thief"
+                "Thief "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Uh, Boss, we're ready over here too.\""
+                ": \"Alright, boss, we're all set over here, too.\""
               ]
             },
             {
@@ -10785,14 +10830,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Chief"
+                "Okasira "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Oho.\""
+                "\"Oh\""
               ]
             },
             {
@@ -10875,14 +10920,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Chief"
+                "Okashira "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Oi, lift that ass up.\""
+                ": \"Hey, lift your butt!\""
               ]
             },
             {
@@ -10931,14 +10976,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"N-No...! S-Stop...!\""
+                ": \"N-no...! Stop...!\""
               ]
             },
             {
@@ -10956,14 +11001,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Chief"
+                "Boss "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"You damn fool, you're ours now―\""
+                ": \"You idiots, you’re our sex slaves. Get to"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "work.\""
               ]
             },
             {
@@ -11016,14 +11068,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The leader of the thieves' gang, the man they suspected"
+                "The man believed to be the leader of the band of"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "was their boss, had his member slowly pushed inside."
+                "thieves has his penis slowly forced inside her"
               ]
             },
             {
@@ -11041,14 +11093,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"N-No...! N-No...!!\""
+                ": \"N-no...! Nooo...!!\""
               ]
             },
             {
@@ -11066,21 +11118,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Chief"
+                "Okashira "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Heh-heh. Make sure you get pregnant with my"
+                ": \"Hehehe. Make sure you get pregnant with"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "child.\""
+                "my child.\""
               ]
             },
             {
@@ -11124,7 +11176,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Sluuuurp...!"
+                "Spl... spl...!"
               ]
             },
             {
@@ -11142,14 +11194,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Aahh!! No...! No...!!\""
+                ": \"Aaaah!!! Nooo…! Nooo…!!!\""
               ]
             },
             {
@@ -11226,14 +11278,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "He relentlessly pounded her innocent pussy with rough"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "thrusts."
+                "He mercilessly thrusts violently into her virgin vagina"
               ]
             },
             {
@@ -11251,14 +11296,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Ugh! Gaah...! Guh...! Ag...!\""
+                ": \"Ugh! Gah...! Guh...! Agh...!\""
               ]
             },
             {
@@ -11276,14 +11321,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Thief"
+                "Thief "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Heh, you're slacking off with that mouth of yours.\""
+                ": \"Hey, my mouth's not working right now.\""
               ]
             },
             {
@@ -11301,7 +11346,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "His cock was forced into her mouth, muffling her cries."
+                "It was forced into my mouth, and I can't speak"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "properly."
               ]
             },
             {
@@ -11319,14 +11371,46 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Chief"
+                "Okashira "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Heh, when a woman can't breathe,\""
+                ": \"Hehe, when a woman starts to feel short"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "of breath, her down there tightens up,"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "player/mob_normal",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Okashira "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "doesn’t it?\""
               ]
             },
             {
@@ -11344,14 +11428,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Thief"
+                "Thief "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Come on, come on! Work my cock properly!\""
+                ": \"Hey, hey, make sure you work me hard too!\""
               ]
             },
             {
@@ -11369,7 +11453,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "He slammed his hips up and down from below"
+                "He thrusts his hips up and down vigorously"
               ]
             },
             {
@@ -11387,14 +11471,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Mmgh...Nn...Nn...Guh...!\""
+                ": \"Mmm... mm... mm... ugh...!\""
               ]
             },
             {
@@ -11412,21 +11496,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Chief"
+                "Boss "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"O-oh yeah...feels like my load's building"
+                ": \"Oh, that's good... My cum's rising up..."
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "up...\""
+                "I'm gonna shoot it—catch it good...!\""
               ]
             },
             {
@@ -11470,14 +11554,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Nooooo!!!! I don't wanna!\""
+                ": \"Noooooo!!!! I don’t want this! Don’t come"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "inside me…!\""
               ]
             },
             {
@@ -11603,7 +11694,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Pulse... Pulse... Pulse...!"
+                "Thump, thump, thump…!"
               ]
             },
             {
@@ -11621,7 +11712,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "His scrotum throbbed, pumping out his seed"
+                "The scrotum contracts, expelling sperm"
               ]
             },
             {
@@ -11639,14 +11730,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Nooooooo!!!!\""
+                ": \"Noooooo!!!!!!\""
               ]
             },
             {
@@ -11664,7 +11755,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "She screamed in tears, thrashing and struggling, but"
+                "He screams and cries out. He yells, thrashes about, and"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "tries to escape, but holds him down so he can't move."
               ]
             },
             {
@@ -11699,14 +11797,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "all she could do was endure his unwanted seed being"
+                "I have no choice but to keep having unwanted sperm"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "pumped deep inside her"
+                "injected deep into my vagina."
               ]
             },
             {
@@ -11724,14 +11822,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Bandit Gang"
+                "Band of Thieves "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Oho♡ Boss, you're really going at it, aren't you♡\""
+                ": \"Whoa♡ Boss, you're really raking it in, aren't"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "you?♡\""
               ]
             },
             {
@@ -11749,21 +11854,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Chief"
+                "Okashira "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"O-oh...! O-oh...! Fuu... Looks like it's"
+                ": \"Whoa...! Whoa...! Phew... Looks like it's"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "been a while\""
+                "been building up quite a bit, huh? Hahaha\""
               ]
             },
             {
@@ -11812,7 +11917,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "With that, his ejaculation subsided"
+                "As soon as he said that, his ejaculation seemed to"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "subside, and he slowly withdrew his penis."
               ]
             },
             {
@@ -11865,14 +11977,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The semen dammed up by his cock spilled out from her"
+                "Sperm that had been held back by the penis overflowed"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "pussy"
+                "from the vagina and dripped out thick and sticky."
               ]
             },
             {
@@ -11890,14 +12002,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Ugh... Sniff... Ugh... Just let me go...\""
+                ": \"Ugh... uu... sniff... uu... Please, just"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "let me go...\""
               ]
             },
             {
@@ -11941,21 +12060,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Chief"
+                "Okashira "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Hey, you can play with her as much as you"
+                ": \"Hey, you can play as much as you want"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "want after this\""
+                "from now on.\""
               ]
             },
             {
@@ -11988,7 +12107,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"O-ohh♡♡\""
+                "\"Ooh♡♡\" \"Ha-ha♡\" \"Yay♡\""
               ]
             },
             {
@@ -12006,7 +12125,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]…………！！！"
+                "…………!!! "
               ]
             },
             {
@@ -12038,7 +12157,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]An hour passed after that"
+                "An hour had passed since then"
               ]
             },
             {
@@ -12063,14 +12182,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[4]\"……\""
+                "\\SE[4] \"……\""
               ]
             },
             {
@@ -12095,14 +12214,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[3]\"......Should we move soon...?\""
+                "\\SE[3] \"...Is it about time…?\""
               ]
             },
             {
@@ -12120,7 +12239,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "It seemed like they'd gone through everyone"
+                "It looks like we've pretty much finished the first"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "round."
               ]
             },
             {
@@ -12138,14 +12264,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[5]\"Kyle-sama, Lilian, there's movement\""
+                "\\SE[5] \"Lord Kyle, Lilian, it looks like"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "something’s happening.\""
               ]
             },
             {
@@ -12177,14 +12310,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]\\Se[0]Boss"
+                "\\SE[0] Okashira "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Oi, is everyone done for now?\""
+                "\"All right, has everyone gone around?\""
               ]
             },
             {
@@ -12202,14 +12335,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Chief"
+                "Okashira "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"I'm starving, let's go eat. Move out\""
+                ": \"I'm hungry, so let's grab a bite. Let's"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "go.\""
               ]
             },
             {
@@ -12237,14 +12377,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Bandit Gang"
+                "Bandit Gang "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Hey! Newbies, tie these ones up!\""
+                ": \"Hey! You newbies, tie these guys up! And make sure"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "to clean up the bodies, too.\""
               ]
             },
             {
@@ -12262,14 +12409,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Bandit Gang Newbie"
+                "New Recruit "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Yes, sir! Got it!\""
+                "of the Band of Thieves: \"Hey! Got it!\""
               ]
             },
             {
@@ -12292,7 +12439,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "With a loud, rowdy commotion, they headed deeper inside"
+                "With a loud clatter, it disappeared into the depths"
               ]
             },
             {
@@ -12377,14 +12524,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"......Hah... Hah... Hah... Hah...\""
+                ": \"………Haa… haa… haa… haa…\""
               ]
             },
             {
@@ -12402,14 +12549,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"......Cough... Cough... Ugh...\""
+                ": \"………cough… cough… ugh…\""
               ]
             },
             {
@@ -12427,14 +12574,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Bandit Gang Newbie"
+                "New Recruit "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Heh, guess I'll have a turn too\""
+                "of the Band of Thieves: \"Alright, I guess I'll join in"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "the fun for a bit.\""
               ]
             },
             {
@@ -12452,14 +12606,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Bandit Gang Newbie"
+                "New Recruit "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Hey, you. Don't hog her all to yourself\""
+                "of the Band of Thieves: \"Hey, you, that's not fair!\""
               ]
             },
             {
@@ -12477,21 +12631,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Bandit Gang Newbie"
+                "New Recruit "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"You should fuck her too. We can toss her in the cell"
+                "of the Band of Thieves: \"Let’s do it, too. We can just"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "after we're done\""
+                "throw you in jail afterward, right?\""
               ]
             },
             {
@@ -12509,14 +12663,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Bandit Gang Newbie"
+                "New Recruit "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Oh, yeah, sure. Hehe\""
+                "of the Band of Thieves: \"Oh, is that so? Hehe.\""
               ]
             },
             {
@@ -12534,14 +12688,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Bandit Gang Newbie"
+                "New Recruit "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\"Hey, you two... switch off later\""
+                "of the Band of Thieves: \"Hey, you guys... Switch places"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "with me later, okay?\""
               ]
             },
             {
@@ -12579,7 +12740,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Kyle patted the two of them on the shoulder"
+                "Kyle patted them both on the shoulder."
               ]
             },
             {
@@ -12597,14 +12758,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]\"...(signaling with my eyes)\""
+                "\\SE[0] \"……… (gives a nod)\""
               ]
             },
             {
@@ -12622,14 +12783,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Lilian"
+                "Lillian "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "(She nodded slightly.)"
+                "(She nodded her head.)"
               ]
             },
             {
@@ -12647,14 +12808,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0](...Let's go.)"
+                "\\SE[0] (………Let's go)"
               ]
             },
             {
@@ -12667,7 +12828,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "スキップする"
+                "Skip"
               ]
             },
             {
@@ -12747,14 +12908,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The orgy of the thieves came to an end, leaving an"
+                "The bandits' feast has ended, creating an opening. It"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "opening."
+                "looks like we can rescue them now."
               ]
             },
             {
@@ -12772,7 +12933,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Kyle patted both of their shoulders."
+                "Kyle patted them both on the shoulder."
               ]
             },
             {
@@ -12790,14 +12951,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]\"...(signaling with my eyes)\""
+                "\\SE[0] \"……… (gives a nod)\""
               ]
             },
             {
@@ -12815,14 +12976,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Lilian"
+                "Lillian "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "(She nodded slightly.)"
+                "(She nodded her head.)"
               ]
             },
             {
@@ -12840,14 +13001,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\SE[0](...Let's go.)"
+                "\\SE[0] (………Let's go)"
               ]
             },
             {
@@ -12880,9 +13041,8 @@
                 1,
                 0,
                 4,
-                "\"　Rescue the captured adventurers\""
-              ],
-              "_original": "\"　捕らわれた冒険者を救出しよう\""
+                "\"　Let's rescue the captured adventurer!\""
+              ]
             },
             {
               "code": 242,
@@ -13062,7 +13222,7 @@
     },
     {
       "id": 7,
-      "name": "モブ冒険者女1",
+      "name": "Female Background Adventurer 1",
       "note": "",
       "pages": [
         {
@@ -13224,7 +13384,7 @@
     },
     {
       "id": 8,
-      "name": "死んだ冒険者",
+      "name": "Dead Adventurer",
       "note": "",
       "pages": [
         {
@@ -13267,7 +13427,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]They're already dead..."
+                "He's already dead..."
               ]
             },
             {
@@ -13365,7 +13525,7 @@
     },
     {
       "id": 9,
-      "name": "血痕",
+      "name": "Bloodstain",
       "note": "",
       "pages": [
         {
@@ -13387,7 +13547,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "flower_chip_Celesphia",
+            "characterName": "flower_chip_selesphia",
             "direction": 8,
             "pattern": 1,
             "characterIndex": 0
@@ -13476,7 +13636,7 @@
     },
     {
       "id": 10,
-      "name": "死んだ冒険者2",
+      "name": "Dead Adventurer 2",
       "note": "",
       "pages": [
         {
@@ -13595,7 +13755,7 @@
     },
     {
       "id": 11,
-      "name": "血痕",
+      "name": "Bloodstain",
       "note": "",
       "pages": [
         {
@@ -13617,7 +13777,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "flower_chip_Celesphia",
+            "characterName": "flower_chip_selesphia",
             "direction": 8,
             "pattern": 1,
             "characterIndex": 0
@@ -13706,7 +13866,7 @@
     },
     {
       "id": 12,
-      "name": "盗賊団モブ裸",
+      "name": "Mob the Thief Gang, Naked",
       "note": "",
       "pages": [
         {
@@ -13766,7 +13926,7 @@
     },
     {
       "id": 13,
-      "name": "盗賊団モブ裸",
+      "name": "Mob the Thief Gang, Naked",
       "note": "",
       "pages": [
         {
@@ -13826,7 +13986,7 @@
     },
     {
       "id": 14,
-      "name": "盗賊団モブ裸",
+      "name": "Mob the Thief Gang, Naked",
       "note": "",
       "pages": [
         {
@@ -13886,7 +14046,7 @@
     },
     {
       "id": 15,
-      "name": "モブ冒険者女2",
+      "name": "Female Background Adventurer #2",
       "note": "",
       "pages": [
         {
@@ -14048,7 +14208,7 @@
     },
     {
       "id": 16,
-      "name": "オカシラ",
+      "name": "Okashira",
       "note": "",
       "pages": [
         {
@@ -14108,7 +14268,7 @@
     },
     {
       "id": 17,
-      "name": "盗賊団モブ裸",
+      "name": "Mob the Thief Gang, Naked",
       "note": "",
       "pages": [
         {
@@ -14168,7 +14328,7 @@
     },
     {
       "id": 18,
-      "name": "盗賊団モブ裸",
+      "name": "Mob the Thief Gang, Naked",
       "note": "",
       "pages": [
         {
@@ -14228,7 +14388,7 @@
     },
     {
       "id": 19,
-      "name": "盗賊団モブ",
+      "name": "Mob, the Band of Thieves",
       "note": "",
       "pages": [
         {
@@ -14288,7 +14448,7 @@
     },
     {
       "id": 20,
-      "name": "盗賊団モブ",
+      "name": "Mob, the Band of Thieves",
       "note": "",
       "pages": [
         {
@@ -14348,7 +14508,7 @@
     },
     {
       "id": 21,
-      "name": "盗賊団モブ",
+      "name": "Mob, the Band of Thieves",
       "note": "",
       "pages": [
         {
@@ -14408,7 +14568,7 @@
     },
     {
       "id": 22,
-      "name": "盗賊団モブ",
+      "name": "Mob, the Band of Thieves",
       "note": "",
       "pages": [
         {
@@ -14468,7 +14628,7 @@
     },
     {
       "id": 23,
-      "name": "盗賊団モブ",
+      "name": "Mob, the Band of Thieves",
       "note": "",
       "pages": [
         {
@@ -14528,7 +14688,7 @@
     },
     {
       "id": 24,
-      "name": "盗賊団モブ",
+      "name": "Mob, the Band of Thieves",
       "note": "",
       "pages": [
         {
@@ -14588,7 +14748,7 @@
     },
     {
       "id": 25,
-      "name": "盗賊団モブ",
+      "name": "Mob, the Band of Thieves",
       "note": "",
       "pages": [
         {
@@ -14648,7 +14808,7 @@
     },
     {
       "id": 26,
-      "name": "盗賊団モブ",
+      "name": "Mob, the Band of Thieves",
       "note": "",
       "pages": [
         {
@@ -14708,7 +14868,7 @@
     },
     {
       "id": 27,
-      "name": "盗賊団モブ",
+      "name": "Mob, the Band of Thieves",
       "note": "",
       "pages": [
         {
@@ -14768,7 +14928,7 @@
     },
     {
       "id": 28,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -15185,7 +15345,7 @@
     },
     {
       "id": 29,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -15602,7 +15762,7 @@
     },
     {
       "id": 30,
-      "name": "リリアン",
+      "name": "Lillian",
       "note": "",
       "pages": [
         {
@@ -16019,7 +16179,7 @@
     },
     {
       "id": 31,
-      "name": "新入りEV",
+      "name": "New EV",
       "note": "",
       "pages": [
         {
@@ -16698,14 +16858,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Hahh!!\""
+                "\\SE[4] \"Haaah!!\""
               ]
             },
             {
@@ -16741,14 +16901,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Rookie Thief"
+                "\\SE[0] New Bandit "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Guhh...!\""
+                "\"Guh...!\""
               ]
             },
             {
@@ -16776,14 +16936,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Rookie Thief"
+                "\\SE[0] New Bandit "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Nn...p-please...! Spare my life...!\""
+                "\"Eek… P-please…! Just spare my life…!\""
               ]
             },
             {
@@ -16801,21 +16961,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"And yet you beg for help from those you've"
+                "\\SE[5] \"Have you ever saved someone who said that"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "already harmed.\""
+                "and begged for help?\""
               ]
             },
             {
@@ -16833,14 +16993,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"No, you're just as guilty for aiding them.\""
+                "\\SE[5] \"No, you’ve been mocking, belittling, and"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "humiliating people like that, haven’t you?\""
               ]
             },
             {
@@ -16858,14 +17025,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Rookie Thief"
+                "\\SE[0] New Bandit "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"W-what?! I'm... still...!\""
+                "\"Wh-...! I... I'm not done yet...!\""
               ]
             },
             {
@@ -16883,21 +17050,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"You're complicit in their crimes. That"
+                "\\SE[5] \"Just by being an accomplice, you’re just"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "makes you no better.\""
+                "as guilty. Pay for your crimes with your"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "life.\""
               ]
             },
             {
@@ -17033,14 +17225,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Lady Luna, we're done here.\""
+                "\\SE[4] \"Lady Luna, we’re done here too.\""
               ]
             },
             {
@@ -17058,14 +17250,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Yes, well done, Lilian.\""
+                "\\SE[5] \"Yes, good work, Lilian.\""
               ]
             },
             {
@@ -17199,14 +17391,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"I've come to help. You're safe now.\""
+                "\\SE[5] \"I'm here to help. It's okay now.\""
               ]
             },
             {
@@ -17304,14 +17496,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Female Adventurer 1"
+                "\\SE[0] Female Adventurer 1"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"...Uh...a...uuu...\""
+                "\"…Uh… Ah… Uu…\""
               ]
             },
             {
@@ -17329,14 +17521,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Come, let's go. This way.\""
+                "\\SE[4] \"Come on, let’s head back. This way.\""
               ]
             },
             {
@@ -17543,21 +17735,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Alright, let's get out of here before they"
+                "\\SE[3] \"All right, let’s get out of here before"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "notice.\""
+                "they notice us.\""
               ]
             },
             {
@@ -17575,14 +17767,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Yes, let's hurry.\""
+                "\\SE[5] \"Yes, let’s hurry.\""
               ]
             },
             {
@@ -17657,9 +17849,8 @@
                 1,
                 0,
                 4,
-                "\"　Escort the rescued adventurers to the village\""
-              ],
-              "_original": "\"　助けた冒険者を村まで送り届けよう\""
+                "\"　Let's escort the adventurer we rescued back to the village.\""
+              ]
             },
             {
               "code": 123,
@@ -17757,7 +17948,7 @@
     },
     {
       "id": 32,
-      "name": "新入り1",
+      "name": "Newcomer 1",
       "note": "",
       "pages": [
         {
@@ -17919,7 +18110,7 @@
     },
     {
       "id": 33,
-      "name": "新入り2",
+      "name": "Newcomer 2",
       "note": "",
       "pages": [
         {
@@ -18081,7 +18272,7 @@
     },
     {
       "id": 34,
-      "name": "新入り3",
+      "name": "Newcomer 3",
       "note": "",
       "pages": [
         {
@@ -18243,7 +18434,7 @@
     },
     {
       "id": 35,
-      "name": "新入り4",
+      "name": "Newcomer 4",
       "note": "",
       "pages": [
         {
@@ -18405,7 +18596,7 @@
     },
     {
       "id": 36,
-      "name": "盗賊団モブ裸",
+      "name": "Mob the Thief Gang, Naked",
       "note": "",
       "pages": [
         {
@@ -18465,7 +18656,7 @@
     },
     {
       "id": 37,
-      "name": "回想ミラリィレイプ",
+      "name": "Flashback: Mirari's Rape",
       "note": "",
       "pages": [
         {
@@ -18958,7 +19149,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]What was happening there was a feast of debauchery."
+                "\\SE[0] A banquet was taking place there."
               ]
             },
             {
@@ -18976,14 +19167,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]The scum were toying with the surviving female"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "adventurers."
+                "\\SE[0] The scoundrels who were tormenting the surviving female adventurer had gathered there "
               ]
             },
             {
@@ -19001,14 +19185,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Female Adventurer"
+                "\\SE[0] Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"N-no...! S-stop...! Please...!\""
+                "\"Oh no…! I don’t want this…! Please stop…!\""
               ]
             },
             {
@@ -19026,14 +19210,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Thief"
+                "\\SE[0] Bandit "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Gehah! Come on, come on! Feels good, doesn't it?\""
+                "\"Hahahaha! Take that! Take that! Feels good, doesn’t"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "it?!\""
               ]
             },
             {
@@ -19051,21 +19242,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Female Adventurer"
+                "\\SE[0] Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"H-help...! Someone...! No...! It hurts...!"
+                "\"Help… me! Someone…! No… it hurts…! It"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It hurts...!\""
+                "hurts…!\""
               ]
             },
             {
@@ -19114,14 +19305,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Thief"
+                "\\SE[0] Bandit "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Shut the fuck up! Stop your whining!\""
+                "\"Shut up! Stop whining!\""
               ]
             },
             {
@@ -19165,7 +19356,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He brought his fist down on her face without mercy."
+                "He mercilessly brought his fist down on his face"
               ]
             },
             {
@@ -19183,14 +19374,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(This is awful...!)"
+                "(That's awful...!)"
               ]
             },
             {
@@ -19218,14 +19409,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(……）"
+                "(……)"
               ]
             },
             {
@@ -19243,14 +19434,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(…）"
+                "(...)"
               ]
             },
             {
@@ -19268,14 +19459,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There was nothing she could do now. If she rushed out"
+                "There's nothing I can do right now. If I rush in"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "recklessly, she'd only endanger them."
+                "recklessly, they'll probably use those girls as a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "shield."
               ]
             },
             {
@@ -19293,14 +19491,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Lady Luna, please endure this..."
+                "(Lady Luna, please hold on here… Let’s wait"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "for an opening)"
               ]
             },
             {
@@ -19318,14 +19523,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(Yes... I understand.)"
+                "(Uh... okay...)"
               ]
             },
             {
@@ -19343,14 +19548,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "All she could do was hold her breath and wait for an"
+                "There's nothing to do but hold my breath and wait"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "opening."
+                "quietly until an opening appears."
               ]
             },
             {
@@ -19437,7 +19642,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The feast of depravity continued."
+                "The party continues"
               ]
             },
             {
@@ -19455,14 +19660,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Thief"
+                "\\SE[0] Thief "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Oho~♡ Feels so good~♡\""
+                "\"Ohhh♡ That feels so good♡\""
               ]
             },
             {
@@ -19480,14 +19685,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Thief"
+                "\\SE[0] Thief "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"You idiot, don't cum inside her,\""
+                "\"You idiot, don’t cum inside her, because I’m going to"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "be the next one to stick it in.\""
               ]
             },
             {
@@ -19505,14 +19717,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Thief"
+                "\\SE[0] Bandit "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Come on, suck it properly! Gyahaha!\""
+                "\"Hey, suck it better than that! Hahahaha!\""
               ]
             },
             {
@@ -19530,14 +19742,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "When one was finished, another took his turn to use the"
+                "Once one is done, another takes his turn to play with"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "woman's body."
+                "her body"
               ]
             },
             {
@@ -19581,14 +19793,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Thief"
+                "\\SE[0] Thief "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Come on, I'll stir you up with my fingers!\""
+                "\"Come on, come on—I’m gonna dig right in with my"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "fingers!\""
               ]
             },
             {
@@ -19670,14 +19889,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "His fingers were forced inside, stirring her insides"
+                "A finger was forcefully thrust inside me, and my vagina"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "roughly."
+                "was raked around"
               ]
             },
             {
@@ -19695,14 +19914,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Female Adventurer"
+                "\\SE[0] Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Nn-ahh! It hurts! Stop! Ahh-ahh...!\""
+                "\"Unhhh! That hurts! Stop! Ahhhhh…!\""
               ]
             },
             {
@@ -19720,21 +19939,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Thief"
+                "\\SE[0] Bandit "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Gyahaha! You're still whining while you're pissing"
+                "\"Hahahaha! You’re saying you don’t want to, but you’re"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "yourself!\""
+                "peeing yourself!\""
               ]
             },
             {
@@ -19826,14 +20045,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Thief"
+                "Thief "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Uh, Boss, we're ready over here too.\""
+                ": \"Alright, boss, we're all set over here, too.\""
               ]
             },
             {
@@ -19851,14 +20070,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Chief"
+                "Okasira "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ow.\""
+                "\"Oh\""
               ]
             },
             {
@@ -19941,14 +20160,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Chief"
+                "Okashira "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Oi, lift that ass up.\""
+                ": \"Hey, lift your butt!\""
               ]
             },
             {
@@ -19997,14 +20216,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I-I don't...! S-stop...!\""
+                ": \"N-no...! Stop...!\""
               ]
             },
             {
@@ -20022,21 +20241,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Chief"
+                "Boss "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"You fucking idiot, you're about to get a"
+                ": \"You idiots, you’re our sex slaves. Get to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "taste of the leader of our\""
+                "work.\""
               ]
             },
             {
@@ -20089,7 +20308,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "band of thieves' cock being slowly pushed inside you."
+                "The man believed to be the leader of the band of"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "thieves has his penis slowly forced inside her"
               ]
             },
             {
@@ -20107,14 +20333,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I-I don't want...! Nooo...!!\""
+                ": \"N-no...! Nooo...!!\""
               ]
             },
             {
@@ -20132,21 +20358,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Chief"
+                "Okashira "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hehehe. Make sure you get pregnant with my"
+                ": \"Hehehe. Make sure you get pregnant with"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "child.\""
+                "my child.\""
               ]
             },
             {
@@ -20190,7 +20416,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Zzup... plop...!"
+                "Spl... spl...!"
               ]
             },
             {
@@ -20208,14 +20434,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Aahh!! Nooo...! Nooo...!!!\""
+                ": \"Aaaah!!! Nooo…! Nooo…!!!\""
               ]
             },
             {
@@ -20292,14 +20518,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He relentlessly pounded her innocent pussy with rough"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "thrusts."
+                "He mercilessly thrusts violently into her virgin vagina"
               ]
             },
             {
@@ -20317,14 +20536,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ugh! Gaah...! Guh...! Ag...!\""
+                ": \"Ugh! Gah...! Guh...! Agh...!\""
               ]
             },
             {
@@ -20342,14 +20561,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Thief"
+                "Thief "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Oi, your mouth's not doing its job.\""
+                ": \"Hey, my mouth's not working right now.\""
               ]
             },
             {
@@ -20367,7 +20586,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "His cock was forced into her mouth, muffling her cries."
+                "It was forced into my mouth, and I can't speak"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "properly."
               ]
             },
             {
@@ -20385,14 +20611,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Chief"
+                "Okashira "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hehe, when a woman can't breathe,\""
+                ": \"Hehe, when a woman starts to feel short"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "of breath, her down there tightens up,"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/mob_normal",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Okashira "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "doesn’t it?\""
               ]
             },
             {
@@ -20410,14 +20668,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Thief"
+                "Thief "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Oi oi, work my cock properly with your hand!\""
+                ": \"Hey, hey, make sure you work me hard too!\""
               ]
             },
             {
@@ -20435,14 +20693,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He slammed his hips up and down from below, thrusting"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "into her."
+                "He thrusts his hips up and down vigorously"
               ]
             },
             {
@@ -20460,14 +20711,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Mmph...ngh...nngh...ggh...!\""
+                ": \"Mmm... mm... mm... ugh...!\""
               ]
             },
             {
@@ -20485,21 +20736,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Chief"
+                "Boss "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"O-oh...yeah...feels so good...my seed's"
+                ": \"Oh, that's good... My cum's rising up..."
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "rising...\""
+                "I'm gonna shoot it—catch it good...!\""
               ]
             },
             {
@@ -20543,14 +20794,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Nooooo!!!! I don't wanna!\""
+                ": \"Noooooo!!!! I don’t want this! Don’t come"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "inside me…!\""
               ]
             },
             {
@@ -20676,7 +20934,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Pulse... pulse... pulse...!"
+                "Thump, thump, thump…!"
               ]
             },
             {
@@ -20694,7 +20952,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "His scrotum throbs, pumping out his seed"
+                "The scrotum contracts, expelling sperm"
               ]
             },
             {
@@ -20712,14 +20970,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Nooooo!!!!\""
+                ": \"Noooooo!!!!!!\""
               ]
             },
             {
@@ -20737,7 +20995,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "She wails, thrashes, tries to escape―"
+                "He screams and cries out. He yells, thrashes about, and"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "tries to escape, but holds him down so he can't move."
               ]
             },
             {
@@ -20772,14 +21037,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "but all she can do is endure his unwanted seed being"
+                "I have no choice but to keep having unwanted sperm"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "forced deep inside her"
+                "injected deep into my vagina."
               ]
             },
             {
@@ -20797,14 +21062,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Bandit Gang"
+                "Band of Thieves "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Oho♡ Chief, you're cumming so much♡\""
+                ": \"Whoa♡ Boss, you're really raking it in, aren't"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "you?♡\""
               ]
             },
             {
@@ -20822,21 +21094,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Chief"
+                "Okashira "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"O-oh...! O-oh...! Oof...looks like it's"
+                ": \"Whoa...! Whoa...! Phew... Looks like it's"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "been a while\""
+                "been building up quite a bit, huh? Hahaha\""
               ]
             },
             {
@@ -20885,7 +21157,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "With that, his climax subsides"
+                "As soon as he said that, his ejaculation seemed to"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "subside, and he slowly withdrew his penis."
               ]
             },
             {
@@ -20938,7 +21217,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The blocked-up seed overflows from her pussy"
+                "Sperm that had been held back by the penis overflowed"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "from the vagina and dripped out thick and sticky."
               ]
             },
             {
@@ -20956,21 +21242,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Female Adventurer"
+                "Female Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ugh...uuuh...sniff...uuuh...just"
+                ": \"Ugh... uu... sniff... uu... Please, just"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "stop...please...\""
+                "let me go...\""
               ]
             },
             {
@@ -21014,21 +21300,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Chief"
+                "Okashira "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hey, you can play with her as much as you"
+                ": \"Hey, you can play as much as you want"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "want after this\""
+                "from now on.\""
               ]
             },
             {
@@ -21061,7 +21347,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"O-oh♡♡\""
+                "\"Ooh♡♡\" \"Ha-ha♡\" \"Yay♡\""
               ]
             },
             {
@@ -21079,7 +21365,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]…………！！！"
+                "…………!!! "
               ]
             },
             {
@@ -21111,7 +21397,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]An hour passes"
+                "An hour had passed since then"
               ]
             },
             {
@@ -21136,14 +21422,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"……\""
+                "\\SE[4] \"……\""
               ]
             },
             {
@@ -21168,14 +21454,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"......Should we go now...?\""
+                "\\SE[3] \"...Is it about time…?\""
               ]
             },
             {
@@ -21193,7 +21479,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It seems the first round is over"
+                "It looks like we've pretty much finished the first"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "round."
               ]
             },
             {
@@ -21211,14 +21504,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Kyle-sama, Lilian―there's movement\""
+                "\\SE[5] \"Lord Kyle, Lilian, it looks like"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "something’s happening.\""
               ]
             },
             {
@@ -21250,14 +21550,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Boss"
+                "\\SE[0] Okashira "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Oi, we done with everyone?\""
+                "\"All right, has everyone gone around?\""
               ]
             },
             {
@@ -21275,21 +21575,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Chief"
+                "Okashira "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"My stomach's growling―let's go eat, move"
+                ": \"I'm hungry, so let's grab a bite. Let's"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "out\""
+                "go.\""
               ]
             },
             {
@@ -21317,14 +21617,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Bandit Gang"
+                "Bandit Gang "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Oi! Newbies, tie these two up!\""
+                ": \"Hey! You newbies, tie these guys up! And make sure"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "to clean up the bodies, too.\""
               ]
             },
             {
@@ -21342,14 +21649,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Bandit Gang Newbie"
+                "New Recruit "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Got it! Right away!\""
+                "of the Band of Thieves: \"Hey! Got it!\""
               ]
             },
             {
@@ -21372,7 +21679,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "With a loud, rowdy commotion, they head deeper inside"
+                "With a loud clatter, it disappeared into the depths"
               ]
             },
             {
@@ -21484,7 +21791,7 @@
     },
     {
       "id": 38,
-      "name": "宝箱（1500Ｇ）",
+      "name": "Treasure Chest (1,500G)",
       "note": "",
       "pages": [
         {
@@ -21644,7 +21951,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained for 1500\\G!"
+                "I got the 1500\\G!"
               ]
             },
             {

@@ -1771,7 +1771,7 @@
     null,
     {
       "id": 1,
-      "name": "ゴーレム",
+      "name": "Golem",
       "note": "",
       "pages": [
         {
@@ -1891,14 +1891,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"W-What the hell is this...?\""
+                "\\SE[3] \"W-what is this…?\""
               ]
             },
             {
@@ -1916,14 +1916,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"A...a giant doll? Maybe?\""
+                "\\SE[4] \"A giant doll… maybe?\""
               ]
             },
             {
@@ -1950,14 +1950,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"I sense a faint magical presence.\""
+                "\\SE[5] \"It’s faint, but I sense magical power.\""
               ]
             },
             {
@@ -2094,14 +2094,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"W-Watch out! It's moving!\""
+                "\\SE[3] \"Whoa, it’s moving!?\""
               ]
             },
             {
@@ -2119,14 +2119,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"H-Huh?!\""
+                "\\SE[4] \"Huh? What?!\""
               ]
             },
             {
@@ -2239,7 +2239,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Golem"
+                "Golem "
               ]
             },
             {
@@ -2291,14 +2291,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I-I think it stopped.\""
+                "\\SE[3] \"And then it stopped.\""
               ]
             },
             {
@@ -2316,21 +2316,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Who the hell made something this"
+                "\\SE[4] \"Why on earth would they make something so"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "annoying...\""
+                "troublesome… People back in the day\""
               ]
             },
             {
@@ -2348,14 +2348,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Yeah... that's true.\""
+                "\\SE[5] \"I suppose so…\""
               ]
             },
             {
@@ -2373,14 +2373,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"So...\""
+                "\\SE[3] \"So, um…\""
               ]
             },
             {
@@ -2405,14 +2405,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Are we taking this back with us?\""
+                "\\SE[3] \"Are you taking this home?\""
               ]
             },
             {
@@ -2437,14 +2437,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"N-No way! It's way too heavy!\""
+                "\\SE[4] \"No, way! There’s a ‘ton’ of it! A ‘ton’ of"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "it!\""
               ]
             },
             {
@@ -2462,14 +2469,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Maybe we could take just a part of it...\""
+                "\\SE[5] \"Maybe just take a little bit home…\""
               ]
             },
             {
@@ -2557,14 +2564,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Golem"
+                "Golem "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"System error. Self-destruct sequence activated.\""
+                ": \"System error. Self-destruct sequence is initiating.\""
               ]
             },
             {
@@ -2631,14 +2638,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"！\""
+                "\\SE[3] \"!\""
               ]
             },
             {
@@ -2656,14 +2663,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"I-I...\""
+                "\\SE[4] \"Ni,\""
               ]
             },
             {
@@ -2681,7 +2688,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
@@ -2721,7 +2728,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"\"\"Run for your lives―NOW!!!\"\"\""
+                "\"Run away!!!!\""
               ]
             },
             {
@@ -2777,7 +2784,7 @@
     },
     {
       "id": 2,
-      "name": "場所移動",
+      "name": "Change of Location",
       "note": "",
       "pages": [
         {
@@ -2849,7 +2856,7 @@
     },
     {
       "id": 3,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -3368,7 +3375,7 @@
     },
     {
       "id": 4,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -3887,7 +3894,7 @@
     },
     {
       "id": 5,
-      "name": "リリアン",
+      "name": "Lillian",
       "note": "",
       "pages": [
         {

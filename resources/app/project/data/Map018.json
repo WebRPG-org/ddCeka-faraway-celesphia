@@ -15058,7 +15058,7 @@
     null,
     {
       "id": 1,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -15101,14 +15101,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"It's getting dark. Let's move forward.\""
+                "\\SE[4] \"It’s getting dark. Let’s keep moving.\""
               ]
             },
             {
@@ -15138,7 +15138,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "※You'll be able to return later."
+                "*You'll be able to return here later."
               ]
             },
             {
@@ -15336,7 +15336,7 @@
     },
     {
       "id": 2,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -15564,7 +15564,7 @@
     },
     {
       "id": 3,
-      "name": "イベント",
+      "name": "Events",
       "note": "",
       "pages": [
         {
@@ -15873,14 +15873,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"A dead end...\""
+                "\\SE[3] \"Is this a dead end...?\""
               ]
             },
             {
@@ -15898,21 +15898,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Well, I suppose there's nothing we can do"
+                "\\SE[5] \"Well, I guess there’s nothing we can do"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "about that.\""
+                "about it. Let’s head back.\""
               ]
             },
             {
@@ -15930,21 +15930,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Might as well take a little break while"
+                "\\SE[4] \"Why don’t we take a quick break while"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "we're at it.\""
+                "we’re at it?\""
               ]
             },
             {
@@ -16105,21 +16105,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Come to think of it, I heard something from"
+                "\\SE[3] \"Come to think of it, I heard this from"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "someone.\""
+                "someone else…\""
               ]
             },
             {
@@ -16137,21 +16137,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Elves... I mean, the long-eared folk―when"
+                "\\SE[3] \"Elves… no, the long-eared folk—do they"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "they die,\""
+                "return to the forest when they die, or"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "something…?\""
               ]
             },
             {
@@ -16231,14 +16256,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Hee hee, 'Elf' is fine.\""
+                "\\SE[5] \"Hehe, an elf is fine with me.\""
               ]
             },
             {
@@ -16256,21 +16281,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Long ago, elves were born from the earth"
+                "\\SE[5] \"It has been said since ancient times that"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "and returned to it.\""
+                "elves are born from the earth and return to"
               ]
             },
             {
@@ -16288,14 +16313,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"When we elves pass away,\""
+                "it . We continue to uphold that tradition to"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "this day .\""
               ]
             },
             {
@@ -16313,21 +16345,85 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Our bodies may decay, but the nutrients"
+                "\\SE[5] \"When we elves die, we are not cremated"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "return to the soil.\""
+                "like humans; we are buried as we are.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[5] \"Although the body will eventually decay,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "its nutrients will return to the soil ,"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "where they will become part of the forest"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "and nurture new life.\""
               ]
             },
             {
@@ -16345,21 +16441,78 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Though criminals and those punished"
+                "\\SE[4] \"However, in rare cases, those who have"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "rarely...\""
+                "been punished—such as criminals— may be"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                6,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "denied the right to return to the earth and"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "instead be cremated. But that is a very rare"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                6,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "occurrence.\""
               ]
             },
             {
@@ -16377,14 +16530,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I see... For elves, that must be...\""
+                "\\SE[3] \"I see… So for elves, not being able to"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "return to the forest means they cannot enter"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                5,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "the cycle of reincarnation, is that right?\""
               ]
             },
             {
@@ -16402,14 +16587,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Yes, that's right.\""
+                "\\SE[5] \"Yes, that’s right.\""
               ]
             },
             {
@@ -16427,14 +16612,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"You don't eat meat either, right?\""
+                "\\SE[3] \"You don’t eat meat either, right? I guess"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "you’re basically a vegetarian or something.\""
               ]
             },
             {
@@ -16452,14 +16644,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"It used to be forbidden by law, but...\""
+                "\\SE[5] \"It seems it used to be prohibited by law,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "but it’s not specifically prohibited now.\""
               ]
             },
             {
@@ -16486,21 +16685,53 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"As a whole, the elf race doesn't really eat"
+                "\\SE[5] \"Elves, in general, don’t really eat much"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "much meat.\""
+                "meat, do they? It seems there are many who"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                5,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "find the bloodiness and fishy smell hard on"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "their stomachs.\""
               ]
             },
             {
@@ -16527,14 +16758,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Lilian does sometimes, though...\""
+                "\\SE[5] \"Lillian eats it sometimes, though…\""
               ]
             },
             {
@@ -16561,14 +16792,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Guhk!\""
+                "\\SE[4] \"Gulp!\""
               ]
             },
             {
@@ -16586,14 +16817,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"W-well, back when I was with Lady Luna and\""
+                "\\SE[4] \"Huh? I used to be a vegetarian, just like"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Lady Luna!\""
               ]
             },
             {
@@ -16611,21 +16849,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"when I was in the knights' order, starving"
+                "\\SE[4] \"W-when I was in the Knights, I was so, so"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "and desperate...\""
+                "hungry I didn’t know what to do… I ended up"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                5,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "eating anything and everything…\""
               ]
             },
             {
@@ -16643,21 +16906,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"I'd call it a delicacy, or rather, the"
+                "\\SE[4] \"I suppose you could call it a"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "taste of blood...\""
+                "delicacy—that raw, bloody smell actually"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                4,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "grew on me…\""
               ]
             },
             {
@@ -16693,21 +16981,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Back when... in the east, there was an"
+                "\\SE[3] \"A while back… I ate something unusual at"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "elf―\""
+                "an elven settlement somewhere in the east.\""
               ]
             },
             {
@@ -16725,14 +17013,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Something rare, you mean?\""
+                "\\SE[4] \"Something rare?\""
               ]
             },
             {
@@ -16750,21 +17038,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Yeah, he'd cut thick chunks from a tree"
+                "\\SE[3] \"It’s like they cut a thick slice of tree"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "root―\""
+                "root, grilled it, and made it into a steak…\""
               ]
             },
             {
@@ -16853,14 +17141,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Oh! You mean Black Alder!\""
+                "\\SE[5] \"Ah! It’s Arbole Noir!\""
               ]
             },
             {
@@ -16878,14 +17166,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"The peeled bark of an Alder's root―\""
+                "\\SE[5] \"That thing—the bark I peeled off the roots"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "of the Albole tree— it’s so delicious…!\""
               ]
             },
             {
@@ -16912,14 +17207,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Crispy on the outside, fluffy inside―\""
+                "\\SE[5] \"Crispy on the outside, fluffy on the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "inside— just like a sweet potato with a"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/runa_normal",
+                4,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Luna "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "satisfying bite…\""
               ]
             },
             {
@@ -16937,21 +17264,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Who'd have thought something so strange"
+                "\\SE[3] \"I couldn’t believe my eyes—I wondered, ‘Is"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "could taste so good...\""
+                "there really something this mysteriously"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                7,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "delicious in the world?’…\""
               ]
             },
             {
@@ -16995,21 +17347,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Ah... now I'm getting hungry just talking"
+                "\\SE[5] \"Ah… Talking about it has made me want to"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "about it...\""
+                "eat some…\""
               ]
             },
             {
@@ -17027,21 +17379,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"I know what you mean. If you pair it with"
+                "\\SE[4] \"I get it—pour some Elheim wine into that"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Elheim wine―\""
+                "and take a big gulp…\""
               ]
             },
             {
@@ -17059,14 +17411,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Wait, do elves drink alcohol too?\""
+                "\\SE[3] \"Huh, do the Long-Ears drink alcohol, too?\""
               ]
             },
             {
@@ -17084,14 +17436,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Yes, there's no age limit on elf drinking―\""
+                "\\SE[5] \"Yes, there’s no specific age restriction"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "on drinking for elves.\""
               ]
             },
             {
@@ -17109,14 +17468,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Huh? You drink too, Luna?\""
+                "\\SE[3] \"Huh? Is Luna going to drink too…?\""
               ]
             },
             {
@@ -17134,14 +17493,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Lady Luna can drink more than I can.\""
+                "\\SE[4] \"Lady Luna is stronger than me.\""
               ]
             },
             {
@@ -17168,14 +17527,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"No way... She looks like a little girl...\""
+                "\\SE[3] \"No way… She looks like a girl, though.\""
               ]
             },
             {
@@ -17202,14 +17561,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Yes, please join me for a drink―\""
+                "\\SE[5] \"Yes, please do let me join you—I’ll take"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "care of it!\""
               ]
             },
             {
@@ -17539,7 +17905,7 @@
     },
     {
       "id": 4,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -17752,7 +18118,7 @@
     },
     {
       "id": 5,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -17863,7 +18229,7 @@
     },
     {
       "id": 6,
-      "name": "リリアン",
+      "name": "Lillian",
       "note": "",
       "pages": [
         {
@@ -17974,7 +18340,7 @@
     },
     {
       "id": 7,
-      "name": "透明移動",
+      "name": "Transparent Movement",
       "note": "",
       "pages": [
         {
@@ -18154,7 +18520,7 @@
     },
     {
       "id": 8,
-      "name": "透明移動",
+      "name": "Transparent Movement",
       "note": "",
       "pages": [
         {
@@ -18362,7 +18728,7 @@
     },
     {
       "id": 9,
-      "name": "宝箱（絹のローブ）",
+      "name": "Treasure Chest (Silk Robe)",
       "note": "",
       "pages": [
         {
@@ -18523,7 +18889,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained the Silk Robe!"
+                "I got a silk robe!"
               ]
             },
             {
@@ -18660,7 +19026,7 @@
     },
     {
       "id": 10,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -18715,7 +19081,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Blue Mushroom."
+                "I got a blue mushroom."
               ]
             },
             {
@@ -18867,7 +19233,7 @@
     },
     {
       "id": 11,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -18922,7 +19288,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained the Yellow Flower."
+                "I got a yellow flower."
               ]
             },
             {
@@ -19074,7 +19440,7 @@
     },
     {
       "id": 12,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -19420,7 +19786,7 @@
     },
     {
       "id": 13,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -19766,7 +20132,7 @@
     },
     {
       "id": 14,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -20112,7 +20478,7 @@
     },
     {
       "id": 15,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -20458,7 +20824,7 @@
     },
     {
       "id": 16,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -20513,7 +20879,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained the Yellow Flower."
+                "I got a yellow flower."
               ]
             },
             {
@@ -20665,7 +21031,7 @@
     },
     {
       "id": 17,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -20720,7 +21086,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained a white flower."
+                "I got some white flowers."
               ]
             },
             {

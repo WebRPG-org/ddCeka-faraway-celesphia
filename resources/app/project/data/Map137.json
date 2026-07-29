@@ -4735,7 +4735,7 @@
     null,
     {
       "id": 1,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -4912,7 +4912,7 @@
     },
     {
       "id": 2,
-      "name": "雨",
+      "name": "Rain",
       "note": "",
       "pages": [
         {
@@ -5055,7 +5055,7 @@
     },
     {
       "id": 3,
-      "name": "最終バトル",
+      "name": "Final Battle",
       "note": "",
       "pages": [
         {
@@ -5110,7 +5110,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]There's a battle coming up."
+                "There will be a battle."
               ]
             },
             {
@@ -5128,7 +5128,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Are you ready?"
+                "Are you ready?"
               ]
             },
             {
@@ -5143,10 +5143,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -5154,7 +5150,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -5189,7 +5185,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -5583,21 +5579,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Milee]"
+                "Mille "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"Hang in there, Kyle...we're almost at the"
+                "\\SE[9] \"Hang in there, Kyle... The exit is just"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "exit...!\""
+                "ahead...!\""
               ]
             },
             {
@@ -5615,14 +5611,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"Hah...hah...!\""
+                "\\SE[8] \"Haa… haa…!\""
               ]
             },
             {
@@ -6362,14 +6358,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Milee]"
+                "Mille "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"Kyle! Change!\""
+                "\\SE[9] \"Kyle! Change!\""
               ]
             },
             {
@@ -6555,14 +6551,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Monster"
+                "Monster "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Gr...ga...ah...\""
+                ": \"G... Ga... Ah...\""
               ]
             },
             {
@@ -6601,14 +6597,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Milee]"
+                "Mille "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"Hah... hah... hah... *cough* *cough*...\""
+                "\\SE[9] \"Haa… haa… haa… Cough, cough…\""
               ]
             },
             {
@@ -6687,14 +6683,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Milee]"
+                "Mille "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"Kyle!\""
+                "\\SE[9] \"Kyle!\""
               ]
             },
             {
@@ -6712,14 +6708,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"Uh...uuh...sorry...Milee...I can't...\""
+                "\\SE[8] \"Ugh, ugh… I’m sorry… Mille… I can’t take"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "it anymore…\""
               ]
             },
             {
@@ -6737,14 +6740,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Milee]"
+                "Millet "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"Don't talk! We'll be at town soon...!\""
+                "\\SE[9] \"Don’t talk! Let’s get to town right"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "away…!\""
               ]
             },
             {
@@ -6993,14 +7003,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Milee]"
+                "Mille "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"Damn it...! Still this much...!\""
+                "\\SE[9] \"Damn...! There's still so much...!\""
               ]
             },
             {
@@ -7018,14 +7028,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"M-Milee...! Give me your hand...!\""
+                "\\SE[8]: \"Mi… Mille…! Help me…!\""
               ]
             },
             {
@@ -7061,14 +7071,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Milee]"
+                "Mille "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"Kyle...! You're...asking me to...!\""
+                "\\SE[9] \"Kyle…! You… to me…! You should be putting"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "yourself first!\""
               ]
             },
             {
@@ -7086,14 +7103,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"I'm...counting on you...Milee...\""
+                "\\SE[8] \"I'm counting on you... Mille...\""
               ]
             },
             {
@@ -7111,7 +7128,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
@@ -7143,14 +7160,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Milee]"
+                "Mille "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"Yeah! Leave it to me...!\""
+                "\\SE[9] \"Ah! Leave it to me...!\""
               ]
             },
             {
@@ -7387,14 +7404,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"…！\""
+                "\"…!\""
               ]
             },
             {
@@ -7412,7 +7429,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "When I came to, I was on Milee's back."
+                "Before I knew it, I was on Mille's back—she was"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "carrying me."
               ]
             },
             {
@@ -7439,14 +7463,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Milee]"
+                "Mille "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"Kyle, you're awake.\""
+                "\\SE[9] \"Kyle, did you notice?\""
               ]
             },
             {
@@ -7569,14 +7593,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[8]\"Looks like we made it out safe.\""
+                "\\SE[8] \"Looks like we made it out alive.\""
               ]
             },
             {
@@ -7594,14 +7618,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Milee]"
+                "Mille "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[9]\"Yeah, thanks to you, Kyle. Thank you.\""
+                "\\SE[9] \"Ah, it’s all thanks to Kyle. Thank you I"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "really can’t thank you enough.\""
               ]
             },
             {
@@ -7772,14 +7803,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "And so we descended the mountain and crossed the"
+                "And so we made our way down the mountain, through the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "forest."
+                "forest, and back to the village near , where we managed"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "to survive."
               ]
             },
             {
@@ -7832,7 +7870,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Do you want to save?"
+                "Do you want to save?"
               ]
             },
             {
@@ -7847,10 +7885,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -7858,7 +7892,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -7896,7 +7930,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -8012,7 +8046,7 @@
     },
     {
       "id": 4,
-      "name": "ミレー",
+      "name": "Millet",
       "note": "",
       "pages": [
         {
@@ -8072,7 +8106,7 @@
     },
     {
       "id": 5,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -8183,7 +8217,7 @@
     },
     {
       "id": 6,
-      "name": "魔物1_1",
+      "name": "Monster 1_1",
       "note": "",
       "pages": [
         {
@@ -8243,7 +8277,7 @@
     },
     {
       "id": 7,
-      "name": "魔物1_2",
+      "name": "Monster 1_2",
       "note": "",
       "pages": [
         {
@@ -8303,7 +8337,7 @@
     },
     {
       "id": 8,
-      "name": "魔物2_1",
+      "name": "Monster 2_1",
       "note": "",
       "pages": [
         {
@@ -8363,7 +8397,7 @@
     },
     {
       "id": 9,
-      "name": "魔物2_2",
+      "name": "Monster 2_2",
       "note": "",
       "pages": [
         {
@@ -8423,7 +8457,7 @@
     },
     {
       "id": 10,
-      "name": "魔物2_3",
+      "name": "Monsters 2_3",
       "note": "",
       "pages": [
         {
@@ -8483,7 +8517,7 @@
     },
     {
       "id": 11,
-      "name": "魔物3_1",
+      "name": "Monster 3_1",
       "note": "",
       "pages": [
         {
@@ -8543,7 +8577,7 @@
     },
     {
       "id": 12,
-      "name": "魔物3_2",
+      "name": "Monster 3_2",
       "note": "",
       "pages": [
         {
@@ -8603,7 +8637,7 @@
     },
     {
       "id": 13,
-      "name": "魔物3_3",
+      "name": "Monster 3_3",
       "note": "",
       "pages": [
         {
@@ -8663,7 +8697,7 @@
     },
     {
       "id": 14,
-      "name": "雨降らしフラグ",
+      "name": "Rain-Inducing Flag",
       "note": "",
       "pages": [
         {

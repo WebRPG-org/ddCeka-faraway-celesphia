@@ -1867,7 +1867,7 @@
     },
     {
       "id": 6,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -2080,7 +2080,7 @@
     },
     {
       "id": 7,
-      "name": "自動",
+      "name": "Automatic",
       "note": "",
       "pages": [
         {
@@ -2401,21 +2401,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Shop Owner"
+                "Shop Owner "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Oh! Kyle! Long time no see! How many years has it"
+                ": \"Whoa! Isn’t that Kyle! It’s been a while! How many"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "been?\""
+                "years has it been?\""
               ]
             },
             {
@@ -2433,21 +2433,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Hey, it's been two years since I was last"
+                "\\SE[3] \"Hey, it’s been two years since I’ve been"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "in the capital. Got a room free?\""
+                "to the capital. Are you free?\""
               ]
             },
             {
@@ -2465,21 +2465,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Shopkeeper"
+                "\\SE[0] Shop Owner "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yeah, we do! The farthest room on the second"
+                "\"Oh, it’s available! It’s at the very back on the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "floor―feel free to use it.\""
+                "second floor. Feel free to use it.\""
               ]
             },
             {
@@ -2497,14 +2497,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Ah, thanks. I appreciate it.\""
+                "\\SE[3] \"Oh, thanks. I’ll be counting on you.\""
               ]
             },
             {
@@ -2534,7 +2534,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Leaves a generous amount of gold on the counter"
+                "\\SE[0] Place a little extra gold"
               ]
             },
             {
@@ -2758,7 +2758,7 @@
     },
     {
       "id": 8,
-      "name": "明かり",
+      "name": "Light",
       "note": "",
       "pages": [
         {
@@ -2825,7 +2825,7 @@
     },
     {
       "id": 9,
-      "name": "明かり",
+      "name": "Light",
       "note": "",
       "pages": [
         {
@@ -2892,7 +2892,7 @@
     },
     {
       "id": 10,
-      "name": "明かり",
+      "name": "Light",
       "note": "",
       "pages": [
         {
@@ -2959,7 +2959,7 @@
     },
     {
       "id": 11,
-      "name": "明かり",
+      "name": "Light",
       "note": "",
       "pages": [
         {

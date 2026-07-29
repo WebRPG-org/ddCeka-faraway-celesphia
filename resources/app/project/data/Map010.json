@@ -1567,7 +1567,7 @@
     null,
     {
       "id": 1,
-      "name": "一番左の客",
+      "name": "The customer on the far left",
       "note": "",
       "pages": [
         {
@@ -1918,7 +1918,7 @@
     },
     {
       "id": 6,
-      "name": "カイルの荷物",
+      "name": "Kyle's Luggage",
       "note": "",
       "pages": [
         {
@@ -1978,7 +1978,7 @@
     },
     {
       "id": 7,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -2432,14 +2432,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He opens a well-worn notebook and lightly runs his"
+                "I open my well-worn notebook, lightly run my pen across"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "brush across the page, recording today's events."
+                "the page, and jot down what happened today."
               ]
             },
             {
@@ -2488,21 +2488,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(I'm pretty exhausted from the long"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "journey...)"
+                "(Man, this long trip really wore me out...)"
               ]
             },
             {
@@ -2675,14 +2668,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'll turn in early tonight and head to the guild"
+                "I'll call it a night early today and head to the guild"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "tomorrow."
+                "at tomorrow."
               ]
             },
             {
@@ -2857,7 +2850,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]It's a nice day today too."
+                "It's another beautiful day today."
               ]
             },
             {
@@ -2875,14 +2868,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Guess I'll head straight to the guild and look for"
+                "I guess I'll head over to the guild right away and see"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "work."
+                "what work is available today."
               ]
             },
             {
@@ -3059,7 +3052,7 @@
     },
     {
       "id": 9,
-      "name": "明かり",
+      "name": "Light",
       "note": "",
       "pages": [
         {
@@ -3126,7 +3119,7 @@
     },
     {
       "id": 10,
-      "name": "明かり",
+      "name": "Light",
       "note": "",
       "pages": [
         {
@@ -3193,7 +3186,7 @@
     },
     {
       "id": 11,
-      "name": "明かり",
+      "name": "Light",
       "note": "",
       "pages": [
         {

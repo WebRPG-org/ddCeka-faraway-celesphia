@@ -16,7 +16,7 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Eldenia Town",
+  "displayName": "The City of Eldenia",
   "encounterList": [],
   "encounterStep": 30,
   "height": 30,
@@ -6517,7 +6517,7 @@
     null,
     {
       "id": 1,
-      "name": "ランプ",
+      "name": "Lamp",
       "note": "",
       "pages": [
         {
@@ -6635,7 +6635,7 @@
     },
     {
       "id": 2,
-      "name": "ランプ",
+      "name": "Lamp",
       "note": "",
       "pages": [
         {
@@ -6753,7 +6753,7 @@
     },
     {
       "id": 3,
-      "name": "ランプ",
+      "name": "Lamp",
       "note": "",
       "pages": [
         {
@@ -6871,7 +6871,7 @@
     },
     {
       "id": 4,
-      "name": "炎",
+      "name": "Flame",
       "note": "",
       "pages": [
         {
@@ -6931,7 +6931,7 @@
     },
     {
       "id": 5,
-      "name": "炎",
+      "name": "Flame",
       "note": "",
       "pages": [
         {
@@ -6991,7 +6991,7 @@
     },
     {
       "id": 6,
-      "name": "炎",
+      "name": "Flame",
       "note": "",
       "pages": [
         {
@@ -7051,7 +7051,7 @@
     },
     {
       "id": 7,
-      "name": "炎",
+      "name": "Flame",
       "note": "",
       "pages": [
         {
@@ -7111,7 +7111,7 @@
     },
     {
       "id": 8,
-      "name": "外に",
+      "name": "Outside",
       "note": "",
       "pages": [
         {
@@ -7278,7 +7278,7 @@
     },
     {
       "id": 9,
-      "name": "カイル",
+      "name": "Kyle",
       "note": "",
       "pages": [
         {
@@ -7797,7 +7797,7 @@
     },
     {
       "id": 10,
-      "name": "炎",
+      "name": "Flame",
       "note": "",
       "pages": [
         {
@@ -7915,7 +7915,7 @@
     },
     {
       "id": 11,
-      "name": "外に",
+      "name": "Outside",
       "note": "",
       "pages": [
         {
@@ -7958,7 +7958,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you want to go to the world map?"
+                "Would you like to go to the world map?"
               ]
             },
             {
@@ -7973,10 +7973,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -7984,7 +7980,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -8009,7 +8005,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -8149,7 +8145,7 @@
     },
     {
       "id": 12,
-      "name": "ルーナ",
+      "name": "Luna",
       "note": "",
       "pages": [
         {
@@ -8668,7 +8664,7 @@
     },
     {
       "id": 13,
-      "name": "リリアン",
+      "name": "Lillian",
       "note": "",
       "pages": [
         {
@@ -9187,7 +9183,7 @@
     },
     {
       "id": 14,
-      "name": "自動",
+      "name": "Automatic",
       "note": "",
       "pages": [
         {
@@ -9495,14 +9491,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"This is Eldenia!\""
+                "\\SE[5] \"This is Eredia!\""
               ]
             },
             {
@@ -9520,21 +9516,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A town steeped in exotic atmosphere, with earth-colored"
+                "The streets exude an exotic atmosphere, lined with"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "buildings lined up along narrow alleys, and from the"
+                "earth-colored buildings, and the scent of spices wafts"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "depths of them..."
+                "out from deep within the narrow alleys."
               ]
             },
             {
@@ -9579,21 +9575,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Wow, amazing! I've never seen a house like"
+                "\\SE[4] \"Wow, this is amazing! I’ve never seen a"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "this before!\""
+                "house like this before! I smell something"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/lylyan_normal",
+                4,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Lilian "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "delicious…!\""
               ]
             },
             {
@@ -9621,21 +9642,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"This town's buildings are made of stone and"
+                "\\SE[3] \"The buildings in this town are made of"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "sun-dried bricks.\""
+                "stone and sun-dried bricks ,\""
               ]
             },
             {
@@ -9653,21 +9674,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Spices and rare fruits that can only be"
+                "\\SE[3] \"Spices, rare fruits, and plants that can"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "found here...\""
+                "only be found here are the local"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                2,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "specialties.\""
               ]
             },
             {
@@ -9685,21 +9731,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"It seems like many merchants visit as"
+                "\\SE[5] \"It looks like a lot of merchants and"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "well.\""
+                "others visit here, too.\""
               ]
             },
             {
@@ -9717,21 +9763,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Yeah, merchants find the overland route"
+                "\\SE[3] \"Ah, I guess merchants find traveling by"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "tough, so...\""
+                "land too difficult, so they sometimes use"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                2,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "the sea route as well.\""
               ]
             },
             {
@@ -9787,14 +9858,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"...U-um, so, uh...\""
+                "\\SE[5] \"…W-well… um…\""
               ]
             },
             {
@@ -9812,14 +9883,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna fidgets awkwardly."
+                "Luna seems a bit hesitant. \"Yes, my contract with you"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Yes, my contract with you ends here.\""
+                "ends here.\""
               ]
             },
             {
@@ -9837,14 +9908,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Ah... Uh, I mean...\""
+                "\\SE[3] \"Uh… well, um…\""
               ]
             },
             {
@@ -9862,21 +9933,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"If you'd like, would you like to have a"
+                "\\SE[3] \"If you’d like, how about grabbing a bite"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "meal together later?\""
+                "to eat afterward? It could double as a"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                7,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "wrap-up party…\""
               ]
             },
             {
@@ -9894,14 +9990,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Y-yeah! That sounds good!\""
+                "\\SE[3] \"Y-yeah, you’re right!\""
               ]
             },
             {
@@ -9919,14 +10015,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Y-yes! Let's go...!\""
+                "\\SE[5] \"H-hey! Let’s go…!\""
               ]
             },
             {
@@ -9944,14 +10040,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Then let's go―let's find a tavern.\""
+                "\\SE[3] \"Well, let’s go then. Let’s find a bar.\""
               ]
             },
             {
@@ -10014,9 +10110,8 @@
                 1,
                 0,
                 4,
-                "\"　Go to Eldenia Tavern\""
-              ],
-              "_original": "\"　エルデニアの酒場へ行こう\""
+                "\"　Let's go to the tavern in Eldenia\""
+              ]
             },
             {
               "code": 222,
@@ -10114,7 +10209,7 @@
     },
     {
       "id": 15,
-      "name": "酒場入口",
+      "name": "Entrance to the Bar",
       "note": "",
       "pages": [
         {
@@ -10353,7 +10448,7 @@
     },
     {
       "id": 16,
-      "name": "通行人",
+      "name": "Passersby",
       "note": "",
       "pages": [
         {
@@ -10396,21 +10491,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Passerby"
+                "Passersby "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Eldenia has a long history―it's existed for over a"
+                ": \"Eldenia has a long history; there are even"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "thousand years.\""
+                "historical records indicating that it existed more than"
               ]
             },
             {
@@ -10428,21 +10523,71 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Passerby"
+                "Passersby "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Back in the day, they say there were even castles"
+                "1,000 years ago.\""
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "here.\""
+                "Passersby "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                ": \"I hear there used to be castles and such here."
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "They’re still mining and searching for them today. It’s"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Passersby "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "quite romantic, isn’t it?\""
               ]
             },
             {
@@ -10528,7 +10673,7 @@
     },
     {
       "id": 17,
-      "name": "通行人",
+      "name": "Passersby",
       "note": "",
       "pages": [
         {
@@ -10571,21 +10716,53 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Townsperson"
+                "Townsperson "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Eldenia has really unique food. They dump so much"
+                ": \"The food in Eldenia is really unique. They use"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "spice in it.\""
+                "spices by the bucketful. It’s surprising that there are"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Townsperson "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "actually people who come all the way from other regions"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "just to buy them.\""
               ]
             },
             {
@@ -10671,7 +10848,7 @@
     },
     {
       "id": 18,
-      "name": "兵士",
+      "name": "Soldier",
       "note": "",
       "pages": [
         {
@@ -10714,14 +10891,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier"
+                "Soldier "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It gets really cold outside the desert. Be careful.\""
+                ": \"The temperature drops significantly outside the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "desert. Please be careful.\""
               ]
             },
             {
@@ -10807,7 +10991,7 @@
     },
     {
       "id": 19,
-      "name": "兵士",
+      "name": "Soldier",
       "note": "",
       "pages": [
         {
@@ -10850,14 +11034,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Soldier"
+                "Soldier "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"This is Eldenia Town.\""
+                ": \"This is a town in Eredia.\""
               ]
             },
             {
@@ -10943,7 +11127,7 @@
     },
     {
       "id": 20,
-      "name": "通行人",
+      "name": "Passersby",
       "note": "",
       "pages": [
         {
@@ -10986,14 +11170,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Townsperson"
+                "Townsperson "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"If you go east from here, you'll find Mt. Grimridge.\""
+                ": \"If you head east from here, you’ll find the sacred"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "mountain Grimridge.\""
               ]
             },
             {
@@ -11011,21 +11202,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Townsperson"
+                "Townsperson "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It's home to vicious monsters and spews magma"
+                ": \"It’s a hellish place where ferocious monsters roam"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "year-round.\""
+                "and magma gushes out all year round.\""
               ]
             },
             {
@@ -11043,21 +11234,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Townsperson"
+                "Townsperson "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I've seen countless adventurers try to claim its"
+                ": \"I’ve seen countless adventurers set out in search of"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "treasures,\""
+                "treasure, but not a single one has ever returned in one"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Townsperson "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "piece. You’d better not go.\""
               ]
             },
             {
@@ -11143,7 +11359,7 @@
     },
     {
       "id": 21,
-      "name": "通行人",
+      "name": "Passersby",
       "note": "",
       "pages": [
         {
@@ -11186,14 +11402,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Merchant"
+                "Merchant "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I came from the royal capital. To stock up on spices.\""
+                ": \"I’m from the capital. I’m here to buy spices.\""
               ]
             },
             {
@@ -11211,14 +11427,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Merchant"
+                "Merchant "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Eldenia's spices are traded all over the world.\""
+                ": \"Eldenia’s spices are traded all over the world. It"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "would be great if we could establish better"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Merchant "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "distribution channels…\""
               ]
             },
             {
@@ -11304,7 +11552,7 @@
     },
     {
       "id": 22,
-      "name": "酒場回想終わりEV",
+      "name": "End of Bar Flashback EV",
       "note": "",
       "pages": [
         {
@@ -11675,14 +11923,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Luna, Lilian.\""
+                "\\SE[3] \"Luna, Lilian\""
               ]
             },
             {
@@ -11762,14 +12010,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Our quest contract ends here.\""
+                "\\SE[3] \"The quest contract was supposed to end"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "here— that was the agreement.\""
               ]
             },
             {
@@ -11805,14 +12060,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"………\""
+                "\\SE[5] \"………\""
               ]
             },
             {
@@ -11830,14 +12085,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Yes... it does.\""
+                "\\SE[5] \"That’s… right.\""
               ]
             },
             {
@@ -11983,7 +12238,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained 500G."
+                "I got 500G"
               ]
             },
             {
@@ -12010,21 +12265,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Thank you so much for everything up until"
+                "\\SE[5] \"Thank you so much for everything. I can’t"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "now.\""
+                "thank you enough…\""
               ]
             },
             {
@@ -12042,14 +12297,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"………\""
+                "\\SE[3] \"………\""
               ]
             },
             {
@@ -12067,14 +12322,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Then... take care...\""
+                "\\SE[5] \"Well then… take care…\""
               ]
             },
             {
@@ -12182,14 +12437,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Luna, Lilian.\""
+                "\\SE[3] \"Luna, Lilian\""
               ]
             },
             {
@@ -12287,14 +12542,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I have a request.\""
+                "\\SE[3] \"I have a favor to ask\""
               ]
             },
             {
@@ -12319,14 +12574,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"I... want to go to Mt. Grimridge too...\""
+                "\\SE[3] \"I, too… until I reach the sacred peak of"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Grimridge… and obtain Ceresphere, I’d like"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "player/kyle_normal",
+                1,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\SE[0] Kyle "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "you to let me come along.\""
               ]
             },
             {
@@ -12351,14 +12638,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"No, let me help.\""
+                "\\SE[3] \"No, I want to help. I… want to be there"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "for the two of you.\""
               ]
             },
             {
@@ -12383,14 +12677,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"This time, not as employer and employee...\""
+                "\\SE[3] \"This time, not as employer and employee…"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "but as friends, as comrades…\""
               ]
             },
             {
@@ -12415,14 +12716,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Please...!\""
+                "\\SE[3] \"Please…!\""
               ]
             },
             {
@@ -12440,7 +12741,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I bowed deeply to the two of them."
+                "I bowed deeply to both of them."
               ]
             },
             {
@@ -12520,14 +12821,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"…\""
+                "\\SE[5] \"…\""
               ]
             },
             {
@@ -12545,14 +12846,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"…\""
+                "\\SE[4] \"...\""
               ]
             },
             {
@@ -12926,14 +13227,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"Huh? Huh?\""
+                "\\SE[3] \"Huh? Huh?\""
               ]
             },
             {
@@ -12951,14 +13252,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"Kyle!\""
+                "\\SE[4] \"Kyle!\""
               ]
             },
             {
@@ -12976,14 +13277,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Luna]"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Kyle-sama!\""
+                "\\SE[5] \"Lord Kyle!\""
               ]
             },
             {
@@ -13128,14 +13429,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Lilian]"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"L-let's go!\""
+                "\\SE[4] \"C-come on, let’s go!\""
               ]
             },
             {
@@ -13409,14 +13710,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0][Kyle]"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[3]\"W-where?!\", he yelps.\""
+                "\\SE[3] \"W-where are you going!?\""
               ]
             },
             {
@@ -13446,7 +13747,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Save progress?"
+                "Do you want to save?"
               ]
             },
             {
@@ -13461,10 +13762,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -13472,7 +13769,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -13490,7 +13787,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -13615,7 +13912,7 @@
     },
     {
       "id": 23,
-      "name": "ランプ",
+      "name": "Lamp",
       "note": "",
       "pages": [
         {
@@ -13733,7 +14030,7 @@
     },
     {
       "id": 24,
-      "name": "ランプ",
+      "name": "Lamp",
       "note": "",
       "pages": [
         {
@@ -13851,7 +14148,7 @@
     },
     {
       "id": 25,
-      "name": "通行人",
+      "name": "Passersby",
       "note": "",
       "pages": [
         {
@@ -13894,14 +14191,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Child"
+                "Child "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hey, where did you come from?\""
+                ": \"Hey, where are you from? Huh? From the capital?\""
               ]
             },
             {
@@ -13919,21 +14216,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Child"
+                "Child "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I wanna go to the royal capital someday and become an"
+                ": \"When I grow up, I want to go to the capital and"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "actress...\""
+                "become an actress… Do you think I can?\""
               ]
             },
             {
@@ -14062,21 +14359,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Townsperson"
+                "Townsperson "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"A mysterious shop? I dunno... I can't say anything"
+                ": \"A mysterious shop? I don’t know… I can’t say"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "about it.\""
+                "anything about that.\""
               ]
             },
             {
@@ -14154,21 +14451,53 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"The paths around here are so narrow, it's hard to walk"
+                ": \"The streets are narrow around here, so it’s a bit"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "properly.\""
+                "hard to walk, isn’t it? This is the tavern. My top"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Adventurer "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "recommendation is definitely arak! You should"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "definitely give it a try.\""
               ]
             },
             {
@@ -14203,7 +14532,7 @@
     },
     {
       "id": 28,
-      "name": "暗号",
+      "name": "Cipher",
       "note": "",
       "pages": [
         {
@@ -14246,14 +14575,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Hey, I heard there's some sketchy shop in this town.\""
+                ": \"Hey, I heard there's a pretty sketchy shop in this"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "town.\""
               ]
             },
             {
@@ -14271,14 +14607,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Supposedly they sell super rare gear...\""
+                ": \"I hear they sell all kinds of super-rare gear... I"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "absolutely have to check it out.\""
               ]
             },
             {
@@ -14296,14 +14639,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Whatever, just let me know if you get any info.\""
+                ": \"Whatever. Let me know if you find out anything.\""
               ]
             },
             {
@@ -14386,7 +14729,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I mentioned the soldiers' quarters."
+                "I told him that I was curious about the soldiers'"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "guardhouse."
               ]
             },
             {
@@ -14409,14 +14759,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Quarters... quarters... I feel like I've heard that"
+                ": \"Guardhouse… guardhouse… I feel like I’ve heard that"
               ]
             },
             {
@@ -14441,21 +14791,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ah, right! The adventurers affiliated with Eldenia"
+                ": \"Oh, that's right! Apparently, adventurers affiliated"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Guild\""
+                "with the Eldenia Guild can also stay at the outpost.\""
               ]
             },
             {
@@ -14473,14 +14823,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"So maybe you can get some info from one of them!\""
+                ": \"So maybe that adventurer can teach us something! I"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "wonder if they’re hanging out at a tavern or"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Adventurer "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "something.\""
               ]
             },
             {
@@ -14554,14 +14936,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I told them about the back room in the soldiers'"
+                "I relayed the story that it was located at the back of"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "quarters..."
+                "the soldiers' barracks..."
               ]
             },
             {
@@ -14593,14 +14975,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"It really exists... Thank you, I'm so grateful.\""
+                ": \"So it really happened... Thank you. I'm so"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "grateful.\""
               ]
             },
             {
@@ -14618,21 +15007,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Though, that password... It's a bit much for a girl,"
+                ": \"I mean, what’s up with that password…? It’s kind of"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "isn't it?\""
+                "hard to say when you’re a girl… That’s so lame.\""
               ]
             },
             {
@@ -14650,14 +15039,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Anyway, thank you! I'll try saying it too.\""
+                ": \"Anyway, thanks! I'll give it a try, too. Here's a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "little thank-you gift!\""
               ]
             },
             {
@@ -14687,7 +15083,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained an Elixir."
+                "I got the elixir."
               ]
             },
             {
@@ -14774,21 +15170,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Ugh... I made it, but I don't have nearly enough"
+                ": \"Ugh… I made it through, but I’m way short on money."
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "money.\""
+                "Plus, it really pisses me off when the soldiers smirk"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Adventurer "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "as I say the password! Grrr…\""
               ]
             },
             {
@@ -14883,7 +15304,7 @@
     },
     {
       "id": 29,
-      "name": "武器屋",
+      "name": "Weapons Shop",
       "note": "",
       "pages": [
         {
@@ -15122,7 +15543,7 @@
     },
     {
       "id": 30,
-      "name": "防具屋",
+      "name": "Armor Shop",
       "note": "",
       "pages": [
         {
@@ -15361,7 +15782,7 @@
     },
     {
       "id": 31,
-      "name": "武器屋",
+      "name": "Weapons Shop",
       "note": "",
       "pages": [
         {
@@ -15600,7 +16021,7 @@
     },
     {
       "id": 32,
-      "name": "武器屋",
+      "name": "Weapons Shop",
       "note": "",
       "pages": [
         {
@@ -15832,7 +16253,7 @@
     },
     {
       "id": 33,
-      "name": "武器屋",
+      "name": "Weapons Shop",
       "note": "",
       "pages": [
         {
@@ -16182,21 +16603,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"I drank too much Alrack...everything's spinning before"
+                ": \"I drank too much arak—my vision's all blurry..."
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "my eyes...\""
+                "Hic!\""
               ]
             },
             {
@@ -16231,7 +16652,7 @@
     },
     {
       "id": 36,
-      "name": "進入禁止",
+      "name": "No Entry",
       "note": "",
       "pages": [
         {
@@ -16291,7 +16712,7 @@
     },
     {
       "id": 37,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -16346,7 +16767,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Pure Refine."
+                "I got Pure Refine"
               ]
             },
             {
@@ -16450,7 +16871,7 @@
     },
     {
       "id": 38,
-      "name": "兵士詰所",
+      "name": "Soldiers' Quarters",
       "note": "",
       "pages": [
         {
@@ -16689,7 +17110,7 @@
     },
     {
       "id": 39,
-      "name": "進入禁止",
+      "name": "No Entry",
       "note": "",
       "pages": [
         {
@@ -16749,7 +17170,7 @@
     },
     {
       "id": 40,
-      "name": "進入禁止",
+      "name": "No Entry",
       "note": "",
       "pages": [
         {
@@ -16809,7 +17230,7 @@
     },
     {
       "id": 41,
-      "name": "進入禁止",
+      "name": "No Entry",
       "note": "",
       "pages": [
         {

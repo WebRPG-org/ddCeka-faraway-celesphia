@@ -1891,7 +1891,7 @@
     },
     {
       "id": 3,
-      "name": "店員",
+      "name": "Store Clerk",
       "note": "",
       "pages": [
         {
@@ -1934,14 +1934,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Tool Shop Clerk"
+                "Shop Clerk "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Welcome! Arseleon General Store.\""
+                ": \"Welcome! This is the ArseLeon Shop.\""
               ]
             },
             {
@@ -2040,14 +2040,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Tool Shop Clerk"
+                "Shop Clerk "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Thank you very much!\""
+                ": \"Thank you very much!\""
               ]
             },
             {
@@ -2125,21 +2125,46 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Adventurer"
+                "Adventurer "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"If you're short on cash, you should go to the guild."
+                ": \"If you’re short on money, you should go to the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's a hassle, but you can't afford to complain.\""
+                "guild. Well, there’s a lot of hassle involved, but you"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Adventurer "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "can’t really be picky about it, can you?\""
               ]
             },
             {

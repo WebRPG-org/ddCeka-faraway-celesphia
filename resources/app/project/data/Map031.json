@@ -8320,7 +8320,7 @@
     null,
     {
       "id": 1,
-      "name": "トロッコ",
+      "name": "Mine Car",
       "note": "",
       "pages": [
         {
@@ -8381,7 +8381,7 @@
     },
     {
       "id": 2,
-      "name": "下の階へ",
+      "name": "Downstairs",
       "note": "",
       "pages": [
         {
@@ -8461,7 +8461,7 @@
     },
     {
       "id": 3,
-      "name": "上の階へ",
+      "name": "Upstairs",
       "note": "",
       "pages": [
         {
@@ -8541,7 +8541,7 @@
     },
     {
       "id": 4,
-      "name": "血痕",
+      "name": "Bloodstain",
       "note": "",
       "pages": [
         {
@@ -8563,7 +8563,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "flower_chip_Celesphia",
+            "characterName": "flower_chip_selesphia",
             "direction": 6,
             "pattern": 0,
             "characterIndex": 0
@@ -8652,7 +8652,7 @@
     },
     {
       "id": 5,
-      "name": "死んだ冒険者",
+      "name": "Dead Adventurer",
       "note": "",
       "pages": [
         {
@@ -8695,14 +8695,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]\\Se[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "(…He looks pretty strong…)"
+                "(…He looks pretty tough, though…)"
               ]
             },
             {
@@ -8720,7 +8720,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "An adventurer who seems skilled is already dead."
+                "Even the adventurer who looked like a seasoned veteran"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "is already dead."
               ]
             },
             {
@@ -8738,14 +8745,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"…There might still be survivors.\""
+                "\\SE[5] \"…There might still be survivors.\""
               ]
             },
             {
@@ -8763,14 +8770,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Let's go.\""
+                "\\SE[5] \"Let's go.\""
               ]
             },
             {
@@ -8864,7 +8871,7 @@
     },
     {
       "id": 6,
-      "name": "トロッコ",
+      "name": "Mine Car",
       "note": "",
       "pages": [
         {
@@ -8925,7 +8932,7 @@
     },
     {
       "id": 7,
-      "name": "ワープポイント",
+      "name": "Warp Point",
       "note": "",
       "pages": [
         {
@@ -8989,7 +8996,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A warp point to the mine entrance has been opened."
+                "The warp point to the coal mine entrance is now open."
               ]
             },
             {
@@ -9058,7 +9065,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you want to return to the mine entrance?"
+                "Should we go back to the mine entrance? *You can go"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "back and forth."
               ]
             },
             {
@@ -9073,10 +9087,6 @@
                 0,
                 2,
                 0
-              ],
-              "_original": [
-                "はい",
-                "いいえ"
               ]
             },
             {
@@ -9084,7 +9094,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "はい"
+                "Yes"
               ]
             },
             {
@@ -9109,7 +9119,7 @@
               "indent": 0,
               "parameters": [
                 1,
-                "いいえ"
+                "No"
               ]
             },
             {
@@ -9154,7 +9164,7 @@
     },
     {
       "id": 8,
-      "name": "次のマップへ",
+      "name": "To the Next Map",
       "note": "",
       "pages": [
         {
@@ -9413,7 +9423,7 @@
     },
     {
       "id": 9,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -9468,7 +9478,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Monster Bone."
+                "I obtained a monster's bone."
               ]
             },
             {
@@ -9663,14 +9673,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[4]\"I hear voices from deeper in this floor.\""
+                "\\SE[4] \"I hear a voice coming from deep within"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "this floor.\""
               ]
             },
             {
@@ -9688,14 +9705,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Luna"
+                "\\SE[0] Luna "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[5]\"Yes, let's go check it out.\""
+                "\\SE[5] \"Yes, let’s go there first.\""
               ]
             },
             {
@@ -9809,7 +9826,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
@@ -9841,7 +9858,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Kyle"
+                "\\SE[0] Kyle "
               ]
             },
             {
@@ -9866,7 +9883,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Lilian"
+                "\\SE[0] Lilian "
               ]
             },
             {
@@ -10004,7 +10021,7 @@
     },
     {
       "id": 11,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -10059,7 +10076,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained a small ore."
+                "I got a small piece of ore."
               ]
             },
             {
@@ -10211,7 +10228,7 @@
     },
     {
       "id": 12,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -10266,7 +10283,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained a small ore."
+                "I got a small piece of ore."
               ]
             },
             {
@@ -10418,7 +10435,7 @@
     },
     {
       "id": 13,
-      "name": "アイテム",
+      "name": "Item",
       "note": "",
       "pages": [
         {
@@ -10473,7 +10490,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Monster Bone."
+                "I obtained a monster's bone."
               ]
             },
             {
@@ -10625,7 +10642,7 @@
     },
     {
       "id": 14,
-      "name": "宝箱（ポイズンガード）",
+      "name": "Treasure Chest (Poison Guard)",
       "note": "",
       "pages": [
         {
@@ -10786,7 +10803,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\SE[0]Obtained Poison Guard!"
+                "I got a Poison Guard!"
               ]
             },
             {
@@ -10872,7 +10889,7 @@
     },
     {
       "id": 15,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -11218,7 +11235,7 @@
     },
     {
       "id": 16,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -11564,7 +11581,7 @@
     },
     {
       "id": 17,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -11910,7 +11927,7 @@
     },
     {
       "id": 18,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
@@ -12256,7 +12273,7 @@
     },
     {
       "id": 19,
-      "name": "敵",
+      "name": "Enemy",
       "note": "",
       "pages": [
         {
