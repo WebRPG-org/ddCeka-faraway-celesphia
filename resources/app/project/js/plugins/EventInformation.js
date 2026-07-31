@@ -106,6 +106,9 @@ _PD_EventInfomation.setupCommand = function (event) {
 
 
 _PD_EventInfomation.setInformation = function (eventId, text, fontSize) {
+    if (typeof text === 'string') {
+        text = text.replace(/_/g, ' ').replace(/\b\w/g, function(c) { return c.toUpperCase(); });
+    }
     var charCount = 0;
     for (var i = 0, len = text.length; i < len; i++) {
         var code = text.charCodeAt(i);
